@@ -284,22 +284,32 @@ bash 001_run_app.sh
   4. ZiNets semantic radicals - the discoveries needing investigation
 
 
-刍戋皿佥
+done:
+尧 (exceptional case-study) 
+刍戋皿佥寺缶
 
-丑 勾 匀 句 包 尤 屯 巴 叉 且 丙 央 宁 它 尼 斥 囟 尧 屰 寺 㐬  夆 缶 奂 孚 肙 良
+todo:
+ 孚 肙 良 屯 巴 且 丙 它 丑 句 包 尤 央 
+
+
+< 10
+
+勾 匀 宁 叉 斥 囟 
+
+屰 㐬 夆 奂  尼 
 
 ```User
 
 For your reference, we have already identified a few semantic radicals in 
 /home/papagame/projects/Proj-ZiNets/zinets_radicals/docs/arxiv/semantic-radicals-v0.1.md, 
 
-To continue this line of research , let us look at 佥,
+To continue this line of research , let us look at 孚,
 
-Please find as many chinese characters as possible which contains 佥, 
+Please find as many chinese characters as possible which contains 孚, 
 from such character network, we hope to figure out its core semantics holistically, 
 
-Please create a sub-folder by 佥 under /home/papagame/projects/Proj-ZiNets/zinets_radicals/docs/research,
-we should document findings in 佥.md therein.
+Please create a sub-folder by 孚 under /home/papagame/projects/Proj-ZiNets/zinets_radicals/docs/research,
+we should document findings in 孚.md therein.
 
 ```
 ---
