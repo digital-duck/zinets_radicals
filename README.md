@@ -264,6 +264,44 @@ This research employs a unique **human-AI collaborative methodology**:
 - 說文解字 (Shuowen Jiezi, 100 CE)
 - 康熙字典 (Kangxi Dictionary, 1716)
 
+### ZiNets app
+original app to decompose 6000 chinese characters
+
+```bash
+conda activate zistory
+cd ~/projects/wgong/zistory/zinets/app/zadmin
+bash 001_run_app.sh
+```
+
+
+### Prompts
+/model - choose Sonnet 4.5
+
+
+  1. Pure radicals without meaning - structural components
+  2. Pure radicals with meaning - basic pictographs
+  3. Semantic radicals with known meaning - including Kangxi radicals
+  4. ZiNets semantic radicals - the discoveries needing investigation
+
+
+刍戋皿佥
+
+丑 勾 匀 句 包 尤 屯 巴 叉 且 丙 央 宁 它 尼 斥 囟 尧 屰 寺 㐬  夆 缶 奂 孚 肙 良
+
+```User
+
+For your reference, we have already identified a few semantic radicals in 
+/home/papagame/projects/Proj-ZiNets/zinets_radicals/docs/arxiv/semantic-radicals-v0.1.md, 
+
+To continue this line of research , let us look at 佥,
+
+Please find as many chinese characters as possible which contains 佥, 
+from such character network, we hope to figure out its core semantics holistically, 
+
+Please create a sub-folder by 佥 under /home/papagame/projects/Proj-ZiNets/zinets_radicals/docs/research,
+we should document findings in 佥.md therein.
+
+```
 ---
 
 ## 💬 Contact & Contributions
