@@ -286,11 +286,13 @@ bash 001_run_app.sh
 
 done:
 尧 (exceptional case-study) 
-刍戋皿佥寺缶孚肙良且
+刍戋皿佥寺缶孚肙良且巴
 
 todo:
-    屯 巴  丙 它 丑 句 包 尤 央 
+它 丙 丑 句 包 尤 央 
 
+unclear:
+屯
 
 < 10
 
@@ -303,13 +305,13 @@ todo:
 For your reference, we have already identified a few semantic radicals in 
 /home/papagame/projects/Proj-ZiNets/zinets_radicals/docs/arxiv/semantic-radicals-v0.1.md, 
 
-To continue this line of research , let us look at 且,
+To continue this line of research , let us look at 巴,
 
-Please find as many chinese characters as possible which contains 且, 
+Please find as many chinese characters as possible which contains 巴, 
 from such character network, we hope to figure out its core semantics holistically, 
 
-Please create a sub-folder by 且 under /home/papagame/projects/Proj-ZiNets/zinets_radicals/docs/research,
-we should document findings in 且.md therein.
+Please create a sub-folder by 巴 under /home/papagame/projects/Proj-ZiNets/zinets_radicals/docs/research,
+we should document findings in 巴.md therein.
 
 ```
 ---
