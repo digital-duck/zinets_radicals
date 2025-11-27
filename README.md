@@ -285,11 +285,12 @@ bash 001_run_app.sh
 
 
 done:
+犬巠甫呙亢
 尧 (exceptional case-study) 
-刍戋皿佥寺缶孚肙良且巴
+刍戋皿佥寺缶孚肙良且巴它丑丙句包尤央
 
 todo:
-它 丙 丑 句 包 尤 央 
+   
 
 unclear:
 屯
@@ -303,17 +304,47 @@ unclear:
 ```User
 
 For your reference, we have already identified a few semantic radicals in 
-/home/papagame/projects/Proj-ZiNets/zinets_radicals/docs/arxiv/semantic-radicals-v0.1.md, 
+/home/papagame/projects/Proj-ZiNets/zinets_radicals/docs/arxiv/semantic-radicals-v0.5.md, 
 
-To continue this line of research , let us look at 巴,
+To continue this line of research , let us look at 央,
 
-Please find as many chinese characters as possible which contains 巴, 
+Please find as many chinese characters as possible which contains 央, 
 from such character network, we hope to figure out its core semantics holistically, 
 
-Please create a sub-folder by 巴 under /home/papagame/projects/Proj-ZiNets/zinets_radicals/docs/research,
-we should document findings in 巴.md therein.
+Please create a sub-folder by 央 under /home/papagame/projects/Proj-ZiNets/zinets_radicals/docs/research,
+we should document findings in 央.md therein.
+
+from zinets dictionary: 
+
+oracle/bronze/seal forms: 
 
 ```
+- http://english.scio.gov.cn/m/featured/chinakeywords/2024-08/30/content_117397319.htm
+- https://www.wikiwand.com/en/articles/Heavenly_Stems
+- https://www.wikiwand.com/en/articles/Earthly_Branches
+- https://www.wikiwand.com/en/articles/Chinese_zodiac
+- https://www.chinahighlights.com/travelguide/chinese-zodiac/
+- https://baike.baidu.com/item/%E5%8D%81%E4%BA%8C%E7%94%9F%E8%82%96/48593
+
+The ten Heavenly Stems (or Celestial Stems) are a system of ordinals indigenous to China
+
+天干地支简称“干支”，是中国古代天文历法的基本计数单位，源自中国远古时代对天象的观测。“干”原指树干，“支”原指树枝。
+
+天干有十个，依次为：
+    甲 jiǎ 、乙 yǐ、丙 bǐng、丁 dīng、戊 wù、己 jǐ、庚 gēng、辛 xīn、壬 rén、癸 guǐ；
+
+地支有十二个，依次为： 
+    子 zǐ、丑 chǒu、寅 yín、卯 mǎo、辰 chén、巳 sì、午 wǔ、未 wèi、申 shēn、酉 yǒu、戌 xū、亥 hài。
+
+十天干和十二地支按固定的顺序相互配合，组成干支纪元法。
+
+中国民间又将十二地支与十二生肖: 
+    鼠 shǔ (Rat)、牛 niú (Ox)、虎 hǔ (Tiger)、兔 tù (Rabbit)、龙 lóng (Dragon)、蛇 shé (Snake)、马 mǎ (Horse)、羊 yáng (Goat)、猴 hóu (Monkey)、鸡 jī (Rooster)、狗 gǒu (Dog)、猪 zhū (Pig)
+相配，与农历年相对应，如壬寅年为虎年，癸卯年为兔年。
+
+干支纪年法以六十年为一个周期，称为一“甲子”。这种纪年法反映了中国古人循环往复、生生不息的历史观。
+此外，天干地支还广泛应用于术数、计数、命名等领域。
+
 ---
 
 ## 💬 Contact & Contributions
