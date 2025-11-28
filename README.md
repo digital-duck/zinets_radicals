@@ -284,6 +284,12 @@ bash 001_run_app.sh
   4. ZiNets semantic radicals - the discoveries needing investigation
 
 
+
+these semantic radicals: 刂, ⺈, 刀, 刃, 匕 are all related to 乂 (cutting), 
+since our approach is semantic network driven, 
+we should enhance /home/papagame/projects/Proj-ZiNets/zinets_radicals/docs/research/乂/乂.md
+
+
 done:
 犬巠甫呙亢
 尧 (exceptional case-study) 
@@ -306,13 +312,13 @@ unclear:
 For your reference, we have already identified a few semantic radicals in 
 /home/papagame/projects/Proj-ZiNets/zinets_radicals/docs/arxiv/semantic-radicals-v0.5.md, 
 
-To continue this line of research , let us look at 畐,
+To continue this line of research , let us look at 耑,
 
-Please find as many chinese characters as possible which contains 畐, 
+Please find as many chinese characters as possible which contains 耑, 
 from such character network, we hope to figure out its core semantics holistically, 
 
-Please create a sub-folder by 畐 under /home/papagame/projects/Proj-ZiNets/zinets_radicals/docs/research,
-we should document findings in 畐.md therein.
+Please create a sub-folder by 耑 under /home/papagame/projects/Proj-ZiNets/zinets_radicals/docs/research,
+we should document findings in 耑.md therein.
 
 from zinets dictionary: 
 
