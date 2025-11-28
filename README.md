@@ -293,13 +293,13 @@ we should enhance /home/papagame/projects/Proj-ZiNets/zinets_radicals/docs/resea
 done:
 犬巠甫呙亢
 尧 (exceptional case-study) 
-刍戋皿佥寺缶孚肙良且巴它丑丙句包尤央乂氐畐耑
+刍戋皿佥寺缶孚肙良且巴它丑丙句包尤央乂氐畐耑鬲奂㐬屰
 
 todo:
- 鬲 奂 乇 屰 㐬
+     
 
 unclear:
-屯
+屯 乇
 
 < 10
 
@@ -312,13 +312,13 @@ unclear:
 For your reference, we have already identified a few semantic radicals in 
 /home/papagame/projects/Proj-ZiNets/zinets_radicals/docs/arxiv/semantic-radicals-v0.5.md, 
 
-To continue this line of research , let us look at 耑,
+To continue this line of research , let us look at 屰,
 
-Please find as many chinese characters as possible which contains 耑, 
+Please find as many chinese characters as possible which contains 屰, 
 from such character network, we hope to figure out its core semantics holistically, 
 
-Please create a sub-folder by 耑 under /home/papagame/projects/Proj-ZiNets/zinets_radicals/docs/research,
-we should document findings in 耑.md therein.
+Please create a sub-folder by 屰 under /home/papagame/projects/Proj-ZiNets/zinets_radicals/docs/research,
+we should document findings in 屰.md therein.
 
 from zinets dictionary: 
 
