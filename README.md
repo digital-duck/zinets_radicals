@@ -287,10 +287,10 @@ bash 001_run_app.sh
 done:
 犬巠甫呙亢
 尧 (exceptional case-study) 
-刍戋皿佥寺缶孚肙良且巴它丑丙句包尤央
+刍戋皿佥寺缶孚肙良且巴它丑丙句包尤央乂氐畐耑
 
 todo:
-   
+ 鬲 奂 乇 屰 㐬
 
 unclear:
 屯
@@ -299,20 +299,20 @@ unclear:
 
 勾 匀 宁 叉 斥 囟 
 
-屰 㐬 夆 奂  尼 
+夆 尼 
 
 ```User
 
 For your reference, we have already identified a few semantic radicals in 
 /home/papagame/projects/Proj-ZiNets/zinets_radicals/docs/arxiv/semantic-radicals-v0.5.md, 
 
-To continue this line of research , let us look at 央,
+To continue this line of research , let us look at 畐,
 
-Please find as many chinese characters as possible which contains 央, 
+Please find as many chinese characters as possible which contains 畐, 
 from such character network, we hope to figure out its core semantics holistically, 
 
-Please create a sub-folder by 央 under /home/papagame/projects/Proj-ZiNets/zinets_radicals/docs/research,
-we should document findings in 央.md therein.
+Please create a sub-folder by 畐 under /home/papagame/projects/Proj-ZiNets/zinets_radicals/docs/research,
+we should document findings in 畐.md therein.
 
 from zinets dictionary: 
 
