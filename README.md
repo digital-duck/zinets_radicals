@@ -295,6 +295,32 @@ done:
 尧 (exceptional case-study) 
 刍戋皿佥寺缶孚肙良且巴它丑丙句包尤央乂氐畐耑鬲奂㐬屰艮
 
+人 女 母
+
+力 男 巧 功
+
+工 作 (亻 + 乍 = 作) 
+
+金 冶金 (metallurgy)
+
+
+Timeline suggestion for Paper #2:
+- Early human society (人 standing up, 女, 母 female with milk 娘 wife that reproduce 媽 wife that raise kids)
+- Nature observation (金 木 水 火 土 天 地 日 月, 星=生 +日)
+- Hunting and domestize wild animal (犬 器=口 + 口 + 犬 + 口 + 口 , 豕, 家=宀 + 豕 )
+- Labor specialization (力, 男=田 + 力, 功=工 + 力, 巧=工 + 丂)
+- Power shift (父, 刀把子 power-holder=authority)
+- Agricultural systems (田, 男=田 + 力, 良 甫)
+- Tool/wheel/mechanical work (工, 乍, 作=亻 + 乍, 江=氵 + 工 - literally river as work done by water)
+- Metallurgy revolution (金, 冶= 冫+ 台, distill metal from molten rock - fluid (氵) to solid (冫less fluid), on furnace platform)
+- Inscribing and Culture (文, 化 cultivated/civilized)
+- Hydraulic/flow understanding (㐬)
+- Advanced observation and conceptualization (尧, burn 烧 = 火 + 尧, dawn 晓 = 日 + 尧)
+
+
+map as many semantic radicals as possible to their corresponding oracle/bronze forms as archeological recording and evidence of early civilization
+
+
 todo:
      
 

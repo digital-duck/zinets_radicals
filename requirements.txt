@@ -1,0 +1,19 @@
+# Chinese character processing
+pypinyin
+
+# Data analysis and spreadsheet handling
+pandas
+openpyxl
+
+# Scientific computing (for potential network analysis)
+numpy
+
+# Visualization (for semantic network graphs)
+matplotlib
+networkx
+
+# PDF processing (for research document handling)
+pypdf2
+
+# Excel export with formatting
+xlsxwriter
