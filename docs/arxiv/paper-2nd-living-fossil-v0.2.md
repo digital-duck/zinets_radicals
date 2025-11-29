@@ -1,6 +1,6 @@
 # Chinese Characters as Living Fossils: <br/> Reading Early Civilization History Through Oracle
 
-**Version:** v0.1
+**Version:** v0.2
 
 **Authors:** wen.gong.research@gmail.com 
 
@@ -10,11 +10,11 @@
 
 ## ABSTRACT
 
-Through systematic network analysis of 6,000+ Chinese characters, we previously identified approximately 400 elemental character components (semantic primitives) that serve as the foundational building blocks of the Chinese writing system (Gong, 2024). The present paper elevates this structural decomposition by investigating what these primitives **actually represent**—examining their semantic content through oracle bone inscriptions (~1200 BCE), bronze inscriptions, and seal script forms. This archaeological-linguistic analysis revealed a fundamental duality: **Chinese characters served dual purposes as both linguistic symbols for communication AND encoded repositories of institutional knowledge about early civilization**.
+Through systematic network analysis of 6,000+ Chinese characters, we previously identified approximately 400 elemental character components (semantic primitives) that serve as the foundational building blocks of the Chinese writing system. The present paper elevates this structural decomposition by investigating what these primitives actually represent — examining their semantic content through oracle bone inscriptions, bronze inscriptions, and seal script forms. This archaeological-linguistic analysis revealed a fundamental duality: **Chinese characters served dual purposes as both linguistic symbols for communication AND encoded repositories of institutional knowledge about early civilization**.
 
 We discovered that semantic radicals, when analyzed chronologically, tell a coherent story of human social evolution in ancient China. Characters preserve institutional memory of: biological and social foundations (人 女 母 - human standing, female, mother), cosmological observations (金木水火土 日月星 - five elements, celestial bodies), subsistence innovations (犬 器 - trap hunting systems), agricultural transformations (良 甫 田 - seed testing, nurseries, field systems), labor specialization and gender division (力 男 - strength, male field work), technological breakthroughs (工 乍 巠 - tools, mechanical work, spoke wheels), metallurgical revolution (金 冶 - bronze smelting), military organization (戈 矛 弓 - weapons hierarchy), patriarchal power consolidation (父 + 刀把子 - axe authority, "knife handle" = power), standardized measurement systems (斤 斗 尺 - weight, volume, length), abstract time-keeping (甲乙丙丁 子丑寅卯 - heavenly stems, earthly branches), and sophisticated natural philosophy (㐬 鬲 屰 艮 - fluid flow, fusion/separation dialectics, reversal, visibility).
 
-Chinese characters are not merely linguistic symbols for encoding speech—they are **living fossils** of human cognitive and technological evolution. Unlike dead scripts (cuneiform, hieroglyphs) requiring specialized decipherment, or alphabetic systems that evolved beyond recognition, Chinese writing has been continuously used for 3,200+ years while preserving Shang Dynasty semantic structures. This makes characters a unique archaeological resource: a readable archive of what early civilization deemed important enough to record permanently, offering unprecedented access to ancient knowledge systems, technological understanding, social transformations, and philosophical worldviews that would otherwise be lost to time.
+Chinese characters are not merely linguistic symbols for encoding speech — they are **living fossils** of human cognitive and technological evolution. Unlike dead scripts (cuneiform, hieroglyphs) requiring specialized decipherment, or alphabetic systems that evolved beyond recognition, Chinese writing has been continuously used for 3,200+ years while preserving Shang Dynasty semantic structures. This makes characters a unique archaeological resource: a readable archive of what early civilization deemed important enough to record permanently, offering unprecedented access to ancient knowledge systems, technological understanding, social transformations, and philosophical worldviews that would otherwise be lost to time.
 
 **Keywords:** Oracle bone inscriptions, archaeological linguistics, material culture analysis, Chinese etymology, living fossils, social recording systems, Neolithic technology, Bronze Age civilization, cultural memory, semantic radicals
 
@@ -169,18 +169,18 @@ We organize case studies chronologically, following human civilization developme
 ```
 
 ```New
-1. **Early Human Society** (人 女 母 好) - Biological foundation
+1. **Early Human Society** (人 女 母 娘 好) - Biological foundation
 2. **Nature Observation** (金 木 水 火 土 日 月 星) - Cosmology formation
-3. **Hunting & Domestication** (犬 器 豕 家) - Animal relationships
-4. **Cutting Tool** (乂 匕 刀 力) - Tool inventions
+3. **Hunting & Domestication** (犬 器 哭 豕 家) - Animal relationships
+4. **Cutting & Inscribing** (乂 匕 文 刀 力) - Tool inventions
 5. **Agricultural Development** (男 田 良 甫 禾) - Settled civilization
-6. **Power Shift** (父 交 爸 刀把子) - Patriarchy emergence
-7. **Mechanical Work** (工 功 巧 巠 乍 作) - Engineering
-8. **Metallurgy Development** (金 銀 銅 冶) - Bronze age
-9. **Military Development** (弓 矢 戈 矛) - Organized conflict
-10. **Counting & Time** (甲乙丙丁 子丑寅卯 一二三四) - symbolic systems
-11. **Measurement** (寸 尺 斤 斗) - Standardization
-12. **Hydraulics & Flow** (㐬 流 江 冰) - Physics understanding
+6. **Power Shift** (父 交 斧 爸 刀把子) - Patriarchy emergence
+7. **Craftsmanship** (工 功 巧 巠 乍 作) - Engineering
+8. **Metallurgy Development** (金 銀 钱 銅 冶) - Bronze age
+9. **Military Development** (弓 矢 戈 叉 矛) - Organized conflict
+10. **Counting & Calendar** (甲乙丙丁 子丑寅卯 一二三四) - Symbolic systems
+11. **Measurement** (分 寸 尺 斗 斤) - Standardization
+12. **Flow & Hydraulics** (㐬 流 川 江 气 冰) - Physics understanding
 13. **Advanced Concepts** (尧 烧 晓 艮 屰 鬲) - Philosophical abstraction
 ```
 
