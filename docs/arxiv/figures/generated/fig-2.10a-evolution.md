@@ -2,11 +2,11 @@
 
 Evolution of Heavenly Stems (天干) and Earthly Branches (地支) - first examples (Section 2.10a). Shows abstract temporal ordering system.
 
-| Oracle | Bronze | Seal | Modern | Character |
-|--------|--------|------|--------|-----------|
-| ![oracle](characters/oracle/char-jia-oracle.png) | ![bronze](characters/bronze/char-jia-bronze.png) | ![seal](characters/seal/char-jia-seal.png) | 甲 | 甲 (jia) - First (stem 1) |
-| ![oracle](characters/oracle/char-yi-stem-oracle.png) | ![bronze](characters/bronze/char-yi-stem-bronze.png) | ![seal](characters/seal/char-yi-stem-seal.png) | 乙 | 乙 (yi-stem) - Second (stem 2) |
-| ![oracle](characters/oracle/char-bing-oracle.png) | ![bronze](characters/bronze/char-bing-bronze.png) | ![seal](characters/seal/char-bing-seal.png) | 丙 | 丙 (bing) - Third (stem 3) |
-| ![oracle](characters/oracle/char-ding-oracle.png) | ![bronze](characters/bronze/char-ding-bronze.png) | ![seal](characters/seal/char-ding-seal.png) | 丁 | 丁 (ding) - Fourth (stem 4) |
-| ![oracle](characters/oracle/char-zi-oracle.png) | ![bronze](characters/bronze/char-zi-bronze.png) | ![seal](characters/seal/char-zi-seal.png) | 子 | 子 (zi) - First branch (midnight) |
-| ![oracle](characters/oracle/char-chou-oracle.png) | ![bronze](characters/bronze/char-chou-bronze.png) | ![seal](characters/seal/char-chou-seal.png) | 丑 | 丑 (chou) - Second branch (1-3am) |
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| <img src="figures/characters/oracle/char-甲-oracle.png" width="100" alt="甲 oracle"> | <img src="figures/characters/bronze/char-甲-bronze.png" width="100" alt="甲 bronze"> | <img src="figures/characters/seal/char-甲-seal.png" width="100" alt="甲 seal"> | <img src="figures/characters/kaiti/char-甲-kaiti.png" width="100" alt="甲 kaiti"> |
+| <img src="figures/characters/oracle/char-乙-oracle.png" width="100" alt="乙 oracle"> | <img src="figures/characters/bronze/char-乙-bronze.png" width="100" alt="乙 bronze"> | <img src="figures/characters/seal/char-乙-seal.png" width="100" alt="乙 seal"> | <img src="figures/characters/kaiti/char-乙-kaiti.png" width="100" alt="乙 kaiti"> |
+| <img src="figures/characters/oracle/char-丙-oracle.png" width="100" alt="丙 oracle"> | <img src="figures/characters/bronze/char-丙-bronze.png" width="100" alt="丙 bronze"> | <img src="figures/characters/seal/char-丙-seal.png" width="100" alt="丙 seal"> | <img src="figures/characters/kaiti/char-丙-kaiti.png" width="100" alt="丙 kaiti"> |
+| <img src="figures/characters/oracle/char-丁-oracle.png" width="100" alt="丁 oracle"> | <img src="figures/characters/bronze/char-丁-bronze.png" width="100" alt="丁 bronze"> | <img src="figures/characters/seal/char-丁-seal.png" width="100" alt="丁 seal"> | <img src="figures/characters/kaiti/char-丁-kaiti.png" width="100" alt="丁 kaiti"> |
+| <img src="figures/characters/oracle/char-子-oracle.png" width="100" alt="子 oracle"> | <img src="figures/characters/bronze/char-子-bronze.png" width="100" alt="子 bronze"> | <img src="figures/characters/seal/char-子-seal.png" width="100" alt="子 seal"> | <img src="figures/characters/kaiti/char-子-kaiti.png" width="100" alt="子 kaiti"> |
+| <img src="figures/characters/oracle/char-丑-oracle.png" width="100" alt="丑 oracle"> | <img src="figures/characters/bronze/char-丑-bronze.png" width="100" alt="丑 bronze"> | <img src="figures/characters/seal/char-丑-seal.png" width="100" alt="丑 seal"> | <img src="figures/characters/kaiti/char-丑-kaiti.png" width="100" alt="丑 kaiti"> |

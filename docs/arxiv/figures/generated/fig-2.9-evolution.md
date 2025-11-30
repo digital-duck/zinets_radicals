@@ -2,10 +2,10 @@
 
 Evolution of Military Development radicals (Section 2.9). Shows weapon types: ranged (弓矢), slashing (戈), restraining (叉), and thrusting (矛).
 
-| Oracle | Bronze | Seal | Modern | Character |
-|--------|--------|------|--------|-----------|
-| ![oracle](characters/oracle/char-gong-bow-oracle.png) | ![bronze](characters/bronze/char-gong-bow-bronze.png) | ![seal](characters/seal/char-gong-bow-seal.png) | 弓 | 弓 (gong) - Bow |
-| ![oracle](characters/oracle/char-shi-arrow-oracle.png) | ![bronze](characters/bronze/char-shi-arrow-bronze.png) | ![seal](characters/seal/char-shi-arrow-seal.png) | 矢 | 矢 (shi) - Arrow |
-| ![oracle](characters/oracle/char-ge-oracle.png) | ![bronze](characters/bronze/char-ge-bronze.png) | ![seal](characters/seal/char-ge-seal.png) | 戈 | 戈 (ge) - Dagger-axe |
-| ![oracle](characters/oracle/char-cha-oracle.png) | ![bronze](characters/bronze/char-cha-bronze.png) | ![seal](characters/seal/char-cha-seal.png) | 叉 | 叉 (cha) - Fork, trident |
-| ![oracle](characters/oracle/char-mao-oracle.png) | ![bronze](characters/bronze/char-mao-bronze.png) | ![seal](characters/seal/char-mao-seal.png) | 矛 | 矛 (mao) - Spear |
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| <img src="figures/characters/oracle/char-弓-oracle.png" width="100" alt="弓 oracle"> | <img src="figures/characters/bronze/char-弓-bronze.png" width="100" alt="弓 bronze"> | <img src="figures/characters/seal/char-弓-seal.png" width="100" alt="弓 seal"> | <img src="figures/characters/kaiti/char-弓-kaiti.png" width="100" alt="弓 kaiti"> |
+| <img src="figures/characters/oracle/char-矢-oracle.png" width="100" alt="矢 oracle"> | <img src="figures/characters/bronze/char-矢-bronze.png" width="100" alt="矢 bronze"> | <img src="figures/characters/seal/char-矢-seal.png" width="100" alt="矢 seal"> | <img src="figures/characters/kaiti/char-矢-kaiti.png" width="100" alt="矢 kaiti"> |
+| <img src="figures/characters/oracle/char-戈-oracle.png" width="100" alt="戈 oracle"> | <img src="figures/characters/bronze/char-戈-bronze.png" width="100" alt="戈 bronze"> | <img src="figures/characters/seal/char-戈-seal.png" width="100" alt="戈 seal"> | <img src="figures/characters/kaiti/char-戈-kaiti.png" width="100" alt="戈 kaiti"> |
+| (unavail.) | (unavail.) | <img src="figures/characters/seal/char-叉-seal.png" width="100" alt="叉 seal"> | <img src="figures/characters/kaiti/char-叉-kaiti.png" width="100" alt="叉 kaiti"> |
+| (unavail.) | <img src="figures/characters/bronze/char-矛-bronze.png" width="100" alt="矛 bronze"> | <img src="figures/characters/seal/char-矛-seal.png" width="100" alt="矛 seal"> | <img src="figures/characters/kaiti/char-矛-kaiti.png" width="100" alt="矛 kaiti"> |

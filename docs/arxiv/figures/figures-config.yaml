@@ -11,7 +11,7 @@ section_2_1:
       oracle: char-人-oracle.png
       bronze: char-人-bronze.png
       seal: char-人-seal.png
-      modern: char-人-modern.png
+      kaiti: char-人-kaiti.png
     status: ok
     notes: Standing figure, fundamental pictograph
   - hanzi: 女
@@ -22,7 +22,7 @@ section_2_1:
       oracle: char-女-oracle.png
       bronze: char-女-bronze.png
       seal: char-女-seal.png
-      modern: char-女-modern.png
+      kaiti: char-女-kaiti.png
     status: ok
     notes: Kneeling figure, biological foundation
   - hanzi: 母
@@ -33,7 +33,7 @@ section_2_1:
       oracle: char-母-oracle.png
       bronze: char-母-bronze.png
       seal: char-母-seal.png
-      modern: char-母-modern.png
+      kaiti: char-母-kaiti.png
     status: ok
     notes: Woman with emphasized breasts
   - hanzi: 娘
@@ -41,10 +41,10 @@ section_2_1:
     unicode: 5A18
     meaning: Mother, young woman
     files:
-      oracle: ''
-      bronze: ''
-      seal: ''
-      modern: ''
+      oracle: 
+      bronze: 
+      seal: 
+      kaiti: 
     status: pending
     notes: 女 + 良, later composition
   - hanzi: 好
@@ -55,7 +55,7 @@ section_2_1:
       oracle: char-好-oracle.png
       bronze: char-好-bronze.png
       seal: char-好-seal.png
-      modern: char-好-modern.png
+      kaiti: char-好-kaiti.png
     status: ok
     notes: 女 + 子 (woman + child = good)
   figures:
@@ -79,10 +79,10 @@ section_2_2:
     unicode: 91D1
     meaning: Metal, gold
     files:
-      oracle: ''
+      oracle: 
       bronze: char-金-bronze.png
       seal: char-金-seal.png
-      modern: char-金-modern.png
+      kaiti: char-金-kaiti.png
     status: ok
     notes: Metal objects or abstract symbol
   - hanzi: 木
@@ -93,7 +93,7 @@ section_2_2:
       oracle: char-木-oracle.png
       bronze: char-木-bronze.png
       seal: char-木-seal.png
-      modern: char-木-modern.png
+      kaiti: char-木-kaiti.png
     status: ok
     notes: Tree with roots and branches
   - hanzi: 水
@@ -104,7 +104,7 @@ section_2_2:
       oracle: char-水-oracle.png
       bronze: char-水-bronze.png
       seal: char-水-seal.png
-      modern: char-水-modern.png
+      kaiti: char-水-kaiti.png
     status: ok
     notes: Flowing water pattern
   - hanzi: 火
@@ -113,9 +113,9 @@ section_2_2:
     meaning: Fire
     files:
       oracle: char-火-oracle.png
-      bronze: ''
+      bronze: 
       seal: char-火-seal.png
-      modern: char-火-modern.png
+      kaiti: char-火-kaiti.png
     status: ok
     notes: Flames rising upward
   - hanzi: 土
@@ -126,7 +126,7 @@ section_2_2:
       oracle: char-土-oracle.png
       bronze: char-土-bronze.png
       seal: char-土-seal.png
-      modern: char-土-modern.png
+      kaiti: char-土-kaiti.png
     status: ok
     notes: Earth altar or mound
   - hanzi: 日
@@ -137,7 +137,7 @@ section_2_2:
       oracle: char-日-oracle.png
       bronze: char-日-bronze.png
       seal: char-日-seal.png
-      modern: char-日-modern.png
+      kaiti: char-日-kaiti.png
     status: ok
     notes: Circle with center dot (sun)
   - hanzi: 月
@@ -148,7 +148,7 @@ section_2_2:
       oracle: char-月-oracle.png
       bronze: char-月-bronze.png
       seal: char-月-seal.png
-      modern: char-月-modern.png
+      kaiti: char-月-kaiti.png
     status: ok
     notes: Crescent moon
   - hanzi: 星
@@ -159,7 +159,7 @@ section_2_2:
       oracle: char-星-oracle.png
       bronze: char-星-bronze.png
       seal: char-星-seal.png
-      modern: char-星-modern.png
+      kaiti: char-星-kaiti.png
     status: ok
     notes: 生 + 日 (generation + sun)
   figures:
@@ -192,7 +192,7 @@ section_2_3:
       oracle: char-犬-oracle.png
       bronze: char-犬-bronze.png
       seal: char-犬-seal.png
-      modern: char-犬-modern.png
+      kaiti: char-犬-kaiti.png
     status: ok
     notes: Animal in pit trap (NOT domesticated dog initially)
   - hanzi: 器
@@ -200,10 +200,10 @@ section_2_3:
     unicode: '5668'
     meaning: Implement, trap system
     files:
-      oracle: ''
+      oracle: 
       bronze: char-器-bronze.png
       seal: char-器-seal.png
-      modern: char-器-modern.png
+      kaiti: char-器-kaiti.png
     status: ok
     notes: Four 犬 + 口 = coordinated pit trap system
   - hanzi: 哭
@@ -211,10 +211,10 @@ section_2_3:
     unicode: 54ED
     meaning: Cry, wail
     files:
-      oracle: ''
-      bronze: ''
+      oracle: 
+      bronze: 
       seal: char-哭-seal.png
-      modern: char-哭-modern.png
+      kaiti: char-哭-kaiti.png
     status: ok
     notes: 口×2 + 犬 = wailing of trapped animals
   - hanzi: 豕
@@ -225,7 +225,7 @@ section_2_3:
       oracle: char-豕-oracle.png
       bronze: char-豕-bronze.png
       seal: char-豕-seal.png
-      modern: char-豕-modern.png
+      kaiti: char-豕-kaiti.png
     status: ok
     notes: Pig profile, domestication marker
   - hanzi: 家
@@ -236,7 +236,7 @@ section_2_3:
       oracle: char-家-oracle.png
       bronze: char-家-bronze.png
       seal: char-家-seal.png
-      modern: char-家-modern.png
+      kaiti: char-家-kaiti.png
     status: ok
     notes: 宀 + 豕 = shelter + pig = settled home
   figures:
@@ -260,9 +260,9 @@ section_2_4:
     meaning: Crossed cuts
     files:
       oracle: char-乂-oracle.png
-      bronze: ''
+      bronze: 
       seal: char-乂-seal.png
-      modern: char-乂-modern.png
+      kaiti: char-乂-kaiti.png
     status: ok
     notes: X-shaped cutting blades
   - hanzi: 匕
@@ -273,7 +273,7 @@ section_2_4:
       oracle: char-匕-oracle.png
       bronze: char-匕-bronze.png
       seal: char-匕-seal.png
-      modern: char-匕-modern.png
+      kaiti: char-匕-kaiti.png
     status: ok
     notes: Small blade implement
   - hanzi: 文
@@ -284,7 +284,7 @@ section_2_4:
       oracle: char-文-oracle.png
       bronze: char-文-bronze.png
       seal: char-文-seal.png
-      modern: char-文-modern.png
+      kaiti: char-文-kaiti.png
     status: ok
     notes: 乂 + 人 = cutting/marking as culture
   - hanzi: 刀
@@ -293,9 +293,9 @@ section_2_4:
     meaning: Knife, blade
     files:
       oracle: char-刀-oracle.png
-      bronze: ''
+      bronze: 
       seal: char-刀-seal.png
-      modern: char-刀-modern.png
+      kaiti: char-刀-kaiti.png
     status: ok
     notes: Curved blade profile
   - hanzi: 力
@@ -303,10 +303,10 @@ section_2_4:
     unicode: 529B
     meaning: Strength, force
     files:
-      oracle: ''
+      oracle: 
       bronze: char-力-bronze.png
       seal: char-力-seal.png
-      modern: char-力-modern.png
+      kaiti: char-力-kaiti.png
     status: ok
     notes: Muscular arm or plow, force concept
   figures:
@@ -332,7 +332,7 @@ section_2_5:
       oracle: char-男-oracle.png
       bronze: char-男-bronze.png
       seal: char-男-seal.png
-      modern: char-男-modern.png
+      kaiti: char-男-kaiti.png
     status: ok
     notes: 田 + 力 = field labor specialization
   - hanzi: 田
@@ -343,7 +343,7 @@ section_2_5:
       oracle: char-田-oracle.png
       bronze: char-田-bronze.png
       seal: char-田-seal.png
-      modern: char-田-modern.png
+      kaiti: char-田-kaiti.png
     status: ok
     notes: Grid pattern of cultivated fields
   - hanzi: 良
@@ -354,7 +354,7 @@ section_2_5:
       oracle: char-良-oracle.png
       bronze: char-良-bronze.png
       seal: char-良-seal.png
-      modern: char-良-modern.png
+      kaiti: char-良-kaiti.png
     status: ok
     notes: Water-floating seed quality test device
   - hanzi: 甫
@@ -365,7 +365,7 @@ section_2_5:
       oracle: char-甫-oracle.png
       bronze: char-甫-bronze.png
       seal: char-甫-seal.png
-      modern: char-甫-modern.png
+      kaiti: char-甫-kaiti.png
     status: ok
     notes: Agricultural nursery system
   - hanzi: 禾
@@ -376,7 +376,7 @@ section_2_5:
       oracle: char-禾-oracle.png
       bronze: char-禾-bronze.png
       seal: char-禾-seal.png
-      modern: char-禾-modern.png
+      kaiti: char-禾-kaiti.png
     status: ok
     notes: Grain stalk with drooping head
   figures:
@@ -403,7 +403,7 @@ section_2_6:
       oracle: char-父-oracle.png
       bronze: char-父-bronze.png
       seal: char-父-seal.png
-      modern: char-父-modern.png
+      kaiti: char-父-kaiti.png
     status: ok
     notes: Hand holding axe = patriarchal authority
   - hanzi: 交
@@ -411,10 +411,10 @@ section_2_6:
     unicode: 4EA4
     meaning: Intersect, exchange
     files:
-      oracle: ''
+      oracle: 
       bronze: char-交-bronze.png
       seal: char-交-seal.png
-      modern: char-交-modern.png
+      kaiti: char-交-kaiti.png
     status: ok
     notes: Crossed legs/implements = exchange relationships
   - hanzi: 斧
@@ -425,7 +425,7 @@ section_2_6:
       oracle: char-斧-oracle.png
       bronze: char-斧-bronze.png
       seal: char-斧-seal.png
-      modern: char-斧-modern.png
+      kaiti: char-斧-kaiti.png
     status: ok
     notes: 父 + 斤 = explicit axe tool
   - hanzi: 爸
@@ -433,10 +433,10 @@ section_2_6:
     unicode: '7238'
     meaning: Dad (informal)
     files:
-      oracle: ''
-      bronze: ''
-      seal: ''
-      modern: char-爸-modern.png
+      oracle: 
+      bronze: 
+      seal: 
+      kaiti: char-爸-kaiti.png
     status: pending
     notes: 父 + 巴 = informal father term
   - hanzi: 刀
@@ -447,7 +447,7 @@ section_2_6:
       oracle: char-刀-oracle.png
       bronze: char-刀-bronze.png
       seal: char-刀-seal.png
-      modern: char-刀-modern.png
+      kaiti: char-刀-kaiti.png
     status: ok
     notes: Blade technology = power (刀把子 idiom)
   figures:
@@ -474,7 +474,7 @@ section_2_7:
       oracle: char-工-oracle.png
       bronze: char-工-bronze.png
       seal: char-工-seal.png
-      modern: char-工-modern.png
+      kaiti: char-工-kaiti.png
     status: ok
     notes: Carpenter's square or work tool
   - hanzi: 功
@@ -482,10 +482,10 @@ section_2_7:
     unicode: 529F
     meaning: Merit, achievement
     files:
-      oracle: ''
+      oracle: 
       bronze: char-功-bronze.png
       seal: char-功-seal.png
-      modern: char-功-modern.png
+      kaiti: char-功-kaiti.png
     status: ok
     notes: 工 + 力 = work + force = achievement
   - hanzi: 巧
@@ -493,10 +493,10 @@ section_2_7:
     unicode: 5DE7
     meaning: Skillful, clever
     files:
-      oracle: ''
-      bronze: ''
+      oracle: 
+      bronze: 
       seal: char-巧-seal.png
-      modern: char-巧-modern.png
+      kaiti: char-巧-kaiti.png
     status: ok
     notes: 工 + 丂 = skilled craftsmanship
   - hanzi: 巠
@@ -504,10 +504,10 @@ section_2_7:
     unicode: 5DE0
     meaning: Radial fiber structure (spoke wheel)
     files:
-      oracle: ''
+      oracle: 
       bronze: char-巠-bronze.png
       seal: char-巠-seal.png
-      modern: char-巠-modern.png
+      kaiti: char-巠-kaiti.png
     status: ok
     notes: 'CRITICAL: Radial spoke pattern (95%+ coherence)'
   - hanzi: 乍
@@ -518,7 +518,7 @@ section_2_7:
       oracle: char-乍-oracle.png
       bronze: char-乍-bronze.png
       seal: char-乍-seal.png
-      modern: char-乍-modern.png
+      kaiti: char-乍-kaiti.png
     status: ok
     notes: Tool operation, not 'sudden'
   - hanzi: 作
@@ -529,7 +529,7 @@ section_2_7:
       oracle: char-作-oracle.png
       bronze: char-作-bronze.png
       seal: char-作-seal.png
-      modern: char-作-modern.png
+      kaiti: char-作-kaiti.png
     status: ok
     notes: 人 + 乍 = person operating tools
   figures:
@@ -557,7 +557,7 @@ section_2_8:
       oracle: char-金-oracle.png
       bronze: char-金-bronze.png
       seal: char-金-seal.png
-      modern: char-金-modern.png
+      kaiti: char-金-kaiti.png
     status: ok
     notes: Metal radical (see also 2.2 Five Elements)
   - hanzi: 銀
@@ -565,10 +565,10 @@ section_2_8:
     unicode: '9280'
     meaning: Silver
     files:
-      oracle: ''
-      bronze: ''
+      oracle: 
+      bronze: 
       seal: char-銀-seal.png
-      modern: char-銀-modern.png
+      kaiti: char-銀-kaiti.png
     status: ok
     notes: 金 + 艮 = shiny/visible metal
   - hanzi: 钱
@@ -576,10 +576,10 @@ section_2_8:
     unicode: 94B1
     meaning: Money, coin
     files:
-      oracle: ''
-      bronze: ''
+      oracle: 
+      bronze: 
       seal: char-钱-seal.png
-      modern: char-钱-modern.png
+      kaiti: char-钱-kaiti.png
     status: ok
     notes: 金 + 戔 = small metal pieces (currency)
   - hanzi: 銅
@@ -587,10 +587,10 @@ section_2_8:
     unicode: '9285'
     meaning: Bronze, copper
     files:
-      oracle: ''
+      oracle: 
       bronze: char-銅-bronze.png
       seal: char-銅-seal.png
-      modern: char-銅-modern.png
+      kaiti: char-銅-kaiti.png
     status: ok
     notes: 金 + 同 = unified/alloyed metal
   - hanzi: 冶
@@ -598,10 +598,10 @@ section_2_8:
     unicode: 51B6
     meaning: Smelting
     files:
-      oracle: ''
-      bronze: ''
+      oracle: 
+      bronze: 
       seal: char-冶-seal.png
-      modern: char-冶-modern.png
+      kaiti: char-冶-kaiti.png
     status: ok
     notes: 冫+ 台 = water cooling + crucible (thermodynamics)
   figures:
@@ -627,7 +627,7 @@ section_2_9:
       oracle: char-弓-oracle.png
       bronze: char-弓-bronze.png
       seal: char-弓-seal.png
-      modern: char-弓-modern.png
+      kaiti: char-弓-kaiti.png
     status: ok
     notes: Curved bow shape (ranged weapon)
   - hanzi: 矢
@@ -638,7 +638,7 @@ section_2_9:
       oracle: char-矢-oracle.png
       bronze: char-矢-bronze.png
       seal: char-矢-seal.png
-      modern: char-矢-modern.png
+      kaiti: char-矢-kaiti.png
     status: ok
     notes: Arrow with feathered shaft (straight/precision)
   - hanzi: 戈
@@ -649,7 +649,7 @@ section_2_9:
       oracle: char-戈-oracle.png
       bronze: char-戈-bronze.png
       seal: char-戈-seal.png
-      modern: char-戈-modern.png
+      kaiti: char-戈-kaiti.png
     status: ok
     notes: Perpendicular blade on pole (chariot weapon)
   - hanzi: 叉
@@ -657,10 +657,10 @@ section_2_9:
     unicode: 53C9
     meaning: Fork, trident
     files:
-      oracle: ''
-      bronze: ''
+      oracle: 
+      bronze: 
       seal: char-叉-seal.png
-      modern: char-叉-modern.png
+      kaiti: char-叉-kaiti.png
     status: ok
     notes: Three-pronged implement (restraining weapon)
   - hanzi: 矛
@@ -668,10 +668,10 @@ section_2_9:
     unicode: 77DB
     meaning: Spear
     files:
-      oracle: ''
+      oracle: 
       bronze: char-矛-bronze.png
       seal: char-矛-seal.png
-      modern: char-矛-modern.png
+      kaiti: char-矛-kaiti.png
     status: ok
     notes: Pointed spear on shaft (thrusting weapon)
   figures:
@@ -697,7 +697,7 @@ section_2_10:
       oracle: char-甲-oracle.png
       bronze: char-甲-bronze.png
       seal: char-甲-seal.png
-      modern: char-甲-modern.png
+      kaiti: char-甲-kaiti.png
     status: ok
     notes: Seed shell splitting (germination)
   - hanzi: 乙
@@ -708,7 +708,7 @@ section_2_10:
       oracle: char-乙-oracle.png
       bronze: char-乙-bronze.png
       seal: char-乙-seal.png
-      modern: char-乙-modern.png
+      kaiti: char-乙-kaiti.png
     status: ok
     notes: Sprout emerging
   - hanzi: 丙
@@ -719,7 +719,7 @@ section_2_10:
       oracle: char-丙-oracle.png
       bronze: char-丙-bronze.png
       seal: char-丙-seal.png
-      modern: char-丙-modern.png
+      kaiti: char-丙-kaiti.png
     status: ok
     notes: Bright/flourishing growth
   - hanzi: 丁
@@ -730,7 +730,7 @@ section_2_10:
       oracle: char-丁-oracle.png
       bronze: char-丁-bronze.png
       seal: char-丁-seal.png
-      modern: char-丁-modern.png
+      kaiti: char-丁-kaiti.png
     status: ok
     notes: Strong/robust stage
   - hanzi: 子
@@ -741,7 +741,7 @@ section_2_10:
       oracle: char-子-oracle.png
       bronze: char-子-bronze.png
       seal: char-子-seal.png
-      modern: char-子-modern.png
+      kaiti: char-子-kaiti.png
     status: ok
     notes: Child/seed (cycle beginning)
   - hanzi: 丑
@@ -752,9 +752,31 @@ section_2_10:
       oracle: char-丑-oracle.png
       bronze: char-丑-bronze.png
       seal: char-丑-seal.png
-      modern: char-丑-modern.png
+      kaiti: char-丑-kaiti.png
     status: ok
-    notes: Ox/ox hour
+    notes: Ox hour
+  - hanzi: 寅
+    pinyin: yín
+    unicode: 5BC5
+    meaning: Third branch (3-5am)
+    files:
+      oracle: char-寅-oracle.png
+      bronze: char-寅-bronze.png
+      seal: char-寅-seal.png
+      kaiti: char-寅-kaiti.png
+    status: ok
+    notes:  Tiger hour
+  - hanzi: 卯
+    pinyin: mǎo
+    unicode: 536F
+    meaning: Fourth branch (5-7am)
+    files:
+      oracle: char-卯-oracle.png
+      bronze: char-卯-bronze.png
+      seal: char-卯-seal.png
+      kaiti: char-卯-kaiti.png
+    status: ok
+    notes: Rabbit hour
   - hanzi: 一
     pinyin: yi-one
     unicode: 4E00
@@ -763,7 +785,7 @@ section_2_10:
       oracle: char-一-oracle.png
       bronze: char-一-bronze.png
       seal: char-一-seal.png
-      modern: char-一-modern.png
+      kaiti: char-一-kaiti.png
     status: ok
     notes: Single stroke = one
   - hanzi: 二
@@ -774,7 +796,7 @@ section_2_10:
       oracle: char-二-oracle.png
       bronze: char-二-bronze.png
       seal: char-二-seal.png
-      modern: char-二-modern.png
+      kaiti: char-二-kaiti.png
     status: ok
     notes: Two strokes = two
   - hanzi: 三
@@ -785,7 +807,7 @@ section_2_10:
       oracle: char-三-oracle.png
       bronze: char-三-bronze.png
       seal: char-三-seal.png
-      modern: char-三-modern.png
+      kaiti: char-三-kaiti.png
     status: ok
     notes: Three strokes = three
   - hanzi: 四
@@ -796,7 +818,7 @@ section_2_10:
       oracle: char-四-oracle.png
       bronze: char-四-bronze.png
       seal: char-四-seal.png
-      modern: char-四-modern.png
+      kaiti: char-四-kaiti.png
     status: ok
     notes: Four parts enclosed
   figures:
@@ -831,7 +853,7 @@ section_2_11:
       oracle: char-分-oracle.png
       bronze: char-分-bronze.png
       seal: char-分-seal.png
-      modern: char-分-modern.png
+      kaiti: char-分-kaiti.png
     status: ok
     notes: 八 + 刀 = division by cutting
   - hanzi: 寸
@@ -839,10 +861,10 @@ section_2_11:
     unicode: 5BF8
     meaning: Inch (small unit)
     files:
-      oracle: char-寸-oracle.png
-      bronze: char-寸-bronze.png
+      oracle: 
+      bronze: 
       seal: char-寸-seal.png
-      modern: char-寸-modern.png
+      kaiti: char-寸-kaiti.png
     status: ok
     notes: Hand with precision mark (1/10 of 尺)
   - hanzi: 尺
@@ -850,10 +872,10 @@ section_2_11:
     unicode: 5C3A
     meaning: Foot, ruler
     files:
-      oracle: char-尺-oracle.png
+      oracle: 
       bronze: char-尺-bronze.png
       seal: char-尺-seal.png
-      modern: char-尺-modern.png
+      kaiti: char-尺-kaiti.png
     status: ok
     notes: Extended hand/forearm (body-based length)
   - hanzi: 斗
@@ -864,7 +886,7 @@ section_2_11:
       oracle: char-斗-oracle.png
       bronze: char-斗-bronze.png
       seal: char-斗-seal.png
-      modern: char-斗-modern.png
+      kaiti: char-斗-kaiti.png
     status: ok
     notes: Ladle/dipper vessel for grain measurement
   - hanzi: 斤
@@ -875,7 +897,7 @@ section_2_11:
       oracle: char-斤-oracle.png
       bronze: char-斤-bronze.png
       seal: char-斤-seal.png
-      modern: char-斤-modern.png
+      kaiti: char-斤-kaiti.png
     status: ok
     notes: Axe = weight standard (tool → measurement)
   figures:
@@ -898,21 +920,21 @@ section_2_12:
     unicode: '3410'
     meaning: Flow (radical)
     files:
-      oracle: char-㐬-oracle.png
-      bronze: char-㐬-bronze.png
+      oracle: 
+      bronze: 
       seal: char-㐬-seal.png
-      modern: char-㐬-modern.png
-    status: ok
+      kaiti: char-㐬-kaiti.png
+    status: pending
     notes: Flowing water pattern (dynamic movement)
   - hanzi: 流
     pinyin: liu
     unicode: 6D41
     meaning: Flow, stream
     files:
-      oracle: char-流-oracle.png
+      oracle: 
       bronze: char-流-bronze.png
       seal: char-流-seal.png
-      modern: char-流-modern.png
+      kaiti: char-流-kaiti.png
     status: ok
     notes: 氵+ 㐬 = water flowing
   - hanzi: 川
@@ -923,7 +945,7 @@ section_2_12:
       oracle: char-川-oracle.png
       bronze: char-川-bronze.png
       seal: char-川-seal.png
-      modern: char-川-modern.png
+      kaiti: char-川-kaiti.png
     status: ok
     notes: Three parallel lines = stream morphology
   - hanzi: 江
@@ -931,10 +953,10 @@ section_2_12:
     unicode: 6C5F
     meaning: River (water's work)
     files:
-      oracle: char-江-oracle.png
+      oracle: 
       bronze: char-江-bronze.png
       seal: char-江-seal.png
-      modern: char-江-modern.png
+      kaiti: char-江-kaiti.png
     status: ok
     notes: 氵+ 工 = water performing work (erosion)
   - hanzi: 气
@@ -945,7 +967,7 @@ section_2_12:
       oracle: char-气-oracle.png
       bronze: char-气-bronze.png
       seal: char-气-seal.png
-      modern: char-气-modern.png
+      kaiti: char-气-kaiti.png
     status: ok
     notes: Three wavy lines = rising vapor (water cycle)
   - hanzi: 冰
@@ -953,10 +975,10 @@ section_2_12:
     unicode: 51B0
     meaning: Ice
     files:
-      oracle: char-冰-oracle.png
+      oracle: 
       bronze: char-冰-bronze.png
       seal: char-冰-seal.png
-      modern: char-冰-modern.png
+      kaiti: char-冰-kaiti.png
     status: ok
     notes: 冫+ 水 = frozen water (phase transition)
   figures:
@@ -982,9 +1004,9 @@ section_2_13:
     meaning: High, lofty (spatial metaphor)
     files:
       oracle: char-尧-oracle.png
-      bronze: char-尧-bronze.png
+      bronze: 
       seal: char-尧-seal.png
-      modern: char-尧-modern.png
+      kaiti: char-尧-kaiti.png
     status: ok
     notes: Stacked structure = height → excellence
   - hanzi: 烧
@@ -992,10 +1014,10 @@ section_2_13:
     unicode: 70E7
     meaning: Burn
     files:
-      oracle: ''
-      bronze: ''
+      oracle: 
+      bronze: 
       seal: char-烧-seal.png
-      modern: char-烧-modern.png
+      kaiti: char-烧-kaiti.png
     status: ok
     notes: 火 + 尧 = high flames burning
   - hanzi: 晓
@@ -1003,10 +1025,10 @@ section_2_13:
     unicode: '6653'
     meaning: Dawn, know
     files:
-      oracle: ''
-      bronze: ''
+      oracle: 
+      bronze: 
       seal: char-晓-seal.png
-      modern: char-晓-modern.png
+      kaiti: char-晓-kaiti.png
     status: ok
     notes: 日 + 尧 = sun rising high
   - hanzi: 艮
@@ -1014,10 +1036,10 @@ section_2_13:
     unicode: 826E
     meaning: Visibility, sight boundary
     files:
-      oracle: char-艮-oracle.png
-      bronze: char-艮-bronze.png
+      oracle: 
+      bronze: 
       seal: char-艮-seal.png
-      modern: char-艮-modern.png
+      kaiti: char-艮-kaiti.png
     status: ok
     notes: 'CRITICAL: Eye looking back (90%+ coherence as visibility)'
   - hanzi: 屰
@@ -1028,7 +1050,7 @@ section_2_13:
       oracle: char-屰-oracle.png
       bronze: char-屰-bronze.png
       seal: char-屰-seal.png
-      modern: char-屰-modern.png
+      kaiti: char-屰-kaiti.png
     status: ok
     notes: Directional opposition concept
   - hanzi: 鬲
@@ -1039,7 +1061,7 @@ section_2_13:
       oracle: char-鬲-oracle.png
       bronze: char-鬲-bronze.png
       seal: char-鬲-seal.png
-      modern: char-鬲-modern.png
+      kaiti: char-鬲-kaiti.png
     status: ok
     notes: 'CRITICAL: Dialectical thinking (unity of opposites)'
   figures:
@@ -1134,13 +1156,13 @@ generation_settings:
   latex_settings:
     column_width: 1.2cm
     table_style: booktabs
-    font_modern: \Huge
+    font_kaiti: \Huge
     caption_position: below
     label_prefix: 'fig:'
   markdown_settings:
-    image_width: 100px
-    missing_placeholder: (unavailable)
-    use_unicode_modern: true
+    image_width: 100
+    missing_placeholder: (unavail)
+    use_unicode_kaiti: true
   file_locations:
     character_images: characters/
     generated_output: generated/

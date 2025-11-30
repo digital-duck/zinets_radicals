@@ -10,9 +10,9 @@
 
 ## ABSTRACT
 
-Through systematic network analysis of 6,000+ Chinese characters, we previously identified approximately 400 elemental character components (semantic primitives) that serve as the foundational building blocks of the Chinese writing system. The present paper elevates this structural decomposition by investigating what these primitives actually represent — examining their semantic content through oracle bone inscriptions, bronze inscriptions, and seal script forms. This archaeological-linguistic analysis revealed a fundamental duality: **Chinese characters served dual purposes as both linguistic symbols for communication AND encoded repositories of institutional knowledge about early civilization**.
+Through systematic network analysis of 6,000+ Chinese characters, we previously identified approximately 400 elemental character components (semantic primitives) that serve as the foundational building blocks of the Chinese writing system. The present paper elevates this structural decomposition by investigating what these primitives actually represent — examining their semantic content through oracle bone inscriptions, bronze inscriptions, and seal script forms. This archaeological-linguistic analysis revealed a fundamental duality: **Chinese characters served dual purposes as both linguistic symbols for communication AND encoded repositories of collective knowledge about early civilization**.
 
-We discovered that semantic radicals, when analyzed chronologically, tell a coherent story of human social evolution in ancient China. Characters preserve institutional memory of: biological and social foundations (人 女 母 - human standing, female, mother), cosmological observations (金木水火土 日月星 - five elements, celestial bodies), subsistence innovations (犬 器 - trap hunting systems), agricultural transformations (良 甫 田 - seed testing, nurseries, field systems), labor specialization and gender division (力 男 - strength, male field work), technological breakthroughs (工 乍 巠 - tools, mechanical work, spoke wheels), metallurgical revolution (金 冶 - bronze smelting), military organization (戈 矛 弓 - weapons hierarchy), patriarchal power consolidation (父 + 刀把子 - axe authority, "knife handle" = power), standardized measurement systems (斤 斗 尺 - weight, volume, length), abstract time-keeping (甲乙丙丁 子丑寅卯 - heavenly stems, earthly branches), and sophisticated natural philosophy (㐬 鬲 屰 艮 - fluid flow, fusion/separation dialectics, reversal, visibility).
+We discovered that semantic radicals, when analyzed chronologically, tell a coherent story of human social evolution in ancient China. Characters preserve collective memory of: biological and social foundations (人 女 母 - human standing, female, mother), cosmological observations (金木水火土 日月星 - five elements, celestial bodies), subsistence innovations (犬 器 - trap hunting systems), agricultural transformations (良 甫 田 - seed testing, nurseries, field systems), labor specialization and gender division (力 男 - strength, male field work), technological breakthroughs (工 乍 巠 - tools, mechanical work, spoke wheels), metallurgical revolution (金 冶 - bronze smelting), military organization (戈 矛 弓 - weapons hierarchy), patriarchal power consolidation (父 + 刀把子 - axe authority, "knife handle" = power), standardized measurement systems (斤 斗 尺 - weight, volume, length), abstract time-keeping (甲乙丙丁 子丑寅卯 - heavenly stems, earthly branches), and sophisticated natural philosophy (㐬 鬲 屰 艮 - fluid flow, fusion/separation dialectics, reversal, visibility).
 
 Chinese characters are not merely linguistic symbols for encoding speech — they are **living fossils** of human cognitive and technological evolution. Unlike dead scripts (cuneiform, hieroglyphs) requiring specialized decipherment, or alphabetic systems that evolved beyond recognition, Chinese writing has been continuously used for 3,200+ years while preserving Shang Dynasty semantic structures. This makes characters a unique archaeological resource: a readable archive of what early civilization deemed important enough to record permanently, offering unprecedented access to ancient knowledge systems, technological understanding, social transformations, and philosophical worldviews that would otherwise be lost to time.
 
@@ -158,13 +158,12 @@ We organize case studies chronologically, following human civilization developme
 5. **Agricultural Development** (男 田 良 甫 禾) - Settled civilization
 6. **Power Shift** (父 交 斧 爸 刀把子) - Patriarchy emergence
 7. **Craftsmanship** (工 功 巧 巠 乍 作) - Engineering
-8. **Metallurgy Development** (金 銀 钱 銅 冶) - Bronze age
+8. **Metallurgy Development** (金 銀 钱 銅 冶) - Bronze revolution
 9. **Military Development** (弓 矢 戈 叉 矛) - Organized conflict
-10. <To Continue collecting images>
-11. **Counting & Calendar** (甲乙丙丁 子丑寅卯 一二三四) - Symbolic systems
-12. **Measurement** (分 寸 尺 斗 斤) - Standardization
-13. **Flow & Hydraulics** (㐬 流 川 江 气 冰) - Physics understanding
-14. **Advanced Concepts** (尧 烧 晓 艮 屰 鬲) - Philosophical abstraction
+10. **Counting & Calendar** (甲乙丙丁 子丑寅卯 一二三四) - Symbolic systems
+11. **Measurement** (分 寸 尺 斗 斤) - Standardization
+12. **Flow & Hydraulics** (㐬 流 川 江 气 冰) - Physics understanding
+13. **Advanced Concepts** (尧 烧 晓 艮 屰 鬲) - Philosophical abstraction
 
 **Pedagogical focus**: What can Chinese characters teach us about early civilization?
 
@@ -198,12 +197,12 @@ Oracle bone forms show the 女 figure with two emphasized dots representing brea
 
 #### (2) Semantic Networks
 
-**[Table 2.1]** Semantic networks of Early Human Society radicals (selected representative characters):
+**Table 2.1** Semantic networks of Early Human Society radicals (selected representative characters):
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
 | **人** | 从 (cóng) | 人 + 人 | Follow, accompany | Two humans together = social following | Social relationships |
-| 人 | 众 (zhòng) | 人×3 | Crowd, multitude | Multiple humans = collective group | Social groups |
+| 人 | 众 (zhòng) | 人 + 人 + 人| Crowd, multitude | Multiple humans = collective group | Social groups |
 | 人 | 仁 (rén) | 亻+ 二 | Benevolence | Human + two (others) = human kindness | Morality/ethics |
 | 人 | 休 (xiū) | 亻+ 木 | Rest | Human leaning on tree = resting | Human activities |
 | 人 | 作 (zuò) | 亻+ 乍 | Work, make | Human + mechanical action = labor | Human activities |
@@ -226,38 +225,19 @@ Oracle bone forms show the 女 figure with two emphasized dots representing brea
 
 #### (3) Oracle/Bronze/Seal Forms
 
-**[Figure 2.1]** Evolution of Early Human Society radicals from oracle bones to modern forms:
+**Figure 2.1** Evolution of Early Human Society radicals showing biological foundations (Section 2.1). Oracle bone and bronze forms depict gender differentiation and maternal relationships.
 
-**(A) 人 (rén) - Standing Human**
-- Oracle bone forms (12 attestations): Clear side-view standing figure, two legs visible, arms at sides or extended
-- Bronze inscriptions (8 attestations): Stylized but still recognizably bipedal standing posture
-- Seal script: Abstracted to two strokes forming standing person shape
-- Modern form: 人 (simplified strokes preserve standing posture)
-
-**(B) 女 (nǚ) - Female, Kneeling**
-- Oracle bone forms (15 attestations): Kneeling figure, arms crossed or folded, contrasts with standing 人
-- Bronze inscriptions (10 attestations): Preserved kneeling posture, some show seated position
-- Seal script: Maintained kneeling/seated distinction from standing 人
-- Modern form: 女 (crossing strokes suggest kneeling/seated posture)
-
-**(C) 母 (mǔ) - Nursing Mother**
-- Oracle bone forms (8 attestations): 女 figure with two prominent dots (breasts/milk markers)
-- Bronze inscriptions (6 attestations): Dots preserved as essential feature distinguishing from 女
-- Seal script: Dual-dot element maintained (sometimes abstracted to horizontal strokes)
-- Modern form: 母 (two dots evolved into horizontal strokes within 女)
-
-**(D) Comparative diagram: 人 vs 女 vs 母**
-- Visual contrast: Standing (人) vs Kneeling (女) vs Kneeling+Milk (母)
-- Encodes: Species identity → Gender identity → Reproductive status
-- Progressive specificity: Human → Female → Mother
-
-**[Extended oracle bone images and detailed form evolution available in Appendix A]**
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| <img src="figures/characters/oracle/char-人-oracle.png" width="100" alt="人 oracle"> | <img src="figures/characters/bronze/char-人-bronze.png" width="100" alt="人 bronze"> | <img src="figures/characters/seal/char-人-seal.png" width="100" alt="人 seal"> | <img src="figures/characters/kaiti/char-人-kaiti.png" width="100" alt="人 kaiti"> |
+| <img src="figures/characters/oracle/char-女-oracle.png" width="100" alt="女 oracle"> | <img src="figures/characters/bronze/char-女-bronze.png" width="100" alt="女 bronze"> | <img src="figures/characters/seal/char-女-seal.png" width="100" alt="女 seal"> | <img src="figures/characters/kaiti/char-女-kaiti.png" width="100" alt="女 kaiti"> |
+| <img src="figures/characters/oracle/char-母-oracle.png" width="100" alt="母 oracle"> | <img src="figures/characters/bronze/char-母-bronze.png" width="100" alt="母 bronze"> | <img src="figures/characters/seal/char-母-seal.png" width="100" alt="母 seal"> | <img src="figures/characters/kaiti/char-母-kaiti.png" width="100" alt="母 kaiti"> |
 
 ---
 
 #### (4) Validation
 
-**[Table 2.2]** Validation summary for Section 2.1 semantic radicals:
+**Table 2.2** Validation summary for Section 2.1 semantic radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -280,9 +260,6 @@ This section reveals how early Chinese civilization encoded **biological and soc
 
 ---
 
-**[End of Section 2.1]**
-
----
 
 ### 2.2 NATURE OBSERVATION - Cosmology Formation
 
@@ -322,7 +299,7 @@ Composed of 生 (shēng - life/growth) + 日 (rì - sun), the character encodes 
 
 #### (2) Semantic Networks
 
-**[Table 2.3]** Semantic networks of Nature Observation radicals (selected examples):
+**Table 2.3** Semantic networks of Nature Observation radicals (selected examples):
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
@@ -364,32 +341,29 @@ Composed of 生 (shēng - life/growth) + 日 (rì - sun), the character encodes 
 
 #### (3) Oracle/Bronze/Seal Forms
 
-**[Figure 2.2]** Evolution of Nature Observation radicals:
+**Figure 2.2** shows evolution of nature observation radicals:
 
-**(A) Five Elements Evolution**
-- **金**: Oracle forms show abstract metal symbol → Bronze shows refined representation → Seal maintains metal radical 金
-- **木**: Oracle shows clear tree (trunk + branches) → Bronze preserves tree structure → Seal simplifies to cross-shape 木
-- **水**: Oracle shows flowing streams → Bronze shows ripples/flow → Seal abstract to氵 (three dots) preserving flow concept
-- **火**: Oracle shows upward flames → Bronze maintains flame shapes → Seal shows diverging flames 火
-- **土**: Oracle shows earth mound → Bronze shows altar/foundation → Seal maintains foundation concept 土
 
-**(B) Celestial Bodies Evolution**
-- **日**: Oracle shows circle with central dot (solar disk) → Bronze maintains circular form → Seal squared to 日 (maintaining central element)
-- **月**: Oracle shows crescent moon → Bronze preserves crescent → Seal maintains curved form 月
-- **星**: Composition 生 + 日 shows conceptual rather than pictographic origin (stars as "living suns")
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| (unavailable) | <img src="figures/characters/bronze/char-金-bronze.png" width="100" alt="金 bronze"> | <img src="figures/characters/seal/char-金-seal.png" width="100" alt="金 seal"> | <img src="figures/characters/kaiti/char-金-kaiti.png" width="100" alt="金 kaiti"> |
+| <img src="figures/characters/oracle/char-木-oracle.png" width="100" alt="木 oracle"> | <img src="figures/characters/bronze/char-木-bronze.png" width="100" alt="木 bronze"> | <img src="figures/characters/seal/char-木-seal.png" width="100" alt="木 seal"> | <img src="figures/characters/kaiti/char-木-kaiti.png" width="100" alt="木 kaiti"> |
+| <img src="figures/characters/oracle/char-水-oracle.png" width="100" alt="水 oracle"> | <img src="figures/characters/bronze/char-水-bronze.png" width="100" alt="水 bronze"> | <img src="figures/characters/seal/char-水-seal.png" width="100" alt="水 seal"> | <img src="figures/characters/kaiti/char-水-kaiti.png" width="100" alt="水 kaiti"> |
+| <img src="figures/characters/oracle/char-火-oracle.png" width="100" alt="火 oracle"> | (unavailable) | <img src="figures/characters/seal/char-火-seal.png" width="100" alt="火 seal"> | <img src="figures/characters/kaiti/char-火-kaiti.png" width="100" alt="火 kaiti"> |
+| <img src="figures/characters/oracle/char-土-oracle.png" width="100" alt="土 oracle"> | <img src="figures/characters/bronze/char-土-bronze.png" width="100" alt="土 bronze"> | <img src="figures/characters/seal/char-土-seal.png" width="100" alt="土 seal"> | <img src="figures/characters/kaiti/char-土-kaiti.png" width="100" alt="土 kaiti"> |
 
-**(C) Five Elements Relationships Diagram**
-- Generative cycle (相生): Wood→Fire→Earth→Metal→Water→Wood
-- Restrictive cycle (相克): Wood restricts Earth, Earth restricts Water, Water restricts Fire, Fire restricts Metal, Metal restricts Wood
-- Shows systematic cosmological theory embedded in character system
 
-**[Extended oracle bone photographs and comparative diagrams in Appendix B]**
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| <img src="figures/characters/oracle/char-日-oracle.png" width="100" alt="日 oracle"> | <img src="figures/characters/bronze/char-日-bronze.png" width="100" alt="日 bronze"> | <img src="figures/characters/seal/char-日-seal.png" width="100" alt="日 seal"> | <img src="figures/characters/kaiti/char-日-kaiti.png" width="100" alt="日 kaiti"> |
+| <img src="figures/characters/oracle/char-月-oracle.png" width="100" alt="月 oracle"> | <img src="figures/characters/bronze/char-月-bronze.png" width="100" alt="月 bronze"> | <img src="figures/characters/seal/char-月-seal.png" width="100" alt="月 seal"> | <img src="figures/characters/kaiti/char-月-kaiti.png" width="100" alt="月 kaiti"> |
+| <img src="figures/characters/oracle/char-星-oracle.png" width="100" alt="星 oracle"> | <img src="figures/characters/bronze/char-星-bronze.png" width="100" alt="星 bronze"> | <img src="figures/characters/seal/char-星-seal.png" width="100" alt="星 seal"> | <img src="figures/characters/kaiti/char-星-kaiti.png" width="100" alt="星 kaiti"> |
 
 ---
 
 #### (4) Validation
 
-**[Table 2.4]** Validation summary for Section 2.2 semantic radicals:
+**Table 2.4** Validation summary for Section 2.2 semantic radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -406,7 +380,7 @@ Composed of 生 (shēng - life/growth) + 日 (rì - sun), the character encodes 
 
 This section reveals systematic **empirical observation and material classification** in early Chinese civilization. The Five Elements system (wǔxíng 五行) represents not mystical philosophy but **practical material categorization**: (1) Metal - hard, malleable, transformable (metallurgy), (2) Wood - structural, combustible, renewable (construction/fuel), (3) Water - fluid, life-sustaining, erosive (hydraulics), (4) Fire - transformative, energetic, upward-moving (combustion), (5) Earth - stable, foundational, formable (construction).
 
-Celestial observation (日月星) provided **time-keeping infrastructure** essential for agricultural civilization—solar years, lunar months, stellar seasonal markers. The systematic encoding of these observations in permanent characters shows **proto-scientific methodology**: observe natural phenomena, identify essential features, categorize systematically, preserve knowledge institutionally.
+Celestial observation (日月星) provided **time-keeping infrastructure** essential for agricultural civilization—solar years, lunar months, stellar seasonal markers. The systematic encoding of these observations in permanent characters shows **proto-scientific methodology**: observe natural phenomena, identify essential features, categorize systematically, preserve knowledge collectively.
 
 **Key insights:**
 - **Material science foundations**: Five Elements = systematic material classification based on observable properties and uses
@@ -419,9 +393,6 @@ Celestial observation (日月星) provided **time-keeping infrastructure** essen
 
 ---
 
-**[End of Section 2.2]**
-
----
 
 ### 2.3 HUNTING & DOMESTICATION - Animal Relationships
 
@@ -447,7 +418,7 @@ Composed of 宀 (roof/shelter) + 豕 (pig), this character encodes the fundament
 
 #### (2) Semantic Networks
 
-**[Table 2.5]** Semantic networks of Hunting & Domestication radicals:
+**Table 2.5** Semantic networks of Hunting & Domestication radicals:
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
@@ -472,44 +443,21 @@ Composed of 宀 (roof/shelter) + 豕 (pig), this character encodes the fundament
 
 #### (3) Oracle/Bronze/Seal Forms
 
-**[Figure 2.3]** Evolution of Hunting & Domestication radicals:
+**Figure 2.3** Evolution of Hunting & Domestication radicals (Section 2.3). Shows transition from pit trap hunting (犬器哭) to pig domestication (豕家).
 
-**(A) 犬 (quǎn) - Trapped Prey**
-- Oracle bone forms (15 attestations): Canine figure, often with mouth open (wailing) or in context suggesting capture
-- Bronze inscriptions (10 attestations): Stylized dog form, usage context shows trapping/hunting
-- Seal script: Simplified to standard "dog" shape, **contextual hunting meaning obscured**
-- Modern form: 犬 (generic "dog" - original hunting context lost without oracle evidence)
-
-**(B) 器 (qì) - Trap System**
-- Oracle bone forms (8 attestations): Multiple 口 (pit openings) surrounding 犬 (trapped prey), depicts trap array
-- Bronze inscriptions (12 attestations): Clear depiction of coordinated pit system with captured animal
-- Seal script: Abstracted to multiple 口 + 犬, **hunting technology meaning obscured**
-- Modern form: 器 (means "vessel/implement" - original trap system meaning lost)
-
-**(C) 豕 (shǐ) - Pig**
-- Oracle bone forms (20 attestations): Clear pig depiction with snout, body, tail
-- Bronze inscriptions (25 attestations): Consistent pig form, shows domestication importance
-- Seal script: Maintained recognizable pig shape
-- Modern form: 豕 (still recognizable as pig, though rarely used alone - appears in compounds)
-
-**(D) 家 (jiā) - Home = Roof + Pig**
-- Oracle bone forms (18 attestations): 宀 (shelter) clearly combined with 豕 (pig)
-- Bronze inscriptions (20 attestations): Composition shows pig under roof as household marker
-- Seal script: Preserved 宀 + 豕 composition
-- Modern form: 家 (composition transparent - roof + pig = home)
-
-**(E) Hunting Technology Diagram**
-- Reconstruction of multi-pit trap system based on 器 character structure
-- Shows coordinated pit array for large game capture (deer, boar, etc.)
-- Demonstrates Neolithic Chinese technological sophistication
-
-**[Extended oracle bone photographs and archaeological trap site images in Appendix C]**
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| <img src="figures/characters/oracle/char-犬-oracle.png" width="100" alt="犬 oracle"> | <img src="figures/characters/bronze/char-犬-bronze.png" width="100" alt="犬 bronze"> | <img src="figures/characters/seal/char-犬-seal.png" width="100" alt="犬 seal"> | <img src="figures/characters/kaiti/char-犬-kaiti.png" width="100" alt="犬 kaiti"> |
+| (unavailable) | <img src="figures/characters/bronze/char-器-bronze.png" width="100" alt="器 bronze"> | <img src="figures/characters/seal/char-器-seal.png" width="100" alt="器 seal"> | <img src="figures/characters/kaiti/char-器-kaiti.png" width="100" alt="器 kaiti"> |
+| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-哭-seal.png" width="100" alt="哭 seal"> | <img src="figures/characters/kaiti/char-哭-kaiti.png" width="100" alt="哭 kaiti"> |
+| <img src="figures/characters/oracle/char-豕-oracle.png" width="100" alt="豕 oracle"> | <img src="figures/characters/bronze/char-豕-bronze.png" width="100" alt="豕 bronze"> | <img src="figures/characters/seal/char-豕-seal.png" width="100" alt="豕 seal"> | <img src="figures/characters/kaiti/char-豕-kaiti.png" width="100" alt="豕 kaiti"> |
+| <img src="figures/characters/oracle/char-家-oracle.png" width="100" alt="家 oracle"> | <img src="figures/characters/bronze/char-家-bronze.png" width="100" alt="家 bronze"> | <img src="figures/characters/seal/char-家-seal.png" width="100" alt="家 seal"> | <img src="figures/characters/kaiti/char-家-kaiti.png" width="100" alt="家 kaiti"> |
 
 ---
 
 #### (4) Validation
 
-**[Table 2.6]** Validation summary for Section 2.3 semantic radicals:
+**Table 2.6** Validation summary for Section 2.3 semantic radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -533,13 +481,7 @@ This section reveals **sophisticated Neolithic hunting technology** (coordinated
 
 ---
 
-**[End of Section 2.3]**
-
----
-
-[DRAFT CONTINUES - Sections 2.4-2.13 to follow in next batch...]
-
-### 2.4 CUTTING TOOLS - Tool Inventions
+### 2.4 CUTTING & INSCRIBING - Tool Inventions
 
 #### (1) Background
 
@@ -562,7 +504,7 @@ Oracle bone forms show an implement similar to刀 but representing either muscul
 
 #### (2) Semantic Networks
 
-**[Table 2.7]** Semantic networks of Cutting Tools radicals:
+**Table 2.7** Semantic networks of Cutting Tools radicals:
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
@@ -591,44 +533,21 @@ Oracle bone forms show an implement similar to刀 but representing either muscul
 
 #### (3) Oracle/Bronze/Seal Forms
 
-**[Figure 2.4]** Evolution of Cutting Tools radicals:
+**Figure 2.4** Evolution of Cutting & Inscribing radicals (Section 2.4). Shows progression from cutting (乂匕刀) to symbolic marking (文) and force application (力).
 
-**(A) 乂 (yì) - Crossed Cuts**
-- Oracle bone forms (10 attestations): Clear X-shaped crossing lines, depicting intersecting cuts or crossed implements
-- Bronze inscriptions (8 attestations): Maintained crossing pattern
-- Seal script: Simplified to X shape
-- Modern form: 乂 (rare standalone use, preserved in 文 and compounds)
-
-**(B) 刀 (dāo) - Blade**
-- Oracle bone forms (20 attestations): Curved blade with handle clearly depicted
-- Bronze inscriptions (25 attestations): Consistent blade form, shows importance of blade technology
-- Seal script: Stylized but recognizable blade shape
-- Modern form: 刀 (standalone "knife") and 刂(radical form on right side of characters)
-
-**(C) 力 (lì) - Force/Plow**
-- Oracle bone forms (15 attestations): Similar to刀 but representing plow or muscle/sinew
-- Bronze inscriptions (18 attestations): Form shows agricultural implement or force symbol
-- Seal script: Abstracted to hook-like shape
-- Modern form: 力 (visually similar to刀, encoding force/strength)
-
-**(D) Comparative Diagram: 乂 vs 刀 vs 力**
-- 乂: Crossing cuts (X pattern) = order through division
-- 刀: Blade tool (curved edge) = cutting implement
-- 力: Force/plow (similar to刀) = applied energy for transformation
-- Shows progression: Cutting action (乂) → Cutting tool (刀) → Force application (力)
-
-**(E) 文 (wén) Composition Analysis**
-- Oracle bone forms show 乂 (crossed cuts) + 人 (person)
-- Interpretation: "Person who creates ordered patterns through cutting/division" = culture/civilization
-- Suggests early Chinese saw **civilization as organizing chaos through systematic division**
-
-**[Extended oracle bone images showing blade technology and agricultural implements in Appendix D]**
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| <img src="figures/characters/oracle/char-乂-oracle.png" width="100" alt="乂 oracle"> | (unavailable) | <img src="figures/characters/seal/char-乂-seal.png" width="100" alt="乂 seal"> | <img src="figures/characters/kaiti/char-乂-kaiti.png" width="100" alt="乂 kaiti"> |
+| <img src="figures/characters/oracle/char-匕-oracle.png" width="100" alt="匕 oracle"> | <img src="figures/characters/bronze/char-匕-bronze.png" width="100" alt="匕 bronze"> | <img src="figures/characters/seal/char-匕-seal.png" width="100" alt="匕 seal"> | <img src="figures/characters/kaiti/char-匕-kaiti.png" width="100" alt="匕 kaiti"> |
+| <img src="figures/characters/oracle/char-文-oracle.png" width="100" alt="文 oracle"> | <img src="figures/characters/bronze/char-文-bronze.png" width="100" alt="文 bronze"> | <img src="figures/characters/seal/char-文-seal.png" width="100" alt="文 seal"> | <img src="figures/characters/kaiti/char-文-kaiti.png" width="100" alt="文 kaiti"> |
+| <img src="figures/characters/oracle/char-刀-oracle.png" width="100" alt="刀 oracle"> | (unavailable) | <img src="figures/characters/seal/char-刀-seal.png" width="100" alt="刀 seal"> | <img src="figures/characters/kaiti/char-刀-kaiti.png" width="100" alt="刀 kaiti"> |
+| (unavailable) | <img src="figures/characters/bronze/char-力-bronze.png" width="100" alt="力 bronze"> | <img src="figures/characters/seal/char-力-seal.png" width="100" alt="力 seal"> | <img src="figures/characters/kaiti/char-力-kaiti.png" width="100" alt="力 kaiti"> |
 
 ---
 
 #### (4) Validation
 
-**[Table 2.8]** Validation summary for Section 2.4 semantic radicals:
+**Table 2.8** Validation summary for Section 2.4 semantic radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -659,9 +578,6 @@ The idiom刀把子 ("holding the knife handle" = possessing real power/authority
 
 ---
 
-**[End of Section 2.4]**
-
----
 
 ### 2.5 AGRICULTURAL DEVELOPMENT - Settled Civilization
 
@@ -690,7 +606,7 @@ Oracle bone forms clearly depict grain stalk with drooping seed head (millet or 
 
 #### (2) Semantic Networks
 
-**[Table 2.9]** Semantic networks of Agricultural Development radicals:
+**Table 2.9** Semantic networks of Agricultural Development radicals:
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
@@ -722,50 +638,20 @@ Oracle bone forms clearly depict grain stalk with drooping seed head (millet or 
 
 #### (3) Oracle/Bronze/Seal Forms
 
-**[Figure 2.5]** Evolution of Agricultural Development radicals:
+**Figure 2.5** Evolution of Agricultural Development radicals (Section 2.5). Shows gendered labor (男), field systems (田), seed testing (良), nursery cultivation (甫), and grain plants (禾).
 
-**(A) 田 (tián) - Field Grid**
-- Oracle bone forms (25 attestations): Clear grid pattern showing divided plots
-- Bronze inscriptions (30 attestations): Maintained grid structure, shows field importance
-- Seal script: Preserved grid pattern
-- Modern form: 田 (still recognizable as grid/field)
-
-**(B) 男 (nán) - Male = Field + Plow**
-- Oracle bone forms (18 attestations): 田 + 力 composition clear
-- Bronze inscriptions (22 attestations): Consistent composition showing gender role
-- Seal script: Preserved田 + 力
-- Modern form: 男 (composition transparent)
-
-**(C) 良 (liáng) - Seed Testing Apparatus**
-- Oracle bone forms (11 attestations): Complex structure showing testing chamber/vessel
-- Bronze inscriptions (13 attestations): Detailed forms suggest germination testing setup
-- Seal script: Abstracted but maintained structural elements
-- Modern form: 良 (original testing apparatus meaning obscured, generalized to "good")
-
-**(D) 甫 (fǔ) - Nursery Plot**
-- Oracle bone forms (10 attestations): Structured growing area with plantings
-- Bronze inscriptions (12 attestations): Shows organized horticultural space
-- Seal script: Simplified but maintained plot concept
-- Modern form: 甫 (rare standalone, preserved in 圃哺補)
-
-**(E) 禾 (hé) - Grain Stalk**
-- Oracle bone forms (30 attestations): Clear grain plant with drooping seed head
-- Bronze inscriptions (35 attestations): Consistent botanical depiction
-- Seal script: Stylized but recognizable grain plant
-- Modern form: 禾 (still recognizable as grain stalk)
-
-**(F) Agricultural System Diagram**
-- Integration diagram showing: 良 (seed testing) → 甫 (nursery raising) → 田 (field planting) → 禾 (grain growth) → harvest
-- Shows complete agricultural knowledge system encoded in characters
-- Demonstrates systematic technological understanding
-
-**[Extended oracle bone forms and agricultural site photographs in Appendix E]**
-
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| <img src="figures/characters/oracle/char-男-oracle.png" width="100" alt="男 oracle"> | <img src="figures/characters/bronze/char-男-bronze.png" width="100" alt="男 bronze"> | <img src="figures/characters/seal/char-男-seal.png" width="100" alt="男 seal"> | <img src="figures/characters/kaiti/char-男-kaiti.png" width="100" alt="男 kaiti"> |
+| <img src="figures/characters/oracle/char-田-oracle.png" width="100" alt="田 oracle"> | <img src="figures/characters/bronze/char-田-bronze.png" width="100" alt="田 bronze"> | <img src="figures/characters/seal/char-田-seal.png" width="100" alt="田 seal"> | <img src="figures/characters/kaiti/char-田-kaiti.png" width="100" alt="田 kaiti"> |
+| <img src="figures/characters/oracle/char-良-oracle.png" width="100" alt="良 oracle"> | <img src="figures/characters/bronze/char-良-bronze.png" width="100" alt="良 bronze"> | <img src="figures/characters/seal/char-良-seal.png" width="100" alt="良 seal"> | <img src="figures/characters/kaiti/char-良-kaiti.png" width="100" alt="良 kaiti"> |
+| <img src="figures/characters/oracle/char-甫-oracle.png" width="100" alt="甫 oracle"> | <img src="figures/characters/bronze/char-甫-bronze.png" width="100" alt="甫 bronze"> | <img src="figures/characters/seal/char-甫-seal.png" width="100" alt="甫 seal"> | <img src="figures/characters/kaiti/char-甫-kaiti.png" width="100" alt="甫 kaiti"> |
+| <img src="figures/characters/oracle/char-禾-oracle.png" width="100" alt="禾 oracle"> | <img src="figures/characters/bronze/char-禾-bronze.png" width="100" alt="禾 bronze"> | <img src="figures/characters/seal/char-禾-seal.png" width="100" alt="禾 seal"> | <img src="figures/characters/kaiti/char-禾-kaiti.png" width="100" alt="禾 kaiti"> |
 ---
 
 #### (4) Validation
 
-**[Table 2.10]** Validation summary for Section 2.5 semantic radicals:
+**Table 2.10** Validation summary for Section 2.5 semantic radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -793,7 +679,6 @@ This section reveals **systematic agricultural knowledge** in early Chinese civi
 
 ---
 
-**[End of Section 2.5]**
 
 
 ### 2.6 POWER SHIFT - Patriarchy Emergence
@@ -818,7 +703,7 @@ This idiom ("holding the knife handle" = possessing real power) preserves ancien
 
 #### (2) Semantic Networks
 
-**[Table 2.11]** Semantic networks of Power Shift concepts:
+**Table 2.11** Semantic networks of Power Shift concepts:
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
@@ -844,42 +729,19 @@ This idiom ("holding the knife handle" = possessing real power) preserves ancien
 
 #### (3) Oracle/Bronze/Seal Forms
 
-**[Figure 2.6]** Evolution of Power Shift encoding:
+**Figure 2.6** Evolution of Power Shift radicals (Section 2.6). Shows patriarchal authority through metal tool monopoly (父斧), exchange relationships (交), and blade control (刀).
 
-**(A) 父 (fù) - Father with Axe**
-- Oracle bone forms (18 attestations): Clear depiction of hand holding axe or stone implement
-- Bronze inscriptions (22 attestations): Consistent axe-holding figure, shows authority encoding
-- Seal script: Simplified but maintained hand + implement concept
-- Modern form: 父 (implement element abstracted, but "father" = authority preserved)
-
-**(B) 斧 (fǔ) - Axe Tool**
-- Oracle bone forms (12 attestations): Detailed axe with blade and handle
-- Bronze inscriptions (15 attestations): Clear bronze axe depiction
-- Composition: 父 (father/hand with implement) + 斤 (blade/axe) = explicit axe tool
-- Modern form: 斧 (composition transparent - father-implement + blade = axe)
-
-**(C) 刀 (dāo) - Blade as Power Symbol**
-- (See Section 2.4 for detailed evolution)
-- Usage in power contexts: 刑判刹劃 all encode decision/control through blade metaphor
-
-**(D) Gender Power Transition Diagram**
-- Neolithic (~5000 BCE): Egalitarian burials, gender parity in grave goods
-- Early Bronze Age (~2000 BCE): Emerging differentiation, males begin receiving bronze items
-- Late Bronze Age (~1200 BCE): Sharp stratification, males = weapons/vessels, females = domestic
-- Character encoding: 父 (father with axe) preserves Bronze Age power consolidation moment
-
-**(E) Archaeological Burial Evidence**
-- Male burial: Bronze ge (dagger-axe), bronze vessel, jade ornaments
-- Female burial: Pottery vessels, bone needles, spindle whorls
-- Shows material basis for 父 (male with bronze implement = authority) character
-
-**[Extended oracle bone images and burial site photographs in Appendix F]**
-
----
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| <img src="figures/characters/oracle/char-父-oracle.png" width="100" alt="父 oracle"> | <img src="figures/characters/bronze/char-父-bronze.png" width="100" alt="父 bronze"> | <img src="figures/characters/seal/char-父-seal.png" width="100" alt="父 seal"> | <img src="figures/characters/kaiti/char-父-kaiti.png" width="100" alt="父 kaiti"> |
+| (unavailable) | <img src="figures/characters/bronze/char-交-bronze.png" width="100" alt="交 bronze"> | <img src="figures/characters/seal/char-交-seal.png" width="100" alt="交 seal"> | <img src="figures/characters/kaiti/char-交-kaiti.png" width="100" alt="交 kaiti"> |
+| <img src="figures/characters/oracle/char-斧-oracle.png" width="100" alt="斧 oracle"> | <img src="figures/characters/bronze/char-斧-bronze.png" width="100" alt="斧 bronze"> | <img src="figures/characters/seal/char-斧-seal.png" width="100" alt="斧 seal"> | <img src="figures/characters/kaiti/char-斧-kaiti.png" width="100" alt="斧 kaiti"> |
+| (unavailable) | (unavailable) | (unavailable) | <img src="figures/characters/kaiti/char-爸-kaiti.png" width="100" alt="爸 kaiti"> |
+| <img src="figures/characters/oracle/char-刀-oracle.png" width="100" alt="刀 oracle"> | (unavailable) | <img src="figures/characters/seal/char-刀-seal.png" width="100" alt="刀 seal"> | <img src="figures/characters/kaiti/char-刀-kaiti.png" width="100" alt="刀 kaiti"> |
 
 #### (4) Validation
 
-**[Table 2.12]** Validation summary for Section 2.6 concepts:
+**Table 2.12** Validation summary for Section 2.6 concepts:
 
 | Concept | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -908,11 +770,9 @@ This section reveals the **technological basis of patriarchal power emergence**.
 
 ---
 
-**[End of Section 2.6]**
 
----
 
-### 2.7 MECHANICAL WORK - Engineering
+### 2.7 CRAFTSMANSHIP - Engineering
 
 #### (1) Background
 
@@ -942,7 +802,7 @@ Oracle bone and bronze forms show radial fiber arrangement, depicting the **spok
 
 #### (2) Semantic Networks
 
-**[Table 2.13]** Semantic networks of Mechanical Work radicals:
+**Table 2.13** Semantic networks of Mechanical Work radicals:
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
@@ -973,51 +833,20 @@ Oracle bone and bronze forms show radial fiber arrangement, depicting the **spok
 
 #### (3) Oracle/Bronze/Seal Forms
 
-**[Figure 2.7]** Evolution of Mechanical Work radicals:
+**Figure 2.7** Evolution of Craftsmanship radicals (Section 2.7). Shows engineering concepts: work (工), achievement (功), skill (巧), radial structures (巠 - spoke wheel), and mechanical operation (乍作).
 
-**(A) 工 (gōng) - Carpenter's Square**
-- Oracle bone forms (22 attestations): Depiction of carpenter's square or work tool
-- Bronze inscriptions (28 attestations): Consistent tool representation
-- Seal script: Simplified to horizontal and vertical strokes
-- Modern form: 工 (abstract tool shape, meaning "work/craftsman")
-
-**(B) 乍 (zhà) - Mechanical Device**
-- Oracle bone forms (15 attestations): Complex structure suggesting loom or mechanical tool with moving parts
-- Bronze inscriptions (18 attestations): Maintained mechanical device depiction
-- Seal script: Abstracted but preserved structural complexity
-- Modern form: 乍 (rare standalone, preserved in 作榨炸昨)
-
-**(C) 巠 (jīng) - Radial Fiber Structure**
-- Oracle bone forms (8 attestations): Radial lines from central point (spoke wheel pattern)
-- Bronze inscriptions (12 attestations): Clear radiating structure
-- Seal script: Maintained radial arrangement
-- Modern form: 巠 (rarely used alone, preserved in 輕經徑莖)
-
-**(D) Engineering Breakthrough Diagram: Spoke Wheel**
-- Solid wheel (Neolithic): Heavy, inefficient, requires massive force to move
-- Spoke wheel (Bronze Age ~2000 BCE): Radial structure distributes load, 70% weight reduction, revolutionary transportation improvement
-- 巠 character encodes this engineering principle: radial fiber arrangement from hub
-- Shows understanding of **structural mechanics** (tension distribution, load-bearing through geometry)
-
-**(E) 作 (zuò) Composition Analysis**
-- 亻(person) + 乍 (mechanical device operation)
-- "Person operating mechanical tools = productive work"
-- Distinguishes organized tool-using labor from spontaneous activity
-- Shows recognition that human productivity depends on tool technology
-
-**(F) 江 (jiāng) Insight: Water's Work**
-- 氵(water) + 工 (work)
-- "River = water's work" (erosion, sediment transport, landscape shaping)
-- Encodes understanding that **natural processes perform work**—sophisticated physics intuition
-- Rivers "work" on landscape like humans work on materials
-
-**[Extended oracle bone images showing mechanical devices and spoke wheel archaeological finds in Appendix G]**
-
----
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| <img src="figures/characters/oracle/char-工-oracle.png" width="100" alt="工 oracle"> | <img src="figures/characters/bronze/char-工-bronze.png" width="100" alt="工 bronze"> | <img src="figures/characters/seal/char-工-seal.png" width="100" alt="工 seal"> | <img src="figures/characters/kaiti/char-工-kaiti.png" width="100" alt="工 kaiti"> |
+| (unavailable) | <img src="figures/characters/bronze/char-功-bronze.png" width="100" alt="功 bronze"> | <img src="figures/characters/seal/char-功-seal.png" width="100" alt="功 seal"> | <img src="figures/characters/kaiti/char-功-kaiti.png" width="100" alt="功 kaiti"> |
+| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-巧-seal.png" width="100" alt="巧 seal"> | <img src="figures/characters/kaiti/char-巧-kaiti.png" width="100" alt="巧 kaiti"> |
+| (unavailable) | <img src="figures/characters/bronze/char-巠-bronze.png" width="100" alt="巠 bronze"> | <img src="figures/characters/seal/char-巠-seal.png" width="100" alt="巠 seal"> | <img src="figures/characters/kaiti/char-巠-kaiti.png" width="100" alt="巠 kaiti"> |
+| <img src="figures/characters/oracle/char-乍-oracle.png" width="100" alt="乍 oracle"> | <img src="figures/characters/bronze/char-乍-bronze.png" width="100" alt="乍 bronze"> | <img src="figures/characters/seal/char-乍-seal.png" width="100" alt="乍 seal"> | <img src="figures/characters/kaiti/char-乍-kaiti.png" width="100" alt="乍 kaiti"> |
+| <img src="figures/characters/oracle/char-作-oracle.png" width="100" alt="作 oracle"> | <img src="figures/characters/bronze/char-作-bronze.png" width="100" alt="作 bronze"> | <img src="figures/characters/seal/char-作-seal.png" width="100" alt="作 seal"> | <img src="figures/characters/kaiti/char-作-kaiti.png" width="100" alt="作 kaiti"> |
 
 #### (4) Validation
 
-**[Table 2.14]** Validation summary for Section 2.7 semantic radicals:
+**Table 2.14** Validation summary for Section 2.7 semantic radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -1053,7 +882,6 @@ The composition 氵+ 工 encodes a profound observation: **water performs work o
 
 ---
 
-**[End of Section 2.7]**
 
 ### 2.8 METALLURGY DEVELOPMENT - Bronze Revolution
 
@@ -1075,7 +903,7 @@ Composed of 冫(ice/water) + 台 (platform/crucible structure), this character e
 
 #### (2) Semantic Networks
 
-**[Table 2.15]** Semantic networks of Metallurgy Development radicals:
+**Table 2.15** Semantic networks of Metallurgy Development radicals:
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
@@ -1105,51 +933,19 @@ Composed of 冫(ice/water) + 台 (platform/crucible structure), this character e
 
 #### (3) Oracle/Bronze/Seal Forms
 
-**[Figure 2.8]** Evolution of Metallurgy Development radicals:
+**Figure 2.8** Evolution of Metallurgy Development radicals (Section 2.8). Shows metal types (金銀銅), currency (钱), and smelting technology (冶) with thermodynamic control.
 
-**(A) 金 (jīn) - Metal**
-- Oracle bone forms (8 attestations): Abstract metal symbols or metallic objects
-- Bronze inscriptions (15 attestations): Prominent use (bronze vessels inscribed with own material name!)
-- Seal script: Maintained metal radical 金
-- Modern form: 金 (fundamental "metal/gold" meaning preserved)
-
-**(B) 冶 (yě) - Smelting**
-- Oracle bone forms (scarce—specialized technical term)
-- Bronze inscriptions (5 attestations): Shows metallurgical process encoding
-- Composition: 冫(water/cooling) + 台 (platform/crucible)
-- Modern form: 冶 (smelting/metallurgy technical term)
-
-**(C) Bronze Metallurgy Process Diagram**
-- Step 1: Mine copper (Cu) and tin (Sn) ores
-- Step 2: Smelt ores at 1000°C+ (冶 process)
-- Step 3: Alloy copper + tin (~90% Cu, 10% Sn) = bronze
-- Step 4: Heat to liquid state (~1000°C)
-- Step 5: Pour into ceramic molds (鑄 casting)
-- Step 6: Controlled cooling (冫in 冶)
-- Step 7: Remove from mold, polish (鍊 finishing)
-- Shows 冶 encodes complete technological sequence
-
-**(D) Archaeological Bronze Artifacts**
-- Ritual vessels (鼎 ding, 簋 gui): Elite ceremonial bronzes showing casting mastery
-- Weapons (戈 ge dagger-axe, 劍 sword): Military applications
-- Tools (斧 axe, 鋤 hoe): Agricultural/craft applications
-- Bells (鐘 zhong): Musical/ritual acoustic engineering
-- Demonstrates bronze technology's civilization-wide impact
-
-**(E) Temperature Control Evidence**
-- 冶 character's 冫(water) component encodes **critical insight**: Bronze casting requires **controlled cooling**
-- Too-fast cooling = brittle bronze (cracks/breaks)
-- Too-slow cooling = coarse grain structure (weak)
-- Optimal cooling = strong, durable bronze
-- Shows sophisticated thermodynamic understanding
-
-**[Extended oracle bone images, bronze vessel photographs, and metallurgical site evidence in Appendix H]**
-
----
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| <img src="figures/characters/oracle/char-金-oracle.png" width="100" alt="金 oracle"> | <img src="figures/characters/bronze/char-金-bronze.png" width="100" alt="金 bronze"> | <img src="figures/characters/seal/char-金-seal.png" width="100" alt="金 seal"> | <img src="figures/characters/kaiti/char-金-kaiti.png" width="100" alt="金 kaiti"> |
+| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-銀-seal.png" width="100" alt="銀 seal"> | <img src="figures/characters/kaiti/char-銀-kaiti.png" width="100" alt="銀 kaiti"> |
+| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-钱-seal.png" width="100" alt="钱 seal"> | <img src="figures/characters/kaiti/char-钱-kaiti.png" width="100" alt="钱 kaiti"> |
+| (unavailable) | <img src="figures/characters/bronze/char-銅-bronze.png" width="100" alt="銅 bronze"> | <img src="figures/characters/seal/char-銅-seal.png" width="100" alt="銅 seal"> | <img src="figures/characters/kaiti/char-銅-kaiti.png" width="100" alt="銅 kaiti"> |
+| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-冶-seal.png" width="100" alt="冶 seal"> | <img src="figures/characters/kaiti/char-冶-kaiti.png" width="100" alt="冶 kaiti"> |
 
 #### (4) Validation
 
-**[Table 2.16]** Validation summary for Section 2.8 semantic radicals:
+**Table 2.16** Validation summary for Section 2.8 semantic radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -1181,11 +977,8 @@ The Shang Dynasty (~1600-1046 BCE) was fundamentally a **bronze-based state**—
 
 ---
 
-**[End of Section 2.8]**
 
----
-
-### 2.9 MILITARY & CONFLICT - Organized Violence
+### 2.9 MILITARY DEVELOPMENT - Organized conflict
 
 #### (1) Background
 
@@ -1222,7 +1015,7 @@ Oracle bone forms clearly depict curved bow shape, representing ranged weapons t
 
 #### (2) Semantic Networks
 
-**[Table 2.17]** Semantic networks of Military & Conflict radicals:
+**Table 2.17** Semantic networks of Military & Conflict radicals:
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
@@ -1254,51 +1047,19 @@ The verse's final line reveals Chinese strategic philosophy: Maintain military c
 
 #### (3) Oracle/Bronze/Seal Forms
 
-**[Figure 2.9]** Evolution of Military & Conflict radicals:
+**Figure 2.9** Evolution of Military Development radicals (Section 2.9). Shows weapon types: ranged (弓矢), slashing (戈), restraining (叉), and thrusting (矛).
 
-**(A) 戈 (gē) - Dagger-Axe**
-- Oracle bone forms (25 attestations): Clear perpendicular blade on pole
-- Bronze inscriptions (35 attestations): Consistent weapon depiction, shows military centrality
-- Seal script: Stylized but recognizable weapon shape
-- Modern form: 戈 (still recognizable as pole-weapon)
-
-**(B) 矛 (máo) - Spear**
-- Oracle bone forms (18 attestations): Pointed spearhead on shaft
-- Bronze inscriptions (20 attestations): Clear thrusting weapon depiction
-- Seal script: Maintained spear structure
-- Modern form: 矛 (still recognizable as spear)
-
-**(C) 弓 (gōng) - Bow**
-- Oracle bone forms (20 attestations): Curved bow shape, some showing bowstring
-- Bronze inscriptions (22 attestations): Consistent bow depiction
-- Seal script: Preserved curved bow form
-- Modern form: 弓 (immediately recognizable as bow)
-
-**(D) Bronze Age Weapons Arsenal Diagram**
-- **Close combat**: 戈 (dagger-axe - slashing), 矛 (spear - thrusting), 劍 (sword - cutting)
-- **Ranged**: 弓 (bow + 矢 arrows - distance attack)
-- **Defensive**: 盾 (shield - protection)
-- Shows comprehensive weapons system encoded in characters
-
-**(E) Archaeological Bronze Weapons**
-- Photographs of excavated 戈 dagger-axes (Anyang royal tombs)
-- Bronze矛 spearheads with decorated shafts
-- Composite bow remains (wood/horn/sinew construction)
-- Demonstrates advanced metallurgical + material engineering for warfare
-
-**(F) Chariot Warfare Reconstruction**
-- Elite warrior on chariot wielding 戈 (hooking/slashing from moving platform)
-- Driver controlling horses
-- Archer with 弓 providing ranged support
-- Shows systematic military organization beyond individual combat
-
-**[Extended oracle bone images, bronze weapon photographs, and battle scene bronze vessel decorations in Appendix I]**
-
----
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| <img src="figures/characters/oracle/char-弓-oracle.png" width="100" alt="弓 oracle"> | <img src="figures/characters/bronze/char-弓-bronze.png" width="100" alt="弓 bronze"> | <img src="figures/characters/seal/char-弓-seal.png" width="100" alt="弓 seal"> | <img src="figures/characters/kaiti/char-弓-kaiti.png" width="100" alt="弓 kaiti"> |
+| <img src="figures/characters/oracle/char-矢-oracle.png" width="100" alt="矢 oracle"> | <img src="figures/characters/bronze/char-矢-bronze.png" width="100" alt="矢 bronze"> | <img src="figures/characters/seal/char-矢-seal.png" width="100" alt="矢 seal"> | <img src="figures/characters/kaiti/char-矢-kaiti.png" width="100" alt="矢 kaiti"> |
+| <img src="figures/characters/oracle/char-戈-oracle.png" width="100" alt="戈 oracle"> | <img src="figures/characters/bronze/char-戈-bronze.png" width="100" alt="戈 bronze"> | <img src="figures/characters/seal/char-戈-seal.png" width="100" alt="戈 seal"> | <img src="figures/characters/kaiti/char-戈-kaiti.png" width="100" alt="戈 kaiti"> |
+| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-叉-seal.png" width="100" alt="叉 seal"> | <img src="figures/characters/kaiti/char-叉-kaiti.png" width="100" alt="叉 kaiti"> |
+| (unavailable) | <img src="figures/characters/bronze/char-矛-bronze.png" width="100" alt="矛 bronze"> | <img src="figures/characters/seal/char-矛-seal.png" width="100" alt="矛 seal"> | <img src="figures/characters/kaiti/char-矛-kaiti.png" width="100" alt="矛 kaiti"> |
 
 #### (4) Validation
 
-**[Table 2.18]** Validation summary for Section 2.9 semantic radicals:
+**Table 2.18** Validation summary for Section 2.9 semantic radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -1326,11 +1087,9 @@ The verse's final line reveals profound insight: Chinese civilization sought pea
 
 ---
 
-**[End of Section 2.9]**
 
----
 
-### 2.10 COUNTING & TIME - Abstract Ordering Systems
+### 2.10 COUNTING & CALDENDAR - Symbolic systems
 
 #### (1) Background
 
@@ -1369,7 +1128,7 @@ The twelve earthly branches (子丑寅卯辰巳午未申酉戌亥) represented *
 
 #### (2) Semantic Networks
 
-**[Table 2.19]** Semantic networks of Counting & Time radicals:
+**Table 2.19** Semantic networks of Counting & Time radicals:
 
 | Category | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |----------|-----------|-----------|---------|----------------------|----------------|
@@ -1409,53 +1168,29 @@ This system was used for:
 
 #### (3) Oracle/Bronze/Seal Forms
 
-**[Figure 2.10]** Evolution of Counting & Time radicals:
+**Figure 2.10** Evolution of Heavenly Stems (天干) and Earthly Branches (地支) - first examples (Section 2.10a). Shows abstract temporal ordering system.
 
-**(A) Heavenly Stems Evolution (Examples)**
-- **甲**: Oracle shows seed/shell structure → Bronze maintains shell → Seal/Modern 甲 (armor, first)
-- **乙**: Oracle shows bent sprout → Bronze maintains curve → Seal/Modern 乙 (bent, second)
-- **丙**: Oracle shows fire/brightness → Bronze maintains bright element → Seal/Modern 丙 (bright, third)
-- **丁**: Oracle shows robust form → Bronze maintains structure → Seal/Modern 丁 (robust, fourth)
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| <img src="figures/characters/oracle/char-甲-oracle.png" width="100" alt="甲 oracle"> | <img src="figures/characters/bronze/char-甲-bronze.png" width="100" alt="甲 bronze"> | <img src="figures/characters/seal/char-甲-seal.png" width="100" alt="甲 seal"> | <img src="figures/characters/kaiti/char-甲-kaiti.png" width="100" alt="甲 kaiti"> |
+| <img src="figures/characters/oracle/char-乙-oracle.png" width="100" alt="乙 oracle"> | <img src="figures/characters/bronze/char-乙-bronze.png" width="100" alt="乙 bronze"> | <img src="figures/characters/seal/char-乙-seal.png" width="100" alt="乙 seal"> | <img src="figures/characters/kaiti/char-乙-kaiti.png" width="100" alt="乙 kaiti"> |
+| <img src="figures/characters/oracle/char-丙-oracle.png" width="100" alt="丙 oracle"> | <img src="figures/characters/bronze/char-丙-bronze.png" width="100" alt="丙 bronze"> | <img src="figures/characters/seal/char-丙-seal.png" width="100" alt="丙 seal"> | <img src="figures/characters/kaiti/char-丙-kaiti.png" width="100" alt="丙 kaiti"> |
+| <img src="figures/characters/oracle/char-丁-oracle.png" width="100" alt="丁 oracle"> | <img src="figures/characters/bronze/char-丁-bronze.png" width="100" alt="丁 bronze"> | <img src="figures/characters/seal/char-丁-seal.png" width="100" alt="丁 seal"> | <img src="figures/characters/kaiti/char-丁-kaiti.png" width="100" alt="丁 kaiti"> |
+| <img src="figures/characters/oracle/char-子-oracle.png" width="100" alt="子 oracle"> | <img src="figures/characters/bronze/char-子-bronze.png" width="100" alt="子 bronze"> | <img src="figures/characters/seal/char-子-seal.png" width="100" alt="子 seal"> | <img src="figures/characters/kaiti/char-子-kaiti.png" width="100" alt="子 kaiti"> |
+| <img src="figures/characters/oracle/char-丑-oracle.png" width="100" alt="丑 oracle"> | <img src="figures/characters/bronze/char-丑-bronze.png" width="100" alt="丑 bronze"> | <img src="figures/characters/seal/char-丑-seal.png" width="100" alt="丑 seal"> | <img src="figures/characters/kaiti/char-丑-kaiti.png" width="100" alt="丑 kaiti"> |
 
-**(B) Earthly Branches Evolution (Examples)**
-- **子**: Oracle shows infant form → Bronze maintains child imagery → Seal/Modern 子 (child, midnight)
-- **丑**: Oracle shows grasping hand → Bronze maintains hand → Seal/Modern 丑 (grasp, 1-3am)
-- **卯**: Oracle shows door/opening → Bronze maintains opening → Seal/Modern 卯 (door, dawn)
-- **午**: Oracle shows pestle/noon marker → Bronze maintains form → Seal/Modern 午 (noon)
+Evolution of Basic Number characters (Section 2.10b). Shows iconic representation (一二三) transitioning to compositional (四).
 
-**(C) Basic Numbers Evolution**
-- **一**: Oracle single stroke → Bronze/Seal/Modern unchanged (abstract simplicity)
-- **二**: Oracle two strokes → Bronze/Seal/Modern unchanged
-- **三**: Oracle three strokes → Bronze/Seal/Modern unchanged
-- **十**: Oracle cross/complete → Bronze/Seal/Modern 十 (decimal base)
-
-**(D) Oracle Bone Dating Example**
-```
-Oracle bone inscription:
-"貞: 甲子卜, 王田獵, 獲鹿四十"
-Translation: "Divination: On day jiǎzǐ (甲子), the king hunted in fields, captured 40 deer"
-```
-Shows systematic day-naming using stems+branches for record-keeping
-
-**(E) Sexagenary Cycle Diagram**
-- 10 Heavenly Stems (vertical axis)
-- 12 Earthly Branches (horizontal axis)
-- 60 unique combinations (grid)
-- Visual representation of cyclical time system
-
-**(F) Comparison to Other Calendar Systems**
-- **Egyptian**: 365-day solar calendar (no cyclical naming)
-- **Babylonian**: Lunar months, 7-day weeks (planetary names)
-- **Chinese**: 60-day/year cycle (干支 naturalistic imagery)
-- Shows Chinese uniqueness: **cyclical time with naturalistic symbolism**
-
-**[Extended oracle bone dating examples and calendrical diagrams in Appendix J]**
-
----
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| <img src="figures/characters/oracle/char-一-oracle.png" width="100" alt="一 oracle"> | <img src="figures/characters/bronze/char-一-bronze.png" width="100" alt="一 bronze"> | <img src="figures/characters/seal/char-一-seal.png" width="100" alt="一 seal"> | <img src="figures/characters/kaiti/char-一-kaiti.png" width="100" alt="一 kaiti"> |
+| <img src="figures/characters/oracle/char-二-oracle.png" width="100" alt="二 oracle"> | <img src="figures/characters/bronze/char-二-bronze.png" width="100" alt="二 bronze"> | <img src="figures/characters/seal/char-二-seal.png" width="100" alt="二 seal"> | <img src="figures/characters/kaiti/char-二-kaiti.png" width="100" alt="二 kaiti"> |
+| <img src="figures/characters/oracle/char-三-oracle.png" width="100" alt="三 oracle"> | <img src="figures/characters/bronze/char-三-bronze.png" width="100" alt="三 bronze"> | <img src="figures/characters/seal/char-三-seal.png" width="100" alt="三 seal"> | <img src="figures/characters/kaiti/char-三-kaiti.png" width="100" alt="三 kaiti"> |
+| <img src="figures/characters/oracle/char-四-oracle.png" width="100" alt="四 oracle"> | <img src="figures/characters/bronze/char-四-bronze.png" width="100" alt="四 bronze"> | <img src="figures/characters/seal/char-四-seal.png" width="100" alt="四 seal"> | <img src="figures/characters/kaiti/char-四-kaiti.png" width="100" alt="四 kaiti"> |
 
 #### (4) Validation
 
-**[Table 2.20]** Validation summary for Section 2.10 temporal systems:
+**Table 2.20** Validation summary for Section 2.10 temporal systems:
 
 | System | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |--------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -1472,7 +1207,7 @@ This section reveals **sophisticated abstract thinking** in Shang Dynasty civili
 - **Cyclical vs linear time**: Chinese 干支 system is **cyclical** (60-year repeating) unlike Western linear year-counting from fixed event (CE/BCE)
 - **Naturalistic ordering**: Heavenly Stems use **natural imagery** (germination → growth → maturation) rather than arbitrary names
 - **Mathematical sophistication**: 60-combination system shows understanding of **least common multiple** (LCM of 10 and 12)
-- **Record-keeping infrastructure**: Systematic day-naming enabled **datable archives**—essential for institutional memory
+- **Record-keeping infrastructure**: Systematic day-naming enabled **datable archives**—essential for collective memory
 - **Continuous 3200+ years**: 干支 system **still used** in Chinese calendar/astrology—longest continuously operating calendar system
 
 **Methodological note:** The Heavenly Stems/Earthly Branches demonstrate how **concrete imagery became abstract ordering symbols**. 甲 originally meant "seed shell splitting" (natural observation), then became "first in sequence" (ordinal), then "armor" (extended meaning). This trajectory (observation → abstraction → extension) typifies Chinese character semantic evolution.
@@ -1499,9 +1234,6 @@ The 一二三 number system shows transition from **iconic representation** (thr
 
 ---
 
-**[End of Section 2.10]**
-
----
 
 ### 2.11 MEASUREMENT - Standardization Systems
 
@@ -1534,7 +1266,7 @@ Characters encode the **physical implements** that defined standards (axe weight
 
 #### (2) Semantic Networks
 
-**[Table 2.21]** Semantic networks of Measurement radicals:
+**Table 2.21** Semantic networks of Measurement radicals:
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
@@ -1567,57 +1299,19 @@ Characters encode the **physical implements** that defined standards (axe weight
 
 #### (3) Oracle/Bronze/Seal Forms
 
-**[Figure 2.11]** Evolution of Measurement radicals:
+**Figure 2.11** Evolution of Measurement radicals (Section 2.11). Shows standardization: division (分), length units (寸尺), volume (斗), and weight (斤).
 
-**(A) 斤 (jīn) - Axe/Weight**
-- Oracle bone forms (15 attestations): Clear axe depiction with blade and handle
-- Bronze inscriptions (20 attestations): Consistent axe form, sometimes with weight context
-- Seal script: Stylized axe shape
-- Modern form: 斤 (means "axe" and "catty/weight unit")
-- **Dual meaning preserved**: Tool (axe) AND weight standard (斤 catty)
-
-**(B) 斗 (dǒu) - Dipper/Volume**
-- Oracle bone forms (12 attestations): Ladle or dipper vessel with handle
-- Bronze inscriptions (15 attestations): Clear measuring vessel depiction
-- Seal script: Maintained dipper shape
-- Modern form: 斗 (means "dipper" and volume unit)
-- **Physical implement = abstract standard**
-
-**(C) 尺 (chǐ) - Ruler/Length**
-- Oracle bone forms (10 attestations): Extended hand/forearm or measuring rod
-- Bronze inscriptions (12 attestations): Clear body-based measurement depiction
-- Seal script: Abstracted to simplified form
-- Modern form: 尺 (means "foot/ruler")
-- **Body → Object transition**: From forearm measurement to manufactured ruler
-
-**(D) 寸 (cùn) - Inch/Precision**
-- Oracle bone forms (8 attestations): Hand with marking indicating measurement point
-- Bronze inscriptions (10 attestations): Maintained precision marking concept
-- Seal script: Simplified to hand + mark
-- Modern form: 寸 (means "inch/small unit")
-- **Subdivision principle**: 1 尺 = 10 寸 (decimal thinking)
-
-**(E) Standardization Enforcement Diagram**
-- **Physical standards**: Bronze weights, ceramic grain measures, standard rulers (excavated artifacts)
-- **Official control**: Government-issued measurement implements with stamps/seals
-- **Penalty for fraud**: Legal codes punishing merchants using false measures
-- Shows measurement standardization as **state power mechanism**
-
-**(F) Comparison Across Dynasties**
-- Shang 斤: ~250g
-- Zhou 斤: ~220g  
-- Qin standardization (221 BCE): Unified weights/measures across empire
-- Han 斤: ~250g (stabilized)
-- Modern 斤: ~500g (市斤 "market catty")
-- Shows **continuous adjustment** but persistent character-standard linkage
-
-**[Extended oracle bone images, excavated bronze weights/measures, and Qin standardization artifacts in Appendix K]**
-
----
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| <img src="figures/characters/oracle/char-分-oracle.png" width="100" alt="分 oracle"> | <img src="figures/characters/bronze/char-分-bronze.png" width="100" alt="分 bronze"> | <img src="figures/characters/seal/char-分-seal.png" width="100" alt="分 seal"> | <img src="figures/characters/kaiti/char-分-kaiti.png" width="100" alt="分 kaiti"> |
+| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-寸-seal.png" width="100" alt="寸 seal"> | <img src="figures/characters/kaiti/char-寸-kaiti.png" width="100" alt="寸 kaiti"> |
+| (unavailable) | <img src="figures/characters/bronze/char-尺-bronze.png" width="100" alt="尺 bronze"> | <img src="figures/characters/seal/char-尺-seal.png" width="100" alt="尺 seal"> | <img src="figures/characters/kaiti/char-尺-kaiti.png" width="100" alt="尺 kaiti"> |
+| <img src="figures/characters/oracle/char-斗-oracle.png" width="100" alt="斗 oracle"> | <img src="figures/characters/bronze/char-斗-bronze.png" width="100" alt="斗 bronze"> | <img src="figures/characters/seal/char-斗-seal.png" width="100" alt="斗 seal"> | <img src="figures/characters/kaiti/char-斗-kaiti.png" width="100" alt="斗 kaiti"> |
+| <img src="figures/characters/oracle/char-斤-oracle.png" width="100" alt="斤 oracle"> | <img src="figures/characters/bronze/char-斤-bronze.png" width="100" alt="斤 bronze"> | <img src="figures/characters/seal/char-斤-seal.png" width="100" alt="斤 seal"> | <img src="figures/characters/kaiti/char-斤-kaiti.png" width="100" alt="斤 kaiti"> |
 
 #### (4) Validation
 
-**[Table 2.22]** Validation summary for Section 2.11 measurement radicals:
+**Table 2.22** Validation summary for Section 2.11 measurement radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -1650,11 +1344,9 @@ This section reveals **systematic quantification** as state-building tool. Stand
 
 ---
 
-**[End of Section 2.11]**
 
----
 
-### 2.12 HYDRAULICS & FLOW - Physics Understanding
+### 2.12 FLOW & HYDRAULICS - Physics Understanding
 
 #### (1) Background
 
@@ -1685,7 +1377,7 @@ Characters encode **observations of fluid behavior**: flow follows terrain (㐬)
 
 #### (2) Semantic Networks
 
-**[Table 2.23]** Semantic networks of Hydraulics & Flow radicals:
+**Table 2.23** Semantic networks of Hydraulics & Flow radicals:
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
@@ -1723,55 +1415,21 @@ Characters encode **observations of fluid behavior**: flow follows terrain (㐬)
 
 #### (3) Oracle/Bronze/Seal Forms
 
-**[Figure 2.12]** Evolution of Hydraulics & Flow radicals:
+**Figure 2.12** Evolution of Flow & Hydraulics radicals (Section 2.12). Shows complete water phase cycle: ice (冰) ⇄ liquid (流川江) ⇄ vapor (气), demonstrating thermodynamic understanding.
 
-**(A) 水 (shuǐ) → 氵 (radical form)**
-- Oracle bone forms (20+ attestations): Clear flowing water with ripples/streams
-- Bronze inscriptions (25+ attestations): Maintained flowing water depiction
-- Seal script: Simplified to three-dot form 氵when used as radical
-- Modern form: 水 (standalone) vs 氵(radical on left)
-- **250+ characters use氵radical**—comprehensive water categorization
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-㐬-seal.png" width="100" alt="㐬 seal"> | <img src="figures/characters/kaiti/char-㐬-kaiti.png" width="100" alt="㐬 kaiti"> |
+| (unavailable) | <img src="figures/characters/bronze/char-流-bronze.png" width="100" alt="流 bronze"> | <img src="figures/characters/seal/char-流-seal.png" width="100" alt="流 seal"> | <img src="figures/characters/kaiti/char-流-kaiti.png" width="100" alt="流 kaiti"> |
+| <img src="figures/characters/oracle/char-川-oracle.png" width="100" alt="川 oracle"> | <img src="figures/characters/bronze/char-川-bronze.png" width="100" alt="川 bronze"> | <img src="figures/characters/seal/char-川-seal.png" width="100" alt="川 seal"> | <img src="figures/characters/kaiti/char-川-kaiti.png" width="100" alt="川 kaiti"> |
+| (unavailable) | <img src="figures/characters/bronze/char-江-bronze.png" width="100" alt="江 bronze"> | <img src="figures/characters/seal/char-江-seal.png" width="100" alt="江 seal"> | <img src="figures/characters/kaiti/char-江-kaiti.png" width="100" alt="江 kaiti"> |
+| <img src="figures/characters/oracle/char-气-oracle.png" width="100" alt="气 oracle"> | <img src="figures/characters/bronze/char-气-bronze.png" width="100" alt="气 bronze"> | <img src="figures/characters/seal/char-气-seal.png" width="100" alt="气 seal"> | <img src="figures/characters/kaiti/char-气-kaiti.png" width="100" alt="气 kaiti"> |
+| (unavailable) | <img src="figures/characters/bronze/char-冰-bronze.png" width="100" alt="冰 bronze"> | <img src="figures/characters/seal/char-冰-seal.png" width="100" alt="冰 seal"> | <img src="figures/characters/kaiti/char-冰-kaiti.png" width="100" alt="冰 kaiti"> |
 
-**(B) 㐬 (liú) - Flowing Stream**
-- Oracle bone forms (8 attestations): Directional flow lines, streaming movement
-- Bronze inscriptions (12 attestations): Clear current/flow depiction
-- Seal script: Maintained flow pattern
-- Modern form: 㐬 (rare standalone, preserved in 流疏硫)
-- **Encodes dynamic flow** vs static 水
-
-**(C) 冫 (bīng) - Ice/Frozen**
-- Oracle bone forms (scarce): Frozen water representation
-- Bronze inscriptions (5 attestations): Ice/cold concept encoding
-- Seal script: Two-dot form 冫 representing ice/cold
-- Modern form: 冫 (used as radical for cold/freezing characters)
-- **Phase transition knowledge**
-
-**(D) 江 (jiāng) - River = Water's Work**
-- (See Section 2.7 Figure 2.7F for detailed analysis)
-- Composition: 氵+ 工
-- Physics insight: **Rivers perform erosive work** (cutting channels, transporting sediment)
-- Proto-fluid dynamics: Natural forces as mechanical agents
-
-**(E) Hydraulic Phenomena Diagram**
-- **Laminar vs turbulent flow**: Characters distinguish smooth (流) vs chaotic (渦 vortex) flow
-- **Wave formation**: 波 (surface waves) from wind-water interaction
-- **Erosion process**: Rivers (江) cutting valleys, depositing sediment
-- **Phase transitions**: Water (氵) ⇄ ice (冫) with temperature change
-- Shows sophisticated **observational fluid dynamics**
-
-**(F) Archaeological Hydraulic Engineering**
-- **Dujiangyan irrigation system** (316 BCE, still functional): Flow division without dams
-- **Canal construction**: Understanding gradient, flow rate, sedimentation
-- **Flood control**: Yellow River management requiring flow dynamics knowledge
-- Demonstrates practical application of encoded hydraulic principles
-
-**[Extended oracle bone images and ancient hydraulic engineering site photographs in Appendix L]**
-
----
 
 #### (4) Validation
 
-**[Table 2.24]** Validation summary for Section 2.12 hydraulic radicals:
+**Table 2.24** Validation summary for Section 2.12 hydraulic radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -1817,11 +1475,8 @@ These engineering achievements demonstrate that character-encoded hydraulic prin
 
 ---
 
-**[End of Section 2.12]**
 
----
-
-### 2.13 ADVANCED CONCEPTS - Sophisticated Philosophy
+### 2.13 ADVANCED CONCEPTS - Philosophical Abstraction
 
 #### (1) Background
 
@@ -1854,7 +1509,7 @@ This demonstrates Bronze Age Chinese developed **abstract conceptual frameworks*
 
 #### (2) Semantic Networks
 
-**[Table 2.25]** Semantic networks of Advanced Concepts radicals:
+**Table 2.25** Semantic networks of Advanced Concepts radicals:
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
@@ -1906,64 +1561,20 @@ This 95%+ coherence validates 艮 = visibility/sight with **scientific confidenc
 
 #### (3) Oracle/Bronze/Seal Forms
 
-**[Figure 2.13]** Evolution of Advanced Concepts radicals:
+**Figure 2.13** Evolution of Advanced Concepts radicals (Section 2.13). Shows philosophical abstractions: spatial metaphors (尧烧晓), perceptual boundaries (艮), opposition (屰), and dialectical thinking (鬲).
 
-**(A) 鬲 (lì) - Tripod Vessel**
-- Oracle bone forms (10 attestations): Detailed three-legged vessel with perforated structure visible
-- Bronze inscriptions (15 attestations): Clear tripod with separation/infusion function
-- Seal script: Simplified geometric form (lost perforations detail)
-- Modern form: 鬲 (rare standalone, preserved in 融隔膈)
-- **Dialectical function**: Simultaneously separates AND fuses
-
-**(B) 屰 (nì) - Reversal/Opposition**
-- Oracle bone forms (8 attestations): Inverted/reversed figure or opposed direction
-- Bronze inscriptions (12 attestations): Maintained opposition/reversal concept
-- Seal script: Abstracted directional opposition
-- Modern form: 屰 (rare standalone, preserved in 逆塑溯)
-- **Encodes directional opposition**
-
-**(C) 艮 (gěn) - Visibility/Sight**
-- Oracle bone forms (scarce): Eye with emphasis (focused seeing or boundary)
-- Bronze inscriptions (8 attestations): Sight/visibility concept
-- Seal script: Abstract form (original optical meaning obscured)
-- Modern form: 艮 (preserved in 19+ characters with **95%+ coherence**)
-- **Shuowen wrong ("stiff/hard")**: Network analysis reveals true meaning = visibility
-
-**(D) 尧 (yáo) - Elevation/Height**
-- Oracle bone forms (6 attestations): Elevated platform or tall structure
-- Bronze inscriptions (10 attestations): Height/elevation concept
-- Seal script: Maintained elevation structure
-- Modern form: 尧 (preserved in 燒曉翹澆)
-- **Physical height → metaphorical excellence**
-
-**(E) 乇 (tuō) - Grass Flowering**
-- Oracle bone forms (5 attestations): Grass with flowering/fruiting head
-- Bronze inscriptions (8 attestations): Natural growth culmination
-- Seal script: Simplified plant form
-- Modern form: 乇 (rare standalone, preserved in compounds)
-- **Natural cycle observation**
-
-**(F) Dialectical Thinking Diagram - 鬲 Vessel**
-```
-      [Heat from below]
-             ↑
-    ══════════════════
-    ║ Solid Food    ║  ← Separates from liquid
-    ║ ∴ ∴ ∴ ∴ ∴ ∴  ║  ← Perforations
-    ╠══════════════════╣
-    ║   Liquid/Soup  ║  ← Flavors infuse upward
-    ╚═╦═╗   ╔═╦═════╝
-      ║ ║   ║ ║         ← Three legs
-```
-**Simultaneous separation AND fusion** = dialectical process
-
-**[Extended oracle bone images and bronze vessel photographs in Appendix M]**
-
----
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| <img src="figures/characters/oracle/char-尧-oracle.png" width="100" alt="尧 oracle"> | (unavailable) | <img src="figures/characters/seal/char-尧-seal.png" width="100" alt="尧 seal"> | <img src="figures/characters/kaiti/char-尧-kaiti.png" width="100" alt="尧 kaiti"> |
+| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-烧-seal.png" width="100" alt="烧 seal"> | <img src="figures/characters/kaiti/char-烧-kaiti.png" width="100" alt="烧 kaiti"> |
+| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-晓-seal.png" width="100" alt="晓 seal"> | <img src="figures/characters/kaiti/char-晓-kaiti.png" width="100" alt="晓 kaiti"> |
+| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-艮-seal.png" width="100" alt="艮 seal"> | <img src="figures/characters/kaiti/char-艮-kaiti.png" width="100" alt="艮 kaiti"> |
+| <img src="figures/characters/oracle/char-屰-oracle.png" width="100" alt="屰 oracle"> | <img src="figures/characters/bronze/char-屰-bronze.png" width="100" alt="屰 bronze"> | <img src="figures/characters/seal/char-屰-seal.png" width="100" alt="屰 seal"> | <img src="figures/characters/kaiti/char-屰-kaiti.png" width="100" alt="屰 kaiti"> |
+| <img src="figures/characters/oracle/char-鬲-oracle.png" width="100" alt="鬲 oracle"> | <img src="figures/characters/bronze/char-鬲-bronze.png" width="100" alt="鬲 bronze"> | <img src="figures/characters/seal/char-鬲-seal.png" width="100" alt="鬲 seal"> | <img src="figures/characters/kaiti/char-鬲-kaiti.png" width="100" alt="鬲 kaiti"> |
 
 #### (4) Validation
 
-**[Table 2.26]** Validation summary for Section 2.13 advanced concept radicals:
+**Table 2.26** Validation summary for Section 2.13 advanced concept radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -2027,41 +1638,13 @@ The 95%+ network coherence for 艮 (visibility) represents our **strongest empir
 
 ---
 
-**[End of Section 2.13]**
-
----
-
-**[END OF ALL CASE STUDY SECTIONS 2.1-2.13]**
-
-**SECTIONS COMPLETED:**
-1. ✓ Early Human Society (人 女 母)
-2. ✓ Nature Observation (金木水火土 日月星)
-3. ✓ Hunting & Domestication (犬 器 豕 家)
-4. ✓ Cutting Tools (乂 刀 力)
-5. ✓ Agricultural Development (男 田 良 甫 禾)
-6. ✓ Power Shift (父 刀把子)
-7. ✓ Mechanical Work (工 功 巧 乍 作 巠)
-8. ✓ Metallurgy Development (金 冶)
-9. ✓ Military & Conflict (戈 矛 弓)
-10. ✓ Counting & Time (甲乙丙丁 子丑寅卯 一二三)
-11. ✓ Measurement (斤 斗 尺 寸)
-12. ✓ Hydraulics & Flow (氵㐬 冫 江)
-13. ✓ Advanced Concepts (鬲 屰 艮 尧 乇)
-
-**Total: 13 sections, ~50+ semantic radicals analyzed**
-
-**Ready for integration into main paper file.**
-
-
----
-
 ## 3. DISCUSSION
 
 After examining these thirteen chronological case studies—from human biological foundations (人 女 母) through cosmological observations (金木水火土 日月星), hunting innovations (犬 器), agricultural transformations (良 甫 田), tool engineering (乂 刀 力), patriarchal power consolidation (父 刀把子), mechanical breakthroughs (工 乍 巠), metallurgical revolution (金 冶), military organization (戈 矛 弓), abstract time-keeping (干支), standardized measurement (斤 斗 尺 寸), hydraulic understanding (氵㐬 江), and sophisticated natural philosophy (鬲 屰 艮)—a fundamental pattern emerges: **Chinese characters were not merely symbols for encoding speech, but served as institutional recording systems preserving survival-critical knowledge across generations.**
 
 ### 3.1 Chinese Writing as Social Recording System
 
-**The conventional view treats Chinese characters as a writing system—a means of encoding spoken language in visual form.** Our chronological analysis of 50+ semantic radicals with oracle bone evidence reveals a fundamental reinterpretation: **Chinese characters did not originate as transcription of speech, but as a social recording system designed to preserve institutional memory across time.**
+**The conventional view treats Chinese characters as a writing system—a means of encoding spoken language in visual form.** Our chronological analysis of 50+ semantic radicals with oracle bone evidence reveals a fundamental reinterpretation: **Chinese characters did not originate as transcription of speech, but as a social recording system designed to preserve collective memory across time.**
 
 This distinction transforms our understanding of why Chinese writing took its unique pictographic-logographic form, and why it preserves archaeological knowledge unparalleled in other writing traditions.
 
@@ -2325,7 +1908,7 @@ These methodological advances enable **systematic recovery of ancient knowledge*
 
 ## 4. CONCLUSION
 
-This paper has examined Chinese characters through a fundamentally different lens—not as a writing system for encoding speech, but as **living fossils** preserving 3,200+ years of human cognitive and technological evolution. Through systematic analysis of 50+ semantic radicals with oracle bone evidence, organized chronologically from biological foundations through sophisticated philosophy, we have demonstrated that Chinese characters serve a **dual purpose**: they function simultaneously as **linguistic symbols for communication** AND as **encoded repositories of institutional knowledge** about early civilization.
+This paper has examined Chinese characters through a fundamentally different lens—not as a writing system for encoding speech, but as **living fossils** preserving 3,200+ years of human cognitive and technological evolution. Through systematic analysis of 50+ semantic radicals with oracle bone evidence, organized chronologically from biological foundations through sophisticated philosophy, we have demonstrated that Chinese characters serve a **dual purpose**: they function simultaneously as **linguistic symbols for communication** AND as **encoded repositories of collective knowledge** about early civilization.
 
 ### 4.1 The Dual-Purpose Nature of Chinese Characters
 
@@ -2518,74 +2101,61 @@ This is not merely writing—it is **cultural DNA**, encoding thousands of years
 
 ## ACKNOWLEDGMENTS
 
-The author sincerely thanks Richard Sears for his website that provides invaluable information on Oracle bone and bronze inscriptions and Seal scripts, which has enabled this work. The author is grateful to AI assistance by Claude in literature research, data analysis, and draft writing.
+The author sincerely thanks Richard Sears for his website that provides invaluable information on Oracle bone and bronze inscriptions and Seal scripts, which has contributed greatly to this work. The author is grateful to AI assistance by Claude in literature research, data analysis, and draft writing.
 
 
 ## REFERENCES
 
-### Primary Historical Sources
+##### Primary Historical Sources
 
 - 許慎 (Xu Shen). 100 CE. *說文解字 (Shuowen Jiezi)*. Digital edition: https://www.shuowen.org/
 - Kangxi Emperor (康熙帝). 1716 CE. *康熙字典 (Kangxi Dictionary)*. https://en.wikipedia.org/wiki/Kangxi_Dictionary
 
-### Oracle Bone and Bronze Inscription Studies
+##### Oracle Bone and Bronze Inscription Studies
 
 - Keightley, David N. 1978. *Sources of Shang History: The Oracle-Bone Inscriptions of Bronze Age China*. University of California Press.
 - Keightley, David N. 2000. *The Ancestral Landscape: Time, Space, and Community in Late Shang China (ca. 1200-1045 B.C.)*. Institute of East Asian Studies, University of California, Berkeley.
 - Shaughnessy, Edward L. 1991. *Sources of Western Zhou History: Inscribed Bronze Vessels*. University of California Press.
 - Chinese Academy of Social Sciences, Institute of Archaeology. *Jiaguwen Heji* 甲骨文合集 (Compendium of Oracle Bone Inscriptions). Multiple volumes.
 
-### Chinese Writing System Evolution
+##### Chinese Writing System Evolution
 
 - Boltz, William G. 1994. *The Origin and Early Development of the Chinese Writing System*. American Oriental Society.
 - Qiu Xigui (裘錫圭). 2000. *Chinese Writing* (translated by Gilbert L. Mattos and Jerry Norman). Society for the Study of Early China and Institute of East Asian Studies, University of California, Berkeley.
 - Norman, Jerry. 1988. *Chinese*. Cambridge University Press.
 - DeFrancis, John. 1984. *The Chinese Language: Fact and Fantasy*. University of Hawaii Press.
 
-### Archaeological and Material Culture Studies
+##### Archaeological and Material Culture Studies
 
 - Chang, Kwang-chih. 1980. *Shang Civilization*. Yale University Press.
 - Allan, Sarah. 1991. *The Shape of the Turtle: Myth, Art, and Cosmos in Early China*. State University of New York Press.
 - Bagley, Robert. 1999. "Shang Archaeology." In *The Cambridge History of Ancient China*, edited by Michael Loewe and Edward L. Shaughnessy, 124-231. Cambridge University Press.
 - Thorp, Robert L. 2006. *China in the Early Bronze Age: Shang Civilization*. University of Pennsylvania Press.
 
-### Semantic and Linguistic Analysis
+##### Semantic and Linguistic Analysis
 
 - Hannas, William C. 1997. *Asia's Orthographic Dilemma*. University of Hawaii Press.
 - Wieger, L. 1965. *Chinese Characters: Their Origin, Etymology, History, Classification and Signification*. Dover Publications (reprint of 1927 edition).
 - Karlgren, Bernhard. 1923. *Analytic Dictionary of Chinese and Sino-Japanese*. Paul Geuthner.
 
-### Digital Resources and Databases
+##### Digital Resources and Databases
 
 - Sears, Richard. *Chinese Etymology: Oracle Bone, Bronze, Seal, and Modern Character Database*. https://hanziyuan.net/
 - CC-CEDICT Project. *Chinese-English Dictionary Dataset*. https://www.mdbg.net/chinese/dictionary?page=cc-cedict
 - Chinese Text Project. *Pre-Qin and Han Dynasty Classical Chinese Texts*. https://ctext.org/
 
-### Contemporary Research
+##### Contemporary Research
 
 - Gong, W.G. 2025. "A New Exploration into Chinese Characters: from Simplification to Deeper Understanding." arXiv:2502.19428. https://arxiv.org/abs/2502.19428
 
-### General Reference Works
+##### General Reference Works
 
 - Wikipedia. "Chinese Characters." https://en.wikipedia.org/wiki/Chinese_characters
 - Wikipedia. "Oracle Bone Script." https://en.wikipedia.org/wiki/Oracle_bone_script
 - Wikipedia. "Kangxi Radicals." https://en.wikipedia.org/wiki/Kangxi_radicals
 - Wikipedia. "Shuowen Jiezi." https://en.wikipedia.org/wiki/Shuowen_Jiezi
 
-### AI Tools
+##### AI Tools
 
 - Anthropic. 2025. Claude 4.x Sonnet. https://claude.ai/
-
----
-
-**[END OF PAPER]**
-
-**Word count:** ~25,000 words
-**Sections completed:** Introduction (3 sections) + Case Studies (13 sections) + Discussion (5 sections) + Conclusion (5 sections) = 26 complete sections
-**Radicals analyzed:** 50+ with full evidence matrices
-**Network coherence validations:** 13 comprehensive tables
-**Oracle/bronze form diagrams:** 13 multi-panel figures (placeholders)
-**Archaeological corroboration:** Systematic across all sections
-**Title:** Chinese Characters as Living Fossils: Reading Early Civilization History Through Oracle
-**Status:** DRAFT COMPLETE - Ready for review, revision, and submission preparation
 

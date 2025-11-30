@@ -35,10 +35,12 @@ class FigureGenerator:
         self.latex_settings = self.settings.get('latex_settings', {})
         self.markdown_settings = self.settings.get('markdown_settings', {})
 
-    def generate_all_latex(self, output_dir="generated"):
+    def generate_all_latex(self, output_dir="generated", dry_run=False, filter_chars=None):
         """Generate LaTeX tables for all sections"""
         output_path = self.base_dir / output_dir
-        output_path.mkdir(exist_ok=True)
+
+        if not dry_run:
+            output_path.mkdir(exist_ok=True)
 
         generated_files = []
 
@@ -58,6 +60,12 @@ class FigureGenerator:
                         c for c in section['characters']
                         if c['hanzi'] in chars
                     ]
+
+                    # Apply character filter if provided
+                    if filter_chars:
+                        char_objects = [c for c in char_objects if c['hanzi'] in filter_chars]
+                        if not char_objects:
+                            continue  # Skip this figure if no matching characters
 
                     # Generate LaTeX
                     latex_content = self.generate_latex_table(
@@ -66,22 +74,29 @@ class FigureGenerator:
                         fig_id
                     )
 
-                    # Write to file
                     filename = f"{fig_id}-evolution.tex"
                     filepath = output_path / filename
 
-                    with open(filepath, 'w', encoding='utf-8') as f:
-                        f.write(latex_content)
+                    if dry_run:
+                        print(f"Would generate: {filename}")
+                        print(f"  Characters: {', '.join([c['hanzi'] for c in char_objects])}")
+                        print(f"  Caption: {caption[:60]}...")
+                    else:
+                        # Write to file
+                        with open(filepath, 'w', encoding='utf-8') as f:
+                            f.write(latex_content)
+                        print(f"✓ Generated: {filename}")
 
                     generated_files.append(filename)
-                    print(f"✓ Generated: {filename}")
 
         return generated_files
 
-    def generate_all_markdown(self, output_dir="generated"):
+    def generate_all_markdown(self, output_dir="generated", dry_run=False, filter_chars=None):
         """Generate Markdown tables for all sections"""
         output_path = self.base_dir / output_dir
-        output_path.mkdir(exist_ok=True)
+
+        if not dry_run:
+            output_path.mkdir(exist_ok=True)
 
         generated_files = []
 
@@ -102,6 +117,12 @@ class FigureGenerator:
                         if c['hanzi'] in chars
                     ]
 
+                    # Apply character filter if provided
+                    if filter_chars:
+                        char_objects = [c for c in char_objects if c['hanzi'] in filter_chars]
+                        if not char_objects:
+                            continue  # Skip this figure if no matching characters
+
                     # Generate Markdown
                     md_content = self.generate_markdown_table(
                         char_objects,
@@ -109,15 +130,20 @@ class FigureGenerator:
                         fig_id
                     )
 
-                    # Write to file
                     filename = f"{fig_id}-evolution.md"
                     filepath = output_path / filename
 
-                    with open(filepath, 'w', encoding='utf-8') as f:
-                        f.write(md_content)
+                    if dry_run:
+                        print(f"Would generate: {filename}")
+                        print(f"  Characters: {', '.join([c['hanzi'] for c in char_objects])}")
+                        print(f"  Caption: {caption[:60]}...")
+                    else:
+                        # Write to file
+                        with open(filepath, 'w', encoding='utf-8') as f:
+                            f.write(md_content)
+                        print(f"✓ Generated: {filename}")
 
                     generated_files.append(filename)
-                    print(f"✓ Generated: {filename}")
 
         return generated_files
 
@@ -131,9 +157,9 @@ class FigureGenerator:
         latex = []
         latex.append("\\begin{figure}[htbp]")
         latex.append("\\centering")
-        latex.append("\\begin{tabular}{|c|c|c|c|l|}")
+        latex.append("\\begin{tabular}{|c|c|c|c|}")
         latex.append("\\hline")
-        latex.append("\\textbf{Oracle} & \\textbf{Bronze} & \\textbf{Seal} & \\textbf{Modern} & \\textbf{Character} \\\\")
+        latex.append("\\textbf{Oracle} & \\textbf{Bronze} & \\textbf{Seal} & \\textbf{Kaiti} \\\\")
         latex.append("\\hline")
 
         # Add rows for each character
@@ -162,7 +188,7 @@ class FigureGenerator:
         oracle = files.get('oracle', '')
         bronze = files.get('bronze', '')
         seal = files.get('seal', '')
-        modern = files.get('modern', '')
+        kaiti = files.get('kaiti', '')
 
         # Character info
         char_info = f"{hanzi} ({pinyin}) - {meaning}"
@@ -174,35 +200,32 @@ class FigureGenerator:
         if oracle:
             cells.append(f"\\includegraphics[width={col_width}]{{figures/characters/oracle/{oracle}}}")
         else:
-            cells.append("\\textit{(unavailable)}")
+            cells.append("\\textit{{(unavail.)}}")
 
         # Bronze
         if bronze:
             cells.append(f"\\includegraphics[width={col_width}]{{figures/characters/bronze/{bronze}}}")
         else:
-            cells.append("\\textit{(unavailable)}")
+            cells.append("\\textit{{(unavail.)}}")
 
         # Seal
         if seal:
             cells.append(f"\\includegraphics[width={col_width}]{{figures/characters/seal/{seal}}}")
         else:
-            cells.append("\\textit{(unavailable)}")
+            cells.append("\\textit{{(unavail.)}}")
 
-        # Modern (use Unicode character or image)
-        if modern:
-            cells.append(f"\\includegraphics[width={col_width}]{{figures/characters/modern/{modern}}}")
+        # Kaiti
+        if kaiti:
+            cells.append(f"\\includegraphics[width={col_width}]{{figures/characters/kaiti/{kaiti}}}")
         else:
-            cells.append(f"{{{font_modern} {hanzi}}}")
-
-        # Character info
-        cells.append(char_info)
+            cells.append("\\textit{{(unavail.)}}")
 
         return ' & '.join(cells) + ' \\\\'
 
     def generate_markdown_table(self, characters, caption, label):
         """Generate Markdown table for character evolution"""
 
-        img_width = self.markdown_settings.get('image_width', '100px')
+        img_width = self.markdown_settings.get('image_width', '100')
         use_unicode = self.markdown_settings.get('use_unicode_modern', True)
 
         # Start table
@@ -211,8 +234,8 @@ class FigureGenerator:
         md.append("")
         md.append(caption)
         md.append("")
-        md.append("| Oracle | Bronze | Seal | Modern | Character |")
-        md.append("|--------|--------|------|--------|-----------|")
+        md.append("| Oracle | Bronze | Seal | Kaiti |")
+        md.append("|--------|--------|------|-------|")
 
         # Add rows
         for char in characters:
@@ -233,7 +256,7 @@ class FigureGenerator:
         oracle = files.get('oracle', '')
         bronze = files.get('bronze', '')
         seal = files.get('seal', '')
-        modern = files.get('modern', '')
+        kaiti = files.get('kaiti', '')
 
         # Character info
         char_info = f"{hanzi} ({pinyin}) - {meaning}"
@@ -243,32 +266,27 @@ class FigureGenerator:
 
         # Oracle
         if oracle:
-            cells.append(f"![oracle](characters/oracle/{oracle})")
+            cells.append(f'<img src="figures/characters/oracle/{oracle}" width="{img_width}" alt="{hanzi} oracle">')
         else:
-            cells.append("(unavailable)")
+            cells.append("(unavail.)")
 
         # Bronze
         if bronze:
-            cells.append(f"![bronze](characters/bronze/{bronze})")
+            cells.append(f'<img src="figures/characters/bronze/{bronze}" width="{img_width}" alt="{hanzi} bronze">')
         else:
-            cells.append("(unavailable)")
+            cells.append("(unavail.)")
 
         # Seal
         if seal:
-            cells.append(f"![seal](characters/seal/{seal})")
+            cells.append(f'<img src="figures/characters/seal/{seal}" width="{img_width}" alt="{hanzi} seal">')
         else:
-            cells.append("(unavailable)")
+            cells.append("(unavail.)")
 
-        # Modern
-        if use_unicode:
-            cells.append(hanzi)
-        elif modern:
-            cells.append(f"![modern](characters/modern/{modern})")
+        # Kaiti
+        if kaiti:
+            cells.append(f'<img src="figures/characters/kaiti/{kaiti}" width="{img_width}" alt="{hanzi} kaiti">')
         else:
-            cells.append(hanzi)
-
-        # Character info
-        cells.append(char_info)
+            cells.append("(unavail.)")
 
         return '| ' + ' | '.join(cells) + ' |'
 
@@ -347,100 +365,75 @@ class FigureGenerator:
         print("\n" + "="*60)
 
 
-@click.group(invoke_without_command=True)
+@click.command()
 @click.option('--config', default='figures-config.yaml',
               help='Path to configuration file')
-@click.pass_context
-def cli(ctx, config):
+@click.option('--format', 'output_format',
+              type=click.Choice(['latex', 'markdown', 'all'], case_sensitive=False),
+              default='markdown',
+              help='Output format: latex, markdown, or all (default: markdown)')
+@click.option('--chars', default=None,
+              help='Space-delimited list of characters to process (e.g., "人 女 母")')
+@click.option('--dry-run', is_flag=True,
+              help='Preview what would be generated without writing files')
+@click.option('--status', 'show_status', is_flag=True,
+              help='Show generation status report only')
+def cli(config, output_format, chars, dry_run, show_status):
     """Generate figure tables from figures-config.yaml
 
     Examples:
-        python generate_figures.py latex
-        python generate_figures.py markdown
-        python generate_figures.py all
-        python generate_figures.py status
+        python generate_figures.py --format all
+        python generate_figures.py --format latex --chars "人 父 分"
+        python generate_figures.py --format markdown --dry-run
+        python generate_figures.py --chars "甲 乙 丙 丁" --dry-run
+        python generate_figures.py --status
     """
-    # Store config in context for subcommands
-    ctx.ensure_object(dict)
-    ctx.obj['config'] = config
-
-    # If no subcommand, show help
-    if ctx.invoked_subcommand is None:
-        click.echo(ctx.get_help())
-
-
-@cli.command()
-@click.pass_context
-def latex(ctx):
-    """Generate LaTeX tables only"""
-    config = ctx.obj['config']
     generator = FigureGenerator(config)
+    filter_chars = chars.split() if chars else None
 
+    # Status report only
+    if show_status:
+        generator.generate_status_report()
+        return
+
+    # Show header
     click.echo("\n" + "="*60)
-    click.echo("GENERATING LATEX TABLES")
+    if dry_run:
+        click.echo(f"DRY RUN: {output_format.upper()} TABLES")
+    else:
+        click.echo(f"GENERATING {output_format.upper()} TABLES")
+    if filter_chars:
+        click.echo(f"Filtering characters: {' '.join(filter_chars)}")
     click.echo("="*60)
 
-    click.echo("\nGenerating LaTeX tables...")
-    latex_files = generator.generate_all_latex()
-    click.secho(f"\n✓ Generated {len(latex_files)} LaTeX files", fg='green')
+    # Generate based on format
+    if output_format in ['latex', 'all']:
+        click.echo("\nGenerating LaTeX tables...")
+        latex_files = generator.generate_all_latex(dry_run=dry_run, filter_chars=filter_chars)
+        if dry_run:
+            click.secho(f"💡 Would generate {len(latex_files)} LaTeX files", fg='yellow')
+        else:
+            click.secho(f"✓ Generated {len(latex_files)} LaTeX files", fg='green')
 
+    if output_format in ['markdown', 'all']:
+        click.echo("\nGenerating Markdown tables...")
+        md_files = generator.generate_all_markdown(dry_run=dry_run, filter_chars=filter_chars)
+        if dry_run:
+            click.secho(f"💡 Would generate {len(md_files)} Markdown files", fg='yellow')
+        else:
+            click.secho(f"✓ Generated {len(md_files)} Markdown files", fg='green')
+
+    # Show completion
     click.echo("\n" + "="*60)
-    generator.generate_status_report()
-
-
-@cli.command()
-@click.pass_context
-def markdown(ctx):
-    """Generate Markdown tables only"""
-    config = ctx.obj['config']
-    generator = FigureGenerator(config)
-
-    click.echo("\n" + "="*60)
-    click.echo("GENERATING MARKDOWN TABLES")
+    if dry_run:
+        click.echo("DRY RUN COMPLETE")
+        click.secho("Run without --dry-run to actually create files", fg='yellow')
+    else:
+        click.echo("GENERATION COMPLETE")
     click.echo("="*60)
 
-    click.echo("\nGenerating Markdown tables...")
-    md_files = generator.generate_all_markdown()
-    click.secho(f"\n✓ Generated {len(md_files)} Markdown files", fg='green')
-
-    click.echo("\n" + "="*60)
-    generator.generate_status_report()
-
-
-@cli.command()
-@click.pass_context
-def all(ctx):
-    """Generate both LaTeX and Markdown tables"""
-    config = ctx.obj['config']
-    generator = FigureGenerator(config)
-
-    click.echo("\n" + "="*60)
-    click.echo("GENERATING ALL TABLES")
-    click.echo("="*60)
-
-    click.echo("\nGenerating LaTeX tables...")
-    latex_files = generator.generate_all_latex()
-    click.secho(f"✓ Generated {len(latex_files)} LaTeX files", fg='green')
-
-    click.echo("\nGenerating Markdown tables...")
-    md_files = generator.generate_all_markdown()
-    click.secho(f"✓ Generated {len(md_files)} Markdown files", fg='green')
-
-    click.echo("\n" + "="*60)
-    click.echo("GENERATION COMPLETE")
-    click.echo("="*60)
-
-    generator.generate_status_report()
-
-
-@cli.command()
-@click.pass_context
-def status(ctx):
-    """Show progress status report"""
-    config = ctx.obj['config']
-    generator = FigureGenerator(config)
     generator.generate_status_report()
 
 
 if __name__ == '__main__':
-    cli(obj={})
+    cli()

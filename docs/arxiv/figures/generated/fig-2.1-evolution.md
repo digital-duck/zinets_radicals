@@ -2,10 +2,10 @@
 
 Evolution of Early Human Society radicals showing biological foundations (Section 2.1). Oracle bone and bronze forms depict gender differentiation and maternal relationships.
 
-| Oracle | Bronze | Seal | Modern | Character |
-|--------|--------|------|--------|-----------|
-| ![oracle](characters/oracle/char-ren-oracle.png) | ![bronze](characters/bronze/char-ren-bronze.png) | ![seal](characters/seal/char-ren-seal.png) | 人 | 人 (ren) - Person, human |
-| ![oracle](characters/oracle/char-nv-oracle.png) | ![bronze](characters/bronze/char-nv-bronze.png) | ![seal](characters/seal/char-nv-seal.png) | 女 | 女 (nv) - Woman, female |
-| ![oracle](characters/oracle/char-mu-oracle.png) | ![bronze](characters/bronze/char-mu-bronze.png) | ![seal](characters/seal/char-mu-seal.png) | 母 | 母 (mu) - Mother |
-| (unavailable) | (unavailable) | ![seal](characters/seal/char-niang-seal.png) | 娘 | 娘 (niang) - Mother, young woman |
-| ![oracle](characters/oracle/char-hao-oracle.png) | ![bronze](characters/bronze/char-hao-bronze.png) | ![seal](characters/seal/char-hao-seal.png) | 好 | 好 (hao) - Good, like |
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| <img src="figures/characters/oracle/char-人-oracle.png" width="100" alt="人 oracle"> | <img src="figures/characters/bronze/char-人-bronze.png" width="100" alt="人 bronze"> | <img src="figures/characters/seal/char-人-seal.png" width="100" alt="人 seal"> | <img src="figures/characters/kaiti/char-人-kaiti.png" width="100" alt="人 kaiti"> |
+| <img src="figures/characters/oracle/char-女-oracle.png" width="100" alt="女 oracle"> | <img src="figures/characters/bronze/char-女-bronze.png" width="100" alt="女 bronze"> | <img src="figures/characters/seal/char-女-seal.png" width="100" alt="女 seal"> | <img src="figures/characters/kaiti/char-女-kaiti.png" width="100" alt="女 kaiti"> |
+| <img src="figures/characters/oracle/char-母-oracle.png" width="100" alt="母 oracle"> | <img src="figures/characters/bronze/char-母-bronze.png" width="100" alt="母 bronze"> | <img src="figures/characters/seal/char-母-seal.png" width="100" alt="母 seal"> | <img src="figures/characters/kaiti/char-母-kaiti.png" width="100" alt="母 kaiti"> |
+| (unavail.) | (unavail.) | (unavail.) | (unavail.) |
+| <img src="figures/characters/oracle/char-好-oracle.png" width="100" alt="好 oracle"> | <img src="figures/characters/bronze/char-好-bronze.png" width="100" alt="好 bronze"> | <img src="figures/characters/seal/char-好-seal.png" width="100" alt="好 seal"> | <img src="figures/characters/kaiti/char-好-kaiti.png" width="100" alt="好 kaiti"> |
