@@ -1,0 +1,1167 @@
+section_2_1:
+  id: '2.1'
+  title: Early Human Society - Biological Foundation
+  max_per_figure: 6
+  characters:
+  - hanzi: 人
+    pinyin: ren
+    unicode: 4EBA
+    meaning: Person, human
+    files:
+      oracle: char-人-oracle.png
+      bronze: char-人-bronze.png
+      seal: char-人-seal.png
+      modern: char-人-modern.png
+    status: ok
+    notes: Standing figure, fundamental pictograph
+  - hanzi: 女
+    pinyin: nv
+    unicode: '5973'
+    meaning: Woman, female
+    files:
+      oracle: char-女-oracle.png
+      bronze: char-女-bronze.png
+      seal: char-女-seal.png
+      modern: char-女-modern.png
+    status: ok
+    notes: Kneeling figure, biological foundation
+  - hanzi: 母
+    pinyin: mu
+    unicode: 6BCD
+    meaning: Mother
+    files:
+      oracle: char-母-oracle.png
+      bronze: char-母-bronze.png
+      seal: char-母-seal.png
+      modern: char-母-modern.png
+    status: ok
+    notes: Woman with emphasized breasts
+  - hanzi: 娘
+    pinyin: niang
+    unicode: 5A18
+    meaning: Mother, young woman
+    files:
+      oracle: ''
+      bronze: ''
+      seal: ''
+      modern: ''
+    status: pending
+    notes: 女 + 良, later composition
+  - hanzi: 好
+    pinyin: hao
+    unicode: 597D
+    meaning: Good, like
+    files:
+      oracle: char-好-oracle.png
+      bronze: char-好-bronze.png
+      seal: char-好-seal.png
+      modern: char-好-modern.png
+    status: ok
+    notes: 女 + 子 (woman + child = good)
+  figures:
+  - id: fig-2.1
+    caption: Evolution of Early Human Society radicals showing biological foundations
+      (Section 2.1). Oracle bone and bronze forms depict gender differentiation and
+      maternal relationships.
+    characters:
+    - 人
+    - 女
+    - 母
+    - 好
+    - 娘
+section_2_2:
+  id: '2.2'
+  title: Nature Observation - Cosmology Formation
+  max_per_figure: 6
+  characters:
+  - hanzi: 金
+    pinyin: jin
+    unicode: 91D1
+    meaning: Metal, gold
+    files:
+      oracle: ''
+      bronze: char-金-bronze.png
+      seal: char-金-seal.png
+      modern: char-金-modern.png
+    status: ok
+    notes: Metal objects or abstract symbol
+  - hanzi: 木
+    pinyin: mu
+    unicode: '6728'
+    meaning: Wood, tree
+    files:
+      oracle: char-木-oracle.png
+      bronze: char-木-bronze.png
+      seal: char-木-seal.png
+      modern: char-木-modern.png
+    status: ok
+    notes: Tree with roots and branches
+  - hanzi: 水
+    pinyin: shui
+    unicode: 6C34
+    meaning: Water
+    files:
+      oracle: char-水-oracle.png
+      bronze: char-水-bronze.png
+      seal: char-水-seal.png
+      modern: char-水-modern.png
+    status: ok
+    notes: Flowing water pattern
+  - hanzi: 火
+    pinyin: huo
+    unicode: 706B
+    meaning: Fire
+    files:
+      oracle: char-火-oracle.png
+      bronze: ''
+      seal: char-火-seal.png
+      modern: char-火-modern.png
+    status: ok
+    notes: Flames rising upward
+  - hanzi: 土
+    pinyin: tu
+    unicode: 571F
+    meaning: Earth, soil
+    files:
+      oracle: char-土-oracle.png
+      bronze: char-土-bronze.png
+      seal: char-土-seal.png
+      modern: char-土-modern.png
+    status: ok
+    notes: Earth altar or mound
+  - hanzi: 日
+    pinyin: ri
+    unicode: 65E5
+    meaning: Sun, day
+    files:
+      oracle: char-日-oracle.png
+      bronze: char-日-bronze.png
+      seal: char-日-seal.png
+      modern: char-日-modern.png
+    status: ok
+    notes: Circle with center dot (sun)
+  - hanzi: 月
+    pinyin: yue
+    unicode: '6708'
+    meaning: Moon, month
+    files:
+      oracle: char-月-oracle.png
+      bronze: char-月-bronze.png
+      seal: char-月-seal.png
+      modern: char-月-modern.png
+    status: ok
+    notes: Crescent moon
+  - hanzi: 星
+    pinyin: xing
+    unicode: 661F
+    meaning: Star
+    files:
+      oracle: char-星-oracle.png
+      bronze: char-星-bronze.png
+      seal: char-星-seal.png
+      modern: char-星-modern.png
+    status: ok
+    notes: 生 + 日 (generation + sun)
+  figures:
+  - id: fig-2.2a
+    caption: 'Evolution of Five Elements (五行) radicals (Section 2.2a). Shows systematic
+      categorization of fundamental materials: metal, wood, water, fire, and earth.'
+    characters:
+    - 金
+    - 木
+    - 水
+    - 火
+    - 土
+  - id: fig-2.2b
+    caption: Evolution of Celestial Bodies radicals (Section 2.2b). Astronomical observations
+      encoded in sun, moon, and star characters.
+    characters:
+    - 日
+    - 月
+    - 星
+section_2_3:
+  id: '2.3'
+  title: Hunting & Domestication - Animal Relationships
+  max_per_figure: 6
+  characters:
+  - hanzi: 犬
+    pinyin: quan
+    unicode: 72AC
+    meaning: Dog / Trapped prey
+    files:
+      oracle: char-犬-oracle.png
+      bronze: char-犬-bronze.png
+      seal: char-犬-seal.png
+      modern: char-犬-modern.png
+    status: ok
+    notes: Animal in pit trap (NOT domesticated dog initially)
+  - hanzi: 器
+    pinyin: qi
+    unicode: '5668'
+    meaning: Implement, trap system
+    files:
+      oracle: ''
+      bronze: char-器-bronze.png
+      seal: char-器-seal.png
+      modern: char-器-modern.png
+    status: ok
+    notes: Four 犬 + 口 = coordinated pit trap system
+  - hanzi: 哭
+    pinyin: ku
+    unicode: 54ED
+    meaning: Cry, wail
+    files:
+      oracle: ''
+      bronze: ''
+      seal: char-哭-seal.png
+      modern: char-哭-modern.png
+    status: ok
+    notes: 口×2 + 犬 = wailing of trapped animals
+  - hanzi: 豕
+    pinyin: shi
+    unicode: 8C55
+    meaning: Pig
+    files:
+      oracle: char-豕-oracle.png
+      bronze: char-豕-bronze.png
+      seal: char-豕-seal.png
+      modern: char-豕-modern.png
+    status: ok
+    notes: Pig profile, domestication marker
+  - hanzi: 家
+    pinyin: jia
+    unicode: 5BB6
+    meaning: Home, family
+    files:
+      oracle: char-家-oracle.png
+      bronze: char-家-bronze.png
+      seal: char-家-seal.png
+      modern: char-家-modern.png
+    status: ok
+    notes: 宀 + 豕 = shelter + pig = settled home
+  figures:
+  - id: fig-2.3
+    caption: Evolution of Hunting & Domestication radicals (Section 2.3). Shows transition
+      from pit trap hunting (犬器哭) to pig domestication (豕家).
+    characters:
+    - 犬
+    - 器
+    - 哭
+    - 豕
+    - 家
+section_2_4:
+  id: '2.4'
+  title: Cutting & Inscribing - Tool Inventions
+  max_per_figure: 6
+  characters:
+  - hanzi: 乂
+    pinyin: yi
+    unicode: 4E42
+    meaning: Crossed cuts
+    files:
+      oracle: char-乂-oracle.png
+      bronze: ''
+      seal: char-乂-seal.png
+      modern: char-乂-modern.png
+    status: ok
+    notes: X-shaped cutting blades
+  - hanzi: 匕
+    pinyin: bi
+    unicode: '5315'
+    meaning: Dagger, spoon
+    files:
+      oracle: char-匕-oracle.png
+      bronze: char-匕-bronze.png
+      seal: char-匕-seal.png
+      modern: char-匕-modern.png
+    status: ok
+    notes: Small blade implement
+  - hanzi: 文
+    pinyin: wen
+    unicode: '6587'
+    meaning: Pattern, culture, writing
+    files:
+      oracle: char-文-oracle.png
+      bronze: char-文-bronze.png
+      seal: char-文-seal.png
+      modern: char-文-modern.png
+    status: ok
+    notes: 乂 + 人 = cutting/marking as culture
+  - hanzi: 刀
+    pinyin: dao
+    unicode: '5200'
+    meaning: Knife, blade
+    files:
+      oracle: char-刀-oracle.png
+      bronze: ''
+      seal: char-刀-seal.png
+      modern: char-刀-modern.png
+    status: ok
+    notes: Curved blade profile
+  - hanzi: 力
+    pinyin: li
+    unicode: 529B
+    meaning: Strength, force
+    files:
+      oracle: ''
+      bronze: char-力-bronze.png
+      seal: char-力-seal.png
+      modern: char-力-modern.png
+    status: ok
+    notes: Muscular arm or plow, force concept
+  figures:
+  - id: fig-2.4
+    caption: Evolution of Cutting & Inscribing radicals (Section 2.4). Shows progression
+      from cutting (乂匕刀) to symbolic marking (文) and force application (力).
+    characters:
+    - 乂
+    - 匕
+    - 文
+    - 刀
+    - 力
+section_2_5:
+  id: '2.5'
+  title: Agricultural Development - Settled Civilization
+  max_per_figure: 6
+  characters:
+  - hanzi: 男
+    pinyin: nan
+    unicode: '7537'
+    meaning: Male, man
+    files:
+      oracle: char-男-oracle.png
+      bronze: char-男-bronze.png
+      seal: char-男-seal.png
+      modern: char-男-modern.png
+    status: ok
+    notes: 田 + 力 = field labor specialization
+  - hanzi: 田
+    pinyin: tian
+    unicode: '7530'
+    meaning: Field
+    files:
+      oracle: char-田-oracle.png
+      bronze: char-田-bronze.png
+      seal: char-田-seal.png
+      modern: char-田-modern.png
+    status: ok
+    notes: Grid pattern of cultivated fields
+  - hanzi: 良
+    pinyin: liang
+    unicode: 826F
+    meaning: Good, seed testing apparatus
+    files:
+      oracle: char-良-oracle.png
+      bronze: char-良-bronze.png
+      seal: char-良-seal.png
+      modern: char-良-modern.png
+    status: ok
+    notes: Water-floating seed quality test device
+  - hanzi: 甫
+    pinyin: fu
+    unicode: 752B
+    meaning: Nursery, beginning
+    files:
+      oracle: char-甫-oracle.png
+      bronze: char-甫-bronze.png
+      seal: char-甫-seal.png
+      modern: char-甫-modern.png
+    status: ok
+    notes: Agricultural nursery system
+  - hanzi: 禾
+    pinyin: he
+    unicode: 79BE
+    meaning: Grain, rice plant
+    files:
+      oracle: char-禾-oracle.png
+      bronze: char-禾-bronze.png
+      seal: char-禾-seal.png
+      modern: char-禾-modern.png
+    status: ok
+    notes: Grain stalk with drooping head
+  figures:
+  - id: fig-2.5
+    caption: Evolution of Agricultural Development radicals (Section 2.5). Shows gendered
+      labor (男), field systems (田), seed testing (良), nursery cultivation (甫), and
+      grain plants (禾).
+    characters:
+    - 男
+    - 田
+    - 良
+    - 甫
+    - 禾
+section_2_6:
+  id: '2.6'
+  title: Power Shift - Patriarchy Emergence
+  max_per_figure: 6
+  characters:
+  - hanzi: 父
+    pinyin: fu
+    unicode: '7236'
+    meaning: Father (with axe)
+    files:
+      oracle: char-父-oracle.png
+      bronze: char-父-bronze.png
+      seal: char-父-seal.png
+      modern: char-父-modern.png
+    status: ok
+    notes: Hand holding axe = patriarchal authority
+  - hanzi: 交
+    pinyin: jiao
+    unicode: 4EA4
+    meaning: Intersect, exchange
+    files:
+      oracle: ''
+      bronze: char-交-bronze.png
+      seal: char-交-seal.png
+      modern: char-交-modern.png
+    status: ok
+    notes: Crossed legs/implements = exchange relationships
+  - hanzi: 斧
+    pinyin: fu-axe
+    unicode: 65A7
+    meaning: Axe
+    files:
+      oracle: char-斧-oracle.png
+      bronze: char-斧-bronze.png
+      seal: char-斧-seal.png
+      modern: char-斧-modern.png
+    status: ok
+    notes: 父 + 斤 = explicit axe tool
+  - hanzi: 爸
+    pinyin: ba
+    unicode: '7238'
+    meaning: Dad (informal)
+    files:
+      oracle: ''
+      bronze: ''
+      seal: ''
+      modern: char-爸-modern.png
+    status: pending
+    notes: 父 + 巴 = informal father term
+  - hanzi: 刀
+    pinyin: dao
+    unicode: '5200'
+    meaning: Knife (power symbol)
+    files:
+      oracle: char-刀-oracle.png
+      bronze: char-刀-bronze.png
+      seal: char-刀-seal.png
+      modern: char-刀-modern.png
+    status: ok
+    notes: Blade technology = power (刀把子 idiom)
+  figures:
+  - id: fig-2.6
+    caption: Evolution of Power Shift radicals (Section 2.6). Shows patriarchal authority
+      through metal tool monopoly (父斧), exchange relationships (交), and blade control
+      (刀).
+    characters:
+    - 父
+    - 交
+    - 斧
+    - 爸
+    - 刀
+section_2_7:
+  id: '2.7'
+  title: Craftsmanship - Engineering
+  max_per_figure: 6
+  characters:
+  - hanzi: 工
+    pinyin: gong
+    unicode: 5DE5
+    meaning: Work, craft
+    files:
+      oracle: char-工-oracle.png
+      bronze: char-工-bronze.png
+      seal: char-工-seal.png
+      modern: char-工-modern.png
+    status: ok
+    notes: Carpenter's square or work tool
+  - hanzi: 功
+    pinyin: gong-merit
+    unicode: 529F
+    meaning: Merit, achievement
+    files:
+      oracle: ''
+      bronze: char-功-bronze.png
+      seal: char-功-seal.png
+      modern: char-功-modern.png
+    status: ok
+    notes: 工 + 力 = work + force = achievement
+  - hanzi: 巧
+    pinyin: qiao
+    unicode: 5DE7
+    meaning: Skillful, clever
+    files:
+      oracle: ''
+      bronze: ''
+      seal: char-巧-seal.png
+      modern: char-巧-modern.png
+    status: ok
+    notes: 工 + 丂 = skilled craftsmanship
+  - hanzi: 巠
+    pinyin: jing
+    unicode: 5DE0
+    meaning: Radial fiber structure (spoke wheel)
+    files:
+      oracle: ''
+      bronze: char-巠-bronze.png
+      seal: char-巠-seal.png
+      modern: char-巠-modern.png
+    status: ok
+    notes: 'CRITICAL: Radial spoke pattern (95%+ coherence)'
+  - hanzi: 乍
+    pinyin: zha
+    unicode: 4E4D
+    meaning: Mechanical working
+    files:
+      oracle: char-乍-oracle.png
+      bronze: char-乍-bronze.png
+      seal: char-乍-seal.png
+      modern: char-乍-modern.png
+    status: ok
+    notes: Tool operation, not 'sudden'
+  - hanzi: 作
+    pinyin: zuo
+    unicode: 4F5C
+    meaning: Make, work
+    files:
+      oracle: char-作-oracle.png
+      bronze: char-作-bronze.png
+      seal: char-作-seal.png
+      modern: char-作-modern.png
+    status: ok
+    notes: 人 + 乍 = person operating tools
+  figures:
+  - id: fig-2.7
+    caption: 'Evolution of Craftsmanship radicals (Section 2.7). Shows engineering
+      concepts: work (工), achievement (功), skill (巧), radial structures (巠 - spoke
+      wheel), and mechanical operation (乍作).'
+    characters:
+    - 工
+    - 功
+    - 巧
+    - 巠
+    - 乍
+    - 作
+section_2_8:
+  id: '2.8'
+  title: Metallurgy Development - Bronze Revolution
+  max_per_figure: 6
+  characters:
+  - hanzi: 金
+    pinyin: jin
+    unicode: 91D1
+    meaning: Metal, gold
+    files:
+      oracle: char-金-oracle.png
+      bronze: char-金-bronze.png
+      seal: char-金-seal.png
+      modern: char-金-modern.png
+    status: ok
+    notes: Metal radical (see also 2.2 Five Elements)
+  - hanzi: 銀
+    pinyin: yin
+    unicode: '9280'
+    meaning: Silver
+    files:
+      oracle: ''
+      bronze: ''
+      seal: char-銀-seal.png
+      modern: char-銀-modern.png
+    status: ok
+    notes: 金 + 艮 = shiny/visible metal
+  - hanzi: 钱
+    pinyin: qian
+    unicode: 94B1
+    meaning: Money, coin
+    files:
+      oracle: ''
+      bronze: ''
+      seal: char-钱-seal.png
+      modern: char-钱-modern.png
+    status: ok
+    notes: 金 + 戔 = small metal pieces (currency)
+  - hanzi: 銅
+    pinyin: tong
+    unicode: '9285'
+    meaning: Bronze, copper
+    files:
+      oracle: ''
+      bronze: char-銅-bronze.png
+      seal: char-銅-seal.png
+      modern: char-銅-modern.png
+    status: ok
+    notes: 金 + 同 = unified/alloyed metal
+  - hanzi: 冶
+    pinyin: ye
+    unicode: 51B6
+    meaning: Smelting
+    files:
+      oracle: ''
+      bronze: ''
+      seal: char-冶-seal.png
+      modern: char-冶-modern.png
+    status: ok
+    notes: 冫+ 台 = water cooling + crucible (thermodynamics)
+  figures:
+  - id: fig-2.8
+    caption: Evolution of Metallurgy Development radicals (Section 2.8). Shows metal
+      types (金銀銅), currency (钱), and smelting technology (冶) with thermodynamic control.
+    characters:
+    - 金
+    - 銀
+    - 钱
+    - 銅
+    - 冶
+section_2_9:
+  id: '2.9'
+  title: Military Development - Organized Violence
+  max_per_figure: 6
+  characters:
+  - hanzi: 弓
+    pinyin: gong
+    unicode: 5F13
+    meaning: Bow
+    files:
+      oracle: char-弓-oracle.png
+      bronze: char-弓-bronze.png
+      seal: char-弓-seal.png
+      modern: char-弓-modern.png
+    status: ok
+    notes: Curved bow shape (ranged weapon)
+  - hanzi: 矢
+    pinyin: shi
+    unicode: 77E2
+    meaning: Arrow
+    files:
+      oracle: char-矢-oracle.png
+      bronze: char-矢-bronze.png
+      seal: char-矢-seal.png
+      modern: char-矢-modern.png
+    status: ok
+    notes: Arrow with feathered shaft (straight/precision)
+  - hanzi: 戈
+    pinyin: ge
+    unicode: '6208'
+    meaning: Dagger-axe
+    files:
+      oracle: char-戈-oracle.png
+      bronze: char-戈-bronze.png
+      seal: char-戈-seal.png
+      modern: char-戈-modern.png
+    status: ok
+    notes: Perpendicular blade on pole (chariot weapon)
+  - hanzi: 叉
+    pinyin: cha
+    unicode: 53C9
+    meaning: Fork, trident
+    files:
+      oracle: ''
+      bronze: ''
+      seal: char-叉-seal.png
+      modern: char-叉-modern.png
+    status: ok
+    notes: Three-pronged implement (restraining weapon)
+  - hanzi: 矛
+    pinyin: mao
+    unicode: 77DB
+    meaning: Spear
+    files:
+      oracle: ''
+      bronze: char-矛-bronze.png
+      seal: char-矛-seal.png
+      modern: char-矛-modern.png
+    status: ok
+    notes: Pointed spear on shaft (thrusting weapon)
+  figures:
+  - id: fig-2.9
+    caption: 'Evolution of Military Development radicals (Section 2.9). Shows weapon
+      types: ranged (弓矢), slashing (戈), restraining (叉), and thrusting (矛).'
+    characters:
+    - 弓
+    - 矢
+    - 戈
+    - 叉
+    - 矛
+section_2_10:
+  id: '2.10'
+  title: Counting & Calendar - Abstract Ordering Systems
+  max_per_figure: 6
+  characters:
+  - hanzi: 甲
+    pinyin: jia
+    unicode: '7532'
+    meaning: First (stem 1)
+    files:
+      oracle: char-甲-oracle.png
+      bronze: char-甲-bronze.png
+      seal: char-甲-seal.png
+      modern: char-甲-modern.png
+    status: ok
+    notes: Seed shell splitting (germination)
+  - hanzi: 乙
+    pinyin: yi-stem
+    unicode: 4E59
+    meaning: Second (stem 2)
+    files:
+      oracle: char-乙-oracle.png
+      bronze: char-乙-bronze.png
+      seal: char-乙-seal.png
+      modern: char-乙-modern.png
+    status: ok
+    notes: Sprout emerging
+  - hanzi: 丙
+    pinyin: bing
+    unicode: 4E19
+    meaning: Third (stem 3)
+    files:
+      oracle: char-丙-oracle.png
+      bronze: char-丙-bronze.png
+      seal: char-丙-seal.png
+      modern: char-丙-modern.png
+    status: ok
+    notes: Bright/flourishing growth
+  - hanzi: 丁
+    pinyin: ding
+    unicode: 4E01
+    meaning: Fourth (stem 4)
+    files:
+      oracle: char-丁-oracle.png
+      bronze: char-丁-bronze.png
+      seal: char-丁-seal.png
+      modern: char-丁-modern.png
+    status: ok
+    notes: Strong/robust stage
+  - hanzi: 子
+    pinyin: zi
+    unicode: 5B50
+    meaning: First branch (midnight)
+    files:
+      oracle: char-子-oracle.png
+      bronze: char-子-bronze.png
+      seal: char-子-seal.png
+      modern: char-子-modern.png
+    status: ok
+    notes: Child/seed (cycle beginning)
+  - hanzi: 丑
+    pinyin: chou
+    unicode: 4E11
+    meaning: Second branch (1-3am)
+    files:
+      oracle: char-丑-oracle.png
+      bronze: char-丑-bronze.png
+      seal: char-丑-seal.png
+      modern: char-丑-modern.png
+    status: ok
+    notes: Ox/ox hour
+  - hanzi: 一
+    pinyin: yi-one
+    unicode: 4E00
+    meaning: One
+    files:
+      oracle: char-一-oracle.png
+      bronze: char-一-bronze.png
+      seal: char-一-seal.png
+      modern: char-一-modern.png
+    status: ok
+    notes: Single stroke = one
+  - hanzi: 二
+    pinyin: er
+    unicode: 4E8C
+    meaning: Two
+    files:
+      oracle: char-二-oracle.png
+      bronze: char-二-bronze.png
+      seal: char-二-seal.png
+      modern: char-二-modern.png
+    status: ok
+    notes: Two strokes = two
+  - hanzi: 三
+    pinyin: san
+    unicode: 4E09
+    meaning: Three
+    files:
+      oracle: char-三-oracle.png
+      bronze: char-三-bronze.png
+      seal: char-三-seal.png
+      modern: char-三-modern.png
+    status: ok
+    notes: Three strokes = three
+  - hanzi: 四
+    pinyin: si
+    unicode: 56DB
+    meaning: Four
+    files:
+      oracle: char-四-oracle.png
+      bronze: char-四-bronze.png
+      seal: char-四-seal.png
+      modern: char-四-modern.png
+    status: ok
+    notes: Four parts enclosed
+  figures:
+  - id: fig-2.10a
+    caption: Evolution of Heavenly Stems (天干) and Earthly Branches (地支) - first examples
+      (Section 2.10a). Shows abstract temporal ordering system.
+    characters:
+    - 甲
+    - 乙
+    - 丙
+    - 丁
+    - 子
+    - 丑
+  - id: fig-2.10b
+    caption: Evolution of Basic Number characters (Section 2.10b). Shows iconic representation
+      (一二三) transitioning to compositional (四).
+    characters:
+    - 一
+    - 二
+    - 三
+    - 四
+section_2_11:
+  id: '2.11'
+  title: Measurement - Standardization Systems
+  max_per_figure: 6
+  characters:
+  - hanzi: 分
+    pinyin: fen
+    unicode: '5206'
+    meaning: Divide, fraction
+    files:
+      oracle: char-分-oracle.png
+      bronze: char-分-bronze.png
+      seal: char-分-seal.png
+      modern: char-分-modern.png
+    status: ok
+    notes: 八 + 刀 = division by cutting
+  - hanzi: 寸
+    pinyin: cun
+    unicode: 5BF8
+    meaning: Inch (small unit)
+    files:
+      oracle: char-寸-oracle.png
+      bronze: char-寸-bronze.png
+      seal: char-寸-seal.png
+      modern: char-寸-modern.png
+    status: ok
+    notes: Hand with precision mark (1/10 of 尺)
+  - hanzi: 尺
+    pinyin: chi
+    unicode: 5C3A
+    meaning: Foot, ruler
+    files:
+      oracle: char-尺-oracle.png
+      bronze: char-尺-bronze.png
+      seal: char-尺-seal.png
+      modern: char-尺-modern.png
+    status: ok
+    notes: Extended hand/forearm (body-based length)
+  - hanzi: 斗
+    pinyin: dou
+    unicode: '6597'
+    meaning: Dipper (volume unit)
+    files:
+      oracle: char-斗-oracle.png
+      bronze: char-斗-bronze.png
+      seal: char-斗-seal.png
+      modern: char-斗-modern.png
+    status: ok
+    notes: Ladle/dipper vessel for grain measurement
+  - hanzi: 斤
+    pinyin: jin-weight
+    unicode: 65A4
+    meaning: Axe / Weight unit
+    files:
+      oracle: char-斤-oracle.png
+      bronze: char-斤-bronze.png
+      seal: char-斤-seal.png
+      modern: char-斤-modern.png
+    status: ok
+    notes: Axe = weight standard (tool → measurement)
+  figures:
+  - id: fig-2.11
+    caption: 'Evolution of Measurement radicals (Section 2.11). Shows standardization:
+      division (分), length units (寸尺), volume (斗), and weight (斤).'
+    characters:
+    - 分
+    - 寸
+    - 尺
+    - 斗
+    - 斤
+section_2_12:
+  id: '2.12'
+  title: Flow & Hydraulics - Physics Understanding
+  max_per_figure: 6
+  characters:
+  - hanzi: 㐬
+    pinyin: liu-radical
+    unicode: '3410'
+    meaning: Flow (radical)
+    files:
+      oracle: char-㐬-oracle.png
+      bronze: char-㐬-bronze.png
+      seal: char-㐬-seal.png
+      modern: char-㐬-modern.png
+    status: ok
+    notes: Flowing water pattern (dynamic movement)
+  - hanzi: 流
+    pinyin: liu
+    unicode: 6D41
+    meaning: Flow, stream
+    files:
+      oracle: char-流-oracle.png
+      bronze: char-流-bronze.png
+      seal: char-流-seal.png
+      modern: char-流-modern.png
+    status: ok
+    notes: 氵+ 㐬 = water flowing
+  - hanzi: 川
+    pinyin: chuan
+    unicode: 5DDD
+    meaning: Stream, river
+    files:
+      oracle: char-川-oracle.png
+      bronze: char-川-bronze.png
+      seal: char-川-seal.png
+      modern: char-川-modern.png
+    status: ok
+    notes: Three parallel lines = stream morphology
+  - hanzi: 江
+    pinyin: jiang
+    unicode: 6C5F
+    meaning: River (water's work)
+    files:
+      oracle: char-江-oracle.png
+      bronze: char-江-bronze.png
+      seal: char-江-seal.png
+      modern: char-江-modern.png
+    status: ok
+    notes: 氵+ 工 = water performing work (erosion)
+  - hanzi: 气
+    pinyin: qi
+    unicode: 6C14
+    meaning: Vapor, gas, qi
+    files:
+      oracle: char-气-oracle.png
+      bronze: char-气-bronze.png
+      seal: char-气-seal.png
+      modern: char-气-modern.png
+    status: ok
+    notes: Three wavy lines = rising vapor (water cycle)
+  - hanzi: 冰
+    pinyin: bing-ice
+    unicode: 51B0
+    meaning: Ice
+    files:
+      oracle: char-冰-oracle.png
+      bronze: char-冰-bronze.png
+      seal: char-冰-seal.png
+      modern: char-冰-modern.png
+    status: ok
+    notes: 冫+ 水 = frozen water (phase transition)
+  figures:
+  - id: fig-2.12
+    caption: 'Evolution of Flow & Hydraulics radicals (Section 2.12). Shows complete
+      water phase cycle: ice (冰) ⇄ liquid (流川江) ⇄ vapor (气), demonstrating thermodynamic
+      understanding.'
+    characters:
+    - 㐬
+    - 流
+    - 川
+    - 江
+    - 气
+    - 冰
+section_2_13:
+  id: '2.13'
+  title: Advanced Concepts - Philosophical Abstraction
+  max_per_figure: 6
+  characters:
+  - hanzi: 尧
+    pinyin: yao
+    unicode: 5C27
+    meaning: High, lofty (spatial metaphor)
+    files:
+      oracle: char-尧-oracle.png
+      bronze: char-尧-bronze.png
+      seal: char-尧-seal.png
+      modern: char-尧-modern.png
+    status: ok
+    notes: Stacked structure = height → excellence
+  - hanzi: 烧
+    pinyin: shao
+    unicode: 70E7
+    meaning: Burn
+    files:
+      oracle: ''
+      bronze: ''
+      seal: char-烧-seal.png
+      modern: char-烧-modern.png
+    status: ok
+    notes: 火 + 尧 = high flames burning
+  - hanzi: 晓
+    pinyin: xiao
+    unicode: '6653'
+    meaning: Dawn, know
+    files:
+      oracle: ''
+      bronze: ''
+      seal: char-晓-seal.png
+      modern: char-晓-modern.png
+    status: ok
+    notes: 日 + 尧 = sun rising high
+  - hanzi: 艮
+    pinyin: gen
+    unicode: 826E
+    meaning: Visibility, sight boundary
+    files:
+      oracle: char-艮-oracle.png
+      bronze: char-艮-bronze.png
+      seal: char-艮-seal.png
+      modern: char-艮-modern.png
+    status: ok
+    notes: 'CRITICAL: Eye looking back (90%+ coherence as visibility)'
+  - hanzi: 屰
+    pinyin: ni
+    unicode: 5C70
+    meaning: Opposition, reversal
+    files:
+      oracle: char-屰-oracle.png
+      bronze: char-屰-bronze.png
+      seal: char-屰-seal.png
+      modern: char-屰-modern.png
+    status: ok
+    notes: Directional opposition concept
+  - hanzi: 鬲
+    pinyin: li-vessel
+    unicode: 9B32
+    meaning: Tripod vessel (fusion/separation)
+    files:
+      oracle: char-鬲-oracle.png
+      bronze: char-鬲-bronze.png
+      seal: char-鬲-seal.png
+      modern: char-鬲-modern.png
+    status: ok
+    notes: 'CRITICAL: Dialectical thinking (unity of opposites)'
+  figures:
+  - id: fig-2.13
+    caption: 'Evolution of Advanced Concepts radicals (Section 2.13). Shows philosophical
+      abstractions: spatial metaphors (尧烧晓), perceptual boundaries (艮), opposition
+      (屰), and dialectical thinking (鬲).'
+    characters:
+    - 尧
+    - 烧
+    - 晓
+    - 艮
+    - 屰
+    - 鬲
+conceptual_figures:
+- id: fig-2.7-spoke-wheel
+  section: '2.7'
+  type: diagram
+  title: '巠 Radial Structure: Spoke Wheel Engineering'
+  description: Cross-sectional diagram showing spoke wheel radial pattern matching
+    巠 structure. Shows hub-spoke-rim geometry with 95%+ network coherence validation.
+  files:
+    diagram: fig-2.7-spoke-wheel-diagram.pdf
+  status: ok
+  priority: high
+- id: fig-2.13-ge-dialectic
+  section: '2.13'
+  type: diagram
+  title: '鬲 Dialectical Process: Fusion and Separation'
+  description: Conceptual diagram showing 鬲 vessel's simultaneous fusion (heating/mixing)
+    and separation (liquid/solid phases). Unity of opposites encoded 3,000 years before
+    Hegel.
+  files:
+    diagram: fig-2.13-ge-dialectic-diagram.pdf
+  status: ok
+  priority: high
+- id: fig-2.12-phase-cycle
+  section: '2.12'
+  type: diagram
+  title: Complete Water Phase Cycle
+  description: Thermodynamic diagram showing 冰 (ice) ⇄ 水 (liquid) ⇄ 气 (vapor) phase
+    transitions with temperature/energy arrows. Demonstrates ancient understanding
+    of water cycle.
+  files:
+    diagram: fig-2.12-phase-cycle-diagram.pdf
+  status: ok
+  priority: medium
+- id: fig-2.10-sexagenary
+  section: '2.10'
+  type: diagram
+  title: Sexagenary Cycle (干支) Grid
+  description: 10 Heavenly Stems × 12 Earthly Branches = 60 combinations. Visual grid
+    showing mathematical sophistication of calendar system.
+  files:
+    diagram: fig-2.10-sexagenary-grid.pdf
+  status: ok
+  priority: medium
+- id: fig-2.3-pit-traps
+  section: '2.3'
+  type: diagram
+  title: 器 Coordinated Pit Trap System
+  description: Overhead and cross-section views of multi-pit hunting trap system.
+    Shows 4-犬 coordination encoding Neolithic technology.
+  files:
+    diagram: fig-2.3-pit-traps-diagram.pdf
+  status: ok
+  priority: medium
+- id: fig-2.13-gen-network
+  section: '2.13'
+  type: network
+  title: 艮 Semantic Network (90%+ Coherence)
+  description: 'Network graph showing 艮-containing characters and their visibility-related
+    semantics: 根 (hidden), 銀 (shiny), 很 (clear), 跟 (watch), 恨 (mental visibility).'
+  files:
+    diagram: fig-2.13-gen-network.pdf
+  status: ok
+  priority: low
+- id: fig-overview-timeline
+  section: overview
+  type: timeline
+  title: Chronological Timeline of Encoded Knowledge
+  description: Paleolithic (~50,000 BCE 獲) → Neolithic (~8,000 BCE 家) → Bronze Age
+    (~2,000 BCE 巠金) → Philosophy (~1,200 BCE 鬲艮). Shows temporal depth.
+  files:
+    diagram: fig-overview-timeline.pdf
+  status: ok
+  priority: low
+generation_settings:
+  output_formats:
+  - latex
+  - markdown
+  latex_settings:
+    column_width: 1.2cm
+    table_style: booktabs
+    font_modern: \Huge
+    caption_position: below
+    label_prefix: 'fig:'
+  markdown_settings:
+    image_width: 100px
+    missing_placeholder: (unavailable)
+    use_unicode_modern: true
+  file_locations:
+    character_images: characters/
+    generated_output: generated/
+  progress_tracking:
+    status_values:
+    - ok
+    - collected
+    - verified
+    priority_values:
+    - high
+    - medium
+    - low
+notes: "- Character images should be sourced from Richard Sears' database (hanziyuan.net)\n\
+  - Ensure proper attribution in figure captions\n- Maintain consistent image resolution\
+  \ (300 DPI minimum for print)\n- Use transparent backgrounds where possible\n- Some\
+  \ oracle/bronze forms may genuinely not exist - mark as unavailable\n- Priority\
+  \ characters for initial focus: 巠, 鬲, 艮, 器, 江, 冶\n\nGeneration workflow:\n  1. Collect\
+  \ character images → update status to \"collected\"\n  2. Verify image quality →\
+  \ update status to \"verified\"\n  3. Run generation script → produces LaTeX/Markdown\
+  \ tables\n  4. Review output → iterate if needed\n  5. Integrate into paper\n\n\
+  Critical figures requiring special attention:\n  - fig-2.7-spoke-wheel: Key engineering\
+  \ insight (95%+ coherence)\n  - fig-2.13-ge-dialectic: Philosophical significance\
+  \ (dialectics)\n  - fig-2.12-phase-cycle: Physics understanding (thermodynamics)\n\
+  \  - fig-2.3-pit-traps: Neolithic technology (hunting innovation)\n"

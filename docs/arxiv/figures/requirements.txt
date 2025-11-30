@@ -1,0 +1,5 @@
+# Requirements for generate_figures.py
+# Install with: pip install -r requirements.txt
+
+click>=8.0.0
+pyyaml>=6.0

@@ -151,24 +151,6 @@ Our archaeological-linguistic approach:
 
 We organize case studies chronologically, following human civilization development:
 
-```Old
-  1. ✅ Section 2.1 - Early Human Society (人 女 母) - line 176
-  2. ✅ Section 2.2 - Nature Observation (金木水火土 日月星) - line 283
-  3. ✅ Section 2.3 - Hunting & Domestication (犬 器 豕 家) - line 422
-  4. ✅ Section 2.4 - Cutting Tools (乂 刀 力) - line 538
-  5. ✅ Section 2.5 - Agricultural Development (男 田 良 甫 禾) - line 662
-  6. ✅ Section 2.6 - Power Shift (父 刀把子) - line 795
-  7. ✅ Section 2.7 - Mechanical Work (工 功 巧 乍 作 巠) - line 907
-  8. ✅ Section 2.8 - Metallurgy Development (金 冶) - line 1050
-  9. ✅ Section 2.9 - Military & Conflict (戈 矛 弓) - line 1180
-  10. ✅ Section 2.10 - Counting & Time (干支 一二三) - line 1325
-  11. ✅ Section 2.11 - Measurement (斤 斗 尺 寸) - line 1498
-  12. ✅ Section 2.12 - Hydraulics & Flow (氵㐬 冫 江) - line 1649
-  13. ✅ Section 2.13 - Advanced Concepts (鬲 屰 艮 尧 乇) - line 1816
-
-```
-
-```New
 1. **Early Human Society** (人 女 母 娘 好) - Biological foundation
 2. **Nature Observation** (金 木 水 火 土 日 月 星) - Cosmology formation
 3. **Hunting & Domestication** (犬 器 哭 豕 家) - Animal relationships
@@ -178,15 +160,15 @@ We organize case studies chronologically, following human civilization developme
 7. **Craftsmanship** (工 功 巧 巠 乍 作) - Engineering
 8. **Metallurgy Development** (金 銀 钱 銅 冶) - Bronze age
 9. **Military Development** (弓 矢 戈 叉 矛) - Organized conflict
-10. **Counting & Calendar** (甲乙丙丁 子丑寅卯 一二三四) - Symbolic systems
-11. **Measurement** (分 寸 尺 斗 斤) - Standardization
-12. **Flow & Hydraulics** (㐬 流 川 江 气 冰) - Physics understanding
-13. **Advanced Concepts** (尧 烧 晓 艮 屰 鬲) - Philosophical abstraction
-```
+10. <To Continue collecting images>
+11. **Counting & Calendar** (甲乙丙丁 子丑寅卯 一二三四) - Symbolic systems
+12. **Measurement** (分 寸 尺 斗 斤) - Standardization
+13. **Flow & Hydraulics** (㐬 流 川 江 气 冰) - Physics understanding
+14. **Advanced Concepts** (尧 烧 晓 艮 屰 鬲) - Philosophical abstraction
 
 **Pedagogical focus**: What can Chinese characters teach us about early civilization?
 
-**Paper #3** (future work) will provide comprehensive coverage for complete semantic radical system.
+Future work will provide comprehensive coverage for complete semantic radical system.
 
 ---
 
@@ -196,15 +178,18 @@ We organize case studies chronologically, following human civilization developme
 
 #### (1) Background
 
-The most fundamental characters recorded in oracle bones depict human biological and social identity—how early Chinese civilization perceived and categorized human existence itself. Three core radicals form the foundation: **人 (rén)** - standing human, **女 (nǚ)** - female/woman, and **母 (mǔ)** - nursing mother.
+The most fundamental characters recorded in oracle bones depict human biological and social identity—how early Chinese civilization perceived and categorized human existence itself. Three core radicals form the foundation: 
 
-**人 (rén) - Standing Human:**
+- **人 (rén) - Standing Human:**
+  
 Oracle bone forms show a side-view standing figure with two legs, emphasizing **upright bipedal posture** as the defining human characteristic. This distinguishes humans from quadrupedal animals and represents the evolutionary milestone of freed hands for tool use. The standing posture encodes human biological identity at the species level.
 
-**女 (nǚ) - Female, Woman:**
+- **女 (nǚ) - Female, Woman:**
+  
 Oracle bone forms depict a kneeling or seated figure, contrasting sharply with the standing 人. This posture likely represents childbirth position (kneeling/squatting during labor) and nursing posture (seated with child). The character encodes **gender-specific biological roles** and early social differentiation.
 
-**母 (mǔ) - Nursing Mother:**
+- **母 (mǔ) - Nursing Mother:**
+  
 Oracle bone forms show the 女 figure with two emphasized dots representing breasts/milk, specifically marking **lactation status**. This distinguishes any female (女) from a nursing mother (母), encoding the critical Neolithic knowledge that breast milk = infant survival. The character preserves the biological reality that lactation, not just female anatomy, defines motherhood.
 
 **Material culture context:** Neolithic Chinese society (~5000-2000 BCE) recognized bipedalism as human-defining, differentiated gender roles through body posture encoding, and prioritized lactation as survival-critical. Early matrilineal traces appear in 姓 (xìng - surname) = 女 + 生 (female + birth), suggesting clan descent tracked through mothers.
@@ -223,7 +208,7 @@ Oracle bone forms show the 女 figure with two emphasized dots representing brea
 | 人 | 休 (xiū) | 亻+ 木 | Rest | Human leaning on tree = resting | Human activities |
 | 人 | 作 (zuò) | 亻+ 乍 | Work, make | Human + mechanical action = labor | Human activities |
 | 人 | 保 (bǎo) | 亻+ 子 | Protect | Human + child = adult protection | Social relationships |
-| **女** | 母 (mǔ) | 女 + ⚫⚫ | Mother | Female + milk dots = nursing mother | Reproductive biology |
+| **女** | 母 (mǔ) | 女 + 丶 + 丶 | Mother | Female + milk dots = nursing mother | Reproductive biology |
 | 女 | 娘 (niáng) | 女 + 良 | Woman, wife | Female + good/growth = reproduction | Gender roles |
 | 女 | 好 (hǎo) | 女 + 子 | Good, well | Woman + child = ideal state | Reproductive success |
 | 女 | 安 (ān) | 女 + 宀 | Peace, safety | Woman under roof = household security | Domestic sphere |
@@ -827,6 +812,8 @@ This idiom ("holding the knife handle" = possessing real power) preserves ancien
 
 **Connection to previous sections:** Section 2.4 (Cutting Tools) showed 刀 (blade) technology encoding. Section 2.5 (Agriculture) showed 男 = 田 + 力 (male agricultural labor specialization). Section 2.6 reveals the next step: males who controlled heavy agricultural tools (plows) then controlled bronze weapons/tools → patriarchal power consolidation. The character 父 preserves this technological-social nexus.
 
+**Critical etymological evidence:** The character 父 (fù - father) is the **original and only written term for "father"** for over 2,000 years. It appears in oracle bone inscriptions (~1200 BCE) showing hand + axe, and is included in Xu Shen's *Shuowen Jiezi* (100 CE), which catalogued 9,353 characters. However, the modern colloquial term **爸 (bà - papa) has NO oracle bone, bronze, or seal script forms**, and is **completely absent from Shuowen Jiezi**. This proves 爸 was created much later—likely Tang-Ming dynasties or even modern period—as a phonetic compound (父 + 巴) to represent baby-talk pronunciation ("ba/papa") that resisted Middle Chinese sound changes (Old Chinese *baʔ → Middle Chinese → Mandarin fù, but colloquial speech preserved bilabial *b-*). The absence of 爸 from ancient texts demonstrates that the father-axe connection is **not modern reinterpretation** but **3,200-year-old archaeological reality**—the 爸 character didn't even exist when 父 was already ancient.
+
 ---
 
 #### (2) Semantic Networks
@@ -913,9 +900,11 @@ This section reveals the **technological basis of patriarchal power emergence**.
 
 **Methodological note:** The 父 reinterpretation (hand + axe, not just "father") demonstrates how oracle bone evidence reveals **sociological encoding** in characters. Shuowen/Kangxi interpreted 父 as simple kinship term, but oracle forms show it encodes the **bronze-enabled male authority emergence**—a material culture transformation, not just a family term.
 
-**Cross-cultural comparison:** Bronze Age patriarchy emergence is **global phenomenon** (Mesopotamia, Egypt, Europe all show similar pattern). Chinese characters uniquely preserve the **technological mechanism** (bronze axe/blade monopoly) in writing system—making them archaeological evidence of universal human pattern.
+**Cross-cultural comparison:** Bronze Age patriarchy emergence is **global phenomenon** (Mesopotamia, Egypt, Europe all show similar pattern). Chinese characters uniquely preserve the **technological mechanism** (bronze axe/blade monopoly) in writing system—making them archaeological evidence of universal human pattern. Remarkably, this pattern appears in Indo-European languages too: Latin *sexus* (gender/sex) derives from *secare* (to cut, divide), encoding the same cutting/dividing metaphor for social categorization—Chinese preserved the **tool** (父 = axe), Latin preserved the **concept** (division), both independently recognizing cutting as fundamental to categorization.
 
 **Connection to Section 2.8 (Military):** The 父 (father with axe) connects to 戈矛弓 (military weapons) in Section 2.8—bronze weapon technology served dual purpose: hunting/warfare AND social dominance. The same implements that enabled military organization (Section 2.8) enabled patriarchal authority (Section 2.6).
+
+**Universal "papa" pattern:** Across languages, formal "father" terms encode authority (Chinese 父, Latin *pater*, Greek *patḗr*, Sanskrit *pitár-*) while colloquial "papa/baba" terms represent baby-talk (Chinese 爸, English *papa*, Spanish *papá*, Russian *papa*). Chinese uniquely shows this duality: 父 (ancient, formal, 1200 BCE+) vs 爸 (modern, colloquial, created 2,000+ years later). This validates that formal kinship terms encode social structure while baby-talk terms are universal and semantically shallow.
 
 ---
 
@@ -2529,21 +2518,63 @@ This is not merely writing—it is **cultural DNA**, encoding thousands of years
 
 ## ACKNOWLEDGMENTS
 
-The author sincerely thanks Richard Sears for his website that provides invaluable information on Oracle bone and bronze inscriptions and Seal scriptswhich, which has enabled this work. The author is grateful to AI assistance by Claude in literature research, data analysis, and draft writing.
+The author sincerely thanks Richard Sears for his website that provides invaluable information on Oracle bone and bronze inscriptions and Seal scripts, which has enabled this work. The author is grateful to AI assistance by Claude in literature research, data analysis, and draft writing.
 
 
 ## REFERENCES
 
-- Chinese characters: https://www.wikiwand.com/en/articles/Chinese_characters
-- Shuowen Jiezi: https://www.wikiwand.com/en/articles/Shuowen_Jiezi
-- 許慎, 100CE. 說文解字: https://www.shuowen.org/
-- Kangxi, 1716 CE. 康熙字典: https://www.wikiwand.com/en/articles/Kangxi_Dictionary
-- Kangxi radicals: https://en.wikipedia.org/wiki/Kangxi_radicals
-- Oracle bone script: https://www.wikiwand.com/en/articles/Oracle_bone_script
-- Sears, Richard. Chinese Etymology: https://hanziyuan.net/
-- CC-CEDICT dictionary dataset: https://www.mdbg.net/chinese/dictionary?page=cc-cedict
-- Gong, W.G., 2025. A New Exploration into Chinese Characters: from Simplification to Deeper Understanding: https://arxiv.org/abs/2502.19428
-- Claude 4.x Sonnet, 2025: https://claude.ai/
+### Primary Historical Sources
+
+- 許慎 (Xu Shen). 100 CE. *說文解字 (Shuowen Jiezi)*. Digital edition: https://www.shuowen.org/
+- Kangxi Emperor (康熙帝). 1716 CE. *康熙字典 (Kangxi Dictionary)*. https://en.wikipedia.org/wiki/Kangxi_Dictionary
+
+### Oracle Bone and Bronze Inscription Studies
+
+- Keightley, David N. 1978. *Sources of Shang History: The Oracle-Bone Inscriptions of Bronze Age China*. University of California Press.
+- Keightley, David N. 2000. *The Ancestral Landscape: Time, Space, and Community in Late Shang China (ca. 1200-1045 B.C.)*. Institute of East Asian Studies, University of California, Berkeley.
+- Shaughnessy, Edward L. 1991. *Sources of Western Zhou History: Inscribed Bronze Vessels*. University of California Press.
+- Chinese Academy of Social Sciences, Institute of Archaeology. *Jiaguwen Heji* 甲骨文合集 (Compendium of Oracle Bone Inscriptions). Multiple volumes.
+
+### Chinese Writing System Evolution
+
+- Boltz, William G. 1994. *The Origin and Early Development of the Chinese Writing System*. American Oriental Society.
+- Qiu Xigui (裘錫圭). 2000. *Chinese Writing* (translated by Gilbert L. Mattos and Jerry Norman). Society for the Study of Early China and Institute of East Asian Studies, University of California, Berkeley.
+- Norman, Jerry. 1988. *Chinese*. Cambridge University Press.
+- DeFrancis, John. 1984. *The Chinese Language: Fact and Fantasy*. University of Hawaii Press.
+
+### Archaeological and Material Culture Studies
+
+- Chang, Kwang-chih. 1980. *Shang Civilization*. Yale University Press.
+- Allan, Sarah. 1991. *The Shape of the Turtle: Myth, Art, and Cosmos in Early China*. State University of New York Press.
+- Bagley, Robert. 1999. "Shang Archaeology." In *The Cambridge History of Ancient China*, edited by Michael Loewe and Edward L. Shaughnessy, 124-231. Cambridge University Press.
+- Thorp, Robert L. 2006. *China in the Early Bronze Age: Shang Civilization*. University of Pennsylvania Press.
+
+### Semantic and Linguistic Analysis
+
+- Hannas, William C. 1997. *Asia's Orthographic Dilemma*. University of Hawaii Press.
+- Wieger, L. 1965. *Chinese Characters: Their Origin, Etymology, History, Classification and Signification*. Dover Publications (reprint of 1927 edition).
+- Karlgren, Bernhard. 1923. *Analytic Dictionary of Chinese and Sino-Japanese*. Paul Geuthner.
+
+### Digital Resources and Databases
+
+- Sears, Richard. *Chinese Etymology: Oracle Bone, Bronze, Seal, and Modern Character Database*. https://hanziyuan.net/
+- CC-CEDICT Project. *Chinese-English Dictionary Dataset*. https://www.mdbg.net/chinese/dictionary?page=cc-cedict
+- Chinese Text Project. *Pre-Qin and Han Dynasty Classical Chinese Texts*. https://ctext.org/
+
+### Contemporary Research
+
+- Gong, W.G. 2025. "A New Exploration into Chinese Characters: from Simplification to Deeper Understanding." arXiv:2502.19428. https://arxiv.org/abs/2502.19428
+
+### General Reference Works
+
+- Wikipedia. "Chinese Characters." https://en.wikipedia.org/wiki/Chinese_characters
+- Wikipedia. "Oracle Bone Script." https://en.wikipedia.org/wiki/Oracle_bone_script
+- Wikipedia. "Kangxi Radicals." https://en.wikipedia.org/wiki/Kangxi_radicals
+- Wikipedia. "Shuowen Jiezi." https://en.wikipedia.org/wiki/Shuowen_Jiezi
+
+### AI Tools
+
+- Anthropic. 2025. Claude 4.x Sonnet. https://claude.ai/
 
 ---
 
@@ -2555,6 +2586,6 @@ The author sincerely thanks Richard Sears for his website that provides invaluab
 **Network coherence validations:** 13 comprehensive tables
 **Oracle/bronze form diagrams:** 13 multi-panel figures (placeholders)
 **Archaeological corroboration:** Systematic across all sections
-
+**Title:** Chinese Characters as Living Fossils: Reading Early Civilization History Through Oracle
 **Status:** DRAFT COMPLETE - Ready for review, revision, and submission preparation
 
