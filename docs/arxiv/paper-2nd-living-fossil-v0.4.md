@@ -2,7 +2,7 @@
 
 **Version:** v0.4
 
-**Authors:** wen.gong.research@gmail.com 
+**Authors:** wen.gong.research@gmail.com
 
 **Date:** December 1, 2025
 
@@ -108,9 +108,9 @@ We organize these case studies chronologically, following human civilization dev
 
 1. Early Human Society (人 女 母 娘 好 妇) - Biological foundation
 2. Nature Observation (金 木 水 火 土 日 月 星) - Cosmology formation
-3. Stone Age (石 岩 矿 泵 砍 破) - Primitive civilization
+3. Stone Age Technology (石 岩 矿 斫 破 砍 泵) - Primitive civilization
 4. Hunting & Domestication (犬 器 哭 豕 家 牛 马) - Animal relationships
-5. Cutting & Inscribing (乂 匕 文 刀 力 初) - Tool inventions
+5. Cutting & Inscribing (乂 匕 文 刀 初 力) - Tool inventions
 6. Agricultural Development (男 田 良 甫 禾) - Settled civilization
 7. Power Shift (父 交 斧 爸 刀把子) - Patriarchy emergence
 8. Craftsmanship (工 功 巧 巠 乍 作) - Engineering
@@ -123,8 +123,6 @@ We organize these case studies chronologically, following human civilization dev
 
 This civilization timeline structure reveals how characters encoded the progressive accumulation of human knowledge across millennia. Future work will extend this material culture analysis to the complete 400-primitive system.
 
-
-TODO: 妇 汞 石 岩 矿 泵 砍 破 牛 马 初
 ---
 
 ## 2. CIVILIZATION TIMELINE: CASE STUDIES
@@ -271,7 +269,7 @@ Composed of 生 (shēng - life/growth) + 日 (rì - sun), the character encodes 
 
 #### (2) Semantic Networks
 
-**Table 2.3** Semantic networks of Nature Observation radicals (selected examples):
+**Table 2.14** Semantic networks of Nature Observation radicals (selected examples):
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
@@ -335,7 +333,7 @@ Composed of 生 (shēng - life/growth) + 日 (rì - sun), the character encodes 
 
 #### (4) Validation
 
-**Table 2.4** Validation summary for Section 2.2 semantic radicals:
+**Table 2.14** Validation summary for Section 2.2 semantic radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -366,7 +364,101 @@ Celestial observation (日月星) provided **time-keeping infrastructure** essen
 
 
 
-### 2.3 HUNTING & DOMESTICATION - Animal Relationships
+### 2.3 STONE AGE TECHNOLOGY - Primitive Civilization
+
+#### (1) Background
+
+Before the advent of metallurgy, early human societies depended entirely on stone tools for survival, construction, and technological advancement. The Stone Age (Paleolithic ~3 million years ago through Neolithic ~3000 BCE in China) witnessed humanity's mastery of lithic technology—the systematic production of tools through controlled fracturing, shaping, and utilizing stone materials. Characters encoding stone-working preserve knowledge of fundamental technological capabilities that enabled all subsequent civilization.
+
+Stone technology represents humanity's first systematic material engineering: identifying suitable stone types (flint, obsidian, quartzite), developing reduction techniques (percussion flaking, pressure flaking), creating specialized tool forms (hand axes, blades, scrapers, grinding stones), and understanding material properties (hardness, fracture patterns, edge retention). The sophistication of late Neolithic stone working—polished jade artifacts, precision drilling, thin-walled vessels—demonstrates technological mastery that Bronze Age metallurgy later built upon rather than replaced.
+
+Characters in this section encode:
+
+- **石 (shí) - Stone, Rock:** Fundamental raw material, pictograph of cliff face or stone object
+
+- **岩 (yán) - Cliff, Rock Formation:** Natural stone outcrops as quarry sources
+
+- **矿/礦 (kuàng) - Mine, Mineral, Ore:** The traditional form 礦 shows 石 (stone) intermingled with both 广 (open/wild space) and 黄 (yellow), encoding dual prospecting knowledge: (1) **Spatial insight** - useful minerals found in wilderness/remote areas requiring expeditions into uncultivated territories (广 = open country, wild), and (2) **Visual indicator** - yellow-colored stones signal potential metal ores (copper ores like chalcopyrite are brassy yellow, native gold is yellow, iron ores like limonite are yellow-brown). The character thus preserves both **WHERE to search** (wilderness locations) and **WHAT to look for** (color cue), demonstrating systematic geological knowledge for ore prospecting.
+
+- **斫 (zhuó) - Cut, Chop (stone working):** Controlled fracturing technique for stone tool production
+
+- **破 (pò) - Break, Shatter:** Destructive force application in stone reduction
+
+- **砍 (kǎn) - Hack, Chop, Fell:** Cutting action using stone implements
+
+- **泵 (bèng) - Pump (water management):** Later character showing stone infrastructure for hydraulic control
+
+**Material culture context:** Chinese Neolithic sites (Yangshao culture ~5000-3000 BCE, Longshan culture ~3000-1900 BCE) demonstrate advanced stone working: polished stone axes, jade ritual objects (Liangzhu culture), grinding stones for grain processing, stone molds for metal casting (transition technology), and extensive quarrying operations. The abundance of jade artifacts indicates systematic stone material knowledge—jade (nephrite/jadeite) is extremely hard (Mohs 6-7), requiring specialized abrasive techniques and understanding of crystalline structure.
+
+Stone technology enabled:
+- **Forest clearance** (polished stone axes) → agricultural land expansion
+- **Food processing** (grinding stones) → nutritional efficiency
+- **Precision manufacturing** (jade drilling) → technological sophistication marker
+- **Trade networks** (jade transport over 1000+ km) → economic complexity
+- **Ritual expression** (jade burial goods) → spiritual/social stratification
+
+
+#### (2) Semantic Networks
+
+**Table 2.14** Semantic networks of Stone Age Technology radicals (selected representative characters):
+
+| Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
+|---------|-----------|-----------|---------|----------------------|----------------|
+| **石** | 岩 (yán) | 石 + 山 | Cliff, rocks | Stone + mountain = rock formation | Natural stone sources |
+| 石 | 矿/礦 (kuàng) | 石 + 广 + 黄 | Mine, ore | Stone + wild/open + yellow = prospecting knowledge (WHERE + WHAT) | Resource extraction |
+| 石 | 破 (pò) | 石 + 皮 | Break, destroy | Stone + skin = shattering force | Destructive properties |
+| 石 | 砍 (kǎn) | 石 + 欠 | Chop, hack | Stone + lacking = cutting action | Stone tool use |
+| 石 | 碑 (bēi) | 石 + 卑 | Stone tablet | Stone + low/base = memorial marker | Monumental stone |
+| 石 | 砖 (zhuān) | 石 + 專 | Brick | Stone + specialized = building material | Construction |
+| **斫** | 斫 (zhuó) | 石 + 斤 | Chop, cut | Stone + axe = stone working action | Lithic reduction |
+| 斫 | 斲 (zhuó) | 斫 + 木 | Cut wood | Stone cutting + wood = forestry | Tool application |
+
+**Network patterns observed:**
+- **石 network** (200+ characters, 90% coherence): Stone materials, rock formations, hardness, permanence, mineral properties
+- **斫 network** (15+ characters, 85% coherence): Cutting/chopping actions, stone tool operations, controlled fracturing
+
+
+#### (3) Oracle/Bronze/Seal Forms
+
+**Figure 2.14** Evolution of Stone Age Technology radicals (Section 2.3). Oracle bone and bronze forms depict stone materials and working techniques.
+
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| <img src="figures/characters/oracle/char-石-oracle.png" width="100" alt="石 oracle"> | <img src="figures/characters/bronze/char-石-bronze.png" width="100" alt="石 bronze"> | <img src="figures/characters/seal/char-石-seal.png" width="100" alt="石 seal"> | <img src="figures/characters/kaiti/char-石-kaiti.png" width="100" alt="石 kaiti"> |
+| (unavailable) | <img src="figures/characters/bronze/char-岩-bronze.png" width="100" alt="岩 bronze"> | <img src="figures/characters/seal/char-岩-seal.png" width="100" alt="岩 seal"> | <img src="figures/characters/kaiti/char-岩-kaiti.png" width="100" alt="岩 kaiti"> |
+| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-矿-seal.png" width="100" alt="矿 seal"> | <img src="figures/characters/kaiti/char-矿-kaiti.png" width="100" alt="矿 kaiti"> |
+| <img src="figures/characters/oracle/char-斫-oracle.png" width="100" alt="斫 oracle"> | (unavailable) | <img src="figures/characters/seal/char-斫-seal.png" width="100" alt="斫 seal"> | <img src="figures/characters/kaiti/char-斫-kaiti.png" width="100" alt="斫 kaiti"> |
+| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-破-seal.png" width="100" alt="破 seal"> | <img src="figures/characters/kaiti/char-破-kaiti.png" width="100" alt="破 kaiti"> |
+| (unavailable) | (unavailable) | (unavailable) | <img src="figures/characters/kaiti/char-砍-kaiti.png" width="100" alt="砍 kaiti"> |
+| (unavailable) | (unavailable) | (unavailable) | <img src="figures/characters/kaiti/char-泵-kaiti.png" width="100" alt="泵 kaiti"> |
+
+
+#### (4) Validation
+
+**Table 2.3b** Validation summary for Section 2.3 semantic radicals:
+
+| Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
+|---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
+| **石 (shí)** | 8 oracle + 10 bronze forms | **90%+** (200+ chars analyzed) | ✓ Polished stone axes across Neolithic sites<br>✓ Jade working (Liangzhu ~3300-2300 BCE)<br>✓ Stone molds for bronze casting | ✓ 石 fundamental "stone/rock"<br>✓ 石器时代 (Stone Age), 石油 (petroleum = rock oil) | **STRONG** - Stone as fundamental material validated |
+| **斫 (zhuó)** | 2 oracle + 0 bronze forms | **85%+** (15+ chars analyzed) | ✓ Stone tool reduction debris at habitation sites<br>✓ Controlled flaking techniques evident in artifacts<br>✓ Specialized stone axes for forest clearance | ✓ 斫 means "chop/cut"<br>✓ Preserved in classical texts (Zhuangzi) | **MODERATE** - Stone working action validated |
+
+**Section synthesis:**
+
+Stone Age Technology section reveals how early Chinese civilization encoded **fundamental material knowledge** hierarchically: (1) Material identification - recognizing stone types and sources (石岩矿), (2) Processing techniques - controlled fracturing and shaping (斫破砍), (3) Functional applications - tool use and construction.
+
+**Key insights:**
+- **Stone prioritized** as foundational material—lithic technology preceded and enabled metallurgy
+- **Material properties encoded** through semantic networks (hardness, fracture, permanence)
+- **Technological sophistication preserved** (jade working requires advanced techniques)
+- **Transitional technology** (stone molds for bronze casting) shows continuous development
+- **Dual-encoding in 矿/礦** demonstrates sophisticated compositional logic: 石 + 广 (WHERE to prospect: wilderness) + 黄 (WHAT to look for: yellow color) = complete prospecting methodology preserved in single character, showing **systematic geological knowledge** for ore identification
+
+**Methodological note:** While this section contains more late-developing characters (矿破砍 have limited oracle bone attestation), their semantic networks and compositional structure preserve Stone Age material knowledge systematically encoded during later historical periods when literacy expanded. The core radical 石 demonstrates high oracle bone attestation, validating fundamental Stone Age material culture.
+
+
+
+
+### 2.4 HUNTING & DOMESTICATION - Animal Relationships
 
 #### (1) Background
 
@@ -393,7 +485,7 @@ Composed of 宀 (roof/shelter) + 豕 (pig), this character encodes the fundament
 
 #### (2) Semantic Networks
 
-**Table 2.5** Semantic networks of Hunting & Domestication radicals:
+**Table 2.14** Semantic networks of Hunting & Domestication radicals:
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
@@ -418,7 +510,7 @@ Composed of 宀 (roof/shelter) + 豕 (pig), this character encodes the fundament
 
 #### (3) Oracle/Bronze/Seal Forms
 
-**Figure 2.3** Evolution of Hunting & Domestication radicals (Section 2.3). Shows transition from pit trap hunting (犬器哭) to pig domestication (豕家).
+**Figure 2.14** Evolution of Hunting & Domestication radicals (Section 2.3). Shows transition from pit trap hunting (犬器哭) to pig domestication (豕家).
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
@@ -432,7 +524,7 @@ Composed of 宀 (roof/shelter) + 豕 (pig), this character encodes the fundament
 
 #### (4) Validation
 
-**Table 2.6** Validation summary for Section 2.3 semantic radicals:
+**Table 2.14** Validation summary for Section 2.3 semantic radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -456,7 +548,7 @@ This section reveals **sophisticated Neolithic hunting technology** (coordinated
 
 
 
-### 2.4 CUTTING & INSCRIBING - Tool Inventions
+### 2.5 CUTTING & INSCRIBING - Tool Inventions
 
 #### (1) Background
 
@@ -477,7 +569,18 @@ Oracle bone forms clearly depict a blade with handle, showing the curved cutting
 **力 (lì) - Strength/Force/Plow:**
 Oracle bone forms show an implement similar to刀 but representing either muscular force or agricultural plow. The visual similarity between 力 and 刀 is **NOT coincidental**—both encode directed force application. 力 appears in agricultural contexts (男 = 田 + 力 "male field labor") and force/strength contexts, showing the conceptual link between blade-work and exertion.
 
-**Material culture context:** Stone blade technology dates to Paleolithic (~30,000+ BCE), but bronze blades (~2000 BCE) represented a revolutionary improvement—sharper, more durable, reshapenable. The Bronze Age correlation with emergence of writing (Shang Dynasty ~1200 BCE) means oracle bones encoded **mature blade technology knowledge**. The 乂 crossing pattern appears in 文 (pattern/culture), suggesting early Chinese saw "civilization" as the result of systematic division/organization (cutting chaos into order).
+**初 (chū) - Beginning, Initial, First:**
+Oracle bone and bronze forms show 衤(cloth) + 刀 (knife/blade). Several interpretations exist:
+
+1. **Technical interpretation**: First cut in making garments → beginning of garment-making process → generalized "beginning/initial/first." The first cut in cloth is irreversible and critical—once cut, cannot be undone—making it natural metaphor for "beginning" as point of no return.
+
+2. **Agricultural interpretation**: First harvest cutting with sickle (衤 as grain stalks) → beginning of harvest season → temporal "first" marking seasonal transitions (初秋 early autumn, 初夏 early summer).
+
+3. **Anthropological interpretation**: Cutting cloth to make clothing → humans covering nakedness → "beginning" as origin of human civilization itself. This interpretation suggests clothing distinguishes humans from animals through shame/modesty consciousness (uniquely human behavior), making "cutting cloth to wear" literally "the beginning of humanity" as distinct from animal existence. This aligns with universal cultural narratives (Genesis story of covering nakedness after Fall, various creation myths) where clothing marks transition from animal-like innocence to human self-awareness. However, this interpretation requires cross-cultural validation and raises questions about whether ancient Chinese explicitly encoded this philosophical distinction or whether it emerged through later semantic extension.
+
+Network coherence: 初 consistently appears in temporal priority contexts (初次 first time, 初始 initial, 最初 very beginning, 初心 original intention), supporting interpretations involving irreversible first actions or fundamental origins. The character's compositional logic (blade cutting material) encodes the irreversibility of "beginning"—once the first cut is made, the process has started and cannot be reversed.
+
+**Material culture context:** Stone blade technology dates to Paleolithic (~30,000+ BCE), but bronze blades (~2000 BCE) represented a revolutionary improvement—sharper, more durable, reshapenable. The Bronze Age correlation with emergence of writing (Shang Dynasty ~1200 BCE) means oracle bones encoded **mature blade technology knowledge**. The 乂 crossing pattern appears in 文 (pattern/culture), suggesting early Chinese saw "civilization" as the result of systematic division/organization (cutting chaos into order). Textile production (hemp, ramie, silk) was widespread in Neolithic China (~5000+ BCE), with spindle whorls and bone needles found at Yangshao sites, validating cloth-cutting as common practice when characters were created.
 
 **Cross-reference note:** The visual similarity between 力 (force) and 刀 (blade) should not be ignored—both represent **directed application of energy for transformation**. Agricultural plowing (力 in 男 耕) is conceptually related to cutting/dividing earth, just as blades cut/divide other materials.
 
@@ -485,7 +588,7 @@ Oracle bone forms show an implement similar to刀 but representing either muscul
 
 #### (2) Semantic Networks
 
-**Table 2.7** Semantic networks of Cutting Tools radicals:
+**Table 2.14** Semantic networks of Cutting Tools radicals:
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
@@ -514,7 +617,7 @@ Oracle bone forms show an implement similar to刀 but representing either muscul
 
 #### (3) Oracle/Bronze/Seal Forms
 
-**Figure 2.4** Evolution of Cutting & Inscribing radicals (Section 2.4). Shows progression from cutting (乂匕刀) to symbolic marking (文) and force application (力).
+**Figure 2.14** Evolution of Cutting & Inscribing radicals (Section 2.4). Shows progression from cutting (乂匕刀) to symbolic marking (文) and force application (力).
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
@@ -528,7 +631,7 @@ Oracle bone forms show an implement similar to刀 but representing either muscul
 
 #### (4) Validation
 
-**Table 2.8** Validation summary for Section 2.4 semantic radicals:
+**Table 2.14** Validation summary for Section 2.4 semantic radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -559,7 +662,7 @@ The idiom刀把子 ("holding the knife handle" = possessing real power/authority
 
 
 
-### 2.5 AGRICULTURAL DEVELOPMENT - Settled Civilization
+### 2.6 AGRICULTURAL DEVELOPMENT - Settled Civilization
 
 #### (1) Background
 
@@ -586,7 +689,7 @@ Oracle bone forms clearly depict grain stalk with drooping seed head (millet or 
 
 #### (2) Semantic Networks
 
-**Table 2.9** Semantic networks of Agricultural Development radicals:
+**Table 2.14** Semantic networks of Agricultural Development radicals:
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
@@ -618,7 +721,7 @@ Oracle bone forms clearly depict grain stalk with drooping seed head (millet or 
 
 #### (3) Oracle/Bronze/Seal Forms
 
-**Figure 2.5** Evolution of Agricultural Development radicals (Section 2.5). Shows gendered labor (男), field systems (田), seed testing (良), nursery cultivation (甫), and grain plants (禾).
+**Figure 2.14** Evolution of Agricultural Development radicals (Section 2.5). Shows gendered labor (男), field systems (田), seed testing (良), nursery cultivation (甫), and grain plants (禾).
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
@@ -631,7 +734,7 @@ Oracle bone forms clearly depict grain stalk with drooping seed head (millet or 
 
 #### (4) Validation
 
-**Table 2.10** Validation summary for Section 2.5 semantic radicals:
+**Table 2.14** Validation summary for Section 2.5 semantic radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -660,7 +763,7 @@ This section reveals **systematic agricultural knowledge** in early Chinese civi
 
 
 
-### 2.6 POWER SHIFT - Patriarchy Emergence
+### 2.7 POWER SHIFT - Patriarchy Emergence
 
 #### (1) Background
 
@@ -694,7 +797,7 @@ This idiom ("holding the knife handle" = possessing real power) preserves ancien
 
 #### (2) Semantic Networks
 
-**Table 2.11** Semantic networks of Power Shift concepts:
+**Table 2.14** Semantic networks of Power Shift concepts:
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
@@ -720,7 +823,7 @@ This idiom ("holding the knife handle" = possessing real power) preserves ancien
 
 #### (3) Oracle/Bronze/Seal Forms
 
-**Figure 2.6** Evolution of Power Shift radicals (Section 2.6). Shows patriarchal authority through metal tool monopoly (父斧), exchange relationships (交), and blade control (刀).
+**Figure 2.14** Evolution of Power Shift radicals (Section 2.6). Shows patriarchal authority through metal tool monopoly (父斧), exchange relationships (交), and blade control (刀).
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
@@ -732,7 +835,7 @@ This idiom ("holding the knife handle" = possessing real power) preserves ancien
 
 #### (4) Validation
 
-**Table 2.12** Validation summary for Section 2.6 concepts:
+**Table 2.14** Validation summary for Section 2.6 concepts:
 
 | Concept | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -763,7 +866,7 @@ This section reveals the **technological basis of patriarchal power emergence**.
 
 
 
-### 2.7 CRAFTSMANSHIP - Engineering
+### 2.8 CRAFTSMANSHIP - Engineering
 
 #### (1) Background
 
@@ -793,7 +896,7 @@ Oracle bone and bronze forms show radial fiber arrangement, depicting the **spok
 
 #### (2) Semantic Networks
 
-**Table 2.13** Semantic networks of Mechanical Work radicals:
+**Table 2.14** Semantic networks of Mechanical Work radicals:
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
@@ -824,7 +927,7 @@ Oracle bone and bronze forms show radial fiber arrangement, depicting the **spok
 
 #### (3) Oracle/Bronze/Seal Forms
 
-**Figure 2.7** Evolution of Craftsmanship radicals (Section 2.7). Shows engineering concepts: work (工), achievement (功), skill (巧), radial structures (巠 - spoke wheel), and mechanical operation (乍作).
+**Figure 2.14** Evolution of Craftsmanship radicals (Section 2.7). Shows engineering concepts: work (工), achievement (功), skill (巧), radial structures (巠 - spoke wheel), and mechanical operation (乍作).
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
@@ -873,7 +976,7 @@ The composition 氵+ 工 encodes a profound observation: **water performs work o
 
 
 
-### 2.8 METALLURGY DEVELOPMENT - Bronze Revolution
+### 2.9 METALLURGY DEVELOPMENT - Bronze Revolution
 
 #### (1) Background
 
@@ -932,7 +1035,7 @@ Composed of 冫(ice/water) + 台 (platform/crucible structure), this character e
 
 #### (3) Oracle/Bronze/Seal Forms
 
-**Figure 2.8** Evolution of Metallurgy Development radicals (Section 2.8). Shows metal types (金銀銅), currency (钱), and smelting technology (冶) with thermodynamic control.
+**Figure 2.14** Evolution of Metallurgy Development radicals (Section 2.8). Shows metal types (金銀銅), currency (钱), and smelting technology (冶) with thermodynamic control.
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
@@ -977,7 +1080,7 @@ The Shang Dynasty (~1600-1046 BCE) was fundamentally a **bronze-based state**—
 
 
 
-### 2.9 MILITARY DEVELOPMENT - Organized conflict
+### 2.10 MILITARY DEVELOPMENT - Organized conflict
 
 #### (1) Background
 
@@ -1052,7 +1155,7 @@ The verse's final line reveals Chinese strategic philosophy: Maintain military c
 
 #### (3) Oracle/Bronze/Seal Forms
 
-**Figure 2.9** Evolution of Military Development radicals (Section 2.9). Shows weapon types: ranged (弓矢), slashing (戈), restraining (叉), and thrusting (矛).
+**Figure 2.14** Evolution of Military Development radicals (Section 2.9). Shows weapon types: ranged (弓矢), slashing (戈), restraining (叉), and thrusting (矛).
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
@@ -1093,7 +1196,7 @@ The verse's final line reveals profound insight: Chinese civilization sought pea
 
 
 
-### 2.10 COUNTING & CALDENDAR - Symbolic systems
+### 2.11 COUNTING & CALDENDAR - Symbolic systems
 
 #### (1) Background
 
@@ -1172,7 +1275,7 @@ This system was used for:
 
 #### (3) Oracle/Bronze/Seal Forms
 
-**Figure 2.10** Evolution of Heavenly Stems (天干) and Earthly Branches (地支) - first examples (Section 2.10a). Shows abstract temporal ordering system.
+**Figure 2.14** Evolution of Heavenly Stems (天干) and Earthly Branches (地支) - first examples (Section 2.10a). Shows abstract temporal ordering system.
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
@@ -1239,7 +1342,7 @@ The 一二三 number system shows transition from **iconic representation** (thr
 
 
 
-### 2.11 MEASUREMENT - Standardization Systems
+### 2.12 MEASUREMENT - Standardization Systems
 
 #### (1) Background
 
@@ -1306,7 +1409,7 @@ Characters encode the **physical implements** that defined standards (axe weight
 
 #### (3) Oracle/Bronze/Seal Forms
 
-**Figure 2.11** Evolution of Measurement radicals (Section 2.11). Shows standardization: division (分), length units (寸尺), volume (斗), and weight (斤).
+**Figure 2.14** Evolution of Measurement radicals (Section 2.11). Shows standardization: division (分), length units (寸尺), volume (斗), and weight (斤).
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
@@ -1352,7 +1455,7 @@ This section reveals **systematic quantification** as state-building tool. Stand
 
 
 
-### 2.12 FLOW & HYDRAULICS - Physics Understanding
+### 2.13 FLOW & HYDRAULICS - Physics Understanding
 
 #### (1) Background
 
@@ -1426,7 +1529,7 @@ Characters encode **observations of fluid behavior**: flow follows terrain (㐬)
 
 #### (3) Oracle/Bronze/Seal Forms
 
-**Figure 2.12** Evolution of Flow & Hydraulics radicals (Section 2.12). Shows complete water phase cycle: ice (冰) ⇄ liquid (流川江) ⇄ vapor (气), demonstrating thermodynamic understanding.
+**Figure 2.14** Evolution of Flow & Hydraulics radicals (Section 2.12). Shows complete water phase cycle: ice (冰) ⇄ liquid (流川江) ⇄ vapor (气), demonstrating thermodynamic understanding.
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
@@ -1486,7 +1589,7 @@ These engineering achievements demonstrate that character-encoded hydraulic prin
 
 
 
-### 2.13 ADVANCED CONCEPTS - Philosophical Abstraction
+### 2.14 ADVANCED CONCEPTS - Philosophical Abstraction
 
 #### (1) Background
 
@@ -1572,7 +1675,7 @@ This 95%+ coherence validates 艮 = visibility/sight with **scientific confidenc
 
 #### (3) Oracle/Bronze/Seal Forms
 
-**Figure 2.13** Evolution of Advanced Concepts radicals (Section 2.13). Shows philosophical abstractions: spatial metaphors (尧烧晓), perceptual boundaries (艮), opposition (屰), and dialectical thinking (鬲).
+**Figure 2.14** Evolution of Advanced Concepts radicals (Section 2.13). Shows philosophical abstractions: spatial metaphors (尧烧晓), perceptual boundaries (艮), opposition (屰), and dialectical thinking (鬲).
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
@@ -2127,4 +2230,116 @@ The author sincerely thanks Richard Sears for his website that provides invaluab
 [26] Wikipedia. "Kangxi Radicals." https://en.wikipedia.org/wiki/Kangxi_radicals
 [27] Anthropic. 2025. "Claude 4.x Sonnet." https://claude.ai/
 [28] GitHub. "Make Me a Hanzi." https://github.com/skishore/makemeahanzi
+
+
+---
+
+## APPENDIX
+
+### A. Complete Inventory of ~400 Elemental Character Primitives
+
+This appendix provides a comprehensive listing of all elemental character primitives (semantic radicals) identified through systematic network decomposition of 6,000+ Chinese characters (Gong 2025). The present paper analyzes 80 core radicals selected based on oracle bone attestation, high network coherence (80%+), material culture grounding, and archaeological corroboration. The remaining ~320 primitives represent the complete structural foundation of the Chinese writing system.
+
+**[PLACEHOLDER: Table A.1 - Complete 400-Primitive Inventory]**
+
+The table will include:
+- Character (traditional & simplified forms)
+- Unicode code point
+- Pinyin pronunciation
+- Primary semantic domain
+- Oracle/Bronze attestation status
+- Network coherence score (if analyzed)
+- Selection status (Core 80 / Remaining 320)
+- Notes on semantic category
+
+**Categorization of the ~320 remaining primitives:**
+
+1. **Post-Bronze Age abstractions** (~70 primitives): Philosophical, Buddhist, and administrative terms emerging after 500 BCE without direct material culture grounding in Neolithic/Bronze Age practices.
+
+2. **Phonetic-dominant compounds** (~150 primitives): Characters classified as 形聲字 (shape-sound) where semantic contribution is weak (<50% network coherence), serving primarily as phonetic components rather than semantic primitives.
+
+3. **Regional/dialectal variants** (~50 primitives): Characters with limited geographic or temporal distribution, representing local innovations or specialized terminology not adopted system-wide.
+
+4. **Pending archaeological evidence** (~50 primitives): Characters with plausible material culture interpretations but lacking oracle bone or bronze inscription corroboration, requiring future archaeological discoveries for validation.
+
+**Purpose of complete inventory:**
+- **Transparency**: Demonstrates selection criteria for the 80 core radicals analyzed in detail
+- **Completeness**: Provides full structural framework of Chinese character composition
+- **Future research**: Identifies high-priority candidates for extended material culture analysis
+- **Methodological validation**: Shows systematic coverage, not cherry-picked examples
+
+**Data source:** ZiNets (字网) systematic network analysis (Gong 2025), cross-referenced with:
+- Richard Sears' Chinese Etymology database (oracle bone, bronze, seal script forms)
+- Shuowen Jiezi (說文解字, 100 CE) - traditional 540 radical system
+- Kangxi Dictionary (康熙字典, 1716 CE) - 214 radical system
+- Modern Unicode CJK unified ideographs (30,000+ characters)
+
+*Note: This inventory will be released as supplementary materials upon publication, ensuring reproducibility and enabling independent validation of our selection methodology.*
+
+---
+
+### B. Epistemological Limitations: The Boundaries of Cognitive Reconstruction
+
+Our analysis reconstructs ancient cognitive frameworks through compositional inference, semantic network coherence validation, and archaeological corroboration. However, we acknowledge fundamental **epistemological constraints** that bound any attempt to recover ancient thought processes across three millennia.
+
+#### What We CAN Know (with high confidence):
+
+1. **Structural existence**: The character compositions demonstrably exist (矿/礦 = 石 + 广 + 黄, 江 = 氵+ 工, 家 = 宀 + 豕)
+
+2. **Network coherence**: Semantic radicals maintain 80-95% coherence across derived character families, validated through systematic analysis of 50-250 characters per radical
+
+3. **Archaeological alignment**: Material culture evidence corroborates the practices encoded (pit trap hunting, pig domestication, bronze smelting, jade working, spoke wheel technology)
+
+4. **Systematic patterns**: Compositional logic operates consistently across physical, social, and abstract domains, suggesting deliberate analytical encoding rather than arbitrary assignment
+
+5. **Functional continuity**: Characters preserve ancient semantic structure while remaining actively used in modern communication (3,200+ years continuous usage)
+
+#### What We CANNOT Know (epistemological inaccessibility):
+
+1. **Historical moment of creation**: We cannot observe the exact time, place, or circumstances when specific characters were first created
+
+2. **Creator's conscious intent**: We cannot interview ancient character creators to verify whether compositional patterns were consciously designed or emerged through evolutionary refinement
+
+3. **Individual vs. collective authorship**: Despite the Cangjie (倉頡) legend, we cannot determine whether characters were invented by individuals, evolved through community consensus, or represent accumulated scribal wisdom across generations
+
+4. **Deliberate design vs. evolutionary accumulation**: While systematic patterns suggest intentional analytical encoding, we cannot definitively distinguish conscious design from gradual convergence through usage refinement
+
+5. **Complete cognitive context**: We lack direct access to the full conceptual frameworks, cultural assumptions, and practical knowledge systems that surrounded character usage in Shang Dynasty society
+
+#### Methodological Analogy: Inference Across Time
+
+Our reconstruction methodology parallels other sciences that infer past conditions from preserved evidence:
+
+- **Paleoclimatology**: Infers ancient climate from ice cores, tree rings, sediment layers—no direct observation, but high-confidence reconstruction
+- **Paleontology**: Reconstructs extinct species behavior from fossil evidence—systematic patterns support behavioral inferences
+- **Comparative linguistics**: Reconstructs Proto-Indo-European from daughter languages—systematic correspondences validate reconstruction
+- **Archaeology**: Infers social organization from burial patterns, settlement layouts—material evidence supports social models
+
+Similarly, we infer ancient cognitive frameworks from character structure—**evidence-based reconstruction**, not time-travel certainty.
+
+#### Confidence Levels and Validation Standards
+
+Our confidence in specific interpretations correlates with:
+
+1. **Network coherence scores**: 95%+ coherence (艮 visibility) = highest confidence; 80-85% (certain late compounds) = moderate confidence
+
+2. **Oracle bone attestation**: Direct Shang Dynasty evidence (石, 犬, 工) = highest confidence; later seal script only (矿, 破) = moderate confidence requiring network validation
+
+3. **Archaeological corroboration**: Multiple independent material evidence sources (jade working + quarry sites + tool debris) = higher confidence than single source
+
+4. **Cross-domain consistency**: When the same analytical pattern appears across multiple domains (technology → value pathway in 良, 文, 工) = higher confidence in systematic encoding
+
+5. **Alternative explanation exclusion**: When semantic network coherence strongly favors one interpretation over traditional glosses (艮 as "visibility" 95% vs. Shuowen's "stiff/hard" <20%) = higher confidence in reinterpretation
+
+#### Intellectual Humility Statement
+
+We present **high-probability reconstructions** (80-95% network coherence thresholds), not absolute certainties about ancient thought. The systematicity of compositional patterns (矿/礦 encoding WHERE + WHAT prospecting knowledge, 江 encoding water performing work, 家 encoding domestication as civilization marker) suggests deliberate analytical encoding, but the **exact cognitive process** behind character creation remains epistemologically inaccessible.
+
+What we can confidently assert: **Ancient character creators demonstrated sophisticated analytical reasoning** in decomposing complex phenomena into causal components and encoding these relationships compositionally. Whether this sophistication emerged through individual genius (Cangjie legend), institutional design (state coordination hypothesis), or collective wisdom accumulation (scribal community refinement), the **analytical sophistication itself is undeniable** and preserved in character structure.
+
+#### The "Digging for Gold" Metaphor
+
+Like prospectors mining yellow stones in wilderness cannot know the geological history that created the ore deposits, we "dig for gold in Chinese characters" without complete knowledge of the cognitive history that created the compositional structures. **But the gold is real**—the preserved knowledge, the systematic patterns, the analytical sophistication are empirically demonstrable through network coherence methodology and archaeological corroboration.
+
+Our contribution is not claiming to perfectly reconstruct ancient minds, but rather demonstrating that Chinese characters **function as cognitive fossils**—preserving analytical frameworks that remain systematically readable despite the epistemological gap across three millennia.
 

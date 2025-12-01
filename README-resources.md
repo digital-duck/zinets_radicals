@@ -8,3 +8,7 @@ While physical dictionaries and specialized journals remain the ultimate authori
 | **Academia Sinica Digital Archives (小學堂)** | [xiaoxue.iis.sinica.edu.tw](https://xiaoxue.iis.sinica.edu.tw/) | A highly authoritative, Taiwan-based database providing **paleographic analysis** and direct references to original sources (rubbings and inscriptions). **Essential for academic rigor.** |
 | **Zi.Tools** | [zi.tools](https://zi.tools/) | A modern, comprehensive tool that aggregates data from multiple sources, including ancient forms, etymology, and linguistic information, often with source citations. Highly useful for cross-referencing. |
 | **Cambridge Digital Library** | [cudl.lib.cam.ac.uk/collections/chineseoraclebones](https://www.google.com/search?q=https://cudl.lib.cam.ac.uk/collections/chineseoraclebones) | Provides high-resolution **digital images of actual oracle bone rubbings and inscriptions** from their collection. Crucial for verifying the original appearance and context of a character. |
+
+
+
+- [Chinese-English Bilingual Periodic Table](https://www.reddit.com/r/ChineseLanguage/comments/mhte8s/i_made_a_chineseenglish_bilingual_periodic_table/)

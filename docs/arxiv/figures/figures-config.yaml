@@ -251,6 +251,39 @@ section_2_3:
       kaiti: char-家-kaiti.png
     status: ok
     notes: 宀 + 豕 = shelter + pig = settled home
+  - hanzi: 牛
+    pinyin: niú
+    unicode: 725B
+    meaning: cow, ox, bull
+    files:
+      oracle: char-牛-oracle.png
+      bronze: char-牛-bronze.png
+      seal: char-牛-seal.png
+      kaiti: char-牛-kaiti.png
+    status: ok
+    notes: 
+  - hanzi: 马
+    pinyin: mǎ
+    unicode: 99AC
+    meaning: horse
+    files:
+      oracle: char-马-oracle.png
+      bronze: char-马-bronze.png
+      seal: char-马-seal.png
+      kaiti: char-马-kaiti.png
+    status: ok
+    notes: 
+  - hanzi: 初
+    pinyin: chū
+    unicode: 521D
+    meaning: beginning, initial, primary
+    files:
+      oracle: char-初-oracle.png
+      bronze: char-初-bronze.png
+      seal: char-初-seal.png
+      kaiti: char-初-kaiti.png
+    status: ok
+    notes: 
   - hanzi: 石
     pinyin: shí
     unicode: 77F3
@@ -260,6 +293,72 @@ section_2_3:
       bronze: char-石-bronze.png
       seal: char-石-seal.png
       kaiti: char-石-kaiti.png
+    status: ok
+    notes: 
+  - hanzi: 岩
+    pinyin: yán
+    unicode: 5DD6
+    meaning: cliff, rocks
+    files:
+      oracle: 
+      bronze: char-岩-bronze.png
+      seal: char-岩-seal.png
+      kaiti: char-岩-kaiti.png
+    status: ok
+    notes: 
+  - hanzi: 矿
+    pinyin: kuàng
+    unicode: 7926
+    meaning: mine, mineral, ore
+    files:
+      oracle: 
+      bronze: 
+      seal: char-矿-seal.png
+      kaiti: char-矿-kaiti.png
+    status: ok
+    notes: 
+  - hanzi: 斫
+    pinyin: zhuó
+    unicode: 65AB
+    meaning: cut
+    files:
+      oracle: char-斫-oracle.png
+      bronze: 
+      seal: char-斫-seal.png
+      kaiti: char-斫-kaiti.png
+    status: ok
+    notes: 
+  - hanzi: 破
+    pinyin: pò
+    unicode: 7834
+    meaning: break, ruin, destroy, rout
+    files:
+      oracle: 
+      bronze: 
+      seal: char-破-seal.png
+      kaiti: char-破-kaiti.png
+    status: ok
+    notes: 
+  - hanzi: 砍
+    pinyin: kǎn
+    unicode: 780D
+    meaning: hack, chop, cut, fell
+    files:
+      oracle: 
+      bronze: 
+      seal: 
+      kaiti: char-砍-kaiti.png
+    status: ok
+    notes: 
+  - hanzi: 泵
+    pinyin: bèng
+    unicode: 6CF5
+    meaning: pump
+    files:
+      oracle: 
+      bronze: 
+      seal: 
+      kaiti: char-泵-kaiti.png
     status: ok
     notes: 
   figures:
