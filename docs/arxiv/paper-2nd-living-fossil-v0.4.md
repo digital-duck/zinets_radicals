@@ -1,10 +1,10 @@
 # Chinese Characters as Living Fossils: <br/> Reading Early Civilization History Through Oracle
 
-**Version:** v0.3
+**Version:** v0.4
 
 **Authors:** wen.gong.research@gmail.com 
 
-**Date:** November 30, 2025
+**Date:** December 1, 2025
 
 ---
 
@@ -108,20 +108,23 @@ We organize these case studies chronologically, following human civilization dev
 
 1. Early Human Society (人 女 母 娘 好 妇) - Biological foundation
 2. Nature Observation (金 木 水 火 土 日 月 星) - Cosmology formation
-3. Hunting & Domestication (犬 器 哭 豕 家) - Animal relationships
-4. Cutting & Inscribing (乂 匕 文 刀 力) - Tool inventions
-5. Agricultural Development (男 田 良 甫 禾) - Settled civilization
-6. Power Shift (父 交 斧 爸 刀把子) - Patriarchy emergence
-7. Craftsmanship (工 功 巧 巠 乍 作) - Engineering
-8. Metallurgy Development (金 銀 钱 銅 冶) - Bronze revolution
-9. Military Development (弓 矢 戈 叉 矛) - Organized conflict
-10. Counting & Calendar (甲乙丙丁 子丑寅卯 一二三四) - Symbolic systems
-11. Measurement (分 寸 尺 斗 斤) - Standardization
-12. Flow & Hydraulics (㐬 流 川 江 汞 气 冰) - Physics understanding
-13. Advanced Concepts (尧 烧 晓 艮 屰 鬲) - Philosophical abstraction
+3. Stone Age (石 岩 矿 泵 砍 破) - Primitive civilization
+4. Hunting & Domestication (犬 器 哭 豕 家 牛 马) - Animal relationships
+5. Cutting & Inscribing (乂 匕 文 刀 力 初) - Tool inventions
+6. Agricultural Development (男 田 良 甫 禾) - Settled civilization
+7. Power Shift (父 交 斧 爸 刀把子) - Patriarchy emergence
+8. Craftsmanship (工 功 巧 巠 乍 作) - Engineering
+9. Metallurgy Development (金 銀 钱 銅 冶) - Bronze revolution
+10. Military Development (弓 矢 戈 叉 矛) - Organized conflict
+11. Counting & Calendar (甲乙丙丁 子丑寅卯 一二三四) - Symbolic systems
+12. Measurement (分 寸 尺 斗 斤) - Standardization
+13. Flow & Hydraulics (㐬 流 川 江 汞 气 冰) - Physics understanding
+14. Advanced Concepts (尧 烧 晓 艮 屰 鬲) - Philosophical abstraction
 
 This civilization timeline structure reveals how characters encoded the progressive accumulation of human knowledge across millennia. Future work will extend this material culture analysis to the complete 400-primitive system.
 
+
+TODO: 妇 汞 石 岩 矿 泵 砍 破 牛 马 初
 ---
 
 ## 2. CIVILIZATION TIMELINE: CASE STUDIES

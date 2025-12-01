@@ -58,6 +58,17 @@ section_2_1:
       kaiti: char-好-kaiti.png
     status: ok
     notes: 女 + 子 (woman + child = good)
+  - hanzi: 妇
+    pinyin: fu
+    unicode: 5987
+    meaning: Married woman, wife
+    files:
+      oracle: char-妇-oracle.png
+      bronze: char-妇-bronze.png
+      seal: char-妇-seal.png
+      kaiti: char-妇-kaiti.png
+    status: ok
+    notes: 女 + 彐 (woman + broom = housework). Shows gender labor division in agricultural society.
   figures:
   - id: fig-2.1
     caption: Evolution of Early Human Society radicals showing biological foundations
@@ -68,6 +79,7 @@ section_2_1:
     - 女
     - 母
     - 好
+    - 妇
     - 娘
 section_2_2:
   id: '2.2'
@@ -239,6 +251,17 @@ section_2_3:
       kaiti: char-家-kaiti.png
     status: ok
     notes: 宀 + 豕 = shelter + pig = settled home
+  - hanzi: 石
+    pinyin: shí
+    unicode: 77F3
+    meaning: stone, rock
+    files:
+      oracle: char-石-oracle.png
+      bronze: char-石-bronze.png
+      seal: char-石-seal.png
+      kaiti: char-石-kaiti.png
+    status: ok
+    notes: 
   figures:
   - id: fig-2.3
     caption: Evolution of Hunting & Domestication radicals (Section 2.3). Shows transition
@@ -975,22 +998,34 @@ section_2_12:
     unicode: 51B0
     meaning: Ice
     files:
-      oracle: 
+      oracle:
       bronze: char-冰-bronze.png
       seal: char-冰-seal.png
       kaiti: char-冰-kaiti.png
     status: ok
     notes: 冫+ 水 = frozen water (phase transition)
+  - hanzi: 汞
+    pinyin: gong
+    unicode: 6C5E
+    meaning: Mercury (liquid metal)
+    files:
+      oracle: 
+      bronze: 
+      seal: char-汞-seal.png
+      kaiti: char-汞-kaiti.png
+    status: pending
+    notes: 工 (top) + 水 (bottom) = working/unusual liquid, contrasts with 江 (氵+ 工 left-right). Shows structural arrangement encodes meaning.
   figures:
   - id: fig-2.12
     caption: 'Evolution of Flow & Hydraulics radicals (Section 2.12). Shows complete
-      water phase cycle: ice (冰) ⇄ liquid (流川江) ⇄ vapor (气), demonstrating thermodynamic
-      understanding.'
+      water phase cycle: ice (冰) ⇄ liquid (流川江汞) ⇄ vapor (气), demonstrating thermodynamic
+      understanding. 汞 (mercury) shows structural sophistication.'
     characters:
     - 㐬
     - 流
     - 川
     - 江
+    - 汞
     - 气
     - 冰
 section_2_13:
