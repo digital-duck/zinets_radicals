@@ -215,6 +215,10 @@ All character images sourced from:
 - [ ] Integrate generated tables into main paper
 - [ ] Final review of figure quality and consistency
 
+## Extra
+
+石 岩 矿 斫 破 泵 牛 马 初 妇
+
 ## Contact
 
 For questions about figure preparation or configuration updates, contact the paper author.

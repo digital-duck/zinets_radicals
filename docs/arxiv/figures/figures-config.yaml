@@ -193,8 +193,357 @@ section_2_2:
     - 星
 section_2_3:
   id: '2.3'
-  title: Hunting & Domestication - Animal Relationships
+  title: Stone Age Technology - Primitive Civilization
+  max_per_figure: 7
+  characters:
+  - hanzi: 石
+    pinyin: shí
+    unicode: 77F3
+    meaning: stone, rock
+    files:
+      oracle: char-石-oracle.png
+      bronze: char-石-bronze.png
+      seal: char-石-seal.png
+      kaiti: char-石-kaiti.png
+    status: ok
+    notes: Fundamental raw material
+  - hanzi: 岩
+    pinyin: yán
+    unicode: 5DD6
+    meaning: cliff, rocks
+    files:
+      oracle:
+      bronze: char-岩-bronze.png
+      seal: char-岩-seal.png
+      kaiti: char-岩-kaiti.png
+    status: ok
+    notes: Natural stone outcrops as quarry sources
+  - hanzi: 矿
+    pinyin: kuàng
+    unicode: 7926
+    meaning: mine, mineral, ore
+    files:
+      oracle:
+      bronze:
+      seal: char-矿-seal.png
+      kaiti: char-矿-kaiti.png
+    status: ok
+    notes: 石 + 广 (WHERE wild) + 黄 (WHAT yellow) = prospecting knowledge
+  - hanzi: 斫
+    pinyin: zhuó
+    unicode: 65AB
+    meaning: cut, chop (stone working)
+    files:
+      oracle: char-斫-oracle.png
+      bronze:
+      seal: char-斫-seal.png
+      kaiti: char-斫-kaiti.png
+    status: ok
+    notes: Controlled fracturing technique
+  - hanzi: 破
+    pinyin: pò
+    unicode: 7834
+    meaning: break, shatter
+    files:
+      oracle:
+      bronze:
+      seal: char-破-seal.png
+      kaiti: char-破-kaiti.png
+    status: ok
+    notes: Destructive force application in stone reduction
+  - hanzi: 泵
+    pinyin: bèng
+    unicode: 6CF5
+    meaning: pump (water management)
+    files:
+      oracle:
+      bronze:
+      seal:
+      kaiti: char-泵-kaiti.png
+    status: ok
+    notes: Later character showing stone infrastructure
+  - hanzi: 穴
+    pinyin: xué
+    unicode: 7A74
+    meaning: cave, dwelling hole
+    files:
+      oracle: char-穴-oracle.png
+      bronze: char-穴-bronze.png
+      seal: char-穴-seal.png
+      kaiti: char-穴-kaiti.png
+    status: ok
+    notes: Cave/pit dwelling entrance, Paleolithic to Neolithic transition
+  figures:
+  - id: fig-2.3
+    caption: Evolution of Stone Age radicals (Section 2.3). Shows development from stone materials
+      (石岩矿) to tool use (斫破), water management (泵), and dwelling structures (穴).
+    characters:
+    - 石
+    - 岩
+    - 矿
+    - 斫
+    - 破
+    - 泵
+    - 穴
+section_2_4:
+  id: '2.4'
+  title: Fire & Cooking - Food Preparation (食)
+  max_per_figure: 9
+  characters:
+  - hanzi: 火
+    pinyin: huo
+    unicode: 706B
+    meaning: Fire
+    files:
+      oracle: char-火-oracle.png
+      bronze:
+      seal: char-火-seal.png
+      kaiti: char-火-kaiti.png
+    status: ok
+    notes: Appears in both Nature Observation (2.2) and here - fire's importance
+  - hanzi: 炎
+    pinyin: yán
+    unicode: 708E
+    meaning: Flame, heat
+    files:
+      oracle: char-炎-oracle.png
+      bronze: char-炎-bronze.png
+      seal: char-炎-seal.png
+      kaiti: char-炎-kaiti.png
+    status: ok
+    notes: 火×2 = intense heat
+  - hanzi: 炒
+    pinyin: chǎo
+    unicode: 7092
+    meaning: Stir-fry
+    files:
+      oracle:
+      bronze:
+      seal: char-炒-seal.png
+      kaiti: char-炒-kaiti.png
+    status: ok
+    notes: 火 + 少 = small fire = quick cooking (pedagogical)
+  - hanzi: 灯
+    pinyin: dēng
+    unicode: 706F
+    meaning: Lamp, light
+    files:
+      oracle:
+      bronze:
+      seal: char-灯-seal.png
+      kaiti: char-灯-kaiti.png
+    status: ok
+    notes: 火 + 丁 = fire on stand (pedagogical)
+  - hanzi: 烘
+    pinyin: hōng
+    unicode: 70D8
+    meaning: Bake, roast
+    files:
+      oracle:
+      bronze:
+      seal: char-烘-seal.png
+      kaiti: char-烘-kaiti.png
+    status: ok
+    notes: 火 + 共 = shared fire = communal baking (pedagogical)
+  - hanzi: 伙
+    pinyin: huǒ
+    unicode: 4F19
+    meaning: Partner, group
+    files:
+      oracle:
+      bronze:
+      seal: char-伙-seal.png
+      kaiti: char-伙-kaiti.png
+    status: ok
+    notes: 亻+ 火 = people around fire = companions (pedagogical)
+  - hanzi: 灭
+    pinyin: miè
+    unicode: 706D
+    meaning: Extinguish
+    files:
+      oracle:
+      bronze:
+      seal: char-灭-seal.png
+      kaiti: char-灭-kaiti.png
+    status: ok
+    notes: 一 + 火 = covering fire (pedagogical)
+  - hanzi: 灾
+    pinyin: zāi
+    unicode: 707E
+    meaning: Disaster, calamity
+    files:
+      oracle:
+      bronze:
+      seal: char-灾-seal.png
+      kaiti: char-灾-kaiti.png
+    status: ok
+    notes: 宀 + 火 = fire under roof = disaster (survival knowledge)
+  - hanzi: 灰
+    pinyin: huī
+    unicode: 7070
+    meaning: Ash
+    files:
+      oracle: char-灰-oracle.png
+      bronze: char-灰-bronze.png
+      seal: char-灰-seal.png
+      kaiti: char-灰-kaiti.png
+    status: ok
+    notes: Hand sweeping ash, material culture importance
+  figures:
+  - id: fig-2.4
+    caption: Evolution of Fire & Cooking radicals (Section 2.4). Shows fire mastery from basic combustion (火炎) to cooking techniques (炒烘), social gathering (伙), control (灭), hazards (灾), and ash use (灰). Demonstrates 食 (food) preparation knowledge.
+    characters:
+    - 火
+    - 炎
+    - 炒
+    - 灯
+    - 烘
+    - 伙
+    - 灭
+    - 灾
+    - 灰
+section_2_5:
+  id: '2.5'
+  title: Shelter & Architecture - Dwelling (住)
   max_per_figure: 6
+  characters:
+  - hanzi: 穴
+    pinyin: xué
+    unicode: 7A74
+    meaning: cave, dwelling hole
+    files:
+      oracle: char-穴-oracle.png
+      bronze: char-穴-bronze.png
+      seal: char-穴-seal.png
+      kaiti: char-穴-kaiti.png
+    status: ok
+    notes: Also in Stone Age (2.3) - cave dwellings transition
+  - hanzi: 宀
+    pinyin: mián
+    unicode: 5B80
+    meaning: Roof
+    files:
+      oracle: char-宀-oracle.png
+      bronze: char-宀-bronze.png
+      seal: char-宀-seal.png
+      kaiti: char-宀-kaiti.png
+    status: ok
+    notes: Already in 家 (2.7), elevated here as standalone primitive
+  - hanzi: 户
+    pinyin: hù
+    unicode: 6237
+    meaning: Door, household
+    files:
+      oracle: char-户-oracle.png
+      bronze: char-户-bronze.png
+      seal: char-户-seal.png
+      kaiti: char-户-kaiti.png
+    status: ok
+    notes: Single door panel, wooden construction
+  - hanzi: 門
+    pinyin: mén
+    unicode: 9580
+    meaning: Gate, double door
+    files:
+      oracle: char-門-oracle.png
+      bronze: char-門-bronze.png
+      seal: char-門-seal.png
+      kaiti: char-門-kaiti.png
+    status: ok
+    notes: Two door panels, city gates
+  - hanzi: 囗
+    pinyin: wéi
+    unicode: 56D7
+    meaning: Enclosure, boundary
+    files:
+      oracle: char-囗-oracle.png
+      bronze: char-囗-bronze.png
+      seal: char-囗-seal.png
+      kaiti: char-囗-kaiti.png
+    status: ok
+    notes: Settlement walls, defensive enclosures
+  - hanzi: 市
+    pinyin: shì
+    unicode: 5E02
+    meaning: Market, town
+    files:
+      oracle: char-市-oracle.png
+      bronze: char-市-bronze.png
+      seal: char-市-seal.png
+      kaiti: char-市-kaiti.png
+    status: ok
+    notes: Trade centers, simpler than 城 (walled city)
+  figures:
+  - id: fig-2.5
+    caption: Evolution of Shelter & Architecture radicals (Section 2.5). Shows dwelling progression from caves (穴) to roofed structures (宀), doors (户門), defensive walls (囗), and urban settlements (市). Demonstrates 住 (shelter) development.
+    characters:
+    - 穴
+    - 宀
+    - 户
+    - 門
+    - 囗
+    - 市
+section_2_6:
+  id: '2.6'
+  title: Textile & Clothing - Garments (衣)
+  max_per_figure: 4
+  characters:
+  - hanzi: 初
+    pinyin: chū
+    unicode: 521D
+    meaning: Beginning, first cut
+    files:
+      oracle: char-初-oracle.png
+      bronze: char-初-bronze.png
+      seal: char-初-seal.png
+      kaiti: char-初-kaiti.png
+    status: ok
+    notes: 衤 + 刀 = first cloth cutting, MOVED from Section 2.9 (Cutting)
+  - hanzi: 糸
+    pinyin: mì
+    unicode: 7CF8
+    meaning: Silk thread
+    files:
+      oracle: char-糸-oracle.png
+      bronze: char-糸-bronze.png
+      seal: char-糸-seal.png
+      kaiti: char-糸-kaiti.png
+    status: ok
+    notes: Twisted silk strands, ~3000 BCE silk production
+  - hanzi: 衣
+    pinyin: yī
+    unicode: 8863
+    meaning: Clothing, robe
+    files:
+      oracle: char-衣-oracle.png
+      bronze: char-衣-bronze.png
+      seal: char-衣-seal.png
+      kaiti: char-衣-kaiti.png
+    status: ok
+    notes: Robe with sleeves, civilization marker
+  - hanzi: 麻
+    pinyin: má
+    unicode: 9EBB
+    meaning: Hemp
+    files:
+      oracle: char-麻-oracle.png
+      bronze: char-麻-bronze.png
+      seal: char-麻-seal.png
+      kaiti: char-麻-kaiti.png
+    status: ok
+    notes: Hemp plant processing, fiber for rope/cloth ~5000 BCE
+  figures:
+  - id: fig-2.6
+    caption: Evolution of Textile & Clothing radicals (Section 2.6). Shows cloth production from cutting (初), thread production (糸), finished garments (衣), and hemp fiber (麻). Demonstrates 衣 (clothing) technology.
+    characters:
+    - 初
+    - 糸
+    - 衣
+    - 麻
+section_2_7:
+  id: '2.7'
+  title: Hunting & Domestication - Animal Relationships
+  max_per_figure: 7
   characters:
   - hanzi: 犬
     pinyin: quan
@@ -228,7 +577,7 @@ section_2_3:
       seal: char-哭-seal.png
       kaiti: char-哭-kaiti.png
     status: ok
-    notes: 口×2 + 犬 = wailing of trapped animals
+    notes: 口 + 口 + 犬 = wailing of trapped animals
   - hanzi: 豕
     pinyin: shi
     unicode: 8C55
@@ -273,94 +622,6 @@ section_2_3:
       kaiti: char-马-kaiti.png
     status: ok
     notes: 
-  - hanzi: 初
-    pinyin: chū
-    unicode: 521D
-    meaning: beginning, initial, primary
-    files:
-      oracle: char-初-oracle.png
-      bronze: char-初-bronze.png
-      seal: char-初-seal.png
-      kaiti: char-初-kaiti.png
-    status: ok
-    notes: 
-  - hanzi: 石
-    pinyin: shí
-    unicode: 77F3
-    meaning: stone, rock
-    files:
-      oracle: char-石-oracle.png
-      bronze: char-石-bronze.png
-      seal: char-石-seal.png
-      kaiti: char-石-kaiti.png
-    status: ok
-    notes: 
-  - hanzi: 岩
-    pinyin: yán
-    unicode: 5DD6
-    meaning: cliff, rocks
-    files:
-      oracle: 
-      bronze: char-岩-bronze.png
-      seal: char-岩-seal.png
-      kaiti: char-岩-kaiti.png
-    status: ok
-    notes: 
-  - hanzi: 矿
-    pinyin: kuàng
-    unicode: 7926
-    meaning: mine, mineral, ore
-    files:
-      oracle: 
-      bronze: 
-      seal: char-矿-seal.png
-      kaiti: char-矿-kaiti.png
-    status: ok
-    notes: 
-  - hanzi: 斫
-    pinyin: zhuó
-    unicode: 65AB
-    meaning: cut
-    files:
-      oracle: char-斫-oracle.png
-      bronze: 
-      seal: char-斫-seal.png
-      kaiti: char-斫-kaiti.png
-    status: ok
-    notes: 
-  - hanzi: 破
-    pinyin: pò
-    unicode: 7834
-    meaning: break, ruin, destroy, rout
-    files:
-      oracle: 
-      bronze: 
-      seal: char-破-seal.png
-      kaiti: char-破-kaiti.png
-    status: ok
-    notes: 
-  - hanzi: 砍
-    pinyin: kǎn
-    unicode: 780D
-    meaning: hack, chop, cut, fell
-    files:
-      oracle: 
-      bronze: 
-      seal: 
-      kaiti: char-砍-kaiti.png
-    status: ok
-    notes: 
-  - hanzi: 泵
-    pinyin: bèng
-    unicode: 6CF5
-    meaning: pump
-    files:
-      oracle: 
-      bronze: 
-      seal: 
-      kaiti: char-泵-kaiti.png
-    status: ok
-    notes: 
   figures:
   - id: fig-2.3
     caption: Evolution of Hunting & Domestication radicals (Section 2.3). Shows transition
@@ -371,6 +632,8 @@ section_2_3:
     - 哭
     - 豕
     - 家
+    - 牛
+    - 马
 section_2_4:
   id: '2.4'
   title: Cutting & Inscribing - Tool Inventions
@@ -420,6 +683,17 @@ section_2_4:
       kaiti: char-刀-kaiti.png
     status: ok
     notes: Curved blade profile
+  - hanzi: 初
+    pinyin: chū
+    unicode: 521D
+    meaning: beginning, initial, primary
+    files:
+      oracle: char-初-oracle.png
+      bronze: char-初-bronze.png
+      seal: char-初-seal.png
+      kaiti: char-初-kaiti.png
+    status: ok
+    notes: 
   - hanzi: 力
     pinyin: li
     unicode: 529B
@@ -1081,6 +1355,17 @@ section_2_12:
       kaiti: char-江-kaiti.png
     status: ok
     notes: 氵+ 工 = water performing work (erosion)
+  - hanzi: 汞
+    pinyin: gong
+    unicode: 6C5E
+    meaning: Mercury (liquid metal)
+    files:
+      oracle: 
+      bronze: 
+      seal: char-汞-seal.png
+      kaiti: char-汞-kaiti.png
+    status: pending
+    notes: 工 (top) + 水 (bottom) = working/unusual liquid, contrasts with 江 (氵+ 工 left-right). Shows structural arrangement encodes meaning.
   - hanzi: 气
     pinyin: qi
     unicode: 6C14
@@ -1103,21 +1388,10 @@ section_2_12:
       kaiti: char-冰-kaiti.png
     status: ok
     notes: 冫+ 水 = frozen water (phase transition)
-  - hanzi: 汞
-    pinyin: gong
-    unicode: 6C5E
-    meaning: Mercury (liquid metal)
-    files:
-      oracle: 
-      bronze: 
-      seal: char-汞-seal.png
-      kaiti: char-汞-kaiti.png
-    status: pending
-    notes: 工 (top) + 水 (bottom) = working/unusual liquid, contrasts with 江 (氵+ 工 left-right). Shows structural arrangement encodes meaning.
   figures:
   - id: fig-2.12
     caption: 'Evolution of Flow & Hydraulics radicals (Section 2.12). Shows complete
-      water phase cycle: ice (冰) ⇄ liquid (流川江汞) ⇄ vapor (气), demonstrating thermodynamic
+      water phase cycle: ice (冰) ⇄ liquid (流川江) ⇄ vapor (气), demonstrating thermodynamic
       understanding. 汞 (mercury) shows structural sophistication.'
     characters:
     - 㐬

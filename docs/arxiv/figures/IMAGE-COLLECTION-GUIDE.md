@@ -63,9 +63,12 @@ python3 generate_figures.py status
 # Generate all figures
 python3 generate_figures.py all
 
+python3 generate_figures.py --chars "石 岩 矿 斫 破 泵 牛 马 初 妇"
+
+
 # Or separately
-python3 generate_figures.py latex      # For paper
-python3 generate_figures.py markdown   # For preview
+python3 generate_figures.py --format latex      # For paper
+python3 generate_figures.py --format markdown   # For preview
 ```
 
 ## Character List (76 Total)

@@ -1,0 +1,159 @@
+# NEW SECTIONS TO ADD TO figures-config.yaml
+# Insert these sections in the appropriate locations
+
+section_2_8:
+  id: '2.8'
+  title: Pottery & Ceramics - Food Storage (食)
+  max_per_figure: 2
+  characters:
+  - hanzi: 缶
+    pinyin: fǒu
+    unicode: 7F36
+    meaning: Pottery jar
+    files:
+      oracle: char-缶-oracle.png
+      bronze: char-缶-bronze.png
+      seal: char-缶-seal.png
+      kaiti: char-缶-kaiti.png
+    status: pending
+    notes: Round pottery vessel, Yangshao painted pottery ~5000 BCE
+  - hanzi: 瓦
+    pinyin: wǎ
+    unicode: 74E6
+    meaning: Tile, pottery shard
+    files:
+      oracle: char-瓦-oracle.png
+      bronze: char-瓦-bronze.png
+      seal: char-瓦-seal.png
+      kaiti: char-瓦-kaiti.png
+    status: pending
+    notes: Curved ceramic tile, roof tiles and pottery fragments
+  figures:
+  - id: fig-2.8
+    caption: Evolution of Pottery & Ceramics radicals (Section 2.8). Shows ceramic vessel production (缶) and tile/shard forms (瓦). Fire mastery enabled ceramic firing technology.
+    characters:
+    - 缶
+    - 瓦
+
+section_2_15:
+  id: '2.15'
+  title: Ritual & Religion - Oracle Bone Divination Context
+  max_per_figure: 7
+  characters:
+  - hanzi: 示
+    pinyin: shì
+    unicode: 793A
+    meaning: Altar, spirit (radical 礻)
+    files:
+      oracle: char-示-oracle.png
+      bronze: char-示-bronze.png
+      seal: char-示-seal.png
+      kaiti: char-示-kaiti.png
+    status: pending
+    notes: Altar table for offerings, most productive religious radical
+  - hanzi: 祖
+    pinyin: zǔ
+    unicode: 7956
+    meaning: Ancestor
+    files:
+      oracle: char-祖-oracle.png
+      bronze: char-祖-bronze.png
+      seal: char-祖-seal.png
+      kaiti: char-祖-kaiti.png
+    status: pending
+    notes: 示 + 且 = altar + ancestral tablet, Shang royal ancestor cult
+  - hanzi: 卜
+    pinyin: bǔ
+    unicode: 535C
+    meaning: Divination
+    files:
+      oracle: char-卜-oracle.png
+      bronze: char-卜-bronze.png
+      seal: char-卜-seal.png
+      kaiti: char-卜-kaiti.png
+    status: pending
+    notes: MOST REFLEXIVE CHARACTER - crack patterns on oracle bones showing divination itself!
+  - hanzi: 祭
+    pinyin: jì
+    unicode: 796D
+    meaning: Sacrifice
+    files:
+      oracle: char-祭-oracle.png
+      bronze: char-祭-bronze.png
+      seal: char-祭-seal.png
+      kaiti: char-祭-kaiti.png
+    status: pending
+    notes: Hand offering meat to altar, animal/human sacrifices (Shang)
+  - hanzi: 巫
+    pinyin: wū
+    unicode: 5DEB
+    meaning: Shaman, sorcerer
+    files:
+      oracle: char-巫-oracle.png
+      bronze: char-巫-bronze.png
+      seal: char-巫-seal.png
+      kaiti: char-巫-kaiti.png
+    status: pending
+    notes: Ritual dance posture or implements, religious specialists
+  - hanzi: 鬼
+    pinyin: guǐ
+    unicode: 9B3C
+    meaning: Ghost, spirit
+    files:
+      oracle: char-鬼-oracle.png
+      bronze: char-鬼-bronze.png
+      seal: char-鬼-seal.png
+      kaiti: char-鬼-kaiti.png
+    status: pending
+    notes: Masked figure or spirit form, ancestor spirits
+  - hanzi: 灵
+    pinyin: líng
+    unicode: 7075
+    meaning: Spirit, soul, efficacious
+    files:
+      oracle: char-灵-oracle.png
+      bronze: char-灵-bronze.png
+      seal: char-灵-seal.png
+      kaiti: char-灵-kaiti.png
+    status: pending
+    notes: 巫 + 雨 = rainmaking ritual, supernatural efficacy
+  figures:
+  - id: fig-2.15
+    caption: Evolution of Ritual & Religion radicals (Section 2.15). Shows oracle bone divination context with altar worship (示祖), divination practice (卜 - REFLEXIVE!), sacrifice rituals (祭), shamanic specialists (巫), and spirit beliefs (鬼灵). These characters tell the story of oracle bones themselves.
+    characters:
+    - 示
+    - 祖
+    - 卜
+    - 祭
+    - 巫
+    - 鬼
+    - 灵
+
+# UPDATE TO MILITARY SECTION (Section 2.14)
+# Add 车 to the existing military characters list:
+
+section_2_14_addition:
+  # Add this character to section_2_14 (Military Development)
+  - hanzi: 车
+    pinyin: chē
+    unicode: 8F66
+    meaning: Cart, chariot
+    files:
+      oracle: char-车-oracle.png
+      bronze: char-车-bronze.png
+      seal: char-车-seal.png
+      kaiti: char-车-kaiti.png
+    status: pending
+    notes: Wheeled vehicle (top view), ELITE Bronze Age chariot warfare technology, represents 行 (transportation) in 衣食住行 framework
+
+# SECTION RENUMBERING REQUIRED:
+# Old Section 2.4 (Cutting) → becomes Section 2.9 (Cutting) - remove 初
+# Old Section 2.5 (Agricultural) → becomes Section 2.10 (Agricultural)
+# Old Section 2.6 (Power Shift) → becomes Section 2.11 (Power Shift)
+# Old Section 2.7 (Craftsmanship) → becomes Section 2.12 (Craftsmanship)
+# Old Section 2.8 (Metallurgy) → becomes Section 2.13 (Metallurgy)
+# Old Section 2.9 (Military) → becomes Section 2.14 (Military) + add 车
+# Old Section 2.10 (Counting) → becomes Section 2.16 (Counting)
+# Old Section 2.11 (Measurement) → becomes Section 2.17 (Measurement)
+# Old Section 2.12 (Flow) → becomes Section 2.18 (Flow)
+# Old Section 2.13 (Advanced) → becomes Section 2.19 (Advanced)

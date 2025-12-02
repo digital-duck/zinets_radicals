@@ -11,8 +11,9 @@
 **Do NOT get distracted until Paper #2 is complete!**
 
 **Current tasks:**
-- [ ] Continue image collection (currently 40% complete - 91/228 images)
-- [ ] Generate all 15 figures using `generate_figures.py`
+- [ ] Implement v0.5 major enhancements (5 new categories, 26 new characters)
+- [ ] Continue image collection (currently 40% complete - 91/228 images + new chars)
+- [ ] Generate all figures using `generate_figures.py`
 - [ ] Complete draft review and revision
 - [ ] Submit to target journals
 
@@ -20,6 +21,13 @@
 - Journal of Chinese Linguistics
 - Language (theoretical framing)
 - Antiquity (archaeological angle)
+
+**Paper v0.5 Status:**
+- 19 civilization stages (was 14 in v0.4)
+- 106 foundational characters (was 80 in v0.4)
+- New categories: Fire & Cooking, Textile & Clothing, Shelter & Architecture, Pottery & Ceramics, Ritual & Religion
+- 衣食住行 framework complete (clothing, food, shelter, transportation)
+- Educational implications added to conclusion
 
 ---
 
@@ -1243,7 +1251,82 @@ Chinese characters are humanity's longest-running knowledge encoding system - 3,
 
 ---
 
+## EDUCATIONAL REVOLUTION: 106-Character Foundation Curriculum 🎓
+
+**See:** `README-edu.md` for complete vision
+
+**Core Insight:** These 106 characters = optimal foundation for early childhood education (K-5, ages 5-11)
+
+**Why Revolutionary:**
+1. **Visual-compositional logic** (fire LOOKS like 火) vs. abstract phonics
+2. **Meaning-first learning** (understand before memorize) vs. rote memorization
+3. **Complete human timeline** (50,000 years of cognitive evolution) vs. fragmented history
+4. **Cross-curricular integration** (same characters teach language + science + history + math)
+5. **Universal applicability** (teach in ANY language, Chinese characters as visual medium)
+6. **衣食住行 framework** (clothing, food, shelter, transportation = all human needs)
+
+**Development Plan:**
+
+### Phase 1: ZiNets Learning App (In Progress)
+```
+Multi-lingual, multi-modal platform:
+- Character explorer (oracle bone → modern evolution)
+- Composition builder (drag-and-drop 火 + 少 = 炒)
+- Timeline game (arrange civilization stages)
+- Extensive resource links (Richard Sears database, museums, papers)
+- Progress tracking (106-character mastery checklist)
+- Parent dashboard
+
+Languages: English, Spanish, French, Arabic, Chinese, + 15 more
+Modes: Visual, auditory, kinesthetic, social
+```
+
+### Phase 2: Curriculum Materials
+```
+K-5 Teacher's Guides (one per grade):
+- Lesson plans (one per character)
+- Assessment rubrics
+- Cross-cultural comparison activities
+- Parent communication templates
+
+Student Workbooks:
+- Character tracing (oracle bone → modern)
+- Composition exercises
+- Timeline activities
+- Reflection prompts
+
+Visual Materials:
+- Oracle bone flashcards (106 cards)
+- Character building blocks (magnetic manipulatives)
+- Civilization stage posters (19 stages)
+- Animated character evolution videos
+```
+
+### Phase 3: Pilot Implementation
+```
+Year 1: Single school (6 classrooms K-5)
+Year 2-3: District expansion (10 schools)
+Year 4-5: National/international open-source release
+
+Measure:
+- Character mastery rates
+- Pattern recognition skills (vs. traditional curriculum)
+- Historical consciousness development
+- Cross-cultural awareness
+- Student engagement
+```
+
+**Target Impact:**
+- Replace fragmented phonics-based literacy with integrated visual-compositional curriculum
+- Develop superior cognitive skills (systems thinking, visual-spatial intelligence)
+- Connect children to 50,000 years of human development by age 11
+- Prepare global citizens through universal human story
+
+**Status:** Vision documented in README-edu.md, ZiNets app framework in development
+
+---
+
 **Now go finish Paper #2!** 📝✨
 
-*Last updated: 2025-01-30*
+*Last updated: 2025-12-01*
 *Next review: After Paper #2 submission*
