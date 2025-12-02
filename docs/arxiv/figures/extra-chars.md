@@ -225,7 +225,6 @@
 
 | Category | Character | Oracle Bone? | Priority | Action |
 |----------|-----------|--------------|----------|--------|
-| **Stone Age** | 穴 | ✅ YES | HIGH | ADD |
 | **Fire & Cooking** | 火 | ✅ YES | HIGH | KEEP in Nature Observation + ADD here |
 | Fire & Cooking | 炎 | ✅ YES | HIGH | ADD |
 | Fire & Cooking | 炒 | ⚠️ COMPOSITIONAL | HIGH | ADD (pedagogical) |
@@ -239,7 +238,7 @@
 | Textile & Clothing | 糸/糹 | ✅ YES | HIGH | ADD |
 | Textile & Clothing | 衣 | ✅ YES | HIGH | ADD |
 | Textile & Clothing | 麻 | ✅ YES | MEDIUM | ADD |
-| **Shelter & Architecture** | 穴 | ✅ YES | HIGH | Already in Stone Age |
+| **Stone Age, Shelter & Architecture** | 穴 | ✅ YES | HIGH | Already in Stone Age |
 | Shelter | 宀 | ✅ YES | MEDIUM | Already in 家, could elevate |
 | Shelter | 户 | ✅ YES | MEDIUM | ADD |
 | Shelter | 門 | ✅ YES | MEDIUM | ADD |
@@ -257,6 +256,29 @@
 | **Pottery & Ceramics** | 缶 | ✅ YES | HIGH | ADD |
 | Pottery | 瓦 | ✅ YES | MEDIUM | ADD |
 | **Military** | 车 | ✅ YES | HIGH | ADD |
+| Tree | 木 | ✅ YES | HIGH | ADD |
+木 + 木 = 林
+木 + 木 + 木 = 森
+木 + 彡 = 杉
+木 + 一 = 本
+一 + 木 = 末
+木 + 一 = 未
+丷 + 木 = 米
+亻 + 木 = 休
+爪 + 木 = 采
+广 + 木 = 床
+口 + 木 = 呆
+木 + 工 = 杠
+田 + 木 = 果
+丿 + 木 = 禾
+木 + 灬 = 杰
+囗 + 木 = 困
+木 + 子 = 李
+氵 + 木 = 沐
+乂 + 木 = 杀
+木 + 又 = 权
+木 + 交 = 校
+十 + 木 + 戈 = 栽
 
 ---
 
@@ -356,3 +378,211 @@ All changes approved:
 - 车 → Military Development
 
 **Total: 106 foundational characters for comprehensive Chinese character education!**
+
+子
+char-子-oracle.png
+char-子-bronze.png
+char-子-seal.png
+
+char-炎-oracle.png
+char-炎-bronze.png
+char-炎-seal.png
+
+char-炒-oracle.png
+char-炒-bronze.png
+char-炒-seal.png
+
+char-灯-oracle.png
+char-灯-bronze.png
+char-灯-seal.png
+
+char-烘-oracle.png
+char-烘-bronze.png
+char-烘-seal.png
+
+char-伙-oracle.png
+char-伙-bronze.png
+char-伙-seal.png
+
+char-灭-oracle.png
+char-灭-bronze.png
+char-灭-seal.png
+
+char-灾-oracle.png
+char-灾-bronze.png
+char-灾-seal.png
+char-灰-oracle.png
+char-灰-bronze.png
+char-灰-seal.png
+
+char-初-oracle.png
+char-初-bronze.png
+char-初-seal.png
+
+char-糸-oracle.png
+char-糸-bronze.png
+char-糸-seal.png
+
+char-糹-oracle.png
+char-糹-bronze.png
+char-糹-seal.png
+
+char-衣-oracle.png
+char-衣-bronze.png
+char-衣-seal.png
+
+char-麻-oracle.png
+char-麻-bronze.png
+char-麻-seal.png
+
+char-穴-oracle.png
+char-穴-bronze.png
+char-穴-seal.png
+char-宀-oracle.png
+char-宀-bronze.png
+char-宀-seal.png
+char-户-oracle.png
+char-户-bronze.png
+char-户-seal.png
+
+char-門-oracle.png
+char-門-bronze.png
+char-門-seal.png
+
+char-囗-oracle.png
+char-囗-bronze.png
+char-囗-seal.png
+
+char-市-oracle.png
+char-市-bronze.png
+char-市-seal.png
+char-城-oracle.png
+char-城-bronze.png
+char-城-seal.png
+
+char-示-oracle.png
+char-示-bronze.png
+char-示-seal.png
+
+char-礻-oracle.png
+char-礻-bronze.png
+char-礻-seal.png
+char-祖-oracle.png
+char-祖-bronze.png
+char-祖-seal.png
+
+char-卜-oracle.png
+char-卜-bronze.png
+char-卜-seal.png
+char-祭-oracle.png
+char-祭-bronze.png
+char-祭-seal.png
+char-巫-oracle.png
+char-巫-bronze.png
+char-巫-seal.png
+char-鬼-oracle.png
+char-鬼-bronze.png
+char-鬼-seal.png
+
+char-神-oracle.png
+char-神-bronze.png
+char-神-seal.png
+char-灵-oracle.png
+char-灵-bronze.png
+char-灵-seal.png
+
+
+char-缶-oracle.png
+char-缶-bronze.png
+char-缶-seal.png
+char-瓦-oracle.png
+char-瓦-bronze.png
+char-瓦-seal.png
+char-车-oracle.png
+char-车-bronze.png
+char-车-seal.png
+
+
+char-木-oracle.png
+char-木-bronze.png
+char-木-seal.png
+char-林-oracle.png
+char-林-bronze.png
+char-林-seal.png
+
+
+char-森-oracle.png
+char-森-bronze.png
+char-森-seal.png
+char-杉-oracle.png
+char-杉-bronze.png
+char-杉-seal.png
+
+char-本-oracle.png
+char-本-bronze.png
+char-本-seal.png
+char-末-oracle.png
+char-末-bronze.png
+char-末-seal.png
+char-未-oracle.png
+char-未-bronze.png
+char-未-seal.png
+char-米-oracle.png
+char-米-bronze.png
+char-米-seal.png
+
+
+char-休-oracle.png
+char-休-bronze.png
+char-休-seal.png
+char-采-oracle.png
+char-采-bronze.png
+char-采-seal.png
+
+char-床-oracle.png
+char-床-bronze.png
+char-床-seal.png
+char-呆-oracle.png
+char-呆-bronze.png
+char-呆-seal.png
+char-杠-oracle.png
+char-杠-bronze.png
+char-杠-seal.png
+char-果-oracle.png
+char-果-bronze.png
+char-果-seal.png
+char-禾-oracle.png
+char-禾-bronze.png
+char-禾-seal.png
+
+
+char-杰-oracle.png
+char-杰-bronze.png
+char-杰-seal.png
+char-困-oracle.png
+char-困-bronze.png
+char-困-seal.png
+
+char-李-oracle.png
+char-李-bronze.png
+char-李-seal.png
+char-沐-oracle.png
+char-沐-bronze.png
+char-沐-seal.png
+char-杀-oracle.png
+char-杀-bronze.png
+char-杀-seal.png
+char-权-oracle.png
+char-权-bronze.png
+char-权-seal.png
+char-校-oracle.png
+char-校-bronze.png
+char-校-seal.png
+char-栽-oracle.png
+char-栽-bronze.png
+char-栽-seal.png
+
+
+口
+血
+心
