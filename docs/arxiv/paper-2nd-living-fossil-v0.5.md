@@ -116,7 +116,7 @@ We organize these case studies chronologically, following human civilization dev
 12. Craftsmanship (工 功 巧 巠 乍 作) - Engineering (6 chars)
 13. Metallurgy Development (金 銀 钱 銅 冶) - Bronze revolution (5 chars)
 14. Military Development (弓 矢 戈 叉 矛 车) - 行 (Transportation & warfare, 6 chars)
-15. Ritual & Religion (示 祖 卜 祭 巫 鬼 灵) - Oracle bone divination context (7 chars)
+15. Ritual & Religion (示 祖 卜 祭 巫 鬼 神 灵) - Oracle bone divination context (7 chars)
 16. Counting & Calendar (甲乙丙丁 子丑寅卯 一二三四) - Symbolic systems (12 chars)
 17. Measurement (分 寸 尺 斗 斤) - Standardization (5 chars)
 18. Flow & Hydraulics (㐬 流 川 江 汞 气 冰) - Physics understanding (7 chars)

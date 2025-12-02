@@ -244,13 +244,15 @@
 | Shelter | 户 | ✅ YES | MEDIUM | ADD |
 | Shelter | 門 | ✅ YES | MEDIUM | ADD |
 | Shelter | 囗 | ✅ YES | MEDIUM | ADD |
-| Shelter | 市 | ✅ YES | MEDIUM | ADD (replaced 城) |
+| Shelter | 市 | ✅ YES | MEDIUM | ADD  |
+| Shelter | 城 | ✅ YES | MEDIUM | ADD  |
 | **Ritual & Religion** | 示/礻 | ✅ YES | HIGH | ADD |
 | Ritual | 祖 | ✅ YES | HIGH | ADD |
 | Ritual | 卜 | ✅ YES | HIGH | ADD (reflexive!) |
 | Ritual | 祭 | ✅ YES | HIGH | ADD |
 | Ritual | 巫 | ✅ YES | MEDIUM | ADD |
-| Ritual | 鬼 | ✅ YES | HIGH | ADD |
+| Ritual | 鬼 | ✅ YES | HIGH | ADD | 
+| Ritual | 神 | ✅ YES | HIGH | ADD |
 | Ritual | 灵 | ✅ YES | HIGH | ADD |
 | **Pottery & Ceramics** | 缶 | ✅ YES | HIGH | ADD |
 | Pottery | 瓦 | ✅ YES | MEDIUM | ADD |
