@@ -10,7 +10,7 @@
 
 Fire mastery represents one of humanity's most transformative technological achievements—enabling cooked food (increased nutritional efficiency, reduced parasites), metallurgy, pottery firing, warmth, light, and protection from predators. The control of combustion fundamentally altered human evolution, allowing brain development through improved nutrition and creating social gathering spaces around hearths. Characters encoding fire knowledge preserve both practical combustion understanding and the social-cultural significance of fire in early civilization.
 
-The beautiful observation about 食 (shí, food) = 良 (liáng, good) + 人 (rén, person) perfectly encodes ancient wisdom: "food is good for human." This character demonstrates semantic transparency—the compositional logic remains intuitively understandable after 3,000+ years, validating that 良 (seed quality testing) and human nourishment are fundamentally linked. Fire enabled the cooking that made food truly "good for humans" by breaking down tough plant matter, killing pathogens, and increasing bioavailability of nutrients.
+The beautiful observation about 食 (shí, food) = 良 (liáng, good) + 人 (rén, person) perfectly encodes ancient wisdom: "food is something that is good for humans." This character demonstrates semantic transparency through functional definition—not merely labeling the substance, but capturing food's essential property as nourishment/benefit to humans. The compositional logic remains intuitively understandable after 3,000+ years, validating that 良 (seed quality testing) and human nourishment are fundamentally linked. Fire enabled the cooking that made food truly "good for humans" by breaking down tough plant matter, killing pathogens, and increasing bioavailability of nutrients.
 
 **火 (huǒ) - Fire:**
 Oracle bone forms clearly depict flames rising upward with characteristic flickering motion, capturing fire's essential feature—upward-moving energy transformation through combustion. This character appears in both Nature Observation (Section 2.2, Five Elements) and here (Fire & Cooking), reflecting fire's dual significance as both natural phenomenon and controlled technology. The repetition is intentional—fire was important enough to encode in multiple contexts.
@@ -106,11 +106,11 @@ Oracle bone forms show hand sweeping ash from fire pit, encoding the material by
 
 **Section synthesis:**
 
-This section reveals how early Chinese civilization systematically encoded **fire mastery knowledge** across multiple dimensions: (1) Combustion understanding - fire intensity (火炎), control methods (灭), byproducts (灰), (2) Cooking technology - stir-frying (炒), baking (烘), general cooking (食 = 良 + 人), (3) Social organization - fire as gathering space (伙), communal cooking, (4) Safety knowledge - fire hazards (灾), disaster prevention.
+This section reveals how early Chinese civilization systematically encoded **fire mastery knowledge** across multiple dimensions: (1) Combustion understanding - fire intensity (火炎), control methods (灭), byproducts (灰), (2) Cooking technology - stir-frying (炒), baking (烘), general cooking (食 showing food as something good for humans), (3) Social organization - fire as gathering space (伙), communal cooking, (4) Safety knowledge - fire hazards (灾), disaster prevention.
 
 **Key insights:**
 - **Fire's dual nature** encoded: benefit (cooking, warmth, light) AND danger (灾 disaster)
-- **Cooking = civilization** marker: 食 (food) = 良 (good/tested) + 人 (person) shows food quality + human nourishment connection
+- **Cooking = civilization** marker: 食 (food) = 良 (good/tested) + 人 (person) defines food functionally as "something good for humans"—capturing nourishment as essential property
 - **Social dimension** preserved: 伙 (companions) = 亻+ 火 demonstrates hearths as social gathering spaces
 - **Scientific understanding**: 灭 (extinguish) = covering fire shows oxygen-deprivation knowledge
 - **Pedagogical design**: Compositional characters (炒灯烘伙灭灾) demonstrate clear teaching logic—semantic transparency for learners
