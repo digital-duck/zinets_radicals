@@ -1,0 +1,12 @@
+## fig-2.16a
+
+Evolution of Heavenly Stems (天干) and Earthly Branches (地支) - first examples (Section 2.16a). Shows abstract temporal ordering system.
+
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| <img src="figures/characters/oracle/char-甲-oracle.png" width="100" alt="甲 oracle"> | <img src="figures/characters/bronze/char-甲-bronze.png" width="100" alt="甲 bronze"> | <img src="figures/characters/seal/char-甲-seal.png" width="100" alt="甲 seal"> | <img src="figures/characters/kaiti/char-甲-kaiti.png" width="100" alt="甲 kaiti"> |
+| <img src="figures/characters/oracle/char-乙-oracle.png" width="100" alt="乙 oracle"> | <img src="figures/characters/bronze/char-乙-bronze.png" width="100" alt="乙 bronze"> | <img src="figures/characters/seal/char-乙-seal.png" width="100" alt="乙 seal"> | <img src="figures/characters/kaiti/char-乙-kaiti.png" width="100" alt="乙 kaiti"> |
+| <img src="figures/characters/oracle/char-丙-oracle.png" width="100" alt="丙 oracle"> | <img src="figures/characters/bronze/char-丙-bronze.png" width="100" alt="丙 bronze"> | <img src="figures/characters/seal/char-丙-seal.png" width="100" alt="丙 seal"> | <img src="figures/characters/kaiti/char-丙-kaiti.png" width="100" alt="丙 kaiti"> |
+| <img src="figures/characters/oracle/char-丁-oracle.png" width="100" alt="丁 oracle"> | <img src="figures/characters/bronze/char-丁-bronze.png" width="100" alt="丁 bronze"> | <img src="figures/characters/seal/char-丁-seal.png" width="100" alt="丁 seal"> | <img src="figures/characters/kaiti/char-丁-kaiti.png" width="100" alt="丁 kaiti"> |
+| <img src="figures/characters/oracle/char-子-oracle.png" width="100" alt="子 oracle"> | <img src="figures/characters/bronze/char-子-bronze.png" width="100" alt="子 bronze"> | <img src="figures/characters/seal/char-子-seal.png" width="100" alt="子 seal"> | <img src="figures/characters/kaiti/char-子-kaiti.png" width="100" alt="子 kaiti"> |
+| <img src="figures/characters/oracle/char-丑-oracle.png" width="100" alt="丑 oracle"> | <img src="figures/characters/bronze/char-丑-bronze.png" width="100" alt="丑 bronze"> | <img src="figures/characters/seal/char-丑-seal.png" width="100" alt="丑 seal"> | <img src="figures/characters/kaiti/char-丑-kaiti.png" width="100" alt="丑 kaiti"> |

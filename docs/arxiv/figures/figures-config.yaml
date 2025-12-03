@@ -836,6 +836,17 @@ section_2_9:
       kaiti: char-乂-kaiti.png
     status: ok
     notes: X-shaped cutting blades
+  - hanzi: 爻
+    pinyin: yáo
+    unicode: 723B
+    meaning: diagram for divination
+    files:
+      oracle: char-爻-oracle.png
+      bronze: char-爻-bronze.png
+      seal: char-爻-seal.png
+      kaiti: char-爻-kaiti.png
+    status: ok
+    notes: diagram for divination
   - hanzi: 匕
     pinyin: bi
     unicode: '5315'
@@ -1354,7 +1365,7 @@ section_2_15:
     unicode: 5FC3
     meaning: Heart, mind, consciousness
     files:
-      oracle: char-心-oracle.png
+      oracle: 
       bronze: char-心-bronze.png
       seal: char-心-seal.png
       kaiti: char-心-kaiti.png
@@ -1670,7 +1681,7 @@ section_2_18:
     status: ok
     notes: Three wavy lines = rising vapor (water cycle)
   - hanzi: 冰
-    pinyin: bing-ice
+    pinyin: bing
     unicode: 51B0
     meaning: Ice
     files:
@@ -1680,6 +1691,17 @@ section_2_18:
       kaiti: char-冰-kaiti.png
     status: ok
     notes: 冫+ 水 = frozen water (phase transition)
+  - hanzi: 永
+    pinyin: yǒng
+    unicode: 6C38
+    meaning: swimming, forever
+    files:
+      oracle: char-永-oracle.png
+      bronze: char-永-bronze.png
+      seal: char-永-seal.png
+      kaiti: char-永-kaiti.png
+    status: ok
+    notes: 
   figures:
   - id: fig-2.18
     caption: 'Evolution of Flow & Hydraulics radicals (Section 2.18). Shows complete

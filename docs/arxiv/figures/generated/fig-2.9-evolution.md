@@ -1,11 +1,11 @@
 ## fig-2.9
 
-Evolution of Military Development radicals (Section 2.9). Shows weapon types: ranged (弓矢), slashing (戈), restraining (叉), and thrusting (矛).
+Evolution of Cutting & Inscribing radicals (Section 2.9). Shows progression from cutting (乂匕刀) to symbolic marking (文) and force application (力). Note - 初 moved to Section 2.6 Textile.
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
-| <img src="figures/characters/oracle/char-弓-oracle.png" width="100" alt="弓 oracle"> | <img src="figures/characters/bronze/char-弓-bronze.png" width="100" alt="弓 bronze"> | <img src="figures/characters/seal/char-弓-seal.png" width="100" alt="弓 seal"> | <img src="figures/characters/kaiti/char-弓-kaiti.png" width="100" alt="弓 kaiti"> |
-| <img src="figures/characters/oracle/char-矢-oracle.png" width="100" alt="矢 oracle"> | <img src="figures/characters/bronze/char-矢-bronze.png" width="100" alt="矢 bronze"> | <img src="figures/characters/seal/char-矢-seal.png" width="100" alt="矢 seal"> | <img src="figures/characters/kaiti/char-矢-kaiti.png" width="100" alt="矢 kaiti"> |
-| <img src="figures/characters/oracle/char-戈-oracle.png" width="100" alt="戈 oracle"> | <img src="figures/characters/bronze/char-戈-bronze.png" width="100" alt="戈 bronze"> | <img src="figures/characters/seal/char-戈-seal.png" width="100" alt="戈 seal"> | <img src="figures/characters/kaiti/char-戈-kaiti.png" width="100" alt="戈 kaiti"> |
-| (unavail.) | (unavail.) | <img src="figures/characters/seal/char-叉-seal.png" width="100" alt="叉 seal"> | <img src="figures/characters/kaiti/char-叉-kaiti.png" width="100" alt="叉 kaiti"> |
-| (unavail.) | <img src="figures/characters/bronze/char-矛-bronze.png" width="100" alt="矛 bronze"> | <img src="figures/characters/seal/char-矛-seal.png" width="100" alt="矛 seal"> | <img src="figures/characters/kaiti/char-矛-kaiti.png" width="100" alt="矛 kaiti"> |
+| <img src="figures/characters/oracle/char-乂-oracle.png" width="100" alt="乂 oracle"> | (unavail.) | <img src="figures/characters/seal/char-乂-seal.png" width="100" alt="乂 seal"> | <img src="figures/characters/kaiti/char-乂-kaiti.png" width="100" alt="乂 kaiti"> |
+| <img src="figures/characters/oracle/char-匕-oracle.png" width="100" alt="匕 oracle"> | <img src="figures/characters/bronze/char-匕-bronze.png" width="100" alt="匕 bronze"> | <img src="figures/characters/seal/char-匕-seal.png" width="100" alt="匕 seal"> | <img src="figures/characters/kaiti/char-匕-kaiti.png" width="100" alt="匕 kaiti"> |
+| <img src="figures/characters/oracle/char-文-oracle.png" width="100" alt="文 oracle"> | <img src="figures/characters/bronze/char-文-bronze.png" width="100" alt="文 bronze"> | <img src="figures/characters/seal/char-文-seal.png" width="100" alt="文 seal"> | <img src="figures/characters/kaiti/char-文-kaiti.png" width="100" alt="文 kaiti"> |
+| <img src="figures/characters/oracle/char-刀-oracle.png" width="100" alt="刀 oracle"> | (unavail.) | <img src="figures/characters/seal/char-刀-seal.png" width="100" alt="刀 seal"> | <img src="figures/characters/kaiti/char-刀-kaiti.png" width="100" alt="刀 kaiti"> |
+| (unavail.) | <img src="figures/characters/bronze/char-力-bronze.png" width="100" alt="力 bronze"> | <img src="figures/characters/seal/char-力-seal.png" width="100" alt="力 seal"> | <img src="figures/characters/kaiti/char-力-kaiti.png" width="100" alt="力 kaiti"> |

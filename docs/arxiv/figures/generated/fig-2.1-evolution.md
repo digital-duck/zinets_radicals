@@ -1,7 +1,14 @@
 ## fig-2.1
 
-Evolution of Early Human Society radicals showing biological foundations (Section 2.1). Oracle bone and bronze forms depict gender differentiation and maternal relationships.
+Evolution of Early Human Society radicals showing biological foundations (Section 2.1). Oracle bone and bronze forms depict gender differentiation, maternal relationships, life essence (blood), and fundamental human functions (mouth).
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
+| <img src="figures/characters/oracle/char-人-oracle.png" width="100" alt="人 oracle"> | <img src="figures/characters/bronze/char-人-bronze.png" width="100" alt="人 bronze"> | <img src="figures/characters/seal/char-人-seal.png" width="100" alt="人 seal"> | <img src="figures/characters/kaiti/char-人-kaiti.png" width="100" alt="人 kaiti"> |
+| <img src="figures/characters/oracle/char-女-oracle.png" width="100" alt="女 oracle"> | <img src="figures/characters/bronze/char-女-bronze.png" width="100" alt="女 bronze"> | <img src="figures/characters/seal/char-女-seal.png" width="100" alt="女 seal"> | <img src="figures/characters/kaiti/char-女-kaiti.png" width="100" alt="女 kaiti"> |
+| <img src="figures/characters/oracle/char-母-oracle.png" width="100" alt="母 oracle"> | <img src="figures/characters/bronze/char-母-bronze.png" width="100" alt="母 bronze"> | <img src="figures/characters/seal/char-母-seal.png" width="100" alt="母 seal"> | <img src="figures/characters/kaiti/char-母-kaiti.png" width="100" alt="母 kaiti"> |
+| (unavail.) | (unavail.) | (unavail.) | (unavail.) |
+| <img src="figures/characters/oracle/char-好-oracle.png" width="100" alt="好 oracle"> | <img src="figures/characters/bronze/char-好-bronze.png" width="100" alt="好 bronze"> | <img src="figures/characters/seal/char-好-seal.png" width="100" alt="好 seal"> | <img src="figures/characters/kaiti/char-好-kaiti.png" width="100" alt="好 kaiti"> |
 | <img src="figures/characters/oracle/char-妇-oracle.png" width="100" alt="妇 oracle"> | <img src="figures/characters/bronze/char-妇-bronze.png" width="100" alt="妇 bronze"> | <img src="figures/characters/seal/char-妇-seal.png" width="100" alt="妇 seal"> | <img src="figures/characters/kaiti/char-妇-kaiti.png" width="100" alt="妇 kaiti"> |
+| <img src="figures/characters/oracle/char-血-oracle.png" width="100" alt="血 oracle"> | <img src="figures/characters/bronze/char-血-bronze.png" width="100" alt="血 bronze"> | <img src="figures/characters/seal/char-血-seal.png" width="100" alt="血 seal"> | <img src="figures/characters/kaiti/char-血-kaiti.png" width="100" alt="血 kaiti"> |
+| <img src="figures/characters/oracle/char-口-oracle.png" width="100" alt="口 oracle"> | <img src="figures/characters/bronze/char-口-bronze.png" width="100" alt="口 bronze"> | <img src="figures/characters/seal/char-口-seal.png" width="100" alt="口 seal"> | <img src="figures/characters/kaiti/char-口-kaiti.png" width="100" alt="口 kaiti"> |

@@ -1,12 +1,11 @@
 ## fig-2.13
 
-Evolution of Advanced Concepts radicals (Section 2.13). Shows philosophical abstractions: spatial metaphors (尧烧晓), perceptual boundaries (艮), opposition (屰), and dialectical thinking (鬲).
+Evolution of Metallurgy Development radicals (Section 2.13). Shows metal types (金銀銅), currency (钱), and smelting technology (冶) with thermodynamic control.
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
-| <img src="figures/characters/oracle/char-尧-oracle.png" width="100" alt="尧 oracle"> | (unavail.) | <img src="figures/characters/seal/char-尧-seal.png" width="100" alt="尧 seal"> | <img src="figures/characters/kaiti/char-尧-kaiti.png" width="100" alt="尧 kaiti"> |
-| (unavail.) | (unavail.) | <img src="figures/characters/seal/char-烧-seal.png" width="100" alt="烧 seal"> | <img src="figures/characters/kaiti/char-烧-kaiti.png" width="100" alt="烧 kaiti"> |
-| (unavail.) | (unavail.) | <img src="figures/characters/seal/char-晓-seal.png" width="100" alt="晓 seal"> | <img src="figures/characters/kaiti/char-晓-kaiti.png" width="100" alt="晓 kaiti"> |
-| (unavail.) | (unavail.) | <img src="figures/characters/seal/char-艮-seal.png" width="100" alt="艮 seal"> | <img src="figures/characters/kaiti/char-艮-kaiti.png" width="100" alt="艮 kaiti"> |
-| <img src="figures/characters/oracle/char-屰-oracle.png" width="100" alt="屰 oracle"> | <img src="figures/characters/bronze/char-屰-bronze.png" width="100" alt="屰 bronze"> | <img src="figures/characters/seal/char-屰-seal.png" width="100" alt="屰 seal"> | <img src="figures/characters/kaiti/char-屰-kaiti.png" width="100" alt="屰 kaiti"> |
-| <img src="figures/characters/oracle/char-鬲-oracle.png" width="100" alt="鬲 oracle"> | <img src="figures/characters/bronze/char-鬲-bronze.png" width="100" alt="鬲 bronze"> | <img src="figures/characters/seal/char-鬲-seal.png" width="100" alt="鬲 seal"> | <img src="figures/characters/kaiti/char-鬲-kaiti.png" width="100" alt="鬲 kaiti"> |
+| <img src="figures/characters/oracle/char-金-oracle.png" width="100" alt="金 oracle"> | <img src="figures/characters/bronze/char-金-bronze.png" width="100" alt="金 bronze"> | <img src="figures/characters/seal/char-金-seal.png" width="100" alt="金 seal"> | <img src="figures/characters/kaiti/char-金-kaiti.png" width="100" alt="金 kaiti"> |
+| (unavail.) | (unavail.) | <img src="figures/characters/seal/char-銀-seal.png" width="100" alt="銀 seal"> | <img src="figures/characters/kaiti/char-銀-kaiti.png" width="100" alt="銀 kaiti"> |
+| (unavail.) | (unavail.) | <img src="figures/characters/seal/char-钱-seal.png" width="100" alt="钱 seal"> | <img src="figures/characters/kaiti/char-钱-kaiti.png" width="100" alt="钱 kaiti"> |
+| (unavail.) | <img src="figures/characters/bronze/char-銅-bronze.png" width="100" alt="銅 bronze"> | <img src="figures/characters/seal/char-銅-seal.png" width="100" alt="銅 seal"> | <img src="figures/characters/kaiti/char-銅-kaiti.png" width="100" alt="銅 kaiti"> |
+| (unavail.) | (unavail.) | <img src="figures/characters/seal/char-冶-seal.png" width="100" alt="冶 seal"> | <img src="figures/characters/kaiti/char-冶-kaiti.png" width="100" alt="冶 kaiti"> |

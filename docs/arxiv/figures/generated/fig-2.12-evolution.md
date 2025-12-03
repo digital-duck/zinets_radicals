@@ -1,13 +1,12 @@
 ## fig-2.12
 
-Evolution of Flow & Hydraulics radicals (Section 2.12). Shows complete water phase cycle: ice (冰) ⇄ liquid (流川江) ⇄ vapor (气), demonstrating thermodynamic understanding.
+Evolution of Craftsmanship radicals (Section 2.12). Shows engineering concepts: work (工), achievement (功), skill (巧), radial structures (巠 - spoke wheel), and mechanical operation (乍作).
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
-| (unavail.) | (unavail.) | <img src="figures/characters/seal/char-㐬-seal.png" width="100" alt="㐬 seal"> | <img src="figures/characters/kaiti/char-㐬-kaiti.png" width="100" alt="㐬 kaiti"> |
-| (unavail.) | <img src="figures/characters/bronze/char-流-bronze.png" width="100" alt="流 bronze"> | <img src="figures/characters/seal/char-流-seal.png" width="100" alt="流 seal"> | <img src="figures/characters/kaiti/char-流-kaiti.png" width="100" alt="流 kaiti"> |
-| <img src="figures/characters/oracle/char-川-oracle.png" width="100" alt="川 oracle"> | <img src="figures/characters/bronze/char-川-bronze.png" width="100" alt="川 bronze"> | <img src="figures/characters/seal/char-川-seal.png" width="100" alt="川 seal"> | <img src="figures/characters/kaiti/char-川-kaiti.png" width="100" alt="川 kaiti"> |
-| (unavail.) | <img src="figures/characters/bronze/char-江-bronze.png" width="100" alt="江 bronze"> | <img src="figures/characters/seal/char-江-seal.png" width="100" alt="江 seal"> | <img src="figures/characters/kaiti/char-江-kaiti.png" width="100" alt="江 kaiti"> |
-| (unavail.) | <img src="figures/characters/bronze/char-汞-bronze.png" width="100" alt="汞 bronze"> | <img src="figures/characters/seal/char-汞-seal.png" width="100" alt="汞 seal"> | <img src="figures/characters/kaiti/char-汞-kaiti.png" width="100" alt="汞 kaiti"> |
-| <img src="figures/characters/oracle/char-气-oracle.png" width="100" alt="气 oracle"> | <img src="figures/characters/bronze/char-气-bronze.png" width="100" alt="气 bronze"> | <img src="figures/characters/seal/char-气-seal.png" width="100" alt="气 seal"> | <img src="figures/characters/kaiti/char-气-kaiti.png" width="100" alt="气 kaiti"> |
-| (unavail.) | <img src="figures/characters/bronze/char-冰-bronze.png" width="100" alt="冰 bronze"> | <img src="figures/characters/seal/char-冰-seal.png" width="100" alt="冰 seal"> | <img src="figures/characters/kaiti/char-冰-kaiti.png" width="100" alt="冰 kaiti"> |
+| <img src="figures/characters/oracle/char-工-oracle.png" width="100" alt="工 oracle"> | <img src="figures/characters/bronze/char-工-bronze.png" width="100" alt="工 bronze"> | <img src="figures/characters/seal/char-工-seal.png" width="100" alt="工 seal"> | <img src="figures/characters/kaiti/char-工-kaiti.png" width="100" alt="工 kaiti"> |
+| (unavail.) | <img src="figures/characters/bronze/char-功-bronze.png" width="100" alt="功 bronze"> | <img src="figures/characters/seal/char-功-seal.png" width="100" alt="功 seal"> | <img src="figures/characters/kaiti/char-功-kaiti.png" width="100" alt="功 kaiti"> |
+| (unavail.) | (unavail.) | <img src="figures/characters/seal/char-巧-seal.png" width="100" alt="巧 seal"> | <img src="figures/characters/kaiti/char-巧-kaiti.png" width="100" alt="巧 kaiti"> |
+| (unavail.) | <img src="figures/characters/bronze/char-巠-bronze.png" width="100" alt="巠 bronze"> | <img src="figures/characters/seal/char-巠-seal.png" width="100" alt="巠 seal"> | <img src="figures/characters/kaiti/char-巠-kaiti.png" width="100" alt="巠 kaiti"> |
+| <img src="figures/characters/oracle/char-乍-oracle.png" width="100" alt="乍 oracle"> | <img src="figures/characters/bronze/char-乍-bronze.png" width="100" alt="乍 bronze"> | <img src="figures/characters/seal/char-乍-seal.png" width="100" alt="乍 seal"> | <img src="figures/characters/kaiti/char-乍-kaiti.png" width="100" alt="乍 kaiti"> |
+| <img src="figures/characters/oracle/char-作-oracle.png" width="100" alt="作 oracle"> | <img src="figures/characters/bronze/char-作-bronze.png" width="100" alt="作 bronze"> | <img src="figures/characters/seal/char-作-seal.png" width="100" alt="作 seal"> | <img src="figures/characters/kaiti/char-作-kaiti.png" width="100" alt="作 kaiti"> |
