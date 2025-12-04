@@ -2993,15 +2993,16 @@ The periodic table thus serves dual purpose: it demonstrates how 3,200-year-old 
 
 Because the same radical appears across multiple characters, we can map semantic networks to test interpretations scientifically.
 
-**Strong evidence = high coherence**: If 19 characters with element X all relate to "visibility/sight," this validates the interpretation with scientific confidence.
+**Strong evidence = high coherence**: If 20 characters with element X all relate to "visibility/sight," this validates the interpretation with scientific confidence.
 
 **Example: 艮 (gěn - visibility/sight) - 95%+ coherence**
 
-Network test (19 characters):
+Network test (20 characters):
 - 根 (root): Hidden underground = **OUT OF VIEW** ✓
 - 银 (silver): Shiny metal = **CATCHES THE EYE** ✓
 - 很 (very): Clearly marked = **EASY TO SEE** ✓
 - 限 (limit): Boundary of sight = **VISIBILITY LIMIT** ✓
+- 垠 (boundary): Visible edge of farmland furrows farmers can walk on = **SIGHT BOUNDARY** ✓
 - 眼 (eye): Organ of sight = **SEEING** ✓
 - 跟 (follow): "Watch your step" = **VISUAL ATTENTION** ✓
 - 恨 (hate): "Out of sight, NOT out of mind" = **MENTAL VISIBILITY** ✓
