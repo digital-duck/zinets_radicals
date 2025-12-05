@@ -18,10 +18,20 @@ Each section must follow this exact structure:
 [Oracle evidence + Network coherence + Archaeological correlation + Modern usage]
 
 #### 2.X.4 Commentary
-**Material Culture Context:** [Consolidated background material]
-**Character Meanings:** [Key insights from former background]
-**Section Synthesis:** [Main conclusions]
-**Archaeological Validation:** [Evidence summary]
+
+##### 2.X.4.1 **Material Culture Context:** 
+[Consolidated background material]
+
+##### 2.X.4.2 **Key Insights**
+
+##### 2.X.4.3 **Section Synthesis:** 
+[Main conclusions]
+
+##### 2.X.4.4 **Cross-references:** 
+[optional if any]
+
+add other special section specific contents as notes below
+
 ```
 
 ## PROGRESS STATUS (as of December 5, 2025)
