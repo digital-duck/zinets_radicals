@@ -75,7 +75,7 @@ section_2_1:
     meaning: Blood
     files:
       oracle: char-血-oracle.png
-      bronze: char-血-bronze.png
+      bronze: 
       seal: char-血-seal.png
       kaiti: char-血-kaiti.png
     status: ok
@@ -661,7 +661,7 @@ section_2_6:
       bronze:
       seal: char-婁-seal.png
       kaiti: char-婁-kaiti.png
-    status: pending
+    status: ok
     notes: 女 + weaving pattern = foundational weaving skill, origin of counting/mathematics
   - hanzi: 篓
     pinyin: lǒu
@@ -672,7 +672,7 @@ section_2_6:
       bronze:
       seal: char-篓-seal.png
       kaiti: char-篓-kaiti.png
-    status: pending
+    status: ok
     notes: 竹 + 婁 = woven bamboo container
   - hanzi: 楼
     pinyin: lóu
@@ -683,7 +683,7 @@ section_2_6:
       bronze:
       seal: char-楼-seal.png
       kaiti: char-楼-kaiti.png
-    status: pending
+    status: ok
     notes: 木 + 婁 = multi-level structure (like basket framework)
   - hanzi: 屡
     pinyin: lǚ
@@ -694,7 +694,7 @@ section_2_6:
       bronze:
       seal: char-屡-seal.png
       kaiti: char-屡-kaiti.png
-    status: pending
+    status: ok
     notes: 婁 + 尸 = repetitive weaving motion
   - hanzi: 数
     pinyin: shù
@@ -705,7 +705,7 @@ section_2_6:
       bronze:
       seal: char-数-seal.png
       kaiti: char-数-kaiti.png
-    status: pending
+    status: ok
     notes: 婁 + 攴 = counting stitches/patterns in weaving - origin of mathematics
   - hanzi: 初
     pinyin: chū
@@ -773,7 +773,7 @@ section_2_7:
       bronze: char-鸟-bronze.png
       seal: char-鸟-seal.png
       kaiti: char-鸟-kaiti.png
-    status: pending
+    status: ok
     notes: Bird as hunting target and domesticated animal
   - hanzi: 鸡
     pinyin: jī
@@ -781,10 +781,10 @@ section_2_7:
     meaning: Chicken, rooster
     files:
       oracle: char-鸡-oracle.png
-      bronze: char-鸡-bronze.png
+      bronze: 
       seal: char-鸡-seal.png
       kaiti: char-鸡-kaiti.png
-    status: pending
+    status: ok
     notes: 鸟 + 奚 = domesticated bird
   - hanzi: 犬
     pinyin: quan
@@ -918,7 +918,7 @@ section_2_9:
     unicode: 624B
     meaning: Hand
     files:
-      oracle: char-手-oracle.png
+      oracle: 
       bronze: char-手-bronze.png
       seal: char-手-seal.png
       kaiti: char-手-kaiti.png
@@ -1375,7 +1375,7 @@ section_2_14:
       bronze: char-行-bronze.png
       seal: char-行-seal.png
       kaiti: char-行-kaiti.png
-    status: pending
+    status: ok
     notes: Crossroads = transportation/movement - fundamental mobility concept
   - hanzi: 足
     pinyin: zú
@@ -1386,7 +1386,7 @@ section_2_14:
       bronze: char-足-bronze.png
       seal: char-足-seal.png
       kaiti: char-足-kaiti.png
-    status: pending
+    status: ok
     notes: Foot as fundamental mobility organ - radiates semantic to all movement/walking characters
   - hanzi: 街
     pinyin: jiē
@@ -1397,7 +1397,7 @@ section_2_14:
       bronze:
       seal: char-街-seal.png
       kaiti: char-街-kaiti.png
-    status: pending
+    status: ok
     notes: 行 + 彳 = walking path/street
   - hanzi: 舟
     pinyin: zhōu
@@ -1408,7 +1408,7 @@ section_2_14:
       bronze: char-舟-bronze.png
       seal: char-舟-seal.png
       kaiti: char-舟-kaiti.png
-    status: pending
+    status: ok
     notes: Water transportation
   - hanzi: 走
     pinyin: zǒu
@@ -1419,7 +1419,7 @@ section_2_14:
       bronze: char-走-bronze.png
       seal: char-走-seal.png
       kaiti: char-走-kaiti.png
-    status: pending
+    status: ok
     notes: Walking/running motion
   - hanzi: 道
     pinyin: dào
@@ -1427,10 +1427,10 @@ section_2_14:
     meaning: Road, way, path
     files:
       oracle:
-      bronze:
+      bronze: char-道-bronze.png
       seal: char-道-seal.png
       kaiti: char-道-kaiti.png
-    status: pending
+    status: ok
     notes: 辶 + 首 = road/path system
   figures:
   - id: fig-2.14

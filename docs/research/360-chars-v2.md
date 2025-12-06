@@ -31,7 +31,7 @@ _mi mai dou gua guo_
 _gen ya zhi ye jing_
 松柏杉杨柳.
 _song bai shan yang liu_
-花草**竹**树林.
+草花**竹**树林.
 _hua cao zhu shu lin_
 
 

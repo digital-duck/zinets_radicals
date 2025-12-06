@@ -72,6 +72,7 @@ class KaitiGenerator:
         """Auto-detect Makemeahanzi graphics.txt location"""
         possible_paths = [
             Path.home() / "projects/Proj-ZiNets/makemeahanzi/graphics.txt",
+            Path.home() / "projects/digital-duck/makemeahanzi/graphics.txt",
             Path.home() / "makemeahanzi" / "graphics.txt",
             Path("/usr/local/share/makemeahanzi/graphics.txt"),
             Path("makemeahanzi/graphics.txt"),

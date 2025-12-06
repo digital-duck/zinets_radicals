@@ -1165,11 +1165,19 @@ Section 2.4 (Stone Age): 穴 (cave) bridges from stone-working to shelter contex
 
 #### 2.11.1 Character Forms
 
-[Oracle bone evolution diagrams showing:]
-- **行**: Crossroads → movement concept → travel
-- **舟**: Boat hull → water vessel → transportation
-- **车**: Wheel-axle → vehicle → land transport  
-- **道**: Head + movement → guided path → systematic way
+**Table 2.11.1** Evolution of Transportation/Mobility radicals. Shows movement/travel (行), Boat hull/water vessel (舟), Wheel-axle/vehicle (车), way/guided path (道).
+
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| <img src="figures/characters/oracle/char-足-oracle.png" width="100" alt="足 oracle"> | <img src="figures/characters/bronze/char-足-bronze.png" width="100" alt="足 bronze"> | <img src="figures/characters/seal/char-足-seal.png" width="100" alt="足 seal"> | <img src="figures/characters/kaiti/char-足-kaiti.png" width="100" alt="足 kaiti"> |
+| (unavailable) | <img src="figures/characters/bronze/char-走-bronze.png" width="100" alt="走 bronze"> | <img src="figures/characters/seal/char-走-seal.png" width="100" alt="走 seal"> | <img src="figures/characters/kaiti/char-走-kaiti.png" width="100" alt="走 kaiti"> |
+| <img src="figures/characters/oracle/char-行-oracle.png" width="100" alt="行 oracle"> | <img src="figures/characters/bronze/char-行-bronze.png" width="100" alt="行 bronze"> | <img src="figures/characters/seal/char-行-seal.png" width="100" alt="行 seal"> | <img src="figures/characters/kaiti/char-行-kaiti.png" width="100" alt="行 kaiti"> |
+| (unavailable) | <img src="figures/characters/bronze/char-道-bronze.png" width="100" alt="道 bronze"> | <img src="figures/characters/seal/char-道-seal.png" width="100" alt="道 seal"> | <img src="figures/characters/kaiti/char-道-kaiti.png" width="100" alt="道 kaiti"> |
+| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-街-seal.png" width="100" alt="街 seal"> | <img src="figures/characters/kaiti/char-街-kaiti.png" width="100" alt="街 kaiti"> |
+| <img src="figures/characters/oracle/char-舟-oracle.png" width="100" alt="舟 oracle"> | <img src="figures/characters/bronze/char-舟-bronze.png" width="100" alt="舟 bronze"> | <img src="figures/characters/seal/char-舟-seal.png" width="100" alt="舟 seal"> | <img src="figures/characters/kaiti/char-舟-kaiti.png" width="100" alt="舟 kaiti"> |
+| <img src="figures/characters/oracle/char-车-oracle.png" width="100" alt="车 oracle"> | <img src="figures/characters/bronze/char-车-bronze.png" width="100" alt="车 bronze"> | <img src="figures/characters/seal/char-车-seal.png" width="100" alt="车 seal"> | <img src="figures/characters/kaiti/char-车-kaiti.png" width="100" alt="车 kaiti"> |
+
+
 
 
 #### 2.11.2 Semantic Networks
