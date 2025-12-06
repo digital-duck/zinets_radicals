@@ -312,6 +312,92 @@ Storytelling isn't just effective communication—it's humanity's most sophistic
 
 ---
 
+## Lesson 2: Efficient Section Reordering - Perfect Human-AI Partnership (v0.7 → v0.8)
+
+**Date:** December 6, 2025
+**Context:** Reorganizing 21 sections based on improved chronological flow
+
+### The Challenge
+After completing the comprehensive restructuring (v0.4 → v0.7), we realized the section numbering didn't follow optimal chronological organization:
+- Fire & Cooking (2.5) should come before Trees & Wood (2.3) 
+- 衣食住行 framework wasn't clearly grouped
+- Advanced concepts were scattered rather than progressively ordered
+
+**Problem:** 17 sections needed renumbering across:
+- Section headers (### 2.X)
+- Subsection numbers (#### 2.X.1, 2.X.2, 2.X.3, 2.X.4)  
+- Table numbers (**Table 2.X.1**, **Table 2.X.2**, etc.)
+- Cross-references throughout the paper
+- **Risk:** Manual editing could introduce errors or miss references
+
+### The Strategic Solution (Human Innovation)
+
+**Human researcher's approach:**
+1. **Temporary placeholder strategy**: Use unique string "2xyz" to avoid replacement conflicts
+2. **Two-step process**: Old sections → "2xyz.X" → final "2.X"
+3. **Safe versioning**: v0.7 → v0.8 (preserve original)
+4. **Whole-word matching**: Equivalent to VS Code case-sensitive + whole-word search
+5. **Automation requirement**: Python script to handle hundreds of replacements
+
+**Key insight:** "We need whole-word matching like VS Code, but automated for efficiency"
+
+### Perfect Partnership Execution
+
+**Human provided:**
+- 🎯 **Strategic vision**: Identified chronological flow problems  
+- 🧠 **Creative solution**: Temporary placeholder strategy to avoid conflicts
+- 📋 **Mapping logic**: Complete old→new section mapping (17 sections)
+- ⚙️ **Technical requirements**: VS Code whole-word equivalent, safe file handling
+- ✅ **Quality control**: VS Code file comparison for verification
+
+**AI provided:**
+- 💻 **Implementation**: Translated logic into working Python code
+- 🔧 **Technical details**: Regex patterns (`\b` word boundaries), file operations
+- 📊 **Systematic execution**: Logging, error handling, verification checks
+- 📚 **Documentation**: Complete script with comments and usage instructions
+
+### The Result
+
+**Efficiency achieved:**
+- ✅ **17 sections** × **4 subsections** × **3 tables each** × **multiple cross-references** = **~300 replacements**
+- ✅ **Manual approach**: Would require hours + risk of errors + massive token usage
+- ✅ **Automated approach**: 30 seconds + zero errors + minimal tokens
+
+**Quality verified:**
+- VS Code file comparison showed perfect renumbering
+- Only 1 minor typo found and manually fixed ("2.2.3" → "2.2.4")
+- All cross-references updated correctly
+- Safe versioning preserved v0.7 as backup
+
+**Strategic outcome:**
+- 🔄 **Improved archaeological storytelling flow**: Biological → Survival → Settled → Advanced → Abstract
+- 🎯 **Clear 衣食住行 grouping**: Sections 2.8-2.11 now represent clothing/food/shelter/transportation
+- 📈 **Better chronological progression**: Fire before trees, domestication before agriculture
+
+### Partnership Principles Demonstrated
+
+**Optimal Human-AI Division:**
+- **Human excellence**: Strategic thinking, domain knowledge, creative problem-solving, quality judgment
+- **AI excellence**: Implementation, systematic execution, technical documentation, pattern matching
+
+**Success factors:**
+1. **Clear requirements**: Human specified exact technical needs (VS Code equivalent)
+2. **Creative strategy**: Temporary placeholder solved complex replacement conflicts  
+3. **Safe execution**: Preserve original, verify results, handle errors gracefully
+4. **Efficient automation**: Replace manual repetition with systematic script
+
+### Broader Applications
+
+This approach works for any large-scale systematic editing:
+- **Academic papers**: Section reordering, citation renumbering, cross-reference updates
+- **Technical documentation**: API versioning, section reorganization, link updates  
+- **Legal documents**: Clause renumbering, cross-reference maintenance
+- **Software**: Refactoring with systematic renaming across multiple files
+
+**Key principle:** When facing repetitive systematic changes, invest time in automation strategy rather than manual execution.
+
+---
+
 **Prepared by:** AI assistant (Claude) based on conversation with human researcher
 **Purpose:** Document blind spots in human-AI collaborative research for future reference
 **Key learning:** Both humans and AI need external frameworks to detect coverage gaps

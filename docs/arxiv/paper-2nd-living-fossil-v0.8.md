@@ -1,10 +1,10 @@
 # Chinese Characters as Living Fossils: <br/> Reading Early Civilization History Through Oracle
 
-**Version:** v0.7
+**Version:** v0.8
 
 **Authors:** wen.gong.research@gmail.com
 
-**Date:** December 5, 2025
+**Date:** December 6, 2025
 
 ---
 
@@ -106,24 +106,24 @@ We organize these case studies chronologically, following human civilization dev
 |---------|-------------------|------------|-------|
 | 2.1 | Early Human Society - Biological foundation | 人 女 母 子 娘 好 妇 口 | 9 |
 | 2.2 | Nature Observation - Cosmology formation | 金 木 水 火 土 日 月 星 | 8 |
-| 2.4 | Stone Age - Primitive civilization | 石 岩 矿 斫 破 泵 穴 | 7 |
-| 2.8 | Hunting & Domestication - Animal relationships | 犬 器 哭 豕 家 牛 马 鸟 鸡 | 9 |
-| 2.3 | Trees & Wood - Ecological foundation | 木 林 本 末 休 米 杠 栽 果 采 | 10 |
-| 2.5 | Fire & Cooking - 食 (Food preparation) | 火 炎 炒 灯 烘 伙 灭 灾 灰 | 9 |
-| 2.19 | Water & Flow - Physics understanding | 水 㐬 流 川 江 气 冰 | 7 |
-| 2.6 | Shelter & Architecture - 住 (Dwelling) | 穴 宀 户 門 囗 市 | 6 |
-| 2.20 | Transportation - 行 (Mobility Systems) | 行 街 舟 车 走 道 | 6 |
-| 2.7 | Textile & Clothing - 衣 (Clothing) | 初 糸 衣 麻 | 4 |
-| 2.10 | Cutting & Inscribing - Tool inventions | 乂 匕 文 刀 力 | 5 |
-| 2.12 | Power Shift - Patriarchy emergence | 父 交 斧 爸 刀把子 | 5 |
-| 2.11 | Agricultural Development - Settled civilization | 男 田 良 甫 禾 | 5 |
-| 2.16 | Ritual & Religion - Oracle bone divination context | 卜 示 祖 祭 血 巫 鬼 灵 心 | 8 |
-| 2.17 | Calendar & Counting - Symbolic systems | 甲乙丙丁 子丑寅卯 一二三四 数| 12 |
-| 2.18 | Measurement - Standardization | 分 寸 尺 斗 斤 | 5 |
-| 2.13 | Craftsmanship - Engineering | 工 功 巧 巠 乍 作 | 6 |
+| 2.3 | Fire & Cooking - 食 (Food preparation) | 火 炎 炒 灯 烘 伙 灭 灾 灰 | 9 |
+| 2.4 | Trees & Wood - Ecological foundation | 木 林 本 末 休 米 杠 栽 果 采 | 10 |
+| 2.5 | Stone Age - Primitive civilization | 石 岩 硅 矿 斫 破 泵 穴 | 7 |
+| 2.6 | Cutting & Inscribing - Tool inventions | 乂 匕 文 刀 力 手| 5 |
+| 2.7 | Hunting & Domestication - Animal relationships | 犬 器 哭 豕 家 牛 马 鸟 鸡 | 9 |
+| 2.8 | Textile & Clothing - 衣 (Clothing) | 初 糸 衣 麻 | 4 |
 | 2.9 | Pottery & Ceramics - Food storage and cooking vessels | 缶 瓦 | 2 |
-| 2.14 | Metallurgy Development - Bronze revolution | 金 銀 钱 銅 冶 汞| 5 |
-| 2.15 | Military Development - Organized conflict | 弓 矢 戈 叉 矛 车 | 6 |
+| 2.10 | Shelter & Architecture - 住 (Dwelling) | 穴 宀 户 門 囗 市 | 6 |
+| 2.11 | Transportation - 行 (Mobility Systems) | 足 行 街 舟 车 走 道 | 6 |
+| 2.12 | Agricultural Development - Settled civilization | 男 田 良 甫 禾 | 5 |
+| 2.13 | Water & Flow - Physics understanding | 水 㐬 流 川 江 气 冰 | 7 |
+| 2.14 | Craftsmanship - Engineering | 工 功 巧 巠 乍 作 | 6 |
+| 2.15 | Metallurgy Development - Bronze revolution | 金 銀 钱 銅 冶 汞| 5 |
+| 2.16 | Military Development - Organized conflict | 弓 矢 戈 叉 矛 车 | 6 |
+| 2.17 | Power Shift - Patriarchy emergence | 父 交 斧 爸 刀把子 | 5 |
+| 2.18 | Ritual & Religion - Oracle bone divination context | 卜 示 祖 祭 血 巫 鬼 灵 心 | 8 |
+| 2.19 | Measurement - Standardization | 分 寸 尺 斗 斤 | 5 |
+| 2.20 | Calendar & Counting - Symbolic systems | 甲乙丙丁 子丑寅卯 一二三四 数| 12 |
 | 2.21 | Advanced Concepts - Philosophical abstraction | 尧 烧 晓 艮 屰 鬲 | 6 |
 
 
@@ -383,16 +383,94 @@ Early Chinese civilization systematically observed and categorized the natural w
 The Five Elements function as radiating centers for ALL subsequent civilization development: 木 (wood) - ecological foundation with highest productivity (200+ chars, 95% coherence), 火 (fire) - transformative energy enabling cooking/metallurgy, 水 (water) - hydraulic dynamics with highest character count (250+ chars), 金 (metal) - social power technology for tools/weapons/currency, 土 (earth) - foundational substrate for shelter/pottery/agriculture. The generative cycle 木→火→土→金→水→木 reflects actual technological dependencies rather than abstract philosophy. Celestial observation (日月星) provided time-keeping infrastructure essential for agricultural civilization. Network coherence of 85-95% across elements validates these as genuine perceptual categories grounded in survival necessity.
 
 ##### 2.2.4.3 Section Synthesis
-This section reveals systematic **empirical observation and material classification** in early Chinese civilization. The Five Elements system encoded the recognition that all civilization technologies depend on mastering these five foundational resources. Practical interdependencies are encoded throughout: Bronze casting requires wood (fuel) + fire (smelting) + earth (molds) + metal (product) - the 五行 system preserved this practical technological knowledge. Semantic density correlates with survival importance: 木 and 水 have highest productivity because plants and water are most essential for survival. The systematic encoding of natural observations in permanent characters shows proto-scientific methodology: observe phenomena, identify features, categorize systematically, preserve knowledge collectively.
+This section reveals systematic **empirical observation and material classification** in early Chinese civilization. Ancient Chinese recognized the same **fundamental organizing principles** as Genesis creation narrative: **light distinguishes day/night** (日/月 semantic networks), **elements organize matter** (五行 material classification), demonstrating universal recognition of cosmic order. The Five Elements system encoded the recognition that all civilization technologies depend on mastering these five foundational resources. Practical interdependencies are encoded throughout: Bronze casting requires wood (fuel) + fire (smelting) + earth (molds) + metal (product) - the 五行 system preserved this practical technological knowledge. Semantic density correlates with survival importance: 木 and 水 have highest productivity because plants and water are most essential for survival. The systematic encoding of natural observations in permanent characters shows proto-scientific methodology: observe phenomena, identify features, categorize systematically, preserve knowledge collectively. The parallel between Genesis "Let there be light" (distinguishing day/night) and Chinese 日/月 semantic radiation demonstrates that light-based temporal organization was universally recognized as foundational to civilization.
 
 ##### 2.2.4.4 Cross-references
-All subsequent sections trace back to Five Elements mastery: Section 2.3 (Trees/Wood) expands 木 foundation, Section 2.5 (Fire/Cooking) develops 火 applications, Section 2.6 (Shelter) uses 土 (rammed earth walls), Section 2.19 (Water Systems) expands 水 networks, and metallurgy sections develop 金 technologies. The generative cycle connections appear throughout later material culture developments, validating the Five Elements as the foundational framework for understanding all technological and social progress in Chinese civilization.
+All subsequent sections trace back to Five Elements mastery: Section 2.4 (Trees/Wood) expands 木 foundation, Section 2.3 (Fire/Cooking) develops 火 applications, Section 2.10 (Shelter) uses 土 (rammed earth walls), Section 2.13 (Water Systems) expands 水 networks, and metallurgy sections develop 金 technologies. The generative cycle connections appear throughout later material culture developments, validating the Five Elements as the foundational framework for understanding all technological and social progress in Chinese civilization.
 
-### 2.3 TREES & WOOD - Ecological Foundation
+
+### 2.3 FIRE & COOKING - Food Preparation (食)
 
 #### 2.3.1 Character Forms
 
-**Table 2.3.1** shows Evolution of 木 (Wood/Tree) radical shows tree depiction from oracle bones through modern forms, demonstrating how fundamental tree structure (trunk, branches, roots) remained recognizable across 3,000 years. The character's extraordinary productivity (200+ derivatives, 95% coherence) validates wood/plants as ecological foundation.
+**Table 2.3.1** Evolution of Fire & Cooking radicals (Section 2.5). Shows fire mastery from basic combustion (火炎) to cooking techniques (炒烘), social gathering (伙), control (灭), hazards (灾), and ash use (灰). Demonstrates 食 (food) preparation knowledge.
+
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| <img src="figures/characters/oracle/char-火-oracle.png" width="100" alt="火 oracle"> | (unavailable) | <img src="figures/characters/seal/char-火-seal.png" width="100" alt="火 seal"> | <img src="figures/characters/kaiti/char-火-kaiti.png" width="100" alt="火 kaiti"> |
+| <img src="figures/characters/oracle/char-炎-oracle.png" width="100" alt="炎 oracle"> | <img src="figures/characters/bronze/char-炎-bronze.png" width="100" alt="炎 bronze"> | <img src="figures/characters/seal/char-炎-seal.png" width="100" alt="炎 seal"> | <img src="figures/characters/kaiti/char-炎-kaiti.png" width="100" alt="炎 kaiti"> |
+| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-烘-seal.png" width="100" alt="烘 seal"> | <img src="figures/characters/kaiti/char-烘-kaiti.png" width="100" alt="烘 kaiti"> |
+| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-灭-seal.png" width="100" alt="灭 seal"> | <img src="figures/characters/kaiti/char-灭-kaiti.png" width="100" alt="灭 kaiti"> |
+| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-灾-seal.png" width="100" alt="灾 seal"> | <img src="figures/characters/kaiti/char-灾-kaiti.png" width="100" alt="灾 kaiti"> |
+| (unavailable) | (unavailable)| <img src="figures/characters/seal/char-灰-seal.png" width="100" alt="灰 seal"> | <img src="figures/characters/kaiti/char-灰-kaiti.png" width="100" alt="灰 kaiti"> |
+| (unavailable) | (unavailable) | (unavailable) | <img src="figures/characters/kaiti/char-炒-kaiti.png" width="100" alt="炒 kaiti"> |
+| (unavailable) | (unavailable) | (unavailable) | <img src="figures/characters/kaiti/char-灯-kaiti.png" width="100" alt="灯 kaiti"> |
+| (unavailable) | (unavailable) | (unavailable) | <img src="figures/characters/kaiti/char-伙-kaiti.png" width="100" alt="伙 kaiti"> |
+
+
+#### 2.3.2 Semantic Networks
+
+**Table 2.3.2** Semantic networks of Fire & Cooking radicals (selected representative characters):
+
+| Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
+|---------|-----------|-----------|---------|----------------------|----------------|
+| **火** | 炎 (yán) | 火 × 2 | Flames, heat, inflammation | Fire doubled = intense heat | Fire intensity |
+| 火 | 烧 (shāo) | 火 + 尧 | Burn | Fire + high = burning upward | Fire actions |
+| 火 | 煮 (zhǔ) | 火 + 者 | Cook, boil | Fire + transformation = cooking | Cooking methods |
+| 火 | 烤 (kǎo) | 火 + 考 | Roast, bake | Fire + test = roasting | Cooking methods |
+| 火 | 炊 (chuī) | 火 + 欠 | Cook food | Fire + breath = cooking (blowing on fire) | Cooking actions |
+| **炎** | 炎症 (yánzhèng) | 炎 + 症 | Inflammation | Intense heat + symptom = medical condition | Heat-related |
+| **炒** | 炒菜 (chǎocài) | 炒 + 菜 | Stir-fry vegetables | Stir-fry + vegetables = Chinese cooking | Culinary technique |
+| **灯** | 灯火 (dēnghuǒ) | 灯 + 火 | Lamp light | Lamp + fire = illumination | Light source |
+| 灯 | 灯笼 (dēnglóng) | 灯 + 笼 | Lantern | Lamp + cage = enclosed light | Light containers |
+| **烘** | 烘烤 (hōngkǎo) | 烘 + 烤 | Bake | Communal baking + roasting = oven cooking | Baking methods |
+| **伙** | 伙伴 (huǒbàn) | 伙 + 伴 | Partner, companion | Fire companion + accompany = partnership | Social bonds |
+| 伙 | 伙食 (huǒshí) | 伙 + 食 | Meals, food | Fire group + food = communal eating | Group meals |
+| **灭** | 消灭 (xiāomiè) | 消 + 灭 | Exterminate, eliminate | Disappear + extinguish = total elimination | Destruction |
+| **灾** | 灾难 (zāinàn) | 灾 + 难 | Disaster, calamity | Disaster + difficulty = catastrophe | Catastrophic events |
+| 灾 | 火灾 (huǒzāi) | 火 + 灾 | Fire disaster | Fire + disaster = conflagration | Fire hazards |
+| **灰** | 灰尘 (huīchén) | 灰 + 尘 | Dust | Ash + dust = particulate matter | Residues |
+| 灰 | 石灰 (shíhuī) | 石 + 灰 | Lime | Stone + ash = calcium oxide (chemical knowledge) | Chemical products |
+
+**Network patterns observed:**
+- **火 network** (150+ characters, 90% coherence): Fire actions (烧煮烤炊), heat/light (热明), combustion products (灰烟), fire-related processes
+- **炎 network** (30+ characters, 85% coherence): Heat intensity, inflammation, passionate emotions (热情 = hot emotion)
+- **Pedagogical characters** (炒灯烘伙灭灾): Compositional transparency demonstrates teaching function—clear semantic logic accessible to learners
+- **Ash network** (灰): Material uses (fertilizer, lye, cleaning), chemical transformations (石灰 lime production)
+
+
+
+#### 2.3.3 Validation
+
+**Table 2.3.3** Validation summary for Section 2.3 Fire & Cooking radicals:
+
+| Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
+|---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
+| **火 (huǒ)** | 15+ oracle + 12+ bronze forms | **90%+** (150+ chars analyzed) | ✓ Hearth structures across Neolithic sites<br>✓ Pottery firing kilns (~18,000 BCE)<br>✓ Bronze smelting furnaces (~2000 BCE) | ✓ 火 universally means "fire"<br>✓ 火车 (train = fire vehicle), 火山 (volcano) | **STRONG** - Fire technology foundation validated |
+| **炎 (yán)** | 8+ oracle forms | **85%+** (40+ chars analyzed) | ✓ Evidence of controlled high-temperature fires<br>✓ Metallurgy requiring intense heat | ✓ 炎 means "inflammation/intense heat"<br>✓ Medical term 炎症 preserves heat concept | **STRONG** - Fire intensity control validated |
+| **食 (shí)** | 10+ oracle + 15+ bronze forms | **95%+** (100+ chars analyzed) | ✓ Cooking sites with processed food remains<br>✓ Cooking vessels evolution<br>✓ Nutritional improvements from cooking | ✓ 食 fundamental "food/eat"<br>✓ 食物 (food), 食谱 (recipe) preserve meaning | **EXCEPTIONAL** - Cooking as civilization marker |
+
+
+#### 2.3.4 Commentary
+
+##### 2.3.4.1 Material Culture Context
+Fire control fundamentally altered human evolution, enabling cooked food (increased nutrition, reduced parasites), metallurgy, pottery firing, warmth, light, and protection. Chinese Neolithic sites show sophisticated hearth structures, pottery kilns (~18,000 BCE), and bronze furnaces (~2000 BCE), demonstrating cumulative fire technology knowledge. Archaeological evidence reveals progressive mastery: controlled combustion → cooking technology → pottery firing → metallurgical applications. Fire mastery enabled the material culture cycle: cooking → ash → agricultural fertilizer → better crops → civilization growth.
+
+##### 2.3.4.2 Key Insights
+Fire's dual nature is systematically encoded: benefits (cooking, warmth, light) AND dangers (灾 disaster). The character 食 (food) = 良 (good) + 人 (person) defines food functionally as "something good for humans," capturing how fire-enabled cooking made food truly beneficial through breaking down plant matter, killing pathogens, and increasing nutrient bioavailability. Social dimensions appear in 伙 (companions) = 亻+ 火, showing hearths as gathering spaces. Characters preserve proto-scientific knowledge: 灭 (extinguish) = covering fire demonstrates oxygen-deprivation understanding, while 炎 (intense heat) shows fire intensity control essential for cooking and metallurgy.
+
+##### 2.3.4.3 Section Synthesis
+This section reveals how early Chinese civilization systematically encoded **fire mastery knowledge** across multiple dimensions: (1) Combustion understanding - fire intensity (火炎), control methods (灭), byproducts (灰), (2) Cooking technology - stir-frying (炒), baking (烘), (3) Social organization - fire as gathering space (伙), communal cooking, (4) Safety knowledge - fire hazards (灾), disaster prevention. Compositional characters (炒灯烘伙灭灾) demonstrate clear teaching logic with semantic transparency. Fire mastery represents a foundational technological achievement enabling pottery, metallurgy, and advanced food preparation essential for civilization development.
+
+##### 2.3.4.4 Cross-references
+Section 2.2 (Five Elements): Fire as transformative energy in the generative cycle 木→火→土→金→水. Section 2.4 (Wood): Wood fuel (柴) enables fire technology. Section 2.7 (Pottery): Fire mastery enables kiln firing temperatures. Section 2.14 (Metallurgy): Bronze smelting requires sophisticated fire control. Section 2.10 (Shelter): 灾 = 宀 + 火 (fire under roof = disaster) shows integration of fire safety with architectural knowledge. Fire technology prerequisites appear systematically across advanced civilization developments.
+
+
+### 2.4 TREES & WOOD - Ecological Foundation
+
+#### 2.4.1 Character Forms
+
+**Table 2.4.1** shows Evolution of 木 (Wood/Tree) radical shows tree depiction from oracle bones through modern forms, demonstrating how fundamental tree structure (trunk, branches, roots) remained recognizable across 3,000 years. The character's extraordinary productivity (200+ derivatives, 95% coherence) validates wood/plants as ecological foundation.
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
@@ -411,9 +489,10 @@ Oracle bone forms establish the foundational evidence:
 
 *Note: The 木 character demonstrates extraordinary productivity with 200+ derived characters maintaining 95% semantic coherence, reflecting trees' foundational role as humanity's first versatile resource.*
 
-#### 2.3.2 Semantic Networks
 
-**Table 2.3.2** Semantic networks of 木 (Wood/Tree) radical - The Most Productive Semantic Radical (selected representative characters):
+#### 2.4.2 Semantic Networks
+
+**Table 2.4.2** Semantic networks of 木 (Wood/Tree) radical - The Most Productive Semantic Radical (selected representative characters):
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
@@ -498,9 +577,9 @@ The 木 radical demonstrates **seven systematic semantic patterns** across 200+ 
 
 
 
-#### 2.3.3 Validation
+#### 2.4.3 Validation
 
-**Table 2.3.3** Validation summary for Section 2.3 Trees & Wood semantic radicals:
+**Table 2.4.3** Validation summary for Section 2.4 Trees & Wood semantic radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|----------------------|
@@ -511,12 +590,12 @@ The 木 radical demonstrates **seven systematic semantic patterns** across 200+ 
 | **权 (quán)** | 4+ oracle + 6+ bronze forms | **80%+** (25+ chars) | ✓ Wooden scepters in elite burials<br>✓ Staff symbols of authority | ✓ 权 means "power/authority"<br>✓ 权力 (power), 权威 (authority) preserve symbolism | **MODERATE** - Social symbol generation validated |
 
 
-#### 2.3.4 Commentary
+#### 2.4.4 Commentary
 
-##### 2.3.4.1 Material Culture Context
+##### 2.4.4.1 Material Culture Context
 Chinese civilization's relationship with wood spans from Paleolithic (~50,000 BCE) through Bronze Age (~2,000 BCE). Archaeological evidence from Hemudu culture (~5500-4500 BCE) shows advanced wooden architecture, Yangshao culture (~5000-3000 BCE) timber house frames, and Shang dynasty (~1600-1046 BCE) massive timber palaces. Wood enabled survival through oxygen production, food sources, shelter materials, tool substrates, and fuel. The biological reality that plants are the only primary producers converting solar energy into biomass supporting all animal life explains why 木 became the most productive radical system.
 
-##### 2.3.4.2 Key Insights
+##### 2.4.4.2 Key Insights
 This section reveals why 木 (wood/tree) demonstrates the **highest semantic productivity among all Five Elements radicals**: trees/plants provided the **ecological foundation for human civilization**. The character encodes comprehensive wood knowledge across systematic patterns:
 
 1. **Ecological primacy validated**: 木's 200+ character network (95% coherence) exceeds other elements (金 ~150, 火 ~100, 土 ~150, only 水 rivals at 250+), reflecting wood's multiple critical functions—oxygen production, food source, construction material, fuel, tools
@@ -530,29 +609,31 @@ This section reveals why 木 (wood/tree) demonstrates the **highest semantic pro
 9. **Cross-cultural universal**: Every civilization depended on wood/plants, but Chinese encoded this botanical knowledge systematically through 200+ characters—writing as permanent botanical encyclopedia
 10. **Metaphorical productivity**: Wood imagery extends to abstract domains (困 trapped like enclosed tree = difficulty, 呆 wooden = dull/stupid)—material world provides cognitive scaffolding for abstract thought
 
-##### 2.3.4.3 Section Synthesis
+##### 2.4.4.3 Section Synthesis
 Wood functions as the ecological foundation for Chinese civilization, with the 木 radical system encoding comprehensive knowledge of forest resources, tree anatomy, human uses, and technological applications. The primacy of 木 demonstrates the foundational cascade: Trees/plants → oxygen production enables human life → wood as fuel enables fire → fire enables cooking → fire enables pottery → pottery enables grain storage → grain storage enables agriculture → settled civilization → wood charcoal enables metallurgy → advanced tools → wooden vehicles enable transportation → military expansion. Every subsequent technology traces back to mastering wood/plant resources—validating 木 as the true **ecological foundation** of Chinese civilization.
 
 The 95% coherence across 200+ characters (vs. typical 80-90% for other radicals) reflects biological reality: **plants are the ONLY primary producers in ecosystem food chains**—converting solar energy into biomass that supports all animal life. Ancient Chinese didn't understand photosynthesis chemistry, but they recognized empirically that forests = life support. The extensive semantic network preserves this comprehensive botanical knowledge: forest ecology (林森), tree anatomy (本末枝根葉), human uses (休采栽), products (果材), construction (床校桌椅), tools (杠), fuel (柴), agriculture (禾秋), and social symbols (权李). This is not arbitrary—it's **systematic encoding of humanity's most critical survival knowledge**: understanding and utilizing plant life.
 
-##### 2.3.4.4 Cross-references
+##### 2.4.4.4 Cross-references
 - **Section 2.2 (Five Elements)**: 木 as first element in generative cycle—wood generates fire
-- **Section 2.5 (Fire & Cooking)**: 柴 (firewood) as fuel source—wood enables fire technology
-- **Section 2.6 (Shelter & Architecture)**: 宀 (roof) often wooden beams—wood primary construction material
-- **Section 2.7 (Textile & Clothing)**: 麻 (hemp) plant fibers—botanical basis for textiles
-- **Section 2.8 (Hunting & Domestication)**: 家 (宀 + 豕) wooden structures housing animals
+- **Section 2.3 (Fire & Cooking)**: 柴 (firewood) as fuel source—wood enables fire technology
+- **Section 2.10 (Shelter & Architecture)**: 宀 (roof) often wooden beams—wood primary construction material
+- **Section 2.8 (Textile & Clothing)**: 麻 (hemp) plant fibers—botanical basis for textiles
+- **Section 2.7 (Hunting & Domestication)**: 家 (宀 + 豕) wooden structures housing animals
 - **Section 2.9 (Pottery & Ceramics)**: Wood fuel required for kiln firing
-- **Section 2.11 (Agriculture)**: 禾 (grain) as modified 木—agricultural plants
-- **Section 2.13 (Craftsmanship)**: 工 (carpenter's square) for woodworking—tool invention driven by wood processing
-- **Section 2.14 (Metallurgy)**: Wood charcoal required for smelting furnaces
-- **Section 2.15 (Military)**: 车 (chariot) wooden construction with bronze fittings
-- **Section 2.20 (Transportation)**: Wooden vehicles enable mobility systems
+- **Section 2.12 (Agriculture)**: 禾 (grain) as modified 木—agricultural plants
+- **Section 2.14 (Craftsmanship)**: 工 (carpenter's square) for woodworking—tool invention driven by wood processing
+- **Section 2.15 (Metallurgy)**: Wood charcoal required for smelting furnaces
+- **Section 2.16 (Military)**: 车 (chariot) wooden construction with bronze fittings
+- **Section 2.11 (Transportation)**: Wooden vehicles enable mobility systems
 
-### 2.4 STONE AGE - Primitive Civilization
 
-#### 2.4.1 Character Forms
 
-**Table 2.4.1** Evolution of Stone Age radicals (Section 2.3). Shows development from stone materials (石岩矿) to tool use (斫破), water management (泵), and dwelling structures (穴).
+### 2.5 STONE AGE - Primitive Civilization
+
+#### 2.5.1 Character Forms
+
+**Table 2.5.1** Evolution of Stone Age radicals (Section 2.4). Shows development from stone materials (石岩矿) to tool use (斫破), water management (泵), and dwelling structures (穴).
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
@@ -564,9 +645,9 @@ The 95% coherence across 200+ characters (vs. typical 80-90% for other radicals)
 | (unavailable) | (unavailable) | (unavailable) | <img src="figures/characters/kaiti/char-泵-kaiti.png" width="100" alt="泵 kaiti"> |
 | (unavailable) | (unavailable) | <img src="figures/characters/seal/char-穴-seal.png" width="100" alt="穴 seal"> | <img src="figures/characters/kaiti/char-穴-kaiti.png" width="100" alt="穴 kaiti"> |
 
-#### 2.4.2 Semantic Networks
+#### 2.5.2 Semantic Networks
 
-**Table 2.4.2** Semantic networks of Stone Age Technology radicals (selected representative characters):
+**Table 2.5.2** Semantic networks of Stone Age Technology radicals (selected representative characters):
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
@@ -589,9 +670,9 @@ The 95% coherence across 200+ characters (vs. typical 80-90% for other radicals)
 - **穴 network** (50+ characters, 85% coherence): Caves, hollows, openings, architectural voids—systematic encoding of shelter and void spaces
 
 
-#### 2.4.3 Validation
+#### 2.5.3 Validation
 
-**Table 2.4.3** Validation summary for Section 2.4 semantic radicals:
+**Table 2.5.3** Validation summary for Section 2.5 semantic radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -600,193 +681,194 @@ The 95% coherence across 200+ characters (vs. typical 80-90% for other radicals)
 | **穴 (xué)** | 6 oracle + 8 bronze forms | **85%+** (50+ chars analyzed) | ✓ Zhoukoudian caves (~400,000 BCE) show Paleolithic occupation<br>✓ Banpo pit dwellings (~5000 BCE) show Neolithic transition<br>✓ Semi-subterranean houses widespread in Yangshao culture | ✓ 穴 means "cave/hole"<br>✓ 空 (empty), 究 (investigate), 窗 (window) preserve hollow/opening semantics | **STRONG** - Shelter evolution from caves to pit dwellings validated |
 
 
-#### 2.4.4 Commentary
-
-##### 2.4.4.1 Material Culture Context
-The Stone Age witnessed humanity's mastery of lithic technology through systematic material engineering. Chinese Paleolithic sites show cave occupation (Zhoukoudian ~400,000 BCE), while Neolithic sites demonstrate sophisticated stone working: polished axes, jade ritual objects (Liangzhu culture), grinding stones, and stone molds for bronze casting. The transition from cave dwelling (穴) to stone tool manufacturing (斫) and raw material extraction (石 networks) represents a complete technological ecosystem.
-
-##### 2.4.4.2 Key Insights
-Stone technology enabled forest clearance, food processing, precision manufacturing, trade networks, and ritual expression. The character 礦 demonstrates sophisticated compositional logic: 石 + 广 + 黄 encodes complete prospecting methodology—WHERE to search (wilderness) + WHAT to look for (yellow color indicators). The 斫 network systematically encodes controlled fracturing techniques that required deep material understanding. Cave-dwelling knowledge (穴) evolved into architectural principles for openings, windows, and structural voids.
-
-##### 2.4.4.3 Section Synthesis
-Stone technology represents humanity's first systematic material engineering, with late Neolithic sophistication demonstrating technological mastery that Bronze Age metallurgy built upon rather than replaced. The three semantic networks (石-stone materials, 斫-stone working, 穴-dwelling spaces) form an integrated technological system that bridges natural material exploitation, tool manufacturing, and shelter construction. This integration reflects the Neolithic revolution's full technological maturity.
-
-##### 2.4.4.4 Cross-references
-Stone technology networks connect to later metallurgy (Section 2.8), architectural developments (Section 2.6), and advanced tool systems (Section 2.10). The progression from cave dwelling to constructed shelter establishes foundations for later agricultural settlements and urban development.
-
-
-
-
-### 2.5 FIRE & COOKING - Food Preparation (食)
-
-#### 2.5.1 Character Forms
-
-**Table 2.5.1** Evolution of Fire & Cooking radicals (Section 2.4). Shows fire mastery from basic combustion (火炎) to cooking techniques (炒烘), social gathering (伙), control (灭), hazards (灾), and ash use (灰). Demonstrates 食 (food) preparation knowledge.
-
-| Oracle | Bronze | Seal | Kaiti |
-|--------|--------|------|-------|
-| <img src="figures/characters/oracle/char-火-oracle.png" width="100" alt="火 oracle"> | (unavailable) | <img src="figures/characters/seal/char-火-seal.png" width="100" alt="火 seal"> | <img src="figures/characters/kaiti/char-火-kaiti.png" width="100" alt="火 kaiti"> |
-| <img src="figures/characters/oracle/char-炎-oracle.png" width="100" alt="炎 oracle"> | <img src="figures/characters/bronze/char-炎-bronze.png" width="100" alt="炎 bronze"> | <img src="figures/characters/seal/char-炎-seal.png" width="100" alt="炎 seal"> | <img src="figures/characters/kaiti/char-炎-kaiti.png" width="100" alt="炎 kaiti"> |
-| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-烘-seal.png" width="100" alt="烘 seal"> | <img src="figures/characters/kaiti/char-烘-kaiti.png" width="100" alt="烘 kaiti"> |
-| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-灭-seal.png" width="100" alt="灭 seal"> | <img src="figures/characters/kaiti/char-灭-kaiti.png" width="100" alt="灭 kaiti"> |
-| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-灾-seal.png" width="100" alt="灾 seal"> | <img src="figures/characters/kaiti/char-灾-kaiti.png" width="100" alt="灾 kaiti"> |
-| (unavailable) | (unavailable)| <img src="figures/characters/seal/char-灰-seal.png" width="100" alt="灰 seal"> | <img src="figures/characters/kaiti/char-灰-kaiti.png" width="100" alt="灰 kaiti"> |
-| (unavailable) | (unavailable) | (unavailable) | <img src="figures/characters/kaiti/char-炒-kaiti.png" width="100" alt="炒 kaiti"> |
-| (unavailable) | (unavailable) | (unavailable) | <img src="figures/characters/kaiti/char-灯-kaiti.png" width="100" alt="灯 kaiti"> |
-| (unavailable) | (unavailable) | (unavailable) | <img src="figures/characters/kaiti/char-伙-kaiti.png" width="100" alt="伙 kaiti"> |
-
-
-#### 2.5.2 Semantic Networks
-
-**Table 2.5.2** Semantic networks of Fire & Cooking radicals (selected representative characters):
-
-| Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
-|---------|-----------|-----------|---------|----------------------|----------------|
-| **火** | 炎 (yán) | 火 × 2 | Flames, heat, inflammation | Fire doubled = intense heat | Fire intensity |
-| 火 | 烧 (shāo) | 火 + 尧 | Burn | Fire + high = burning upward | Fire actions |
-| 火 | 煮 (zhǔ) | 火 + 者 | Cook, boil | Fire + transformation = cooking | Cooking methods |
-| 火 | 烤 (kǎo) | 火 + 考 | Roast, bake | Fire + test = roasting | Cooking methods |
-| 火 | 炊 (chuī) | 火 + 欠 | Cook food | Fire + breath = cooking (blowing on fire) | Cooking actions |
-| **炎** | 炎症 (yánzhèng) | 炎 + 症 | Inflammation | Intense heat + symptom = medical condition | Heat-related |
-| **炒** | 炒菜 (chǎocài) | 炒 + 菜 | Stir-fry vegetables | Stir-fry + vegetables = Chinese cooking | Culinary technique |
-| **灯** | 灯火 (dēnghuǒ) | 灯 + 火 | Lamp light | Lamp + fire = illumination | Light source |
-| 灯 | 灯笼 (dēnglóng) | 灯 + 笼 | Lantern | Lamp + cage = enclosed light | Light containers |
-| **烘** | 烘烤 (hōngkǎo) | 烘 + 烤 | Bake | Communal baking + roasting = oven cooking | Baking methods |
-| **伙** | 伙伴 (huǒbàn) | 伙 + 伴 | Partner, companion | Fire companion + accompany = partnership | Social bonds |
-| 伙 | 伙食 (huǒshí) | 伙 + 食 | Meals, food | Fire group + food = communal eating | Group meals |
-| **灭** | 消灭 (xiāomiè) | 消 + 灭 | Exterminate, eliminate | Disappear + extinguish = total elimination | Destruction |
-| **灾** | 灾难 (zāinàn) | 灾 + 难 | Disaster, calamity | Disaster + difficulty = catastrophe | Catastrophic events |
-| 灾 | 火灾 (huǒzāi) | 火 + 灾 | Fire disaster | Fire + disaster = conflagration | Fire hazards |
-| **灰** | 灰尘 (huīchén) | 灰 + 尘 | Dust | Ash + dust = particulate matter | Residues |
-| 灰 | 石灰 (shíhuī) | 石 + 灰 | Lime | Stone + ash = calcium oxide (chemical knowledge) | Chemical products |
-
-**Network patterns observed:**
-- **火 network** (150+ characters, 90% coherence): Fire actions (烧煮烤炊), heat/light (热明), combustion products (灰烟), fire-related processes
-- **炎 network** (30+ characters, 85% coherence): Heat intensity, inflammation, passionate emotions (热情 = hot emotion)
-- **Pedagogical characters** (炒灯烘伙灭灾): Compositional transparency demonstrates teaching function—clear semantic logic accessible to learners
-- **Ash network** (灰): Material uses (fertilizer, lye, cleaning), chemical transformations (石灰 lime production)
-
-
-
-#### 2.5.3 Validation
-
-**Table 2.5.3** Validation summary for Section 2.5 Fire & Cooking radicals:
-
-| Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
-|---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
-| **火 (huǒ)** | 15+ oracle + 12+ bronze forms | **90%+** (150+ chars analyzed) | ✓ Hearth structures across Neolithic sites<br>✓ Pottery firing kilns (~18,000 BCE)<br>✓ Bronze smelting furnaces (~2000 BCE) | ✓ 火 universally means "fire"<br>✓ 火车 (train = fire vehicle), 火山 (volcano) | **STRONG** - Fire technology foundation validated |
-| **炎 (yán)** | 8+ oracle forms | **85%+** (40+ chars analyzed) | ✓ Evidence of controlled high-temperature fires<br>✓ Metallurgy requiring intense heat | ✓ 炎 means "inflammation/intense heat"<br>✓ Medical term 炎症 preserves heat concept | **STRONG** - Fire intensity control validated |
-| **食 (shí)** | 10+ oracle + 15+ bronze forms | **95%+** (100+ chars analyzed) | ✓ Cooking sites with processed food remains<br>✓ Cooking vessels evolution<br>✓ Nutritional improvements from cooking | ✓ 食 fundamental "food/eat"<br>✓ 食物 (food), 食谱 (recipe) preserve meaning | **EXCEPTIONAL** - Cooking as civilization marker |
-
-
 #### 2.5.4 Commentary
 
 ##### 2.5.4.1 Material Culture Context
-Fire control fundamentally altered human evolution, enabling cooked food (increased nutrition, reduced parasites), metallurgy, pottery firing, warmth, light, and protection. Chinese Neolithic sites show sophisticated hearth structures, pottery kilns (~18,000 BCE), and bronze furnaces (~2000 BCE), demonstrating cumulative fire technology knowledge. Archaeological evidence reveals progressive mastery: controlled combustion → cooking technology → pottery firing → metallurgical applications. Fire mastery enabled the material culture cycle: cooking → ash → agricultural fertilizer → better crops → civilization growth.
+The Stone Age witnessed humanity's mastery of lithic technology through systematic material engineering. Chinese Paleolithic sites show cave occupation (Zhoukoudian ~400,000 BCE), while Neolithic sites demonstrate sophisticated stone working: polished axes, jade ritual objects (Liangzhu culture), grinding stones, and stone molds for bronze casting. The transition from cave dwelling (穴) to stone tool manufacturing (斫) and raw material extraction (石 networks) represents a complete technological ecosystem.
 
 ##### 2.5.4.2 Key Insights
-Fire's dual nature is systematically encoded: benefits (cooking, warmth, light) AND dangers (灾 disaster). The character 食 (food) = 良 (good) + 人 (person) defines food functionally as "something good for humans," capturing how fire-enabled cooking made food truly beneficial through breaking down plant matter, killing pathogens, and increasing nutrient bioavailability. Social dimensions appear in 伙 (companions) = 亻+ 火, showing hearths as gathering spaces. Characters preserve proto-scientific knowledge: 灭 (extinguish) = covering fire demonstrates oxygen-deprivation understanding, while 炎 (intense heat) shows fire intensity control essential for cooking and metallurgy.
+Stone technology enabled forest clearance, food processing, precision manufacturing, trade networks, and ritual expression. The character 礦 demonstrates sophisticated compositional logic: 石 + 广 + 黄 encodes complete prospecting methodology—WHERE to search (wilderness) + WHAT to look for (yellow color indicators). The 斫 network systematically encodes controlled fracturing techniques that required deep material understanding. Cave-dwelling knowledge (穴) evolved into architectural principles for openings, windows, and structural voids.
 
 ##### 2.5.4.3 Section Synthesis
-This section reveals how early Chinese civilization systematically encoded **fire mastery knowledge** across multiple dimensions: (1) Combustion understanding - fire intensity (火炎), control methods (灭), byproducts (灰), (2) Cooking technology - stir-frying (炒), baking (烘), (3) Social organization - fire as gathering space (伙), communal cooking, (4) Safety knowledge - fire hazards (灾), disaster prevention. Compositional characters (炒灯烘伙灭灾) demonstrate clear teaching logic with semantic transparency. Fire mastery represents a foundational technological achievement enabling pottery, metallurgy, and advanced food preparation essential for civilization development.
+Stone technology represents humanity's first systematic material engineering, with late Neolithic sophistication demonstrating technological mastery that Bronze Age metallurgy built upon rather than replaced. The three semantic networks (石-stone materials, 斫-stone working, 穴-dwelling spaces) form an integrated technological system that bridges natural material exploitation, tool manufacturing, and shelter construction. This integration reflects the Neolithic revolution's full technological maturity.
 
 ##### 2.5.4.4 Cross-references
-Section 2.2 (Five Elements): Fire as transformative energy in the generative cycle 木→火→土→金→水. Section 2.3 (Wood): Wood fuel (柴) enables fire technology. Section 2.8 (Pottery): Fire mastery enables kiln firing temperatures. Section 2.13 (Metallurgy): Bronze smelting requires sophisticated fire control. Section 2.6 (Shelter): 灾 = 宀 + 火 (fire under roof = disaster) shows integration of fire safety with architectural knowledge. Fire technology prerequisites appear systematically across advanced civilization developments.
+Stone technology networks connect to later metallurgy (Section 2.7), architectural developments (Section 2.10), and advanced tool systems (Section 2.6). The progression from cave dwelling to constructed shelter establishes foundations for later agricultural settlements and urban development.
 
-### 2.6 SHELTER & ARCHITECTURE - Dwelling (住)
+
+
+
+### 2.6 CUTTING & INSCRIBING - Tool Inventions
 
 #### 2.6.1 Character Forms
 
-**Table 2.6.1** Evolution of Shelter & Architecture radicals (Section 2.5). Shows dwelling progression from caves (穴) to roofed structures (宀), doors (户門), defensive walls (囗), and urban settlements (市). Demonstrates 住 (shelter) development.
+**Table 2.6.1** Evolution of Cutting & Inscribing radicals (Section 2.5). Shows progression from cutting (乂匕刀) to symbolic marking (文) and force application (力).
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
-| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-穴-seal.png" width="100" alt="穴 seal"> | <img src="figures/characters/kaiti/char-穴-kaiti.png" width="100" alt="穴 kaiti"> |
-| <img src="figures/characters/oracle/char-宀-oracle.png" width="100" alt="宀 oracle"> | (unavailable)| (unavailable) | <img src="figures/characters/kaiti/char-宀-kaiti.png" width="100" alt="宀 kaiti"> |
-| <img src="figures/characters/oracle/char-户-oracle.png" width="100" alt="户 oracle"> | (unavailable) | <img src="figures/characters/seal/char-户-seal.png" width="100" alt="户 seal"> | <img src="figures/characters/kaiti/char-户-kaiti.png" width="100" alt="户 kaiti"> |
-| <img src="figures/characters/oracle/char-門-oracle.png" width="100" alt="門 oracle"> | <img src="figures/characters/bronze/char-門-bronze.png" width="100" alt="門 bronze"> | <img src="figures/characters/seal/char-門-seal.png" width="100" alt="門 seal"> | <img src="figures/characters/kaiti/char-門-kaiti.png" width="100" alt="門 kaiti"> |
-| (unavailable)| (unavailable) | <img src="figures/characters/seal/char-囗-seal.png" width="100" alt="囗 seal"> | <img src="figures/characters/kaiti/char-囗-kaiti.png" width="100" alt="囗 kaiti"> |
-| (unavailable) | <img src="figures/characters/bronze/char-市-bronze.png" width="100" alt="市 bronze"> | <img src="figures/characters/seal/char-市-seal.png" width="100" alt="市 seal"> | <img src="figures/characters/kaiti/char-市-kaiti.png" width="100" alt="市 kaiti"> |
+| <img src="figures/characters/oracle/char-乂-oracle.png" width="100" alt="乂 oracle"> | (unavailable) | <img src="figures/characters/seal/char-乂-seal.png" width="100" alt="乂 seal"> | <img src="figures/characters/kaiti/char-乂-kaiti.png" width="100" alt="乂 kaiti"> |
+| <img src="figures/characters/oracle/char-爻-oracle.png" width="100" alt="爻 oracle"> | <img src="figures/characters/bronze/char-爻-bronze.png" width="100" alt="爻 bronze"> | <img src="figures/characters/seal/char-爻-seal.png" width="100" alt="爻 seal"> | <img src="figures/characters/kaiti/char-爻-kaiti.png" width="100" alt="爻 kaiti"> |
+| <img src="figures/characters/oracle/char-匕-oracle.png" width="100" alt="匕 oracle"> | <img src="figures/characters/bronze/char-匕-bronze.png" width="100" alt="匕 bronze"> | <img src="figures/characters/seal/char-匕-seal.png" width="100" alt="匕 seal"> | <img src="figures/characters/kaiti/char-匕-kaiti.png" width="100" alt="匕 kaiti"> |
+| <img src="figures/characters/oracle/char-文-oracle.png" width="100" alt="文 oracle"> | <img src="figures/characters/bronze/char-文-bronze.png" width="100" alt="文 bronze"> | <img src="figures/characters/seal/char-文-seal.png" width="100" alt="文 seal"> | <img src="figures/characters/kaiti/char-文-kaiti.png" width="100" alt="文 kaiti"> |
+| <img src="figures/characters/oracle/char-刀-oracle.png" width="100" alt="刀 oracle"> | (unavailable) | <img src="figures/characters/seal/char-刀-seal.png" width="100" alt="刀 seal"> | <img src="figures/characters/kaiti/char-刀-kaiti.png" width="100" alt="刀 kaiti"> |
+| <img src="figures/characters/oracle/char-初-oracle.png" width="100" alt="初 oracle"> | (unavailable) | <img src="figures/characters/seal/char-初-seal.png" width="100" alt="初 seal"> | <img src="figures/characters/kaiti/char-初-kaiti.png" width="100" alt="初 kaiti"> |
+| (unavailable) | <img src="figures/characters/bronze/char-力-bronze.png" width="100" alt="力 bronze"> | <img src="figures/characters/seal/char-力-seal.png" width="100" alt="力 seal"> | <img src="figures/characters/kaiti/char-力-kaiti.png" width="100" alt="力 kaiti"> |
+
+
 
 #### 2.6.2 Semantic Networks
 
-**Table 2.6.2** Semantic networks of Shelter & Architecture radicals (selected representative characters):
+**Table 2.6.2** Semantic networks of Cutting Tools radicals:
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
-| **穴** | 空 (kōng) | 穴 + 工 | Empty, sky | Cave + work = emptied space/void | Void concepts |
-| 穴 | 究 (jiū) | 穴 + 九 | Investigate, probe | Cave + deep = reaching into depths | Investigation/exploration |
-| 穴 | 窗 (chuāng) | 穴 + 囱 | Window | Cave/hole + chimney = wall opening | Architectural openings |
-| 穴 | 窟 (kū) | 穴 + 屈 | Cave, den | Cave + bend = natural hollow dwelling | Natural shelters |
-| **宀** | 家 (jiā) | 宀 + 豕 | Home, family | Roof + pig = settled household | Domestic spaces |
-| 宀 | 安 (ān) | 宀 + 女 | Peace, safety | Roof + woman = household security | Security concepts |
-| 宀 | 室 (shì) | 宀 + 至 | Room, chamber | Roof + arrive = enclosed room | Interior spaces |
-| 宀 | 宮 (gōng) | 宀 + 呂 | Palace | Roof + complex = elite residence | Elite architecture |
-| 宀 | 寒 (hán) | 宀 + 冫 + 人 | Cold | Roof + ice + people = cold in house | Environmental conditions |
-| 宀 | 富 (fù) | 宀 + 畐 | Wealthy | Roof + full = filled house = prosperity | Economic status |
-| **户** | 戶口 (hùkǒu) | 户 + 口 | Household registration | Door + mouth = census unit | Social organization |
-| 户 | 扇 (shàn) | 户 + 羽 | Door panel, fan | Door + feather = hinged panel | Movable panels |
-| **門** | 開 (kāi) | 門 + 廾 | Open | Gate + hands = opening doors | Door actions |
-| 門 | 閉 (bì) | 門 + 才 | Close, shut | Gate + obstruct = closing doors | Door actions |
-| 門 | 間 (jiān) | 門 + 日 | Space, interval | Gate + sun = space between doors | Spatial concepts |
-| 門 | 問 (wèn) | 門 + 口 | Ask, inquire | Gate + mouth = speaking at door | Social interaction |
-| 門 | 閂 (shuān) | 門 + 一 | Door bolt | Gate + bar = locking mechanism | Security devices |
-| **囗** | 國 (guó) | 囗 + 戈 | Nation, country | Enclosure + weapon = defended territory | Political organization |
-| 囗 | 園 (yuán) | 囗 + 袁 | Garden | Enclosure + cultivated = enclosed garden space | Cultivated spaces |
-| 囗 | 圍 (wéi) | 囗 + 韋 | Surround, encircle | Enclosure + surround = surrounding action | Spatial actions |
-| 囗 | 困 (kùn) | 囗 + 木 | Trapped, difficult | Enclosure + tree = constrained/stuck | Constraint concepts |
-| 囗 | 回 (huí) | 囗 + 口 | Return, revolve | Enclosure + mouth = circular return | Circular motion |
-| **市** | 城 (chéng) | 土 + 成 | City, fortified town | Earth + construct = walled city (NOTE: related but distinct radical) | Urban settlements |
-| 市 | 闹 (nào) | 門 + 市 | Noisy, bustling | Gate + market = busy commercial area | Urban activity |
+| **乂 (yì)** | 文 (wén) | 乂 + 人 | Pattern, culture, writing | Crossed cuts + person = ordered patterns | Civilization concepts |
+| 乂 | 爻 (yáo) | 乂×2 | Hexagram lines (I Ching) | Multiple crossed cuts = divination symbols | Pattern systems |
+| **刀 (dāo)** | 切 (qiē) | 七 + 刀 | Cut, slice | Division + blade = cutting action | Cutting actions |
+| 刀 | 分 (fēn) | 八 + 刀 | Divide, separate | Splitting + blade = dividing | Division concepts |
+| 刀 | 劍 (jiàn) | 僉 + 刀 | Sword | Metal + blade = weapon | Weapons |
+| 刀 | 刻 (kè) | 亥 + 刀 | Carve, engrave | Mark + blade = inscription | Inscription/writing |
+| 刀 | 刑 (xíng) | 井 + 刀 | Punishment | Order + blade = judicial cutting | Legal concepts |
+| 刀 | 利 (lì) | 禾 + 刀 | Sharp, benefit | Grain + blade = cutting efficiency = benefit | Utility concepts |
+| **力 (lì)** | 男 (nán) | 田 + 力 | Male | Field + strength/plow = male labor | Gender/labor roles |
+| 力 | 功 (gōng) | 工 + 力 | Achievement, merit | Work + force = accomplished work | Work/achievement |
+| 力 | 助 (zhù) | 且 + 力 | Help, assist | Support + force = lending strength | Social cooperation |
+| 力 | 動 (dòng) | 重 + 力 | Move, motion | Heavy + force = exerting force to move | Motion/energy |
+| 力 | 努 (nǔ) | 奴 + 力 | Strive, exert | Slave + force = forced labor/effort | Exertion concepts |
 
 **Network patterns observed:**
-- **穴 network** (50+ characters, 85% coherence): Caves, hollows, openings, voids, architectural voids (windows, holes)
-- **宀 network** (150+ characters, 90% coherence): Roofed spaces, domestic life, security, buildings, indoor concepts
-- **户 network** (30+ characters, 80% coherence): Doors, households as social units, entry/exit, single-family dwellings
-- **門 network** (80+ characters, 85% coherence): Gates, double doors, openings/closings, spatial intervals, social interactions at thresholds
-- **囗 network** (60+ characters, 85% coherence): Enclosures, boundaries, surrounded spaces, fortifications, territorial concepts
-- **市 network** (40+ characters, 80% coherence): Urban settlements, markets, commercial activity, town-scale organization
+- **乂 network** (30+ characters, 85-90% coherence): Pattern-making (文爻), division/organization, creating order from chaos - "crossing cuts" as civilization-building activity
+- **刀 network** (150+ characters, 90% coherence): Cutting actions (切割), division (分), weapons (劍刃), carving/writing (刻), punishment (刑) - comprehensive blade technology vocabulary
+- **力 network** (100+ characters, 90% coherence): Physical force (動勁), labor (男功), assistance (助), exertion (努) - strength and work concepts
 
-**Architectural hierarchy encoded:**
-- 穴 (Paleolithic) → 宀 (Neolithic roof) → 户 (domestic door) → 門 (elite gate) → 囗 (defensive wall) → 市 (urban center)
-- Social stratification visible: single door (户 common) vs. double gates (門 elite)
-
+**Critical cross-reference:** 力 and 刀 visual similarity encodes conceptual relationship—**blade = directed force**, **plow = directed force**. Both transform materials through applied energy. The 男 = 田 + 力 composition might be reinterpreted as "male = field + plow/force" rather than abstract "strength," linking agricultural labor to tool technology.
 
 
 
 #### 2.6.3 Validation
 
-
-**Table 2.6.3** Validation summary for Section 2.6 semantic radicals:
+**Table 2.6.3** Validation summary for Section 2.5 semantic radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
-| **穴 (xué)** | 6 oracle + 8 bronze forms | **85%+** (50+ chars) | ✓ Zhoukoudian caves (Paleolithic occupation)<br>✓ Banpo pit dwellings (~5000 BCE)<br>✓ Semi-subterranean houses (Yangshao culture) | ✓ 穴 means "cave/hole"<br>✓ 空 (empty), 窗 (window) preserve void semantics | **STRONG** - Cave-to-pit-dwelling transition validated |
-| **宀 (mián)** | 10 oracle + 12 bronze forms | **90%+** (150+ chars) | ✓ Timber-framed roofed structures at Neolithic sites<br>✓ Thatched roofs (preserved impressions)<br>✓ Roof as primary architectural element | ✓ Appears in 家 (home), 安 (peace), 室 (room)<br>✓ Universal roof concept preserved | **STRONG** - Roof as defining shelter element validated |
-| **户 (hù)** | 8 oracle + 10 bronze forms | **80%+** (30+ chars) | ✓ Single-panel door remains/reconstructions<br>✓ Household = census/taxation unit (Zhou dynasty)<br>✓ Door as social boundary marker | ✓ 户口 (household registration) still used<br>✓ 户 = door + household unit preserved | **STRONG** - Door as social/spatial boundary validated |
-| **門 (mén)** | 12 oracle + 15 bronze forms | **85%+** (80+ chars) | ✓ Double-gate structures at elite/public buildings<br>✓ City gates archaeological remains<br>✓ Architectural hierarchy (single vs. double doors) | ✓ 門 universally "gate/door"<br>✓ 開門 (open door), 問 (ask = speak at gate) preserve semantics | **STRONG** - Architectural hierarchy via door types validated |
-| **囗 (wéi)** | 5 oracle + 7 bronze forms | **85%+** (60+ chars) | ✓ Neolithic ditched enclosures (~5000 BCE)<br>✓ Rammed earth walls (Longshan ~3000 BCE)<br>✓ Bronze Age city-state fortifications (Erlitou, Anyang) | ✓ Appears in 國 (nation), 園 (garden), 圍 (surround)<br>✓ Enclosure concept universally preserved | **STRONG** - Progressive fortification + territorial marking validated |
-| **市 (shì)** | 6 oracle + 8 bronze forms | **80%+** (40+ chars) | ✓ Bronze Age market towns (archaeological evidence)<br>✓ Urban hierarchy: villages < towns (市) < fortified cities (城)<br>✓ Commercial centers at trade routes | ✓ 市 means "market/town/city"<br>✓ 城市 (city), 市场 (marketplace) preserve urban commercial semantics | **MODERATE-STRONG** - Urban commercial organization validated |
+| **乂 (yì)** | 10 oracle + 8 bronze forms | **85-90%** (30+ chars) | ✓ Slash-and-burn agriculture (crossed cutting of vegetation)<br>✓ 文 appears on bronzes (pattern/culture) | ✓ 文 means "culture/writing" (preserves pattern/order semantic)<br>✗ 乂 rarely used standalone | **MODERATE-STRONG** - Crossing cuts = order/pattern validated, but limited standalone usage |
+| **刀 (dāo)** | 20 oracle + 25 bronze forms | **90%+** (150+ chars) | ✓ Bronze blades abundant in archaeological sites<br>✓ Blade technology central to Bronze Age | ✓ 刀 means "knife/blade"<br>✓ 切分刻刑 all preserve cutting/blade semantics | **STRONG** - Blade technology systematically encoded |
+| **力 (lì)** | 15 oracle + 18 bronze forms | **90%+** (100+ chars) | ✓ Agricultural plows found at Neolithic sites<br>✓ Physical labor central to agricultural society | ✓ 力 means "strength/force"<br>✓ 男功努 preserve exertion/labor semantics | **STRONG** - Force/labor concepts validated |
+
+**Cross-reference validation:**
+- **力/刀 visual similarity**: Both forms represent directed force application—blade cutting and plow breaking earth are conceptually related transformative actions
+- **男 = 田 + 力 reinterpretation**: "Male = field + plow" more specific than "field + strength," links gender roles to agricultural tool technology
+- **乂 in 文**: The appearance of "crossed cuts" in "culture/civilization" character suggests early Chinese understood civilization as **systematic organization through division** (cutting chaos into ordered patterns)
+
 
 #### 2.6.4 Commentary
 
 ##### 2.6.4.1 Material Culture Context
-Shelter construction marks the transition from nomadic dwelling to engineered permanent structures. Archaeological evidence shows evolution: Paleolithic caves (Zhoukoudian ~400,000 BCE) → Early Neolithic pit dwellings (Banpo ~5000 BCE) → Late Neolithic above-ground timber structures with rammed earth walls → Bronze Age architectural complexes (Erlitou, Anyang) with walls, doors, roofs, and urban settlements. The progression from 穴 (cave) → 宀 (roof) → 户/門 (controlled access) → 囗 (defensive walls) → 市 (urban settlements) encodes complete architectural evolution enabling complex civilization.
+
+Stone blade technology dates to Paleolithic (~30,000+ BCE), but bronze blades (~2000 BCE) represented a revolutionary improvement—sharper, more durable, reshapenable. The Bronze Age correlation with emergence of writing (Shang Dynasty ~1200 BCE) means oracle bones encoded mature blade technology knowledge. Six related characters encode different aspects of cutting/cleaving technology: 乂 (crossed cutting), 匕 (curved blade/spoon), 文 (pattern/culture), 刀 (knife/blade), 力 (force/plow), and 初 (beginning through first cut).
 
 ##### 2.6.4.2 Key Insights
-Architectural hierarchy directly encodes social stratification through building features: 户 (single door) for common dwellings vs. 門 (double gate) for elite/public buildings. The character 安 (peace) = 女 + 宀 (woman under roof = security) encodes shelter as fundamental to safety. The character 住 (dwell) = 亻+ 主 reveals the cognitive shift from transient occupation to permanent mastery of space. Oracle bone forms of 門 show two door panels side by side (double-leaf gates) vs. 户 depicting single door panel, directly encoding architectural scale differences. Characters preserve how architectural elements became units of social organization: 户 (door) → 户口 (household registration), 門 (gate) → entry control systems, 囗 (walls) → territorial boundaries (國 nation). The progression 穴 (cave opening) → 宀 (peaked roof) → 市 (market settlement) encodes humanity's mastery over environment from adapting to natural shelter → constructing artificial shelter → organizing communal living spaces.
+
+- **Civilization as division**: 文 = 乂 + 人 suggests culture emerges from systematic cutting/organizing activity
+- **Blade = transformation tool**: 刀 network shows blades used for food (切), division (分), writing (刻), justice (刑) - multi-purpose transformative technology
+- **力/刀 conceptual link**: Visual similarity encodes force application principle—blade and plow both transform through directed energy
+- **Gender/tool association**: 男 = 田 + 力 links male identity to agricultural tool use (plow labor)
+- **From stone to bronze**: Oracle bones encode mature bronze blade technology—sharp, durable, reshapenable (revolutionary improvement over stone)
+- **"刀把子" power principle**: Control over blade technology = social power, connecting to Bronze Age patriarchal transition
+- **Beginning through cutting**: 初 (衤 + 刀) encodes irreversibility—first cut cannot be undone, natural metaphor for temporal beginnings
 
 ##### 2.6.4.3 Section Synthesis
-This section reveals how early Chinese civilization encoded **architectural evolution and social organization** through shelter characters: (1) Natural adaptation - cave dwelling (穴) as Paleolithic baseline, (2) Construction technology - roofed structures (宀) marking Neolithic engineering, (3) Social boundaries - doors (户/門) as private/public dividers with hierarchy, (4) Defensive strategy - walls (囗) protecting settled communities, (5) Urban organization - markets/towns (市) enabling commercial civilization. The 宀 radical appears in 150+ characters, demonstrating roofing was conceptually central to "home/shelter" category. Urban development (市) was primarily trade-driven rather than population-based, reflecting Bronze Age commercial priorities.
+
+This section reveals how **cutting/dividing technology** was understood as foundational to civilization. The 乂 (crossed cuts) appearing in 文 (culture/writing) encodes a profound insight: **civilization = creating order through systematic division**. Whether cutting vegetation (slash-and-burn agriculture), dividing meat (butchering), carving symbols (writing), or organizing society (divisions/categories), the act of cutting/dividing creates structure from chaos.
+
+The visual similarity between 力 (force) and 刀 (blade) represents **directed application of energy for transformation**—agricultural plowing and blade cutting are conceptually related transformative actions. The idiom 刀把子 ("holding the knife handle" = possessing real power) preserves ancient recognition that control over blade technology equals social power.
 
 ##### 2.6.4.4 Cross-references
-Section 2.3 (Stone Age): 穴 (cave) bridges from stone-working to shelter contexts. Section 2.4 (Fire): 灾 = 宀 + 火 (fire under roof = disaster) shows fire safety knowledge encoded in shelter characters. Section 2.8 (Hunting/Domestication): 家 = 宀 + 豕 (roof + pig) validates that domestic animals + shelter = settled civilization. The architectural progression connects to later metallurgy (Section 2.9), urban planning (Section 2.20), and social stratification (Section 2.11).
 
-### 2.7 TEXTILE & CLOTHING - Garments (衣)
+- **Section 2.17 (Power Shift)**: 父 (father with axe) encodes Bronze Age transition to patriarchy—those who controlled metal blade technology held power
+- **Section 2.12 (Agriculture)**: 男 = 田 + 力 links gender roles to agricultural tool technology
+- **文明 concept**: "Civilization" literally means "patterned clarity"—order emerging from systematic division and marking
+
+
+
+### 2.7 HUNTING & DOMESTICATION - Animal Relationships
 
 #### 2.7.1 Character Forms
 
-**Table 2.7.1** Evolution of Textile & Clothing radicals (Section 2.6). Shows cloth production from cutting (初), thread production (糸), finished garments (衣), and hemp fiber (麻). Demonstrates 衣 (clothing) technology.
+**Table 2.7.1** Evolution of Hunting & Domestication radicals (Section 2.4). Shows transition from pit trap hunting (犬器哭) to pig domestication (豕家).
+
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| <img src="figures/characters/oracle/char-犬-oracle.png" width="100" alt="犬 oracle"> | <img src="figures/characters/bronze/char-犬-bronze.png" width="100" alt="犬 bronze"> | <img src="figures/characters/seal/char-犬-seal.png" width="100" alt="犬 seal"> | <img src="figures/characters/kaiti/char-犬-kaiti.png" width="100" alt="犬 kaiti"> |
+| (unavailable) | <img src="figures/characters/bronze/char-器-bronze.png" width="100" alt="器 bronze"> | <img src="figures/characters/seal/char-器-seal.png" width="100" alt="器 seal"> | <img src="figures/characters/kaiti/char-器-kaiti.png" width="100" alt="器 kaiti"> |
+| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-哭-seal.png" width="100" alt="哭 seal"> | <img src="figures/characters/kaiti/char-哭-kaiti.png" width="100" alt="哭 kaiti"> |
+| <img src="figures/characters/oracle/char-豕-oracle.png" width="100" alt="豕 oracle"> | <img src="figures/characters/bronze/char-豕-bronze.png" width="100" alt="豕 bronze"> | <img src="figures/characters/seal/char-豕-seal.png" width="100" alt="豕 seal"> | <img src="figures/characters/kaiti/char-豕-kaiti.png" width="100" alt="豕 kaiti"> |
+| <img src="figures/characters/oracle/char-家-oracle.png" width="100" alt="家 oracle"> | <img src="figures/characters/bronze/char-家-bronze.png" width="100" alt="家 bronze"> | <img src="figures/characters/seal/char-家-seal.png" width="100" alt="家 seal"> | <img src="figures/characters/kaiti/char-家-kaiti.png" width="100" alt="家 kaiti"> |
+| <img src="figures/characters/oracle/char-牛-oracle.png" width="100" alt="牛 oracle"> | <img src="figures/characters/bronze/char-牛-bronze.png" width="100" alt="牛 bronze"> | <img src="figures/characters/seal/char-牛-seal.png" width="100" alt="牛 seal"> | <img src="figures/characters/kaiti/char-牛-kaiti.png" width="100" alt="牛 kaiti"> |
+| <img src="figures/characters/oracle/char-马-oracle.png" width="100" alt="马 oracle"> | <img src="figures/characters/bronze/char-马-bronze.png" width="100" alt="马 bronze"> | <img src="figures/characters/seal/char-马-seal.png" width="100" alt="马 seal"> | <img src="figures/characters/kaiti/char-马-kaiti.png" width="100" alt="马 kaiti"> |
+
+
+#### 2.7.2 Semantic Networks
+
+**Table 2.7.2** Semantic networks of Hunting & Domestication radicals:
+
+| Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
+|---------|-----------|-----------|---------|----------------------|----------------|
+| **犬** | 器 (qì) | 口×4 + 犬 | Implement, vessel | Multiple pits + trapped prey = hunting system | Hunting technology |
+| 犬 | 哭 (kū) | 口×2 + 犬 | Cry, wail | Trap holes + trapped animal = desperate crying | Hunting sounds |
+| 犬 | 獄 (yù) | 犬×2 + 言 | Prison | Multiple trapped creatures + speech = confinement | Captivity concept |
+| 犬 | 獻 (xiàn) | 犬 + 南 | Offer, present | Captured game + presentation = ritual offering | Hunting products |
+| 犬 | 獲 (huò) | 犬 + 艹 + 又 | Capture, obtain | Trapped prey + hand = successful hunt | Hunting success |
+| 犬 | 狩 (shòu) | 犬 + 守 | Hunt | Trapped animals + guarding = hunting activity | Hunting actions |
+| **豕** | 家 (jiā) | 宀 + 豕 | Home, family | Roof + pig = settled household | Domestication marker |
+| 豕 | 豚 (tún) | 豕 + 彖 | Piglet | Pig + small = young pig | Livestock breeding |
+| 豕 | 豪 (háo) | 高 + 豕 | Heroic, grand | Tall + pig = wealthy (many pigs) | Wealth markers |
+| 豕 | 逐 (zhú) | 辶 + 豕 | Chase, pursue | Movement + pig = chasing escaping livestock | Animal handling |
+| **器** | [Primitive, not typically used as component] | | | Complex hunting system | Technology encoding |
+
+**Network patterns observed:**
+- **犬 network** (80+ characters, 90% coherence): Capturing (獲獲), confinement (獄), hunting contexts (狩猟), crying/wailing (哭嗥) - all relate to trapping/hunting, NOT merely "dog"
+- **豕 network** (60+ characters, 85% coherence): Domestication (家豚), wealth (豪), livestock handling (逐) - pig as civilization marker
+- **器 appears independently**: Primarily means "implement/vessel" but oracle forms show hunting trap technology origin
+
+
+
+#### 2.7.3 Validation
+
+**Table 2.7.3** Validation summary for Section 2.4 semantic radicals:
+
+| Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
+|---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
+| **犬 (quǎn)** | 15 oracle + 10 bronze forms | **90%+** (80+ chars) | ✓ Pit trap sites found at Neolithic settlements<br>✓ Wild canine bones show capture marks | ✓ 獲 (capture), 獄 (prison) preserve "trapping" semantic<br>✗ Modern 犬 = generic "dog" (hunting context lost) | **STRONG** - Hunting/trapping context validated but partially obscured in modern usage |
+| **器 (qì)** | 8 oracle + 12 bronze forms | **85%+** (trap system interpretation) | ✓ Archaeological evidence of coordinated pit traps<br>✓ Multiple pit systems found at hunting sites | ✓ 器 means "implement/vessel" (preserves "tool/technology" semantic)<br>✗ Specific trap system meaning lost | **MODERATE-STRONG** - Hunting technology origin validated but abstracted to general "implement" |
+| **豕 (shǐ)** | 20 oracle + 25 bronze forms | **85%+** (60+ chars) | ✓ Pig domestication ~8000 BCE (Cishan-Peiligang)<br>✓ Pig bones abundant in Neolithic sites | ✓ 豕 means "pig"<br>✓ 家 (home) = roof + pig validates domestication significance | **STRONG** - Pig domestication as civilization marker validated |
+| **家 (jiā)** | 18 oracle + 20 bronze forms | **95%+** (compositional transparency) | ✓ Pig bones found in/near dwelling structures<br>✓ Pig domestication correlates with settlement | ✓ 家 universally means "home/family"<br>✓ Composition (宀 + 豕) still transparent | **STRONG** - Domestication = settled life equation validated |
+
+
+#### 2.7.4 Commentary
+
+##### 2.7.4.1 Material Culture Context
+
+Neolithic hunting technology developed sophisticated trap systems around 8000-6000 BCE, coordinated with early animal domestication. Archaeological evidence from Cishan-Peiligang sites shows pit trap systems for wild game hunting, with pig bones showing both capture marks (wild hunting) and domestication indicators (pen-raised animals). Cattle domestication (~8000-7000 BCE) provided agricultural draft power for plowing, while horse domestication (~4000-3000 BCE) later transformed military capability and long-distance transportation. The transition from trap hunting wild animals to keeping domestic livestock under shelter marks the fundamental shift to settled agricultural life.
+
+##### 2.7.4.2 Key Insights
+
+- **器 trap system**: 多口 + 犬 encodes multiple pit openings surrounding trapped prey—sophisticated coordinated hunting technology, not just "vessel"
+- **犬 hunting context**: Oracle forms show "trapped prey in hunting context" rather than generic "dog"—wild canines captured in pit traps before domestication
+- **哭 auditory encoding**: 口口 + 犬 preserves desperate wailing sounds of animals caught in hunting traps—emotional vocabulary emerging from concrete hunting experiences
+- **家 domestication equation**: 宀 + 豕 definitively encodes "settled household = shelter + domesticated pig"—Neolithic Chinese defined home by having pigs under roof
+- **Agricultural animals**: 牛 (cattle) provided draft power enabling intensive field cultivation beyond human muscle, while 马 (horses) revolutionized warfare through chariot technology
+
+##### 2.7.4.3 Section Synthesis
+
+This section reveals **sophisticated Neolithic hunting technology** (coordinated pit trap systems encoded in 器) and the **domestication transition** (wild game → livestock) as civilization milestone. The 犬 character's hunting context (lost in later interpretations) shows how oracle bones preserve technological knowledge obscured by abstraction. The 家 = 宀 + 豕 composition definitively proves **pig domestication was the defining marker of "home"** in early Chinese civilization—not architecture alone, but domesticated animals under roof.
+
+
+### 2.8 WEAVING, TEXTILE & CLOTHING - Garments (衣)
+
+#### 2.8.1 Character Forms
+
+**Table 2.8.1** Evolution of Weaving, Textile & Clothing radicals (Section 2.8). Shows progression from foundational weaving (婁), through cloth production from cutting (初), thread production (糸), finished garments (衣), and hemp fiber (麻). Demonstrates 衣 (clothing) technology.
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
@@ -794,10 +876,11 @@ Section 2.3 (Stone Age): 穴 (cave) bridges from stone-working to shelter contex
 | <img src="figures/characters/oracle/char-糸-oracle.png" width="100" alt="糸 oracle"> | <img src="figures/characters/bronze/char-糸-bronze.png" width="100" alt="糸 bronze"> | <img src="figures/characters/seal/char-糸-seal.png" width="100" alt="糸 seal"> | <img src="figures/characters/kaiti/char-糸-kaiti.png" width="100" alt="糸 kaiti"> |
 | <img src="figures/characters/oracle/char-衣-oracle.png" width="100" alt="衣 oracle"> | <img src="figures/characters/bronze/char-衣-bronze.png" width="100" alt="衣 bronze"> | <img src="figures/characters/seal/char-衣-seal.png" width="100" alt="衣 seal"> | <img src="figures/characters/kaiti/char-衣-kaiti.png" width="100" alt="衣 kaiti"> |
 | (unavailable) | <img src="figures/characters/bronze/char-麻-bronze.png" width="100" alt="麻 bronze"> | <img src="figures/characters/seal/char-麻-seal.png" width="100" alt="麻 seal"> | <img src="figures/characters/kaiti/char-麻-kaiti.png" width="100" alt="麻 kaiti"> |
+| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-婁-seal.png" width="100" alt="婁 seal"> | <img src="figures/characters/kaiti/char-婁-kaiti.png" width="100" alt="婁 kaiti"> |
 
-#### 2.7.2 Semantic Networks
+#### 2.8.2 Semantic Networks
 
-**Table 2.7.2** Semantic networks of Textile & Clothing radicals (selected representative characters):
+**Table 2.8.2** Semantic networks of Weaving, Textile & Clothing radicals (selected representative characters):
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
@@ -823,29 +906,40 @@ Section 2.3 (Stone Age): 穴 (cave) bridges from stone-working to shelter contex
 | 麻 | 麻繩 (máshéng) | 麻 + 繩 | Hemp rope | Hemp + rope = cordage made from hemp fibers | Cordage |
 | 麻 | 大麻 (dàmá) | 大 + 麻 | Cannabis | Big + hemp = marijuana plant (fiber source + psychoactive) | Plant varieties |
 | 麻 | 亞麻 (yàmá) | 亞 + 麻 | Flax | Asia + hemp = flax plant (different fiber crop) | Plant varieties |
+| **婁** | 篓 (lǒu) | 竹 + 婁 | Bamboo basket | Bamboo + woman weaving = woven bamboo container | Physical woven baskets |
+| 婁 | 樓 (lóu) | 木 + 婁 | Building, floors | Wood + woman weaving = multi-level structure (like basket framework) | Hollow containers/structures |
+| 婁 | 摟 (lǒu) | 手 + 婁 | Embrace, hug | Hand + woman weaving = arms creating hollow space (like basket shape) | Hollow containers/structures |
+| 婁 | 髅 (lóu) | 骨 + 婁 | Skeleton, skull | Bone + woman weaving = hollow bone container (ribcage like basket framework) | Hollow containers/structures |
+| 婁 | 縷 (lǚ) | 糸 + 婁 | Thread, strand | Thread + woman weaving = thin woven strands (like basket pattern) | Repeating patterns |
+| 婁 | 鏤 (lòu) | 金 + 婁 | Carve, engrave | Metal + woman weaving = intricate carved patterns (like weaving design) | Repeating patterns |
+| 婁 | 屡 (lǚ) | 婁 + 尸 | Repeatedly, frequently | Woman weaving + body = repetitive action (like weaving motion) | Repeating patterns |
+| 婁 | 数 (shù) | 婁 + 攴 | Number, count | Woman weaving + action = counting (stitches, rows, patterns in weaving) | Mathematical concepts |
 
 **Network patterns observed:**
 - **初 network** (60+ characters, 85% coherence): Beginning/initial states, first occurrences, temporal priority - metaphorical extension from first cloth cutting to general "beginning" concept
 - **糸 network** (150+ characters, 90% coherence): Threads, weaving, spinning, fabric manipulation, colors (dyed threads), connections/relationships (thread metaphors)
 - **衣 network** (100+ characters, 85% coherence): Clothing types, garment parts, wearing actions, social status markers through dress, protective covering
 - **麻 network** (40+ characters, 80% coherence): Hemp/flax plants, textile fibers, rope/cordage, rough textures, numbness (麻醉 anesthesia = numbing sensation like rough hemp)
+- **婁 network** (25+ characters, 90% coherence): **Foundational weaving technology** - Woman weaving baskets (婁 = 女 + weaving pattern), hollow containers (篓樓摟髅), repeating patterns (縷鏤屡), mathematical concepts (数) - **weaving as origin of counting and pattern recognition**
 
-**Textile production chain encoded:**
-1. **Raw materials**: 麻 (hemp plant cultivation)
-2. **Fiber processing**: Retting, beating, combing (encoded in compound characters)
-3. **Thread production**: 糸 (spinning fibers into twisted threads)
-4. **Fabric weaving**: 織 (interlacing threads), 經緯 (warp/weft structure)
-5. **Dyeing**: 紅 = 糸 + 工 (dyed thread requiring labor/processing)
-6. **Garment cutting**: 初 (first cut of cloth from loom)
-7. **Finished clothing**: 衣 (sewn garment with sleeves)
+**Weaving and textile production chain encoded:**
+1. **Foundational weaving skill**: 婁 (woman weaving baskets - fundamental container technology)
+2. **Raw materials**: 麻 (hemp plant cultivation for fiber)
+3. **Fiber processing**: Retting, beating, combing (encoded in compound characters)
+4. **Thread production**: 糸 (spinning fibers into twisted threads)
+5. **Fabric weaving**: 織 (interlacing threads), 經緯 (warp/weft structure)
+6. **Pattern counting**: 数 (counting stitches, rows, repeating patterns)
+7. **Dyeing**: 紅 = 糸 + 工 (dyed thread requiring labor/processing)
+8. **Garment cutting**: 初 (first cut of cloth from loom)
+9. **Finished clothing**: 衣 (sewn garment with sleeves)
 
-This seven-stage process demonstrates sophisticated industrial knowledge systematically encoded in character semantics.
+This nine-stage process demonstrates sophisticated industrial knowledge systematically encoded in character semantics, with **weaving as the cognitive foundation** for both textile production and mathematical thinking.
 
 
 
-#### 2.7.3 Validation
+#### 2.8.3 Validation
 
-**Table 2.7.3** Validation summary for Section 2.7 semantic radicals:
+**Table 2.8.3** Validation summary for Section 2.8 semantic radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -854,92 +948,20 @@ This seven-stage process demonstrates sophisticated industrial knowledge systema
 | **衣 (yī)** | 20 oracle + 25 bronze forms | **85%+** (100+ chars) | ✓ Textile fragments show sleeved robes (Neolithic)<br>✓ Oracle bones record royal garment specifications<br>✓ Differentiated clothing by status (elite vs. common)<br>✓ Crossed-collar style preserved in oracle forms | ✓ 衣 universal "clothing" term<br>✓ 衣服 (clothes), 衣食住行 (basic needs) fundamental vocabulary<br>✓ Oracle bone Y-shape matches traditional Chinese robe design | **STRONG** - Garment structure and social function validated |
 | **麻 (má)** | 12 oracle + 15 bronze forms | **80%+** (40+ chars) | ✓ Hemp/ramie cultivation ~5000 BCE (Hemudu culture)<br>✓ Hemp textile fragments and rope remains<br>✓ Hemp as primary common fiber (silk was elite material)<br>✓ Retting pits for fiber processing found at archaeological sites | ✓ 麻 means "hemp/flax"<br>✓ 麻布 (linen cloth), 麻繩 (hemp rope) preserve fiber uses<br>✓ Still cultivated for textiles and cordage | **STRONG** - Hemp as fundamental textile fiber validated |
 
-#### 2.7.4 Commentary
-
-##### 2.7.4.1 Material Culture Context
-The 衣 (yī, clothing) concept appears first in the traditional 衣食住行 framework, reflecting clothing's critical importance in human survival—protection from weather, social identity marking, and body modesty. Archaeological evidence shows textile production dates to at least 30,000 BCE (twisted plant fibers), with systematic weaving emerging ~5000 BCE in Neolithic China. Textile production milestones in Chinese archaeology include: ~30,000 BCE twisted plant fibers (cord marks on pottery), ~8,000 BCE primitive looms (weaving technology emergence), ~5,000 BCE hemp/ramie cultivation and processing (Yangshao culture), ~3,000 BCE sericulture (silk production) systematized, and ~2,000 BCE complex weaving patterns, dyed textiles, differentiated garments by social status. The progression from cave dwellers using animal skins to agricultural societies developing complex textile industries marks a fundamental civilization threshold.
-
-##### 2.7.4.2 Key Insights
-The character system encodes complete textile production knowledge through four semantic networks: 初 (first cloth cutting) preserves the crucial insight that garment production begins with cutting fabric from the loom, with semantic extension from "first cloth cutting" to general "beginning/initial" demonstrating how textile terminology became abstract temporal concepts. 糸 (twisted thread) encodes fundamental textile engineering where single fibers are weak but twisted threads gain tensile strength through fiber friction and helical structure. 衣 (finished garment) captures clothing's defining features—body coverage + extended arms = functional protection—representing the culmination of fiber processing → thread spinning → fabric weaving → garment cutting/sewing. 麻 (hemp/flax) encodes complete fiber crop knowledge from cultivation → retting (soaking to separate fibers) → beating/combing → spinning into thread → weaving into cloth. The systematic encoding of this seven-stage production chain demonstrates sophisticated manufacturing knowledge worthy of permanent preservation.
-
-##### 2.7.4.3 Section Synthesis
-Textile production represents humanity's first complex industrial process requiring settled agriculture (麻 cultivation), sedentary lifestyle (loom infrastructure), and fire mastery (dyeing processes), creating dependencies on Sections 2.4 (Fire), 2.5 (Shelter), and 2.10 (Agriculture). The 衣食住行 framework's placement of clothing first validates biological reality: in temperate/cold climates, clothing precedes shelter in survival priority—humans can survive without buildings but cannot survive extreme cold without clothing. The character system encodes this survival hierarchy by giving textile production dedicated radical systems (糸 + 衤) with 150+ derived characters. This section reveals how early Chinese civilization encoded complete textile production knowledge from raw plant material to finished garment through seven-stage production chain (plant → fiber → thread → fabric → dye → cut → garment) demonstrating sophisticated manufacturing encoded systematically. Social stratification through materials (silk for elite vs. hemp for common) demonstrates how textile choices encoded social status, while oracle bone records of textile tributes and garment specifications show clothing as wealth/taxation category.
-
-##### 2.7.4.4 Cross-references
-Textile networks connect systematically to other material culture domains: Section 2.2 (Five Elements) through 木 (wood) → textile connection via plant fibers and wooden looms; Section 2.4 (Fire) through dyeing requiring heating dye baths; Section 2.10 (Agriculture) through 麻 (hemp) cultivation requiring agricultural knowledge; Section 2.12 (Craftsmanship) through 工 (work) in 紅 (dyed thread) showing textile craft as specialized labor; and Section 2.9 (Cutting) through 初 = 衤 + 刀 linking cloth cutting to general blade technology. The relocation of 初 from Section 2.9 to this section demonstrates proper semantic categorization—while containing 刀 (knife) radical, its primary referent is cloth cutting, validated by 85%+ network coherence in textile contexts.
-
-
-### 2.8 HUNTING & DOMESTICATION - Animal Relationships
-
-#### 2.8.1 Character Forms
-
-**Table 2.8.1** Evolution of Hunting & Domestication radicals (Section 2.3). Shows transition from pit trap hunting (犬器哭) to pig domestication (豕家).
-
-| Oracle | Bronze | Seal | Kaiti |
-|--------|--------|------|-------|
-| <img src="figures/characters/oracle/char-犬-oracle.png" width="100" alt="犬 oracle"> | <img src="figures/characters/bronze/char-犬-bronze.png" width="100" alt="犬 bronze"> | <img src="figures/characters/seal/char-犬-seal.png" width="100" alt="犬 seal"> | <img src="figures/characters/kaiti/char-犬-kaiti.png" width="100" alt="犬 kaiti"> |
-| (unavailable) | <img src="figures/characters/bronze/char-器-bronze.png" width="100" alt="器 bronze"> | <img src="figures/characters/seal/char-器-seal.png" width="100" alt="器 seal"> | <img src="figures/characters/kaiti/char-器-kaiti.png" width="100" alt="器 kaiti"> |
-| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-哭-seal.png" width="100" alt="哭 seal"> | <img src="figures/characters/kaiti/char-哭-kaiti.png" width="100" alt="哭 kaiti"> |
-| <img src="figures/characters/oracle/char-豕-oracle.png" width="100" alt="豕 oracle"> | <img src="figures/characters/bronze/char-豕-bronze.png" width="100" alt="豕 bronze"> | <img src="figures/characters/seal/char-豕-seal.png" width="100" alt="豕 seal"> | <img src="figures/characters/kaiti/char-豕-kaiti.png" width="100" alt="豕 kaiti"> |
-| <img src="figures/characters/oracle/char-家-oracle.png" width="100" alt="家 oracle"> | <img src="figures/characters/bronze/char-家-bronze.png" width="100" alt="家 bronze"> | <img src="figures/characters/seal/char-家-seal.png" width="100" alt="家 seal"> | <img src="figures/characters/kaiti/char-家-kaiti.png" width="100" alt="家 kaiti"> |
-| <img src="figures/characters/oracle/char-牛-oracle.png" width="100" alt="牛 oracle"> | <img src="figures/characters/bronze/char-牛-bronze.png" width="100" alt="牛 bronze"> | <img src="figures/characters/seal/char-牛-seal.png" width="100" alt="牛 seal"> | <img src="figures/characters/kaiti/char-牛-kaiti.png" width="100" alt="牛 kaiti"> |
-| <img src="figures/characters/oracle/char-马-oracle.png" width="100" alt="马 oracle"> | <img src="figures/characters/bronze/char-马-bronze.png" width="100" alt="马 bronze"> | <img src="figures/characters/seal/char-马-seal.png" width="100" alt="马 seal"> | <img src="figures/characters/kaiti/char-马-kaiti.png" width="100" alt="马 kaiti"> |
-
-
-#### 2.8.2 Semantic Networks
-
-**Table 2.8.2** Semantic networks of Hunting & Domestication radicals:
-
-| Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
-|---------|-----------|-----------|---------|----------------------|----------------|
-| **犬** | 器 (qì) | 口×4 + 犬 | Implement, vessel | Multiple pits + trapped prey = hunting system | Hunting technology |
-| 犬 | 哭 (kū) | 口×2 + 犬 | Cry, wail | Trap holes + trapped animal = desperate crying | Hunting sounds |
-| 犬 | 獄 (yù) | 犬×2 + 言 | Prison | Multiple trapped creatures + speech = confinement | Captivity concept |
-| 犬 | 獻 (xiàn) | 犬 + 南 | Offer, present | Captured game + presentation = ritual offering | Hunting products |
-| 犬 | 獲 (huò) | 犬 + 艹 + 又 | Capture, obtain | Trapped prey + hand = successful hunt | Hunting success |
-| 犬 | 狩 (shòu) | 犬 + 守 | Hunt | Trapped animals + guarding = hunting activity | Hunting actions |
-| **豕** | 家 (jiā) | 宀 + 豕 | Home, family | Roof + pig = settled household | Domestication marker |
-| 豕 | 豚 (tún) | 豕 + 彖 | Piglet | Pig + small = young pig | Livestock breeding |
-| 豕 | 豪 (háo) | 高 + 豕 | Heroic, grand | Tall + pig = wealthy (many pigs) | Wealth markers |
-| 豕 | 逐 (zhú) | 辶 + 豕 | Chase, pursue | Movement + pig = chasing escaping livestock | Animal handling |
-| **器** | [Primitive, not typically used as component] | | | Complex hunting system | Technology encoding |
-
-**Network patterns observed:**
-- **犬 network** (80+ characters, 90% coherence): Capturing (獲獲), confinement (獄), hunting contexts (狩猟), crying/wailing (哭嗥) - all relate to trapping/hunting, NOT merely "dog"
-- **豕 network** (60+ characters, 85% coherence): Domestication (家豚), wealth (豪), livestock handling (逐) - pig as civilization marker
-- **器 appears independently**: Primarily means "implement/vessel" but oracle forms show hunting trap technology origin
-
-
-
-#### 2.8.3 Validation
-
-**Table 2.8.3** Validation summary for Section 2.3 semantic radicals:
-
-| Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
-|---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
-| **犬 (quǎn)** | 15 oracle + 10 bronze forms | **90%+** (80+ chars) | ✓ Pit trap sites found at Neolithic settlements<br>✓ Wild canine bones show capture marks | ✓ 獲 (capture), 獄 (prison) preserve "trapping" semantic<br>✗ Modern 犬 = generic "dog" (hunting context lost) | **STRONG** - Hunting/trapping context validated but partially obscured in modern usage |
-| **器 (qì)** | 8 oracle + 12 bronze forms | **85%+** (trap system interpretation) | ✓ Archaeological evidence of coordinated pit traps<br>✓ Multiple pit systems found at hunting sites | ✓ 器 means "implement/vessel" (preserves "tool/technology" semantic)<br>✗ Specific trap system meaning lost | **MODERATE-STRONG** - Hunting technology origin validated but abstracted to general "implement" |
-| **豕 (shǐ)** | 20 oracle + 25 bronze forms | **85%+** (60+ chars) | ✓ Pig domestication ~8000 BCE (Cishan-Peiligang)<br>✓ Pig bones abundant in Neolithic sites | ✓ 豕 means "pig"<br>✓ 家 (home) = roof + pig validates domestication significance | **STRONG** - Pig domestication as civilization marker validated |
-| **家 (jiā)** | 18 oracle + 20 bronze forms | **95%+** (compositional transparency) | ✓ Pig bones found in/near dwelling structures<br>✓ Pig domestication correlates with settlement | ✓ 家 universally means "home/family"<br>✓ Composition (宀 + 豕) still transparent | **STRONG** - Domestication = settled life equation validated |
-
-
 #### 2.8.4 Commentary
 
 ##### 2.8.4.1 Material Culture Context
-
-Neolithic hunting technology developed sophisticated trap systems around 8000-6000 BCE, coordinated with early animal domestication. Archaeological evidence from Cishan-Peiligang sites shows pit trap systems for wild game hunting, with pig bones showing both capture marks (wild hunting) and domestication indicators (pen-raised animals). Cattle domestication (~8000-7000 BCE) provided agricultural draft power for plowing, while horse domestication (~4000-3000 BCE) later transformed military capability and long-distance transportation. The transition from trap hunting wild animals to keeping domestic livestock under shelter marks the fundamental shift to settled agricultural life.
+The 衣 (yī, clothing) concept appears first in the traditional 衣食住行 framework, reflecting clothing's critical importance in human survival—protection from weather, social identity marking, and body modesty. Archaeological evidence shows textile production dates to at least 30,000 BCE (twisted plant fibers), with systematic weaving emerging ~5000 BCE in Neolithic China. Textile production milestones in Chinese archaeology include: ~30,000 BCE twisted plant fibers (cord marks on pottery), ~8,000 BCE primitive looms (weaving technology emergence), ~5,000 BCE hemp/ramie cultivation and processing (Yangshao culture), ~3,000 BCE sericulture (silk production) systematized, and ~2,000 BCE complex weaving patterns, dyed textiles, differentiated garments by social status. The progression from cave dwellers using animal skins to agricultural societies developing complex textile industries marks a fundamental civilization threshold.
 
 ##### 2.8.4.2 Key Insights
-
-- **器 trap system**: 多口 + 犬 encodes multiple pit openings surrounding trapped prey—sophisticated coordinated hunting technology, not just "vessel"
-- **犬 hunting context**: Oracle forms show "trapped prey in hunting context" rather than generic "dog"—wild canines captured in pit traps before domestication
-- **哭 auditory encoding**: 口口 + 犬 preserves desperate wailing sounds of animals caught in hunting traps—emotional vocabulary emerging from concrete hunting experiences
-- **家 domestication equation**: 宀 + 豕 definitively encodes "settled household = shelter + domesticated pig"—Neolithic Chinese defined home by having pigs under roof
-- **Agricultural animals**: 牛 (cattle) provided draft power enabling intensive field cultivation beyond human muscle, while 马 (horses) revolutionized warfare through chariot technology
+The character system encodes complete textile production knowledge through four semantic networks: 初 (first cloth cutting) preserves the crucial insight that garment production begins with cutting fabric from the loom, with semantic extension from "first cloth cutting" to general "beginning/initial" demonstrating how textile terminology became abstract temporal concepts. 糸 (twisted thread) encodes fundamental textile engineering where single fibers are weak but twisted threads gain tensile strength through fiber friction and helical structure. 衣 (finished garment) captures clothing's defining features—body coverage + extended arms = functional protection—representing the culmination of fiber processing → thread spinning → fabric weaving → garment cutting/sewing. 麻 (hemp/flax) encodes complete fiber crop knowledge from cultivation → retting (soaking to separate fibers) → beating/combing → spinning into thread → weaving into cloth. The systematic encoding of this seven-stage production chain demonstrates sophisticated manufacturing knowledge worthy of permanent preservation.
 
 ##### 2.8.4.3 Section Synthesis
+Textile production represents humanity's first complex industrial process requiring settled agriculture (麻 cultivation), sedentary lifestyle (loom infrastructure), and fire mastery (dyeing processes), creating dependencies on Sections 2.5 (Fire), 2.3 (Shelter), and 2.6 (Agriculture). The 衣食住行 framework's placement of clothing first validates biological reality: in temperate/cold climates, clothing precedes shelter in survival priority—humans can survive without buildings but cannot survive extreme cold without clothing. The character system encodes this survival hierarchy by giving textile production dedicated radical systems (糸 + 衤) with 150+ derived characters. This section reveals how early Chinese civilization encoded complete textile production knowledge from raw plant material to finished garment through seven-stage production chain (plant → fiber → thread → fabric → dye → cut → garment) demonstrating sophisticated manufacturing encoded systematically. Social stratification through materials (silk for elite vs. hemp for common) demonstrates how textile choices encoded social status, while oracle bone records of textile tributes and garment specifications show clothing as wealth/taxation category.
 
-This section reveals **sophisticated Neolithic hunting technology** (coordinated pit trap systems encoded in 器) and the **domestication transition** (wild game → livestock) as civilization milestone. The 犬 character's hunting context (lost in later interpretations) shows how oracle bones preserve technological knowledge obscured by abstraction. The 家 = 宀 + 豕 composition definitively proves **pig domestication was the defining marker of "home"** in early Chinese civilization—not architecture alone, but domesticated animals under roof.
+##### 2.8.4.4 Cross-references
+Textile networks connect systematically to other material culture domains: Section 2.2 (Five Elements) through 木 (wood) → textile connection via plant fibers and wooden looms; Section 2.5 (Fire) through dyeing requiring heating dye baths; Section 2.6 (Agriculture) through 麻 (hemp) cultivation requiring agricultural knowledge; Section 2.17 (Craftsmanship) through 工 (work) in 紅 (dyed thread) showing textile craft as specialized labor; and Section 2.9 (Cutting) through 初 = 衤 + 刀 linking cloth cutting to general blade technology. The relocation of 初 from Section 2.9 to this section demonstrates proper semantic categorization—while containing 刀 (knife) radical, its primary referent is cloth cutting, validated by 85%+ network coherence in textile contexts.
+
 
 
 
@@ -947,7 +969,7 @@ This section reveals **sophisticated Neolithic hunting technology** (coordinated
 
 #### 2.9.1 Character Forms
 
-**Table 2.9.1** Evolution of Pottery & Ceramics radicals (Section 2.5). Shows ceramic vessel production (缶) and tile/shard forms (瓦). Fire mastery enabled ceramic firing technology.
+**Table 2.9.1** Evolution of Pottery & Ceramics radicals (Section 2.3). Shows ceramic vessel production (缶) and tile/shard forms (瓦). Fire mastery enabled ceramic firing technology.
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
@@ -992,7 +1014,7 @@ Unlike highly productive radicals like 木 (200+ chars) or 水 (250+ chars), pot
 
 #### 2.9.3 Validation
 
-**Table 2.9.3** Evolution of Pottery & Ceramics radicals (Section 2.5). Shows ceramic vessel production (缶) and tile/shard forms (瓦). Fire mastery enabled ceramic firing technology.
+**Table 2.9.3** Evolution of Pottery & Ceramics radicals (Section 2.3). Shows ceramic vessel production (缶) and tile/shard forms (瓦). Fire mastery enabled ceramic firing technology.
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
@@ -1020,7 +1042,7 @@ Pottery emergence correlates directly with settled agriculture: nomadic societie
 ##### 2.9.4.2 Key Insights
 
 - **Pottery = agriculture enabler**: Grain storage in sealed jars allows surplus accumulation → enables non-farming specialists → enables civilization complexity
-- **Fire prerequisite validated**: Ceramic production requires 800-1000°C kiln firing → cannot exist without fire mastery (Section 2.4)
+- **Fire prerequisite validated**: Ceramic production requires 800-1000°C kiln firing → cannot exist without fire mastery (Section 2.5)
 - **Material transformation encoded**: Clay (土) + fire (火) → ceramics represents irreversible chemical change through sintering—proto-chemistry knowledge
 - **Dual function**: 缶 (containers) for food/liquid + 瓦 (tiles) for architecture = pottery's utilitarian and construction roles both encoded
 - **Economic goods**: Oracle bone tribute records validate ceramics as tradeable wealth, not merely utilitarian objects
@@ -1037,116 +1059,204 @@ The two characters analyzed—缶 (pottery jar) and 瓦 (tile/pottery shard)—e
 ##### 2.9.4.4 Cross-references
 
 - **Section 2.2 (Five Elements)**: 土 (earth/clay) + 火 (fire) = material transformation into ceramics
-- **Section 2.4 (Fire & Cooking)**: 火 (fire) prerequisite for kiln firing; 灰 (ash) used as pottery temper (improves clay)
-- **Section 2.6 (Shelter)**: 瓦 (roof tiles) architectural application—ceramics protect dwellings
-- **Section 2.11 (Agriculture)**: Grain storage in 缶 (jars) enables agricultural surplus → settled civilization
-- **Section 2.13 (Metallurgy)**: Ceramic crucibles and molds essential for bronze casting—pottery technology enables metallurgy
+- **Section 2.5 (Fire & Cooking)**: 火 (fire) prerequisite for kiln firing; 灰 (ash) used as pottery temper (improves clay)
+- **Section 2.10 (Shelter)**: 瓦 (roof tiles) architectural application—ceramics protect dwellings
+- **Section 2.12 (Agriculture)**: Grain storage in 缶 (jars) enables agricultural surplus → settled civilization
+- **Section 2.14 (Metallurgy)**: Ceramic crucibles and molds essential for bronze casting—pottery technology enables metallurgy
 
-**Technological cascade validated:** Fire mastery (Section 2.4) → kiln firing → pottery production → grain storage (Agriculture) and bronze casting (Metallurgy). This cascade validates the civilization timeline organization: each technology builds on prior achievements.
-
-
+**Technological cascade validated:** Fire mastery (Section 2.5) → kiln firing → pottery production → grain storage (Agriculture) and bronze casting (Metallurgy). This cascade validates the civilization timeline organization: each technology builds on prior achievements.
 
 
 
-### 2.10 CUTTING & INSCRIBING - Tool Inventions
+
+### 2.10 SHELTER & ARCHITECTURE - Dwelling (住)
 
 #### 2.10.1 Character Forms
 
-**Table 2.10.1** Evolution of Cutting & Inscribing radicals (Section 2.4). Shows progression from cutting (乂匕刀) to symbolic marking (文) and force application (力).
+**Table 2.10.1** Evolution of Shelter & Architecture radicals (Section 2.3). Shows dwelling progression from caves (穴) to roofed structures (宀), doors (户門), defensive walls (囗), and urban settlements (市). Demonstrates 住 (shelter) development.
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
-| <img src="figures/characters/oracle/char-乂-oracle.png" width="100" alt="乂 oracle"> | (unavailable) | <img src="figures/characters/seal/char-乂-seal.png" width="100" alt="乂 seal"> | <img src="figures/characters/kaiti/char-乂-kaiti.png" width="100" alt="乂 kaiti"> |
-| <img src="figures/characters/oracle/char-爻-oracle.png" width="100" alt="爻 oracle"> | <img src="figures/characters/bronze/char-爻-bronze.png" width="100" alt="爻 bronze"> | <img src="figures/characters/seal/char-爻-seal.png" width="100" alt="爻 seal"> | <img src="figures/characters/kaiti/char-爻-kaiti.png" width="100" alt="爻 kaiti"> |
-| <img src="figures/characters/oracle/char-匕-oracle.png" width="100" alt="匕 oracle"> | <img src="figures/characters/bronze/char-匕-bronze.png" width="100" alt="匕 bronze"> | <img src="figures/characters/seal/char-匕-seal.png" width="100" alt="匕 seal"> | <img src="figures/characters/kaiti/char-匕-kaiti.png" width="100" alt="匕 kaiti"> |
-| <img src="figures/characters/oracle/char-文-oracle.png" width="100" alt="文 oracle"> | <img src="figures/characters/bronze/char-文-bronze.png" width="100" alt="文 bronze"> | <img src="figures/characters/seal/char-文-seal.png" width="100" alt="文 seal"> | <img src="figures/characters/kaiti/char-文-kaiti.png" width="100" alt="文 kaiti"> |
-| <img src="figures/characters/oracle/char-刀-oracle.png" width="100" alt="刀 oracle"> | (unavailable) | <img src="figures/characters/seal/char-刀-seal.png" width="100" alt="刀 seal"> | <img src="figures/characters/kaiti/char-刀-kaiti.png" width="100" alt="刀 kaiti"> |
-| <img src="figures/characters/oracle/char-初-oracle.png" width="100" alt="初 oracle"> | (unavailable) | <img src="figures/characters/seal/char-初-seal.png" width="100" alt="初 seal"> | <img src="figures/characters/kaiti/char-初-kaiti.png" width="100" alt="初 kaiti"> |
-| (unavailable) | <img src="figures/characters/bronze/char-力-bronze.png" width="100" alt="力 bronze"> | <img src="figures/characters/seal/char-力-seal.png" width="100" alt="力 seal"> | <img src="figures/characters/kaiti/char-力-kaiti.png" width="100" alt="力 kaiti"> |
-
-
+| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-穴-seal.png" width="100" alt="穴 seal"> | <img src="figures/characters/kaiti/char-穴-kaiti.png" width="100" alt="穴 kaiti"> |
+| <img src="figures/characters/oracle/char-宀-oracle.png" width="100" alt="宀 oracle"> | (unavailable)| (unavailable) | <img src="figures/characters/kaiti/char-宀-kaiti.png" width="100" alt="宀 kaiti"> |
+| <img src="figures/characters/oracle/char-户-oracle.png" width="100" alt="户 oracle"> | (unavailable) | <img src="figures/characters/seal/char-户-seal.png" width="100" alt="户 seal"> | <img src="figures/characters/kaiti/char-户-kaiti.png" width="100" alt="户 kaiti"> |
+| <img src="figures/characters/oracle/char-門-oracle.png" width="100" alt="門 oracle"> | <img src="figures/characters/bronze/char-門-bronze.png" width="100" alt="門 bronze"> | <img src="figures/characters/seal/char-門-seal.png" width="100" alt="門 seal"> | <img src="figures/characters/kaiti/char-門-kaiti.png" width="100" alt="門 kaiti"> |
+| (unavailable)| (unavailable) | <img src="figures/characters/seal/char-囗-seal.png" width="100" alt="囗 seal"> | <img src="figures/characters/kaiti/char-囗-kaiti.png" width="100" alt="囗 kaiti"> |
+| (unavailable) | <img src="figures/characters/bronze/char-市-bronze.png" width="100" alt="市 bronze"> | <img src="figures/characters/seal/char-市-seal.png" width="100" alt="市 seal"> | <img src="figures/characters/kaiti/char-市-kaiti.png" width="100" alt="市 kaiti"> |
 
 #### 2.10.2 Semantic Networks
 
-**Table 2.10.2** Semantic networks of Cutting Tools radicals:
+**Table 2.10.2** Semantic networks of Shelter & Architecture radicals (selected representative characters):
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
-| **乂 (yì)** | 文 (wén) | 乂 + 人 | Pattern, culture, writing | Crossed cuts + person = ordered patterns | Civilization concepts |
-| 乂 | 爻 (yáo) | 乂×2 | Hexagram lines (I Ching) | Multiple crossed cuts = divination symbols | Pattern systems |
-| **刀 (dāo)** | 切 (qiē) | 七 + 刀 | Cut, slice | Division + blade = cutting action | Cutting actions |
-| 刀 | 分 (fēn) | 八 + 刀 | Divide, separate | Splitting + blade = dividing | Division concepts |
-| 刀 | 劍 (jiàn) | 僉 + 刀 | Sword | Metal + blade = weapon | Weapons |
-| 刀 | 刻 (kè) | 亥 + 刀 | Carve, engrave | Mark + blade = inscription | Inscription/writing |
-| 刀 | 刑 (xíng) | 井 + 刀 | Punishment | Order + blade = judicial cutting | Legal concepts |
-| 刀 | 利 (lì) | 禾 + 刀 | Sharp, benefit | Grain + blade = cutting efficiency = benefit | Utility concepts |
-| **力 (lì)** | 男 (nán) | 田 + 力 | Male | Field + strength/plow = male labor | Gender/labor roles |
-| 力 | 功 (gōng) | 工 + 力 | Achievement, merit | Work + force = accomplished work | Work/achievement |
-| 力 | 助 (zhù) | 且 + 力 | Help, assist | Support + force = lending strength | Social cooperation |
-| 力 | 動 (dòng) | 重 + 力 | Move, motion | Heavy + force = exerting force to move | Motion/energy |
-| 力 | 努 (nǔ) | 奴 + 力 | Strive, exert | Slave + force = forced labor/effort | Exertion concepts |
+| **穴** | 空 (kōng) | 穴 + 工 | Empty, sky | Cave + work = emptied space/void | Void concepts |
+| 穴 | 究 (jiū) | 穴 + 九 | Investigate, probe | Cave + deep = reaching into depths | Investigation/exploration |
+| 穴 | 窗 (chuāng) | 穴 + 囱 | Window | Cave/hole + chimney = wall opening | Architectural openings |
+| 穴 | 窟 (kū) | 穴 + 屈 | Cave, den | Cave + bend = natural hollow dwelling | Natural shelters |
+| **宀** | 家 (jiā) | 宀 + 豕 | Home, family | Roof + pig = settled household | Domestic spaces |
+| 宀 | 安 (ān) | 宀 + 女 | Peace, safety | Roof + woman = household security | Security concepts |
+| 宀 | 室 (shì) | 宀 + 至 | Room, chamber | Roof + arrive = enclosed room | Interior spaces |
+| 宀 | 宮 (gōng) | 宀 + 呂 | Palace | Roof + complex = elite residence | Elite architecture |
+| 宀 | 寒 (hán) | 宀 + 冫 + 人 | Cold | Roof + ice + people = cold in house | Environmental conditions |
+| 宀 | 富 (fù) | 宀 + 畐 | Wealthy | Roof + full = filled house = prosperity | Economic status |
+| **户** | 戶口 (hùkǒu) | 户 + 口 | Household registration | Door + mouth = census unit | Social organization |
+| 户 | 扇 (shàn) | 户 + 羽 | Door panel, fan | Door + feather = hinged panel | Movable panels |
+| **門** | 開 (kāi) | 門 + 廾 | Open | Gate + hands = opening doors | Door actions |
+| 門 | 閉 (bì) | 門 + 才 | Close, shut | Gate + obstruct = closing doors | Door actions |
+| 門 | 間 (jiān) | 門 + 日 | Space, interval | Gate + sun = space between doors | Spatial concepts |
+| 門 | 問 (wèn) | 門 + 口 | Ask, inquire | Gate + mouth = speaking at door | Social interaction |
+| 門 | 閂 (shuān) | 門 + 一 | Door bolt | Gate + bar = locking mechanism | Security devices |
+| **囗** | 國 (guó) | 囗 + 戈 | Nation, country | Enclosure + weapon = defended territory | Political organization |
+| 囗 | 園 (yuán) | 囗 + 袁 | Garden | Enclosure + cultivated = enclosed garden space | Cultivated spaces |
+| 囗 | 圍 (wéi) | 囗 + 韋 | Surround, encircle | Enclosure + surround = surrounding action | Spatial actions |
+| 囗 | 困 (kùn) | 囗 + 木 | Trapped, difficult | Enclosure + tree = constrained/stuck | Constraint concepts |
+| 囗 | 回 (huí) | 囗 + 口 | Return, revolve | Enclosure + mouth = circular return | Circular motion |
+| **市** | 城 (chéng) | 土 + 成 | City, fortified town | Earth + construct = walled city (NOTE: related but distinct radical) | Urban settlements |
+| 市 | 闹 (nào) | 門 + 市 | Noisy, bustling | Gate + market = busy commercial area | Urban activity |
 
 **Network patterns observed:**
-- **乂 network** (30+ characters, 85-90% coherence): Pattern-making (文爻), division/organization, creating order from chaos - "crossing cuts" as civilization-building activity
-- **刀 network** (150+ characters, 90% coherence): Cutting actions (切割), division (分), weapons (劍刃), carving/writing (刻), punishment (刑) - comprehensive blade technology vocabulary
-- **力 network** (100+ characters, 90% coherence): Physical force (動勁), labor (男功), assistance (助), exertion (努) - strength and work concepts
+- **穴 network** (50+ characters, 85% coherence): Caves, hollows, openings, voids, architectural voids (windows, holes)
+- **宀 network** (150+ characters, 90% coherence): Roofed spaces, domestic life, security, buildings, indoor concepts
+- **户 network** (30+ characters, 80% coherence): Doors, households as social units, entry/exit, single-family dwellings
+- **門 network** (80+ characters, 85% coherence): Gates, double doors, openings/closings, spatial intervals, social interactions at thresholds
+- **囗 network** (60+ characters, 85% coherence): Enclosures, boundaries, surrounded spaces, fortifications, territorial concepts
+- **市 network** (40+ characters, 80% coherence): Urban settlements, markets, commercial activity, town-scale organization
 
-**Critical cross-reference:** 力 and 刀 visual similarity encodes conceptual relationship—**blade = directed force**, **plow = directed force**. Both transform materials through applied energy. The 男 = 田 + 力 composition might be reinterpreted as "male = field + plow/force" rather than abstract "strength," linking agricultural labor to tool technology.
+**Architectural hierarchy encoded:**
+- 穴 (Paleolithic) → 宀 (Neolithic roof) → 户 (domestic door) → 門 (elite gate) → 囗 (defensive wall) → 市 (urban center)
+- Social stratification visible: single door (户 common) vs. double gates (門 elite)
+
 
 
 
 #### 2.10.3 Validation
 
-**Table 2.10.3** Validation summary for Section 2.4 semantic radicals:
+
+**Table 2.10.3** Validation summary for Section 2.10 semantic radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
-| **乂 (yì)** | 10 oracle + 8 bronze forms | **85-90%** (30+ chars) | ✓ Slash-and-burn agriculture (crossed cutting of vegetation)<br>✓ 文 appears on bronzes (pattern/culture) | ✓ 文 means "culture/writing" (preserves pattern/order semantic)<br>✗ 乂 rarely used standalone | **MODERATE-STRONG** - Crossing cuts = order/pattern validated, but limited standalone usage |
-| **刀 (dāo)** | 20 oracle + 25 bronze forms | **90%+** (150+ chars) | ✓ Bronze blades abundant in archaeological sites<br>✓ Blade technology central to Bronze Age | ✓ 刀 means "knife/blade"<br>✓ 切分刻刑 all preserve cutting/blade semantics | **STRONG** - Blade technology systematically encoded |
-| **力 (lì)** | 15 oracle + 18 bronze forms | **90%+** (100+ chars) | ✓ Agricultural plows found at Neolithic sites<br>✓ Physical labor central to agricultural society | ✓ 力 means "strength/force"<br>✓ 男功努 preserve exertion/labor semantics | **STRONG** - Force/labor concepts validated |
-
-**Cross-reference validation:**
-- **力/刀 visual similarity**: Both forms represent directed force application—blade cutting and plow breaking earth are conceptually related transformative actions
-- **男 = 田 + 力 reinterpretation**: "Male = field + plow" more specific than "field + strength," links gender roles to agricultural tool technology
-- **乂 in 文**: The appearance of "crossed cuts" in "culture/civilization" character suggests early Chinese understood civilization as **systematic organization through division** (cutting chaos into ordered patterns)
-
+| **穴 (xué)** | 6 oracle + 8 bronze forms | **85%+** (50+ chars) | ✓ Zhoukoudian caves (Paleolithic occupation)<br>✓ Banpo pit dwellings (~5000 BCE)<br>✓ Semi-subterranean houses (Yangshao culture) | ✓ 穴 means "cave/hole"<br>✓ 空 (empty), 窗 (window) preserve void semantics | **STRONG** - Cave-to-pit-dwelling transition validated |
+| **宀 (mián)** | 10 oracle + 12 bronze forms | **90%+** (150+ chars) | ✓ Timber-framed roofed structures at Neolithic sites<br>✓ Thatched roofs (preserved impressions)<br>✓ Roof as primary architectural element | ✓ Appears in 家 (home), 安 (peace), 室 (room)<br>✓ Universal roof concept preserved | **STRONG** - Roof as defining shelter element validated |
+| **户 (hù)** | 8 oracle + 10 bronze forms | **80%+** (30+ chars) | ✓ Single-panel door remains/reconstructions<br>✓ Household = census/taxation unit (Zhou dynasty)<br>✓ Door as social boundary marker | ✓ 户口 (household registration) still used<br>✓ 户 = door + household unit preserved | **STRONG** - Door as social/spatial boundary validated |
+| **門 (mén)** | 12 oracle + 15 bronze forms | **85%+** (80+ chars) | ✓ Double-gate structures at elite/public buildings<br>✓ City gates archaeological remains<br>✓ Architectural hierarchy (single vs. double doors) | ✓ 門 universally "gate/door"<br>✓ 開門 (open door), 問 (ask = speak at gate) preserve semantics | **STRONG** - Architectural hierarchy via door types validated |
+| **囗 (wéi)** | 5 oracle + 7 bronze forms | **85%+** (60+ chars) | ✓ Neolithic ditched enclosures (~5000 BCE)<br>✓ Rammed earth walls (Longshan ~3000 BCE)<br>✓ Bronze Age city-state fortifications (Erlitou, Anyang) | ✓ Appears in 國 (nation), 園 (garden), 圍 (surround)<br>✓ Enclosure concept universally preserved | **STRONG** - Progressive fortification + territorial marking validated |
+| **市 (shì)** | 6 oracle + 8 bronze forms | **80%+** (40+ chars) | ✓ Bronze Age market towns (archaeological evidence)<br>✓ Urban hierarchy: villages < towns (市) < fortified cities (城)<br>✓ Commercial centers at trade routes | ✓ 市 means "market/town/city"<br>✓ 城市 (city), 市场 (marketplace) preserve urban commercial semantics | **MODERATE-STRONG** - Urban commercial organization validated |
 
 #### 2.10.4 Commentary
 
 ##### 2.10.4.1 Material Culture Context
-
-Stone blade technology dates to Paleolithic (~30,000+ BCE), but bronze blades (~2000 BCE) represented a revolutionary improvement—sharper, more durable, reshapenable. The Bronze Age correlation with emergence of writing (Shang Dynasty ~1200 BCE) means oracle bones encoded mature blade technology knowledge. Six related characters encode different aspects of cutting/cleaving technology: 乂 (crossed cutting), 匕 (curved blade/spoon), 文 (pattern/culture), 刀 (knife/blade), 力 (force/plow), and 初 (beginning through first cut).
+Shelter construction marks the transition from nomadic dwelling to engineered permanent structures. Archaeological evidence shows evolution: Paleolithic caves (Zhoukoudian ~400,000 BCE) → Early Neolithic pit dwellings (Banpo ~5000 BCE) → Late Neolithic above-ground timber structures with rammed earth walls → Bronze Age architectural complexes (Erlitou, Anyang) with walls, doors, roofs, and urban settlements. The progression from 穴 (cave) → 宀 (roof) → 户/門 (controlled access) → 囗 (defensive walls) → 市 (urban settlements) encodes complete architectural evolution enabling complex civilization.
 
 ##### 2.10.4.2 Key Insights
-
-- **Civilization as division**: 文 = 乂 + 人 suggests culture emerges from systematic cutting/organizing activity
-- **Blade = transformation tool**: 刀 network shows blades used for food (切), division (分), writing (刻), justice (刑) - multi-purpose transformative technology
-- **力/刀 conceptual link**: Visual similarity encodes force application principle—blade and plow both transform through directed energy
-- **Gender/tool association**: 男 = 田 + 力 links male identity to agricultural tool use (plow labor)
-- **From stone to bronze**: Oracle bones encode mature bronze blade technology—sharp, durable, reshapenable (revolutionary improvement over stone)
-- **"刀把子" power principle**: Control over blade technology = social power, connecting to Bronze Age patriarchal transition
-- **Beginning through cutting**: 初 (衤 + 刀) encodes irreversibility—first cut cannot be undone, natural metaphor for temporal beginnings
+Architectural hierarchy directly encodes social stratification through building features: 户 (single door) for common dwellings vs. 門 (double gate) for elite/public buildings. The character 安 (peace) = 女 + 宀 (woman under roof = security) encodes shelter as fundamental to safety. The character 住 (dwell) = 亻+ 主 reveals the cognitive shift from transient occupation to permanent mastery of space. Oracle bone forms of 門 show two door panels side by side (double-leaf gates) vs. 户 depicting single door panel, directly encoding architectural scale differences. Characters preserve how architectural elements became units of social organization: 户 (door) → 户口 (household registration), 門 (gate) → entry control systems, 囗 (walls) → territorial boundaries (國 nation). The progression 穴 (cave opening) → 宀 (peaked roof) → 市 (market settlement) encodes humanity's mastery over environment from adapting to natural shelter → constructing artificial shelter → organizing communal living spaces.
 
 ##### 2.10.4.3 Section Synthesis
-
-This section reveals how **cutting/dividing technology** was understood as foundational to civilization. The 乂 (crossed cuts) appearing in 文 (culture/writing) encodes a profound insight: **civilization = creating order through systematic division**. Whether cutting vegetation (slash-and-burn agriculture), dividing meat (butchering), carving symbols (writing), or organizing society (divisions/categories), the act of cutting/dividing creates structure from chaos.
-
-The visual similarity between 力 (force) and 刀 (blade) represents **directed application of energy for transformation**—agricultural plowing and blade cutting are conceptually related transformative actions. The idiom 刀把子 ("holding the knife handle" = possessing real power) preserves ancient recognition that control over blade technology equals social power.
+This section reveals how early Chinese civilization encoded **architectural evolution and social organization** through shelter characters: (1) Natural adaptation - cave dwelling (穴) as Paleolithic baseline, (2) Construction technology - roofed structures (宀) marking Neolithic engineering, (3) Social boundaries - doors (户/門) as private/public dividers with hierarchy, (4) Defensive strategy - walls (囗) protecting settled communities, (5) Urban organization - markets/towns (市) enabling commercial civilization. The 宀 radical appears in 150+ characters, demonstrating roofing was conceptually central to "home/shelter" category. Urban development (市) was primarily trade-driven rather than population-based, reflecting Bronze Age commercial priorities.
 
 ##### 2.10.4.4 Cross-references
+Section 2.4 (Stone Age): 穴 (cave) bridges from stone-working to shelter contexts. Section 2.5 (Fire): 灾 = 宀 + 火 (fire under roof = disaster) shows fire safety knowledge encoded in shelter characters. Section 2.7 (Hunting/Domestication): 家 = 宀 + 豕 (roof + pig) validates that domestic animals + shelter = settled civilization. The architectural progression connects to later metallurgy (Section 2.9), urban planning (Section 2.11), and social stratification (Section 2.12).
 
-- **Section 2.12 (Power Shift)**: 父 (father with axe) encodes Bronze Age transition to patriarchy—those who controlled metal blade technology held power
-- **Section 2.11 (Agriculture)**: 男 = 田 + 力 links gender roles to agricultural tool technology
-- **文明 concept**: "Civilization" literally means "patterned clarity"—order emerging from systematic division and marking
-
-
-
-
-### 2.11 AGRICULTURAL DEVELOPMENT - Settled Civilization
+### 2.11 TRANSPORTATION - Mobility Systems (行)
 
 #### 2.11.1 Character Forms
 
-**Table 2.11.1** Evolution of Agricultural Development radicals (Section 2.5). Shows gendered labor (男), field systems (田), seed testing (良), nursery cultivation (甫), and grain plants (禾).
+[Oracle bone evolution diagrams showing:]
+- **行**: Crossroads → movement concept → travel
+- **舟**: Boat hull → water vessel → transportation
+- **车**: Wheel-axle → vehicle → land transport  
+- **道**: Head + movement → guided path → systematic way
+
+
+#### 2.11.2 Semantic Networks
+
+**行 Network (Movement Foundation):**
+- 街 (street): Organized urban pathways
+- 衍 (extend): Movement expansion  
+- 術 (technique): Methodical approach
+- 徵 (summon): Directed movement
+- 循 (follow): Following paths
+**Network coherence: 92%** - validates systematic movement concept
+
+**舟 Network (Water Transportation):**
+- 船 (ship): Large watercraft
+- 艘 (vessel classifier): Boat counting unit
+- 航 (navigate): Water travel
+- 般 (type): Boat categories
+**Network coherence: 96%** - validates water transport technology
+
+**车 Network (Wheeled Transport):**
+- 轮 (wheel): Circular rolling component
+- 轴 (axle): Central rotation shaft  
+- 载 (carry): Vehicle cargo function
+- 轻 (light): Efficient construction
+- 较 (compare): Vehicle evaluation
+**Network coherence: 94%** - validates wheel technology breakthrough
+
+**道 Network (Systematic Pathways):**
+- 导 (guide): Path leadership
+- 途 (route): Established pathway
+- 遵 (follow): Path adherence  
+- 逸 (deviate): Path departure
+**Network coherence: 91%** - validates guided movement concept
+
+#### 2.11.3 Validation
+
+**Table 2.11.3** Validation summary for Section 2.11 transportation radicals:
+
+| Element | Oracle Evidence | Archaeological Validation | Network Coherence | Status |
+|---------|----------------|--------------------------|------------------|---------|
+| 行 | Crossroads symbol | Neolithic trade routes | 92% | ✓ Confirmed |
+| 舟 | Boat hull structure | 8000 BCE watercraft | 96% | ✓ Confirmed |
+| 车 | Wheel-axle design | 3500 BCE wheeled vehicles | 94% | ✓ Confirmed |
+| 街 | Urban pathways | Zhou Dynasty city planning | 89% | ✓ Confirmed |
+| 走 | Running figure | Universal human locomotion | 93% | ✓ Confirmed |
+| 道 | Guided movement | Systematic route development | 91% | ✓ Confirmed |
+
+This completes the 衣食住行 framework analysis, demonstrating how transportation (行) enabled the expansion and integration of clothing (衣), food (食), and shelter (住) systems across geographic distances, transforming local survival techniques into civilization-scale technologies.
+
+
+#### 2.11.4 Commentary
+
+##### 2.11.4.1 Material Culture Context
+
+Archaeological evidence confirms transportation technology sequence: Foot paths (Neolithic) established trade routes pre-dating vehicles, Water craft (8000 BCE) with dugout canoes in Chinese archaeological sites, Wheeled vehicles (3500 BCE) with spoked wheels in Bronze Age contexts, and Road systems (Zhou Dynasty) as engineered pathways connecting territories.
+
+The development of systematic movement technologies—from walking paths to wheeled vehicles to watercraft—enabled trade expansion, cultural exchange, and territorial control that transformed early civilization. Transportation infrastructure required significant material investment: road construction with engineered surfaces, bridge building for river crossings, canal systems for waterway transport, and vehicle manufacturing requiring bronze fittings and skilled craftsmanship.
+
+Characters encode the practical understanding that movement systems require both physical infrastructure (roads, boats, vehicles) and conceptual organization (routes, methods, systems) to function effectively at civilizational scale.
+
+##### 2.11.4.2 Key Insights
+
+- **行 as systematic travel**: Oracle bone forms show crossroads representing organized pathways enabling purposeful movement along established routes—infrastructure as civilization enabler
+- **街 as urban engineering**: 行 (movement) + 圭 (earth mounds) encodes organized pathways through settled areas with raised or marked boundaries indicating sophisticated urban planning
+- **舟 as physics understanding**: Oracle bone boat forms demonstrate early understanding of buoyancy, displacement, and flotation—overcoming natural barriers through engineering
+- **车 as mechanical breakthrough**: Oracle bone wheeled vehicle forms preserve wheel-and-axle structure demonstrating sophisticated Bronze Age mechanical engineering
+- **走 as speed advantage**: Human running forms encode recognition that movement velocity affects strategic, commercial, and survival outcomes
+- **道 as guided movement**: 辶 (movement) + 首 (head/leader) shows systematic transportation requires guidance/direction, becoming philosophical foundation where physical pathways → methodological approaches → moral principles
+- **衣食住行 completion**: Transportation represents the final element completing the fundamental framework of human basic needs
+
+##### 2.11.4.3 Section Synthesis
+
+Transportation represents the final element of the fundamental 衣食住行 framework, completing the spectrum of human basic needs. Six characters encode the progression from foot-based mobility through sophisticated vehicle engineering (行街舟车走道).
+
+The character progression from 走 (individual movement) → 行 (systematic travel) → 街 (urban infrastructure) → 道 (philosophical method) demonstrates transportation evolution enabling civilization complexity. This shows how practical transportation concepts became philosophical foundations: physical movement systems provided metaphorical frameworks for understanding method, approach, and principle in abstract contexts.
+
+Characters preserve understanding that effective transportation requires both material infrastructure and conceptual organization, demonstrating how mobility systems enabled trade expansion, cultural exchange, and territorial control that transformed early civilization from local settlements to interconnected regional systems.
+
+##### 2.11.4.4 Cross-references
+
+Transportation connects to military systems from Section 2.16 where 车 (chariots) served dual military and civilian functions. Cross-reference to measurement systems from Section 2.19 where standardized distances and route planning required quantification. The 道 concept's evolution from transportation pathway to philosophical method demonstrates how practical infrastructure concepts became foundational for later Chinese philosophy, connecting material transportation to intellectual "ways" of thinking and moral conduct.
+
+
+
+
+### 2.12 AGRICULTURAL DEVELOPMENT - Settled Civilization
+
+#### 2.12.1 Character Forms
+
+**Table 2.12.1** Evolution of Agricultural Development radicals (Section 2.3). Shows gendered labor (男), field systems (田), seed testing (良), nursery cultivation (甫), and grain plants (禾).
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
@@ -1158,9 +1268,9 @@ The visual similarity between 力 (force) and 刀 (blade) represents **directed 
 
 
 
-#### 2.11.2 Semantic Networks
+#### 2.12.2 Semantic Networks
 
-**Table 2.11.2** Semantic networks of Agricultural Development radicals:
+**Table 2.12.2** Semantic networks of Agricultural Development radicals:
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
@@ -1189,10 +1299,10 @@ The visual similarity between 力 (force) and 刀 (blade) represents **directed 
 - **禾 network** (100+ characters, 95% coherence): Grain crops (稻麥), seasons (秋), peace/harmony (和), agricultural cycle—comprehensive grain agriculture vocabulary
 
 
-#### 2.11.3 Validation
+#### 2.12.3 Validation
 
 
-**Table 2.11.3** Validation summary for Section 2.5 semantic radicals:
+**Table 2.12.3** Validation summary for Section 2.3 semantic radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -1204,13 +1314,13 @@ The visual similarity between 力 (force) and 刀 (blade) represents **directed 
 
 
 
-#### 2.11.4 Commentary
+#### 2.12.4 Commentary
 
-##### 2.11.4.1 Material Culture Context
+##### 2.12.4.1 Material Culture Context
 
 Agriculture emerged in Yellow River valley ~9000-7000 BCE (Peiligang culture), with millet as primary crop. Yangzi River valley developed rice agriculture ~8000 BCE. By Shang Dynasty (~1200 BCE, oracle bone era), Chinese agriculture featured comprehensive systems: permanent field management, gender-specialized labor, seed selection technology, nursery horticulture, and grain crop mastery. The transition from foraging to agriculture represents humanity's most transformative subsistence shift, marked by systematic land division, controlled environments for plant cultivation, and specialized agricultural roles.
 
-##### 2.11.4.2 Key Insights
+##### 2.12.4.2 Key Insights
 
 - **Permanent field agriculture**: 田 grid pattern shows planned land division (vs shifting cultivation)
 - **Gender role specialization**: 男 = 田 + 力 directly encodes agricultural gender division (males = heavy plow work)
@@ -1220,112 +1330,127 @@ Agriculture emerged in Yellow River valley ~9000-7000 BCE (Peiligang culture), w
 - **Agricultural calendar**: 秋 = 禾 + 火 (autumn = grain + fire/drying) shows seasonal knowledge
 - **Technology → value extension**: 良 (seed testing → "good") demonstrates how technological terms become abstract moral concepts
 
-##### 2.11.4.3 Section Synthesis
+##### 2.12.4.3 Section Synthesis
 
 This section reveals **systematic agricultural knowledge** in early Chinese civilization through five key characters: (1) Field management (田 grid systems), (2) Gender-specialized labor (男 = field + plow), (3) Seed selection technology (良 germination testing), (4) Horticultural nurseries (甫 seedling raising), (5) Grain crop mastery (禾 botanical observation). The character system encodes the complete agricultural cycle from seed testing through field planting to harvest, demonstrating sophisticated understanding of agricultural science and its social implications.
 
 Five characters encode different aspects of this agricultural revolution: 田 (cultivated field showing systematic land division), 男 (male agricultural labor through gender division), 良 (seed viability testing apparatus), 甫 (nursery/horticultural systems), and 禾 (grain plant botanical observation).
 
-##### 2.11.4.4 Cross-references
-
-- **Section 2.12 (Power Shift)**: The emergence of 男 = 田 + 力 (male agricultural labor) sets the stage for patriarchal power structures (父 with axe). Agricultural gender specialization created conditions for male dominance—control over heavy plow work, later reinforced by control over metal tools/weapons
-
-
-
-
-### 2.12 POWER SHIFT - Patriarchy Emergence
-
-#### 2.12.1 Character Forms
-
-**Table 2.12.1** Evolution of Power Shift radicals (Section 2.6). Shows patriarchal authority through metal tool monopoly (父斧), exchange relationships (交), and blade control (刀).
-
-| Oracle | Bronze | Seal | Kaiti |
-|--------|--------|------|-------|
-| <img src="figures/characters/oracle/char-父-oracle.png" width="100" alt="父 oracle"> | <img src="figures/characters/bronze/char-父-bronze.png" width="100" alt="父 bronze"> | <img src="figures/characters/seal/char-父-seal.png" width="100" alt="父 seal"> | <img src="figures/characters/kaiti/char-父-kaiti.png" width="100" alt="父 kaiti"> |
-| <img src="figures/characters/oracle/char-斧-oracle.png" width="100" alt="斧 oracle"> | <img src="figures/characters/bronze/char-斧-bronze.png" width="100" alt="斧 bronze"> | <img src="figures/characters/seal/char-斧-seal.png" width="100" alt="斧 seal"> | <img src="figures/characters/kaiti/char-斧-kaiti.png" width="100" alt="斧 kaiti"> |
-| <img src="figures/characters/oracle/char-刀-oracle.png" width="100" alt="刀 oracle"> | (unavailable) | <img src="figures/characters/seal/char-刀-seal.png" width="100" alt="刀 seal"> | <img src="figures/characters/kaiti/char-刀-kaiti.png" width="100" alt="刀 kaiti"> |
-| (unavailable) | <img src="figures/characters/bronze/char-交-bronze.png" width="100" alt="交 bronze"> | <img src="figures/characters/seal/char-交-seal.png" width="100" alt="交 seal"> | <img src="figures/characters/kaiti/char-交-kaiti.png" width="100" alt="交 kaiti"> |
-| (unavailable) | (unavailable) | (unavailable) | <img src="figures/characters/kaiti/char-爸-kaiti.png" width="100" alt="爸 kaiti"> |
-
-
-#### 2.12.2 Semantic Networks
-
-**Table 2.12.2** Semantic networks of Power Shift concepts:
-
-| Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
-|---------|-----------|-----------|---------|----------------------|----------------|
-| **父 (fù)** | 爸 (bà) | 父 + 巴 | Dad, father | Father + sound = informal father term | Kinship |
-| 父 | 爹 (diē) | 父 + 多 | Dad, papa | Father + many = patriarch with many children | Kinship/authority |
-| 父 | 爺 (yé) | 父 + 耶 | Grandfather, sir | Father + honored = elderly male authority | Respect/hierarchy |
-| 父 | 斧 (fǔ) | 父 + 斤 | Axe | Father-implement + blade = axe tool | Tool encoding |
-| **刀 (dāo)** | 刑 (xíng) | 井 + 刀 | Punishment, penalty | Order + blade = judicial cutting | Legal authority |
-| 刀 | 劃 (huà) | 畫 + 刀 | Divide, mark | Drawing + blade = demarcating | Boundary-setting |
-| 刀 | 判 (pàn) | 半 + 刀 | Judge, decide | Half + blade = cutting/deciding | Judicial power |
-| 刀 | 刹 (chà) | 未 + 刀 | Control, brake | Stop + blade = controlling mechanism | Control mechanisms |
-
-**Network patterns observed:**
-- **父 network** (30+ characters, 90% coherence): Male kinship terms (爸爹爺), authority figures, tools (斧 axe) - all relate to paternal authority
-- **刀 power applications** (from Section 2.4): Punishment (刑), judgment (判), division (劃分), control (刹) - blade technology as governance tool
-
-**"刀把子" idiom usage examples:**
-- **军队是刀把子** (jūnduì shì dāobǎzi) - "The military is the knife handle" = military controls power
-- **掌握刀把子** (zhǎngwò dāobǎzi) - "Grasp the knife handle" = seize power
-- **Preserves recognition**: Whoever controls violence/cutting capacity controls social outcomes
-
-
-
-#### 2.12.3 Validation
-
-**Table 2.12.3** Validation summary for Section 2.6 concepts:
-
-| Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
-|---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
-| **乂 (yì)** | 10 oracle + 8 bronze forms | **85-90%** (30+ chars) | ✓ Slash-and-burn agriculture (crossed cutting of vegetation)<br>✓ 文 appears on bronzes (pattern/culture) | ✓ 文 means "culture/writing" (preserves pattern/order semantic)<br>✗ 乂 rarely used standalone | **MODERATE-STRONG** - Crossing cuts = order/pattern validated, but limited standalone usage |
-| **父 (fù) - Patriarch** | 18 oracle + 22 bronze forms | **90%+** (30+ chars) | ✓ Bronze Age male burials with weapons/tools<br>✓ Gender stratification in burial goods<br>✓ Patrilineal descent system (姓氏) emerges | ✓ 父 means "father"<br>✓ 父親 (father), 祖父 (grandfather) preserve authority | **STRONG** - Bronze Age patriarchy emergence validated |
-| **斧 (fǔ) - Axe** | 12 oracle + 15 bronze forms | **95%+** (compositional: 父 + 斤) | ✓ Bronze axes abundant in male burials<br>✓ Axe = status symbol in Shang/Zhou society | ✓ 斧 means "axe"<br>✓ 斧頭 (axe head) preserves tool meaning | **STRONG** - Axe as male power symbol validated |
-| **刀 (dāo)** | 20 oracle + 25 bronze forms | **90%+** (150+ chars) | ✓ Bronze blades abundant in archaeological sites<br>✓ Blade technology central to Bronze Age | ✓ 刀 means "knife/blade"<br>✓ 切分刻刑 all preserve cutting/blade semantics | **STRONG** - Blade technology systematically encoded |
-| **力 (lì)** | 15 oracle + 18 bronze forms | **90%+** (100+ chars) | ✓ Agricultural plows found at Neolithic sites<br>✓ Physical labor central to agricultural society | ✓ 力 means "strength/force"<br>✓ 男功努 preserve exertion/labor semantics | **STRONG** - Force/labor concepts validated |
-| **刀把子 - Power idiom** | N/A (linguistic idiom) | **Cultural usage validates** | ✓ Blade control = food, violence, justice control<br>✓ Archaeological evidence of blade hoarding by elites | ✓ Idiom still used (军队是刀把子)<br>✓ "Knife handle" = power metaphor active | **STRONG** - Blade control = social power validated |
-
-#### 2.12.4 Commentary
-
-##### 2.12.4.1 Material Culture Context
-
-The Bronze Age emergence of metal tool technology correlates with fundamental social transformation from relatively egalitarian Neolithic societies to patriarchal hierarchies. Neolithic societies (~7000-3000 BCE) show relatively egalitarian burial patterns—both male and female graves contain tools, ornaments, and goods without dramatic differentiation. Bronze Age burials (~2000-1000 BCE) show sharp gender stratification: male graves contain bronze weapons, ritual vessels, and tools; female graves contain pottery, textiles, and domestic items. The 父 character's axe-holding figure encodes this Bronze Age reality—males with bronze axes/weapons became sociopolitical authorities.
-
-##### 2.12.4.2 Key Insights
-
-- **Bronze = power concentration**: Metal tools/weapons enabled violence monopoly, food distribution control, craft production control
-- **父 encodes transition moment**: Character preserves when "father" became "authority figure with implement" (not just biological parent)
-- **Gender specialization → stratification**: Agricultural labor division (Section 2.11: 男 = 田 + 力) + bronze tool monopoly = patriarchal hierarchy
-- **刀把子 preserves knowledge**: "Knife handle holder = power" idiom shows ancient Chinese explicitly recognized blade control = social control
-- **Material culture causation**: Characters encode material explanation for patriarchy (bronze access), not just abstract "gender roles"
-- **Etymological evidence**: 父 (hand holding axe) is original 3,200-year-old term; 爸 (papa) has NO ancient forms, created millennia later as baby-talk phonetic
-- **Universal pattern**: Bronze Age patriarchy emergence is global phenomenon; Chinese characters uniquely preserve the technological mechanism
-
-##### 2.12.4.3 Section Synthesis
-
-This section reveals the **technological basis of patriarchal power emergence**. The 父 character's depiction of "hand holding axe" directly encodes the Bronze Age social transformation when males monopolized metal tool/weapon technology and thereby consolidated authority. This was not merely cultural or ideological—it was **materially grounded** in differential access to bronze technology.
-
-Five characters encode this power transformation: 父 (father/patriarch with axe), 交 (exchange/intersect showing social networks), 斧 (axe as explicit power tool), 爸 (modern colloquial "papa" proving 父's ancient origin), and 刀 (blade as authority symbol). The 刀把子 idiom ("holding the knife handle" = possessing real power) preserves ancient recognition that control over blade technology equals social/political power.
-
 ##### 2.12.4.4 Cross-references
 
-- **Section 2.10 (Cutting Tools)**: 刀 (blade) technology foundation for power concepts
-- **Section 2.11 (Agriculture)**: 男 = 田 + 力 (male agricultural labor specialization) set stage for tool monopoly
-- **Section 2.15 (Military)**: Bronze weapon technology served dual purpose: warfare AND social dominance
-- **Cross-cultural comparison**: Latin *sexus* (gender) derives from *secare* (cut, divide)—Chinese preserved the tool (父 = axe), Latin preserved the concept (division)
-- **Universal "papa" pattern**: Formal "father" terms encode authority across languages (Chinese 父, Latin *pater*) while "papa/baba" terms represent universal baby-talk
+- **Section 2.17 (Power Shift)**: The emergence of 男 = 田 + 力 (male agricultural labor) sets the stage for patriarchal power structures (父 with axe). Agricultural gender specialization created conditions for male dominance—control over heavy plow work, later reinforced by control over metal tools/weapons
 
 
 
-
-
-### 2.13 CRAFTSMANSHIP - Engineering
+### 2.13 WATER & FLOW - Physics Understanding
 
 #### 2.13.1 Character Forms
 
-**Table 2.13.1** Evolution of Craftsmanship radicals (Section 2.13). Shows engineering concepts: work (工), achievement (功), skill (巧), radial structures (巠 - spoke wheel), and mechanical operation (乍作).
+**Table 2.13.1** Evolution of Flow & Hydraulics radicals (Section 2.17). Shows complete water phase cycle: ice (冰) ⇄ liquid (流川江) ⇄ vapor (气), demonstrating thermodynamic understanding.
+
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| <img src="figures/characters/oracle/char-水-oracle.png" width="100" alt="水 oracle"> | <img src="figures/characters/bronze/char-水-bronze.png" width="100" alt="水 bronze"> | <img src="figures/characters/seal/char-水-seal.png" width="100" alt="水 seal"> | <img src="figures/characters/kaiti/char-水-kaiti.png" width="100" alt="水 kaiti"> |
+| <img src="figures/characters/oracle/char-川-oracle.png" width="100" alt="川 oracle"> | <img src="figures/characters/bronze/char-川-bronze.png" width="100" alt="川 bronze"> | <img src="figures/characters/seal/char-川-seal.png" width="100" alt="川 seal"> | <img src="figures/characters/kaiti/char-川-kaiti.png" width="100" alt="川 kaiti"> |
+| <img src="figures/characters/oracle/char-永-oracle.png" width="100" alt="永 oracle"> | <img src="figures/characters/bronze/char-永-bronze.png" width="100" alt="永 bronze"> | <img src="figures/characters/seal/char-永-seal.png" width="100" alt="永 seal"> | <img src="figures/characters/kaiti/char-永-kaiti.png" width="100" alt="永 kaiti"> |
+| <img src="figures/characters/oracle/char-气-oracle.png" width="100" alt="气 oracle"> | <img src="figures/characters/bronze/char-气-bronze.png" width="100" alt="气 bronze"> | <img src="figures/characters/seal/char-气-seal.png" width="100" alt="气 seal"> | <img src="figures/characters/kaiti/char-气-kaiti.png" width="100" alt="气 kaiti"> |
+| (unavailable) | <img src="figures/characters/bronze/char-冰-bronze.png" width="100" alt="冰 bronze"> | <img src="figures/characters/seal/char-冰-seal.png" width="100" alt="冰 seal"> | <img src="figures/characters/kaiti/char-冰-kaiti.png" width="100" alt="冰 kaiti"> |
+| (unavailable) | <img src="figures/characters/bronze/char-流-bronze.png" width="100" alt="流 bronze"> | <img src="figures/characters/seal/char-流-seal.png" width="100" alt="流 seal"> | <img src="figures/characters/kaiti/char-流-kaiti.png" width="100" alt="流 kaiti"> |
+| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-㐬-seal.png" width="100" alt="㐬 seal"> | <img src="figures/characters/kaiti/char-㐬-kaiti.png" width="100" alt="㐬 kaiti"> |
+| (unavailable) | <img src="figures/characters/bronze/char-江-bronze.png" width="100" alt="江 bronze"> | <img src="figures/characters/seal/char-江-seal.png" width="100" alt="江 seal"> | <img src="figures/characters/kaiti/char-江-kaiti.png" width="100" alt="江 kaiti"> |
+| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-汞-seal.png" width="100" alt="汞 seal"> | <img src="figures/characters/kaiti/char-汞-kaiti.png" width="100" alt="汞 kaiti"> |
+
+
+#### 2.13.2 Semantic Networks
+
+**Table 2.13.2** Semantic networks of Water & Flow radicals:
+
+| Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
+|---------|-----------|-----------|---------|----------------------|----------------|
+| **㐬 (liú)** | 流 (liú) | 氵+ 㐬 | Flow, stream | Water + flowing = liquid flowing | Flow dynamics |
+| 㐬 | 硫 (liú) | 石 + 㐬 | Sulfur | Stone + flowing = flowing/melting mineral | Material flow |
+| 㐬 | 疏 (shū) | 疋 + 㐬 | Dredge, sparse | Foot + flow = creating flow channels | Flow management |
+| **氵 (shuǐ)** | 江 (jiāng) | 氵+ 工 | River | Water + work = erosive flow | Rivers |
+| 氵 | 河 (hé) | 氵+ 可 | River | Water + permissible flow | Rivers |
+| 氵 | 湖 (hú) | 氵+ 胡 | Lake | Water + contained area = still water | Water bodies |
+| 氵 | 海 (hǎi) | 氵+ 每 | Sea, ocean | Water + mother = source of waters | Water bodies |
+| 氵 | 波 (bō) | 氵+ 皮 | Wave | Water + surface = surface waves | Wave phenomena |
+| 氵 | 浪 (làng) | 氵+ 良 | Wave, billow | Water + surging growth = large waves | Wave phenomena |
+| 氵 | 液 (yè) | 氵+ 夜 | Liquid, fluid | Water + night = flowing substance | Fluid states |
+| 氵 | 洗 (xǐ) | 氵+ 先 | Wash, clean | Water + action = cleaning with water | Water uses |
+| 氵 | 濕 (shī) | 氵+ 顯 | Wet, moist | Water + visible = water presence | Water properties |
+| 氵 | 渦 (wō) | 氵+ 呙 | Whirlpool, eddy | Water + spiral = vortex flow | Complex flow |
+| **冫 (bīng)** | 冰 (bīng) | 冫+ 水 | Ice | Frozen + water = solid water | Phase transition |
+| 冫 | 冷 (lěng) | 冫+ 令 | Cold | Ice + command = cold temperature | Temperature |
+| 冫 | 凍 (dòng) | 冫+ 東 | Freeze | Ice + action = freezing process | Phase transition |
+| 冫 | 凝 (níng) | 冫+ 疑 | Congeal, solidify | Ice + gather = liquid→solid | Solidification |
+
+**Network patterns observed:**
+- **㐬 network** (30+ characters, 85% coherence): Continuous flow (流), streaming movement, transmission, drainage—dynamic fluid behavior
+- **氵 network** (250+ characters, 95% coherence): ALL water phenomena systematically categorized—rivers, lakes, seas, waves, liquids, washing, wetness, ice, etc. Extraordinary semantic coherence!
+- **冫 network** (40+ characters, 90% coherence): Cold, freezing, solidification, ice—temperature-induced phase transitions
+- **江 insight (from 2.8)**: River = 氵+ 工 (water's work) encodes erosion as mechanical process
+
+**Sophisticated observations encoded:**
+- **Wave phenomena**: 波 (surface waves) vs 浪 (large billows)—distinguishing wave types by scale
+- **Vortex flow**: 渦 (whirlpool) = 氵+ 呙 (spiral structure)—recognizing rotational flow patterns
+- **Phase transitions**: 冫characters encode liquid→solid transformation with temperature change
+- **Erosion mechanics**: 江 (river = water's work) shows understanding that flowing water performs mechanical work on landscape
+
+
+#### 2.13.3 Validation
+
+
+**Table 2.13.3** Validation summary for Section 2.17 hydraulic radicals:
+
+| Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
+|---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
+| **氵 (shuǐ)** | 20+ oracle + 25+ bronze forms | **95%+** (250+ chars) | ✓ Water management infrastructure widespread<br>✓ Hydraulic engineering documented | ✓ 氵 in ALL water-related characters<br>✓ Systematic categorization preserved | **STRONG** - Comprehensive water phenomena categorization validated |
+| **㐬 (liú)** | 8 oracle + 12 bronze forms | **85%+** (30+ chars) | ✓ Flow observation critical for irrigation/navigation<br>✓ Current/stream understanding documented | ✓ 流 means "flow/stream"<br>✓ Flow dynamics preserved in network | **STRONG** - Dynamic flow concept validated |
+| **冫 (bīng)** | Scarce oracle + 5 bronze | **90%+** (40+ chars) | ✓ Ice/freeze cycles observed annually<br>✓ Cold storage techniques (ice houses) | ✓ 冫 in ALL cold/ice characters<br>✓ 冰 (ice), 冷 (cold) universal | **STRONG** - Phase transition understanding validated |
+| **江 (jiāng)** | (See Section 2.8) | **95%+** | ✓ River erosion/sedimentation observed<br>✓ Understanding of rivers as transformative agents | ✓ 江 means "river"<br>✓ 氵+ 工 composition transparent | **STRONG** - Water's work (erosion) validated |
+
+
+#### 2.13.4 Commentary
+
+##### 2.13.4.1 Material Culture Context
+
+Hydraulic management was **civilization-critical** in ancient China: (1) Yellow River control—prevent devastating floods while enabling irrigation, (2) Canal construction—Grand Canal (later dynasties) required understanding flow, gradient, locks, (3) Irrigation systems—Dujiangyan (316 BCE) still functional with sophisticated flow division, (4) Drainage—agricultural fields need controlled water removal, (5) Water transport—rivers as highways requiring flow knowledge for navigation.
+
+Archaeological evidence confirms encoded knowledge was **practically applied**: Dujiangyan irrigation system (316 BCE) still functional 2,300+ years later using flow division without dams (sophisticated fluid dynamics), Grand Canal (begun ~500 BCE) required gradient calculation and lock systems over 1,700+ km, Yellow River flood control used massive levees and channel diversions requiring understanding of sediment load and flow dynamics.
+
+Characters encode **observations of fluid behavior**: flow follows terrain (㐬), water transforms materials (氵in erosion characters), state changes with temperature (冫), rivers work on landscape (江 = 氵+ 工). These engineering achievements demonstrate that character-encoded hydraulic principles were **operational knowledge**, not abstract philosophy.
+
+##### 2.13.4.2 Key Insights
+
+- **Water as agent**: 江 composition (water + work) shows early Chinese saw natural processes as **performing actions**, not passive phenomena—sophisticated physics intuition anticipating Newtonian mechanics
+- **Systematic categorization**: 95%+ network coherence for 氵 (250+ characters!) validates that "water phenomena" was **recognized perceptual category** with extraordinary conceptual clarity
+- **Phase transitions**: 冫 characters encode observation that same substance (H₂O) exists in different states—proto-understanding of matter states demonstrating thermodynamic awareness
+- **Practical application**: Hydraulic engineering (Dujiangyan, canals, flood control) required **applied fluid dynamics**—characters encode theoretical knowledge behind practical achievements
+- **Scale distinctions**: Differentiating brooks (溪) vs rivers (江河) vs seas (海洋) shows **hierarchical water system understanding** based on systematic observation
+- **江 = proto-Newtonian mechanics**: Rivers perform **mechanical work** through erosion, sediment transport, valley cutting—recognizing natural agents exert forces producing work (landscape transformation), encoded ~2,900 years before Newton's formal work = force × distance (1687)
+- **Unified mechanical framework**: 工 (work) concept appears in both human labor contexts (工人 worker, 功 achievement) and natural process contexts (江 river)—energy transfer regardless of agent type
+- **Anomalous material recognition**: 汞 (mercury) as "worked water" captures unique dual nature—metallic properties combined with liquid behavior, requiring special conceptual framework bridging liquid and metal domains
+
+##### 2.13.4.3 Section Synthesis
+
+The observation and management of water flow represents sophisticated physics understanding—recognizing fluids as dynamic systems obeying mechanical principles. Seven characters encode hydraulic knowledge, water phase transitions, and anomalous material properties (㐬流川江汞气冰).
+
+This section reveals **sophisticated fluid dynamics understanding** in ancient China—not just using water, but **observing its behavior systematically**: dynamic flow (㐬 encodes continuous water movement following terrain gradients), comprehensive categorization (氵radical in 250+ characters shows water phenomena as unified category), phase transitions (冫 encodes liquid ⇄ solid state changes with temperature), erosion mechanics (江 = 氵+ 工 shows flowing water performs mechanical work on landscape), wave phenomena (distinguishing surface waves vs large billows), and vortex recognition (渊 whirlpool = spiral flow patterns).
+
+The 氵radical's **95%+ coherence across 250+ characters** represents the **highest network coherence in the entire character system**, validating that "water-related phenomena" was extraordinarily clear and well-defined conceptually—comparable to how modern chemistry systematically categorizes elements. This consistency suggests **systematic empirical observation** generating coherent conceptual structure.
+
+##### 2.13.4.4 Cross-references
+
+Cross-reference to Section 2.14 (Mechanical Work): The 工 (work) concept appears in both human labor and natural process contexts, showing early Chinese applied **unified mechanical framework** to both human and natural agents performing transformative work through applied force. This approaches modern physics notion of work as **energy transfer** regardless of agent type, demonstrating conceptual sophistication connecting human technology with natural processes through shared mechanical principles.
+
+
+
+### 2.14 CRAFTSMANSHIP - Engineering
+
+#### 2.14.1 Character Forms
+
+**Table 2.14.1** Evolution of Craftsmanship radicals (Section 2.14). Shows engineering concepts: work (工), achievement (功), skill (巧), radial structures (巠 - spoke wheel), and mechanical operation (乍作).
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
@@ -1337,9 +1462,9 @@ Five characters encode this power transformation: 父 (father/patriarch with axe
 | <img src="figures/characters/oracle/char-作-oracle.png" width="100" alt="作 oracle"> | <img src="figures/characters/bronze/char-作-bronze.png" width="100" alt="作 bronze"> | <img src="figures/characters/seal/char-作-seal.png" width="100" alt="作 seal"> | <img src="figures/characters/kaiti/char-作-kaiti.png" width="100" alt="作 kaiti"> |
 
 
-#### 2.13.2 Semantic Networks
+#### 2.14.2 Semantic Networks
 
-**Table 2.13.2** Semantic networks of Mechanical Work radicals:
+**Table 2.14.2** Semantic networks of Mechanical Work radicals:
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
@@ -1368,9 +1493,9 @@ Five characters encode this power transformation: 父 (father/patriarch with axe
 
 
 
-#### 2.13.3 Validation
+#### 2.14.3 Validation
 
-**Table 2.13.3** Validation summary for Section 2.13 semantic radicals:
+**Table 2.14.3** Validation summary for Section 2.14 semantic radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -1380,9 +1505,9 @@ Five characters encode this power transformation: 父 (father/patriarch with axe
 | **功 (gōng)** | Compositional (工 + 力) | **90%+** | ✓ Work achievement central to Bronze Age society<br>✓ Merit-based advancement in Shang/Zhou | ✓ 功 means "achievement/merit"<br>✓ 成功 (success), 功夫 (skill/effort) preserve meaning | **STRONG** - Work achievement concept validated |
 | **巧 (qiǎo)** | Compositional (工 + 丂) | **85%+** | ✓ Craft specialization shows skill differentiation<br>✓ Skilled vs unskilled labor in Bronze Age | ✓ 巧 means "skillful"<br>✓ 技巧 (technique), 巧妙 (ingenious) preserve expertise concept | **STRONG** - Craftsmanship skill concept validated |
 
-#### 2.13.4 Commentary
+#### 2.14.4 Commentary
 
-##### 2.13.4.1 Material Culture Context
+##### 2.14.4.1 Material Culture Context
 
 The development of mechanical work—tools with moving parts, systematic work processes, and engineering principles—marks a crucial cognitive leap. Six characters encode different aspects of this mechanical revolution: **工 (gōng)** - carpenter's square/work, **功 (gōng)** - achievement through work, **巧 (qiǎo)** - skillful craftsmanship, **乍 (zhà)** - mechanical device operation, **作 (zuò)** - human labor with tools, and **巠 (jīng)** - radial fiber structure (spoke wheel).
 
@@ -1406,7 +1531,7 @@ Oracle bone and bronze forms show radial fiber arrangement, depicting the **spok
 
 By Shang Dynasty (~1200 BCE), Chinese civilization had developed: (1) Systematic tool-making (工 carpentry, bronze-working), (2) Mechanical devices (looms, wheels, potter's wheels), (3) Skilled craft specialization (巧 expertise), (4) Engineering principles (巠 spoke wheel structure). Characters encode mature technological knowledge—not just "work" abstractly, but specific engineering understanding.
 
-##### 2.13.4.2 Key Insights
+##### 2.14.4.2 Key Insights
 
 - **Mechanical work concept**: 乍 (mechanical device operation) + 人(person) = 作 (labor) shows work understood as **tool-mediated transformation**, not just effort
 - **Spoke wheel engineering**: 巠 encodes radial structure principle—load distribution through geometric fiber arrangement (structural mechanics understanding)
@@ -1415,7 +1540,7 @@ By Shang Dynasty (~1200 BCE), Chinese civilization had developed: (1) Systematic
 - **Achievement vs effort**: 功 (工 + 力) encodes **results of work**, not merely activity (productivity focus)
 - **巠 highest network coherence**: 95%+ coherence validates spoke wheel engineering origin (輕 light wheel, 經 warp threads, 莖 plant stems, 徑 direct path)
 
-##### 2.13.4.3 Section Synthesis
+##### 2.14.4.3 Section Synthesis
 
 This section reveals **sophisticated engineering and mechanical understanding** in early Chinese civilization through six key characters: 工 (carpenter's square/work), 功 (achievement through work), 巧 (skillful craftsmanship), 乍 (mechanical device operation), 作 (human labor with tools), and 巠 (radial fiber structure).
 
@@ -1432,19 +1557,19 @@ All four applications transparently relate to **radial structure from central po
 **江 (river = water's work) physics insight:**
 The composition 氵+ 工 encodes a profound observation: **water performs work on landscape**—erosion cuts channels, transports sediment, shapes terrain. This shows early Chinese applied the **work/labor concept to natural processes**, demonstrating sophisticated physics intuition (natural forces as agents performing transformative work).
 
-##### 2.13.4.4 Cross-references
+##### 2.14.4.4 Cross-references
 
-- **Section 2.19 (Water Systems)**: 江 (river = water's work) connects to hydraulics—understanding rivers as "working" on landscape demonstrates proto-fluid dynamics
+- **Section 2.13 (Water Systems)**: 江 (river = water's work) connects to hydraulics—understanding rivers as "working" on landscape demonstrates proto-fluid dynamics
 - **巠 engineering validation**: 95%+ network coherence across applications validates radial structure engineering origin
 - **Physics breakthrough**: Applying work/labor concept to natural processes shows understanding that natural forces perform mechanical transformations
 
 
 
-### 2.14 METALLURGY DEVELOPMENT - Bronze Revolution
+### 2.15 METALLURGY DEVELOPMENT - Bronze Revolution
 
-#### 2.14.1 Character Forms
+#### 2.15.1 Character Forms
 
-**Table 2.14.1** Evolution of Metallurgy Development radicals (Section 2.8). Shows metal types (金銀銅), currency (钱), and smelting technology (冶) with thermodynamic control.
+**Table 2.15.1** Evolution of Metallurgy Development radicals (Section 2.7). Shows metal types (金銀銅), currency (钱), and smelting technology (冶) with thermodynamic control.
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
@@ -1455,9 +1580,9 @@ The composition 氵+ 工 encodes a profound observation: **water performs work o
 | (unavailable) | (unavailable) | <img src="figures/characters/seal/char-冶-seal.png" width="100" alt="冶 seal"> | <img src="figures/characters/kaiti/char-冶-kaiti.png" width="100" alt="冶 kaiti"> |
 
 
-#### 2.14.2 Semantic Networks
+#### 2.15.2 Semantic Networks
 
-**Table 2.14.2** Semantic networks of Metallurgy Development radicals:
+**Table 2.15.2** Semantic networks of Metallurgy Development radicals:
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
@@ -1485,9 +1610,9 @@ The composition 氵+ 工 encodes a profound observation: **water performs work o
 
 
 
-#### 2.14.3 Validation
+#### 2.15.3 Validation
 
-**Table 2.14.3** Validation summary for Section 2.8 semantic radicals:
+**Table 2.15.3** Validation summary for Section 2.7 semantic radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -1495,15 +1620,15 @@ The composition 氵+ 工 encodes a profound observation: **water performs work o
 | **冶 (yě)** | 5 bronze forms | **95%+** (technical term) | ✓ Smelting furnaces found at bronze production sites<br>✓ Ceramic molds show casting technology<br>✓ Slag heaps indicate large-scale production | ✓ 冶 means "smelt/metallurgy"<br>✓ 冶金 (metallurgy) technical term<br>✓ Composition (冫+ 台) encodes process knowledge | **STRONG** - Metallurgical process knowledge validated |
 
 
-#### 2.14.4 Commentary
+#### 2.15.4 Commentary
 
-##### 2.14.4.1 Material Culture Context
+##### 2.15.4.1 Material Culture Context
 
 Bronze metallurgy emerged in China ~2000 BCE (Erlitou culture), reaching sophisticated maturity by Shang Dynasty (~1600-1046 BCE). Bronze casting required: (1) Mining copper/tin ores, (2) Smelting at high temperatures, (3) Creating ceramic molds, (4) Pouring molten bronze, (5) Controlled cooling, (6) Finishing/polishing. The 冶 character encodes this complex multi-step technological process—not just "heating metal" but systematic metallurgical knowledge.
 
 The Shang Dynasty (~1600-1046 BCE) was fundamentally a **bronze-based state**—its power derived from controlling ore sources, smelting technology, and bronze weapon/ritual vessel production. Bronze technology was more transformative than any prior innovation: bronze weapons far exceeded stone weapons (sharper, more durable, didn't shatter), bronze tools enabled forest clearing and heavy plowing (productivity increase), complex bronze vessels demonstrated elite status and legitimized authority, bronze became wealth storage enabling complex exchange, and metallurgical knowledge monopoly enabled power concentration and state formation.
 
-##### 2.14.4.2 Key Insights
+##### 2.15.4.2 Key Insights
 
 - **Complete process knowledge**: From ore to finished product, characters encode full metallurgical sequence—ore extraction → smelting (high temperature) → alloying (copper + tin) → casting (mold pouring) → controlled cooling (冫in 冶) → finishing
 - **Temperature control**: 冶 (冫+ 台) shows recognition that cooling management is critical—sophisticated thermodynamics understanding where ancient metallurgists knew the complete thermal cycle, not just the heating phase
@@ -1512,24 +1637,24 @@ The Shang Dynasty (~1600-1046 BCE) was fundamentally a **bronze-based state**—
 - **Material categorization**: 金 (metal) as one of the Five Elements represents recognition of metal as fundamental material category distinct from stone, wood, or clay
 - **Compositional structure encodes process knowledge**: 冶 character's 冫(water/cooling) might seem contradictory for "heating metal," but encodes the critical cooling phase—sophisticated engineering knowledge preserved in character structure
 
-##### 2.14.4.3 Section Synthesis
+##### 2.15.4.3 Section Synthesis
 
 This section reveals **systematic metallurgical knowledge** encoded in characters—not merely recognizing metal exists, but understanding the complete production process with sophisticated thermodynamic understanding. The discovery and mastery of metallurgy—especially bronze casting—represents perhaps the most transformative technological breakthrough of early civilization. Five characters (金銀钱銅冶) encode this metallurgical revolution, preserving knowledge of bronze casting technology requiring precise temperature control (1000°C+ for copper, 900°C for tin-copper alloy), mold preparation, and cooling management.
 
 Bronze technology transformed warfare (superior weapons), agriculture (durable tools), ritual (elaborate vessels), and social structure (metallurgical knowledge = power). Metallurgy enabled Bronze Age state formation—Shang Dynasty power depended on monopolizing bronze production technology, making characters preserve this technological foundation of early Chinese civilization.
 
-##### 2.14.4.4 Cross-references
+##### 2.15.4.4 Cross-references
 
-Cross-reference to Section 2.6: Bronze metallurgy enabled 父 (father-axe) patriarchal power—metal weapon/tool monopoly = authority. The military-metallurgical-patriarchal nexus shows how bronze weapon production concentrated social power in those controlling specialized metallurgical knowledge.
-
-
+Cross-reference to Section 2.10: Bronze metallurgy enabled 父 (father-axe) patriarchal power—metal weapon/tool monopoly = authority. The military-metallurgical-patriarchal nexus shows how bronze weapon production concentrated social power in those controlling specialized metallurgical knowledge.
 
 
-### 2.15 MILITARY DEVELOPMENT - Organized conflict
 
-#### 2.15.1 Character Forms
 
-**Table 2.15.1** Evolution of Military Development radicals (Section 2.10). Shows weapon types: ranged (弓矢), slashing (戈), restraining (叉), thrusting (矛), and revolutionary chariot technology (车 - 行 transportation + warfare).
+### 2.16 MILITARY DEVELOPMENT - Organized conflict
+
+#### 2.16.1 Character Forms
+
+**Table 2.16.1** Evolution of Military Development radicals (Section 2.6). Shows weapon types: ranged (弓矢), slashing (戈), restraining (叉), thrusting (矛), and revolutionary chariot technology (车 - 行 transportation + warfare).
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
@@ -1541,9 +1666,9 @@ Cross-reference to Section 2.6: Bronze metallurgy enabled 父 (father-axe) patri
 | (unavailable) | (unavailable) | <img src="figures/characters/seal/char-叉-seal.png" width="100" alt="叉 seal"> | <img src="figures/characters/kaiti/char-叉-kaiti.png" width="100" alt="叉 kaiti"> |
 
 
-#### 2.15.2 Semantic Networks
+#### 2.16.2 Semantic Networks
 
-**Table 2.15.2** Semantic networks of Military & Conflict radicals:
+**Table 2.16.2** Semantic networks of Military & Conflict radicals:
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
@@ -1579,9 +1704,9 @@ The verse's final line reveals Chinese strategic philosophy: Maintain military c
 
 
 
-#### 2.15.3 Validation
+#### 2.16.3 Validation
 
-**Table 2.15.3** Validation summary for Section 2.9 semantic radicals:
+**Table 2.16.3** Validation summary for Section 2.9 semantic radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -1592,9 +1717,9 @@ The verse's final line reveals Chinese strategic philosophy: Maintain military c
 
 
 
-#### 2.15.4 Commentary
+#### 2.16.4 Commentary
 
-##### 2.15.4.1 Material Culture Context
+##### 2.16.4.1 Material Culture Context
 
 Bronze Age warfare (~1600-500 BCE) featured: (1) Bronze weapons (戈 dagger-axes, 矛 spears, 劍 swords) superior to stone, (2) **Chariot warfare** (車 elite nobles with bronze weapons on horse-drawn chariots—the dominant military technology), (3) Organized armies (士兵 soldiers, not just raiding parties), (4) Fortifications (城 walled cities), (5) Military hierarchy (將軍 generals commanding structured forces). 
 
@@ -1602,7 +1727,7 @@ Chinese chariots showed distinctive design: large spoke wheels (1.3m diameter, 1
 
 Characters encode this systematic organization of violence—warfare as institution, not mere conflict—with chariots as the technological centerpiece of Bronze Age military supremacy. The traditional verse capturing the military spectrum reveals Chinese ambivalence: weapons enable violence, but the ultimate goal is peace (太平 "great peace") through the philosophy of "求安宁太平" (seeking peace through military strength).
 
-##### 2.15.4.2 Key Insights
+##### 2.16.4.2 Key Insights
 
 - **Weapons specialization**: 戈 (chariot slashing), 矛 (infantry thrusting), 弓 (ranged) show diverse tactical systems—not just scaled-up violence but sophisticated military technology
 - **Chariot as 行 (transportation)**: 车 represents the fourth essential in 衣食住行 framework—elite mobility for both warfare and travel, validating transportation as survival/power category
@@ -1613,7 +1738,7 @@ Characters encode this systematic organization of violence—warfare as institut
 - **衣食住行 complete**: With 车 added, all four survival essentials fully encoded (衣 textiles, 食 fire/cooking, 住 shelter, 行 chariots)
 - **Peace through strength**: Chinese ideal = military capability enabling peaceful stability—not militarism but realism about power dynamics
 
-##### 2.15.4.3 Section Synthesis
+##### 2.16.4.3 Section Synthesis
 
 The emergence of organized warfare—systematic violence with specialized weapons, trained soldiers, and military hierarchies—marks a dark but transformative aspect of Bronze Age civilization. Six characters encode military technology, weapons development, and revolutionary chariot technology (弓矢戈叉矛车).
 
@@ -1621,17 +1746,106 @@ This section reveals **systematic military organization** in Bronze Age China—
 
 The paradox of "求太平" (seeking peace): Chinese civilization sought peace (太平) but recognized that **peace requires military capability**. The character system preserves both the tools of violence (戈矛弓) and the aspiration for their non-use (太平). This tension between capability and restraint is quintessentially Chinese strategic thinking.
 
-##### 2.15.4.4 Cross-references
+##### 2.16.4.4 Cross-references
 
-Cross-reference to Section 2.6 (Power Shift): Bronze weapons enabled patriarchal authority (父 father-axe). Military capability = social power—those controlling bronze weapon production (specialized metallurgical knowledge from Section 2.14) controlled states. The military-metallurgical-patriarchal nexus is encoded across multiple character families, showing how bronze technology concentrated power in warrior elites.
-
-
-### 2.16 RITUAL & RELIGION - Oracle Bone Divination Context
-
-#### 2.16.1 Character Forms
+Cross-reference to Section 2.10 (Power Shift): Bronze weapons enabled patriarchal authority (父 father-axe). Military capability = social power—those controlling bronze weapon production (specialized metallurgical knowledge from Section 2.15) controlled states. The military-metallurgical-patriarchal nexus is encoded across multiple character families, showing how bronze technology concentrated power in warrior elites.
 
 
-**Table 2.16.1** Evolution of Ritual & Religion radicals (Section 2.15). Shows oracle bone divination context with altar worship (示祖), divination practice (卜 - REFLEXIVE!), sacrifice rituals (祭), shamanic specialists (巫), spirit beliefs (鬼灵), and consciousness center (心). These characters tell the story of oracle bones themselves.
+
+### 2.17 POWER SHIFT - Patriarchy Emergence
+
+#### 2.17.1 Character Forms
+
+**Table 2.17.1** Evolution of Power Shift radicals (Section 2.10). Shows patriarchal authority through metal tool monopoly (父斧), exchange relationships (交), and blade control (刀).
+
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| <img src="figures/characters/oracle/char-父-oracle.png" width="100" alt="父 oracle"> | <img src="figures/characters/bronze/char-父-bronze.png" width="100" alt="父 bronze"> | <img src="figures/characters/seal/char-父-seal.png" width="100" alt="父 seal"> | <img src="figures/characters/kaiti/char-父-kaiti.png" width="100" alt="父 kaiti"> |
+| <img src="figures/characters/oracle/char-斧-oracle.png" width="100" alt="斧 oracle"> | <img src="figures/characters/bronze/char-斧-bronze.png" width="100" alt="斧 bronze"> | <img src="figures/characters/seal/char-斧-seal.png" width="100" alt="斧 seal"> | <img src="figures/characters/kaiti/char-斧-kaiti.png" width="100" alt="斧 kaiti"> |
+| <img src="figures/characters/oracle/char-刀-oracle.png" width="100" alt="刀 oracle"> | (unavailable) | <img src="figures/characters/seal/char-刀-seal.png" width="100" alt="刀 seal"> | <img src="figures/characters/kaiti/char-刀-kaiti.png" width="100" alt="刀 kaiti"> |
+| (unavailable) | <img src="figures/characters/bronze/char-交-bronze.png" width="100" alt="交 bronze"> | <img src="figures/characters/seal/char-交-seal.png" width="100" alt="交 seal"> | <img src="figures/characters/kaiti/char-交-kaiti.png" width="100" alt="交 kaiti"> |
+| (unavailable) | (unavailable) | (unavailable) | <img src="figures/characters/kaiti/char-爸-kaiti.png" width="100" alt="爸 kaiti"> |
+
+
+#### 2.17.2 Semantic Networks
+
+**Table 2.17.2** Semantic networks of Power Shift concepts:
+
+| Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
+|---------|-----------|-----------|---------|----------------------|----------------|
+| **父 (fù)** | 爸 (bà) | 父 + 巴 | Dad, father | Father + sound = informal father term | Kinship |
+| 父 | 爹 (diē) | 父 + 多 | Dad, papa | Father + many = patriarch with many children | Kinship/authority |
+| 父 | 爺 (yé) | 父 + 耶 | Grandfather, sir | Father + honored = elderly male authority | Respect/hierarchy |
+| 父 | 斧 (fǔ) | 父 + 斤 | Axe | Father-implement + blade = axe tool | Tool encoding |
+| **刀 (dāo)** | 刑 (xíng) | 井 + 刀 | Punishment, penalty | Order + blade = judicial cutting | Legal authority |
+| 刀 | 劃 (huà) | 畫 + 刀 | Divide, mark | Drawing + blade = demarcating | Boundary-setting |
+| 刀 | 判 (pàn) | 半 + 刀 | Judge, decide | Half + blade = cutting/deciding | Judicial power |
+| 刀 | 刹 (chà) | 未 + 刀 | Control, brake | Stop + blade = controlling mechanism | Control mechanisms |
+
+**Network patterns observed:**
+- **父 network** (30+ characters, 90% coherence): Male kinship terms (爸爹爺), authority figures, tools (斧 axe) - all relate to paternal authority
+- **刀 power applications** (from Section 2.5): Punishment (刑), judgment (判), division (劃分), control (刹) - blade technology as governance tool
+
+**"刀把子" idiom usage examples:**
+- **军队是刀把子** (jūnduì shì dāobǎzi) - "The military is the knife handle" = military controls power
+- **掌握刀把子** (zhǎngwò dāobǎzi) - "Grasp the knife handle" = seize power
+- **Preserves recognition**: Whoever controls violence/cutting capacity controls social outcomes
+
+
+
+#### 2.17.3 Validation
+
+**Table 2.17.3** Validation summary for Section 2.10 concepts:
+
+| Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
+|---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
+| **乂 (yì)** | 10 oracle + 8 bronze forms | **85-90%** (30+ chars) | ✓ Slash-and-burn agriculture (crossed cutting of vegetation)<br>✓ 文 appears on bronzes (pattern/culture) | ✓ 文 means "culture/writing" (preserves pattern/order semantic)<br>✗ 乂 rarely used standalone | **MODERATE-STRONG** - Crossing cuts = order/pattern validated, but limited standalone usage |
+| **父 (fù) - Patriarch** | 18 oracle + 22 bronze forms | **90%+** (30+ chars) | ✓ Bronze Age male burials with weapons/tools<br>✓ Gender stratification in burial goods<br>✓ Patrilineal descent system (姓氏) emerges | ✓ 父 means "father"<br>✓ 父親 (father), 祖父 (grandfather) preserve authority | **STRONG** - Bronze Age patriarchy emergence validated |
+| **斧 (fǔ) - Axe** | 12 oracle + 15 bronze forms | **95%+** (compositional: 父 + 斤) | ✓ Bronze axes abundant in male burials<br>✓ Axe = status symbol in Shang/Zhou society | ✓ 斧 means "axe"<br>✓ 斧頭 (axe head) preserves tool meaning | **STRONG** - Axe as male power symbol validated |
+| **刀 (dāo)** | 20 oracle + 25 bronze forms | **90%+** (150+ chars) | ✓ Bronze blades abundant in archaeological sites<br>✓ Blade technology central to Bronze Age | ✓ 刀 means "knife/blade"<br>✓ 切分刻刑 all preserve cutting/blade semantics | **STRONG** - Blade technology systematically encoded |
+| **力 (lì)** | 15 oracle + 18 bronze forms | **90%+** (100+ chars) | ✓ Agricultural plows found at Neolithic sites<br>✓ Physical labor central to agricultural society | ✓ 力 means "strength/force"<br>✓ 男功努 preserve exertion/labor semantics | **STRONG** - Force/labor concepts validated |
+| **刀把子 - Power idiom** | N/A (linguistic idiom) | **Cultural usage validates** | ✓ Blade control = food, violence, justice control<br>✓ Archaeological evidence of blade hoarding by elites | ✓ Idiom still used (军队是刀把子)<br>✓ "Knife handle" = power metaphor active | **STRONG** - Blade control = social power validated |
+
+#### 2.17.4 Commentary
+
+##### 2.17.4.1 Material Culture Context
+
+The Bronze Age emergence of metal tool technology correlates with fundamental social transformation from relatively egalitarian Neolithic societies to patriarchal hierarchies. Neolithic societies (~7000-3000 BCE) show relatively egalitarian burial patterns—both male and female graves contain tools, ornaments, and goods without dramatic differentiation. Bronze Age burials (~2000-1000 BCE) show sharp gender stratification: male graves contain bronze weapons, ritual vessels, and tools; female graves contain pottery, textiles, and domestic items. The 父 character's axe-holding figure encodes this Bronze Age reality—males with bronze axes/weapons became sociopolitical authorities.
+
+##### 2.17.4.2 Key Insights
+
+- **Bronze = power concentration**: Metal tools/weapons enabled violence monopoly, food distribution control, craft production control
+- **父 encodes transition moment**: Character preserves when "father" became "authority figure with implement" (not just biological parent)
+- **Gender specialization → stratification**: Agricultural labor division (Section 2.12: 男 = 田 + 力) + bronze tool monopoly = patriarchal hierarchy
+- **刀把子 preserves knowledge**: "Knife handle holder = power" idiom shows ancient Chinese explicitly recognized blade control = social control
+- **Material culture causation**: Characters encode material explanation for patriarchy (bronze access), not just abstract "gender roles"
+- **Etymological evidence**: 父 (hand holding axe) is original 3,200-year-old term; 爸 (papa) has NO ancient forms, created millennia later as baby-talk phonetic
+- **Universal pattern**: Bronze Age patriarchy emergence is global phenomenon; Chinese characters uniquely preserve the technological mechanism
+
+##### 2.17.4.3 Section Synthesis
+
+This section reveals the **technological basis of patriarchal power emergence**. The 父 character's depiction of "hand holding axe" directly encodes the Bronze Age social transformation when males monopolized metal tool/weapon technology and thereby consolidated authority. This was not merely cultural or ideological—it was **materially grounded** in differential access to bronze technology.
+
+Five characters encode this power transformation: 父 (father/patriarch with axe), 交 (exchange/intersect showing social networks), 斧 (axe as explicit power tool), 爸 (modern colloquial "papa" proving 父's ancient origin), and 刀 (blade as authority symbol). The 刀把子 idiom ("holding the knife handle" = possessing real power) preserves ancient recognition that control over blade technology equals social/political power.
+
+##### 2.17.4.4 Cross-references
+
+- **Section 2.6 (Cutting Tools)**: 刀 (blade) technology foundation for power concepts
+- **Section 2.12 (Agriculture)**: 男 = 田 + 力 (male agricultural labor specialization) set stage for tool monopoly
+- **Section 2.16 (Military)**: Bronze weapon technology served dual purpose: warfare AND social dominance
+- **Cross-cultural comparison**: Latin *sexus* (gender) derives from *secare* (cut, divide)—Chinese preserved the tool (父 = axe), Latin preserved the concept (division)
+- **Universal "papa" pattern**: Formal "father" terms encode authority across languages (Chinese 父, Latin *pater*) while "papa/baba" terms represent universal baby-talk
+
+
+
+
+
+### 2.18 RITUAL & RELIGION - Oracle Bone Divination Context
+
+#### 2.18.1 Character Forms
+
+
+**Table 2.18.1** Evolution of Ritual & Religion radicals (Section 2.16). Shows oracle bone divination context with altar worship (示祖), divination practice (卜 - REFLEXIVE!), sacrifice rituals (祭), shamanic specialists (巫), spirit beliefs (鬼灵), and consciousness center (心). These characters tell the story of oracle bones themselves.
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
@@ -1648,9 +1862,9 @@ Cross-reference to Section 2.6 (Power Shift): Bronze weapons enabled patriarchal
 
 
 
-#### 2.16.2 Semantic Networks
+#### 2.18.2 Semantic Networks
 
-**Table 2.16.2** Semantic networks of Ritual & Religion radicals (selected representative characters):
+**Table 2.18.2** Semantic networks of Ritual & Religion radicals (selected representative characters):
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
@@ -1706,9 +1920,9 @@ This is analogous to a book about books that contains the word "book" on its pag
 
 
 
-#### 2.16.3 Validation
+#### 2.18.3 Validation
 
-**Table 2.16.3** Validation summary for Section 2.15 semantic radicals:
+**Table 2.18.3** Validation summary for Section 2.16 semantic radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -1722,9 +1936,9 @@ This is analogous to a book about books that contains the word "book" on its pag
 | **心 (xīn)** | 15 oracle + 20 bronze forms | **90%+** (200+ chars) | ✓ Heart as consciousness center in ancient medicine<br>✓ Ritual contexts requiring 心 (devotion, faith)<br>✓ Philosophical texts locate thought in heart (心性)<br>✓ Buddhist/Confucian heart-mind concepts | ✓ 心 means "heart/mind"<br>✓ 信 (faith), 忠 (loyalty), 念 (think) universally understood<br>✓ Heart-mind (心) remains core philosophical concept | **STRONG** - Heart as consciousness/spiritual center validated |
 
 
-#### 2.16.4 Commentary
+#### 2.18.4 Commentary
 
-##### 2.16.4.1 Material Culture Context
+##### 2.18.4.1 Material Culture Context
 
 Oracle bone script emerged ~1200 BCE (Shang dynasty) explicitly as divination technology: heating animal bones/turtle shells until they cracked, then "reading" crack patterns to divine answers from ancestors/spirits. The inscriptions recorded divination questions, crack interpretations, and subsequent verification of predictions.
 
@@ -1732,7 +1946,7 @@ Shang dynasty (1600-1046 BCE) religious archaeology validates this framework: 20
 
 This archaeological evidence validates that Shang state religion centered on: (1) Ancestor worship—genealogical cult directed to specific deceased kings, (2) Divination bureaucracy—systematic consultation with ancestors on state matters, (3) Sacrificial exchange—large-scale human/animal offerings maintaining cosmic reciprocity, (4) Spirit agency—belief that ancestors/spirits actively influenced natural/political events, (5) Ritual specialists—professional diviners, shamans, and priests managing spirit communication.
 
-##### 2.16.4.2 Key Insights
+##### 2.18.4.2 Key Insights
 
 - **卜 as MOST REFLEXIVE CHARACTER**: Oracle bones (writing medium) encode their own purpose (divination) through character depicting their own physical manifestation (crack patterns) = three-level meta-textuality achieving maximal self-reference
 - **Writing emerged from divination needs**: Oracle bone script's primary function was recording divination questions/interpretations for bureaucratic/genealogical archives—writing as religious technology creating imperative for permanent records
@@ -1744,7 +1958,7 @@ This archaeological evidence validates that Shang state religion centered on: (1
 - **Supernatural efficacy as category**: 灵 semantic range (spirit → effective/efficacious) preserves belief that ritual actions produce tangible material effects through shamanic power
 - **Heart as consciousness center**: 心 network (200+ characters, 90% coherence) validates ancient Chinese located mental/spiritual life in cardiac organ, influencing millennia of philosophical thought
 
-##### 2.16.4.3 Section Synthesis
+##### 2.18.4.3 Section Synthesis
 
 This section examines the ritual and religious characters that provide the **context for oracle bone inscriptions themselves**—revealing the divination practices, ancestor worship, and shamanic traditions that motivated the creation of China's earliest writing system. Most remarkably, this section contains 卜 (bǔ, divination)—**the MOST REFLEXIVE CHARACTER in the Chinese writing system**: oracle bones recording divination showing the very crack patterns used for divination itself.
 
@@ -1752,128 +1966,19 @@ This section reveals the **cosmological framework that generated Chinese writing
 
 The validation of divination-centered cosmology explains **why Chinese writing developed**: divination questions needed recording, crack interpretations needed documentation, outcomes needed verification, genealogical continuity needed tracking, and ritual precedents needed preservation. This created imperative for permanent records → oracle bone inscriptions → writing system development. Characters therefore encode the cosmology that generated their own existence. The 8 characters analyzed here (示祖卜祭巫鬼灵心) tell the complete story of oracle bone creation and provide the cosmological context making all other oracle bone characters comprehensible.
 
-##### 2.16.4.4 Cross-references
+##### 2.18.4.4 Cross-references
 
-Section 2.1 (Early Human Society): 祖 (ancestors) builds on 母父 (parents) showing generational continuity; 心 (heart) as consciousness center complements 口 (mouth speaking) and 血 (life essence). Section 2.6 (Hunting/Domestication): 祭 (sacrifice) uses animals from 犬豕牛 (dogs, pigs, oxen). Section 2.4 (Fire): 卜 (divination) requires heating bronze rods in fire → fire mastery prerequisite. Section 2.14 (Metallurgy): Bronze ritual vessels (鼎爵) essential for 示 (altar offerings). The 卜 character's reflexivity provides ultimate validation of oracle bone evidence importance: the character depicts the very physical phenomenon visible on the inscribed bones themselves—material self-documentation where the medium encodes its own appearance and function.
-
-
-
-### 2.17 COUNTING & CALENDAR - Symbolic systems
-
-#### 2.17.1 Character Forms
-
-**Table 2.17.1** Evolution of Heavenly Stems (天干) and Earthly Branches (地支) - first examples (Section 2.10a). Shows abstract temporal ordering system.
-
-| Oracle | Bronze | Seal | Kaiti |
-|--------|--------|------|-------|
-| <img src="figures/characters/oracle/char-甲-oracle.png" width="100" alt="甲 oracle"> | <img src="figures/characters/bronze/char-甲-bronze.png" width="100" alt="甲 bronze"> | <img src="figures/characters/seal/char-甲-seal.png" width="100" alt="甲 seal"> | <img src="figures/characters/kaiti/char-甲-kaiti.png" width="100" alt="甲 kaiti"> |
-| <img src="figures/characters/oracle/char-乙-oracle.png" width="100" alt="乙 oracle"> | <img src="figures/characters/bronze/char-乙-bronze.png" width="100" alt="乙 bronze"> | <img src="figures/characters/seal/char-乙-seal.png" width="100" alt="乙 seal"> | <img src="figures/characters/kaiti/char-乙-kaiti.png" width="100" alt="乙 kaiti"> |
-| <img src="figures/characters/oracle/char-丙-oracle.png" width="100" alt="丙 oracle"> | <img src="figures/characters/bronze/char-丙-bronze.png" width="100" alt="丙 bronze"> | <img src="figures/characters/seal/char-丙-seal.png" width="100" alt="丙 seal"> | <img src="figures/characters/kaiti/char-丙-kaiti.png" width="100" alt="丙 kaiti"> |
-| <img src="figures/characters/oracle/char-丁-oracle.png" width="100" alt="丁 oracle"> | <img src="figures/characters/bronze/char-丁-bronze.png" width="100" alt="丁 bronze"> | <img src="figures/characters/seal/char-丁-seal.png" width="100" alt="丁 seal"> | <img src="figures/characters/kaiti/char-丁-kaiti.png" width="100" alt="丁 kaiti"> |
-| <img src="figures/characters/oracle/char-子-oracle.png" width="100" alt="子 oracle"> | <img src="figures/characters/bronze/char-子-bronze.png" width="100" alt="子 bronze"> | <img src="figures/characters/seal/char-子-seal.png" width="100" alt="子 seal"> | <img src="figures/characters/kaiti/char-子-kaiti.png" width="100" alt="子 kaiti"> |
-| <img src="figures/characters/oracle/char-丑-oracle.png" width="100" alt="丑 oracle"> | <img src="figures/characters/bronze/char-丑-bronze.png" width="100" alt="丑 bronze"> | <img src="figures/characters/seal/char-丑-seal.png" width="100" alt="丑 seal"> | <img src="figures/characters/kaiti/char-丑-kaiti.png" width="100" alt="丑 kaiti"> |
-
-Evolution of Basic Number characters (Section 2.10b). Shows iconic representation (一二三) transitioning to compositional (四).
-
-| Oracle | Bronze | Seal | Kaiti |
-|--------|--------|------|-------|
-| <img src="figures/characters/oracle/char-一-oracle.png" width="100" alt="一 oracle"> | <img src="figures/characters/bronze/char-一-bronze.png" width="100" alt="一 bronze"> | <img src="figures/characters/seal/char-一-seal.png" width="100" alt="一 seal"> | <img src="figures/characters/kaiti/char-一-kaiti.png" width="100" alt="一 kaiti"> |
-| <img src="figures/characters/oracle/char-二-oracle.png" width="100" alt="二 oracle"> | <img src="figures/characters/bronze/char-二-bronze.png" width="100" alt="二 bronze"> | <img src="figures/characters/seal/char-二-seal.png" width="100" alt="二 seal"> | <img src="figures/characters/kaiti/char-二-kaiti.png" width="100" alt="二 kaiti"> |
-| <img src="figures/characters/oracle/char-三-oracle.png" width="100" alt="三 oracle"> | <img src="figures/characters/bronze/char-三-bronze.png" width="100" alt="三 bronze"> | <img src="figures/characters/seal/char-三-seal.png" width="100" alt="三 seal"> | <img src="figures/characters/kaiti/char-三-kaiti.png" width="100" alt="三 kaiti"> |
-| <img src="figures/characters/oracle/char-四-oracle.png" width="100" alt="四 oracle"> | <img src="figures/characters/bronze/char-四-bronze.png" width="100" alt="四 bronze"> | <img src="figures/characters/seal/char-四-seal.png" width="100" alt="四 seal"> | <img src="figures/characters/kaiti/char-四-kaiti.png" width="100" alt="四 kaiti"> |
-
-
-#### 2.17.2 Semantic Networks
-
-**Table 2.17.2** Semantic networks of Counting & Time radicals:
-
-| Category | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
-|----------|-----------|-----------|---------|----------------------|----------------|
-| **Heavenly Stems** | 甲 (jiǎ) | [Pictographic] | First stem, shell, armor | Seed shell = beginning = first position | Ordinal system |
-| Heavenly Stems | 乙 (yǐ) | [Pictographic] | Second stem, bent | Plant sprout = growth = second position | Ordinal system |
-| Heavenly Stems | 丙 (bǐng) | [Pictographic] | Third stem, fire/bright | Brightness = maturation = third | Ordinal system |
-| Heavenly Stems | 丁 (dīng) | [Pictographic] | Fourth stem, robust | Strong plant/person = fourth | Ordinal system |
-| **Earthly Branches** | 子 (zǐ) | [Pictographic] | First branch, child, midnight hour | Infant = beginning = first/midnight | Temporal cycle |
-| Earthly Branches | 丑 (chǒu) | [Pictographic] | Second branch, 1-3am | Hand grasping = second period | Temporal cycle |
-| Earthly Branches | 寅 (yín) | [Pictographic] | Third branch, 3-5am | Hands reverencing = pre-dawn | Temporal cycle |
-| Earthly Branches | 卯 (mǎo) | [Pictographic] | Fourth branch, 5-7am | Door opening = dawn | Temporal cycle |
-| **Basic Numbers** | 一 (yī) | [Abstract] | One | Single stroke = unity | Cardinal numbers |
-| Basic Numbers | 二 (èr) | [Abstract] | Two | Two strokes = pairing | Cardinal numbers |
-| Basic Numbers | 三 (sān) | [Abstract] | Three | Three strokes = multiplicity | Cardinal numbers |
-| Basic Numbers | 十 (shí) | [Abstract] | Ten | Complete cycle (fingers) | Decimal system |
-
-**Network patterns observed:**
-- **Heavenly Stems** (10 characters): Form cyclical ordering system (甲乙丙丁... = 1st, 2nd, 3rd, 4th...), each with natural imagery (germination → growth → maturation cycle)
-- **Earthly Branches** (12 characters): Form temporal divisions (hours/months), each with time-related imagery (midnight child → dawn opening door)
-- **Basic Numbers** (一二三四五六七八九十): Simple cardinal counting, then compositional (十一 = 11, 二十 = 20, etc.)
-
-**干支 (gānzhī) Sexagenary Cycle:**
-Combining 10 Heavenly Stems × 12 Earthly Branches = **60 unique combinations**:
-- 甲子 (jiǎzǐ) - Day 1 / Year 1
-- 乙丑 (yǐchǒu) - Day 2 / Year 2
-- 丙寅 (bǐngyín) - Day 3 / Year 3
-- ... (57 more combinations)
-- 癸亥 (guǐhài) - Day 60 / Year 60, then cycle repeats
-
-This system was used for:
-1. **Day naming** (oracle bone era - every day had 干支 name)
-2. **Year naming** (later dynasties - 60-year cycles)
-3. **Divination** (stems + branches had cosmological significance)
-4. **Birthdates** (八字 bāzì "eight characters" = year/month/day/hour stems+branches = fortune-telling)
-
-
-
-#### 2.17.3 Validation
-
-**Table 2.17.3** Validation summary for Section 2.10 temporal systems:
-
-| System | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
-|--------|------------------------|-------------------|------------------------------|------------------------|-------------------|
-| **Heavenly Stems (天干)** | 100+ oracle attestations | **95%+** (systematic day-naming) | ✓ Every oracle bone dated with stems<br>✓ Consistent 10-day cyclical usage | ✓ Still used in calendar (60-year cycle)<br>✓ 甲乙丙丁 remain ordinal markers | **STRONG** - 10-day cycle systematically validated |
-| **Earthly Branches (地支)** | 80+ oracle attestations | **95%+** (systematic temporal division) | ✓ Oracle bones use for months/times<br>✓ Consistent 12-part division | ✓ Still used in calendar, astrology<br>✓ 子丑寅卯 remain temporal markers | **STRONG** - 12-part temporal cycle validated |
-| **Sexagenary Cycle (干支)** | 100+ oracle combinations | **98%+** (mathematical: 10×12=60) | ✓ 60-day cycle documented on oracle bones<br>✓ Continuous usage 3200+ years | ✓ Still used for years (current cycle started 1984)<br>✓ Birthdates use 八字 (four stems+branches) | **STRONG** - Longest continuously used calendar system |
-| **Basic Numbers (一二三)** | 50+ oracle attestations | **100%** (universal counting) | ✓ Oracle bones record counts (deer captured, oxen sacrificed)<br>✓ Decimal system (十-based) | ✓ Universal number system unchanged<br>✓ 一二三 immediately recognizable | **STRONG** - Abstract number concepts validated |
-
-#### 2.17.4 Commentary
-
-##### 2.17.4.1 Material Culture Context
-
-Oracle bones (~1200 BCE) used Heavenly Stems to name **every single day**, showing systematic time-keeping. Diviners recorded: "On day 甲子 (jiǎzǐ), we asked ancestors about harvest" or "On day 乙丑 (yǐchǒu), the king hunted deer." This created a **60-day cycle** (10 stems × 12 branches = 60 combinations), later extended to 60-year cycle still used in Chinese astrology/calendar.
-
-The ten heavenly stems (甲乙丙丁戊己庚辛壬癸) originated as **day names in a 10-day week** used in Shang Dynasty oracle bone inscriptions—not abstract numbers but **proper names for days**, like our Monday/Tuesday. The twelve earthly branches (子丑寅卯辰巳午未申酉戌亥) represented **months and double-hours** (12 × 2-hour periods = 24-hour day), later associated with zodiac animals but originally temporal markers.
-
-Because every oracle bone records its 干支 day-name, scholars can sequence oracle bones within 60-day cycles, correlate with astronomical events (eclipses, planetary positions), date Shang Dynasty reigns with precision, and reconstruct Shang calendar (lunar months + solar year adjustments). This makes oracle bones **chronologically precise archaeological artifacts**—rare for ~1200 BCE materials.
-
-##### 2.17.4.2 Key Insights
-
-- **Cyclical vs linear time**: Chinese 干支 system is **cyclical** (60-year repeating) unlike Western linear year-counting from fixed event (CE/BCE)—reflecting natural cycles rather than historical progression
-- **Naturalistic ordering**: Heavenly Stems use **natural imagery** (germination → growth → maturation) rather than arbitrary names, grounding abstract temporal ordering in observable natural processes
-- **Mathematical sophistication**: 60-combination system shows understanding of **least common multiple** (LCM of 10 and 12), enabling complex cyclical calculations
-- **Record-keeping infrastructure**: Systematic day-naming enabled **datable archives**—essential for collective memory and historical consciousness
-- **Continuous 3200+ years**: 干支 system **still used** in Chinese calendar/astrology—longest continuously operating calendar system, spreading to Korea, Japan, Vietnam as shared East Asian calendrical infrastructure
-- **Abstract counting transition**: 一二三 number system shows transition from **iconic representation** (three strokes = three things) to **abstract symbols**, with cognitive recognition that simple stroke-counting is inefficient beyond small numbers
-- **Concrete imagery became abstract ordering symbols**: 甲 originally meant "seed shell splitting" (natural observation), then became "first in sequence" (ordinal), then "armor" (extended meaning)—trajectory from observation → abstraction → extension
-
-##### 2.17.4.3 Section Synthesis
-
-The development of abstract counting systems and calendrical time-keeping represents a profound cognitive achievement—moving from concrete enumeration (counting sheep) to abstract number concepts, and from observing day/night cycles to systematic calendar construction. Chinese characters encode both numerical systems and temporal ordering through: **Heavenly Stems** (天干: 甲乙丙丁戊己庚辛壬癸), **Earthly Branches** (地支: 子丑寅卯辰巳午未申酉戌亥), and **Basic Numbers** (一二三...).
-
-This section reveals **sophisticated abstract thinking** in Shang Dynasty civilization: (1) Abstract counting (一二三 numbers detached from specific objects), (2) Cyclical time conception (干支 60-part system), (3) Naturalistic symbolism (stems = growth cycle, branches = daily rhythms), (4) Mathematical combination (10 × 12 = 60), (5) Systematic record-keeping (every day named, creating datable archives).
-
-The Heavenly Stems/Earthly Branches demonstrate how **concrete imagery became abstract ordering symbols** through natural observation transforming into systematic temporal ordering. This cognitive evolution from concrete to abstract representation shows recognition of efficiency thresholds in symbolic systems—practical semiotics enabling complex temporal management.
-
-##### 2.17.4.4 Cross-references
-
-The Sexagenary Cycle (干支 60-part system) represents **East Asian shared calendrical infrastructure** comparable to Western CE/BCE system's geographic spread, demonstrating how Chinese systematic thinking influenced regional civilization development. Cross-reference to oracle bone dating methodology: the systematic day-naming preserved in ritual characters from Section 2.16 enables precise chronological sequencing of divination records, validating both temporal ordering systems and religious practices.
+Section 2.1 (Early Human Society): 祖 (ancestors) builds on 母父 (parents) showing generational continuity; 心 (heart) as consciousness center complements 口 (mouth speaking) and 血 (life essence). Section 2.10 (Hunting/Domestication): 祭 (sacrifice) uses animals from 犬豕牛 (dogs, pigs, oxen). Section 2.5 (Fire): 卜 (divination) requires heating bronze rods in fire → fire mastery prerequisite. Section 2.15 (Metallurgy): Bronze ritual vessels (鼎爵) essential for 示 (altar offerings). The 卜 character's reflexivity provides ultimate validation of oracle bone evidence importance: the character depicts the very physical phenomenon visible on the inscribed bones themselves—material self-documentation where the medium encodes its own appearance and function.
 
 
 
 
-### 2.18 MEASUREMENT - Standardization Systems
 
-#### 2.18.1 Character Forms
+### 2.19 MEASUREMENT - Standardization Systems
 
-**Table 2.18.1** Evolution of Measurement radicals (Section 2.11). Shows standardization: division (分), length units (寸尺), volume (斗), and weight (斤).
+#### 2.19.1 Character Forms
+
+**Table 2.19.1** Evolution of Measurement radicals (Section 2.12). Shows standardization: division (分), length units (寸尺), volume (斗), and weight (斤).
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
@@ -1883,9 +1988,9 @@ The Sexagenary Cycle (干支 60-part system) represents **East Asian shared cale
 | <img src="figures/characters/oracle/char-斗-oracle.png" width="100" alt="斗 oracle"> | <img src="figures/characters/bronze/char-斗-bronze.png" width="100" alt="斗 bronze"> | <img src="figures/characters/seal/char-斗-seal.png" width="100" alt="斗 seal"> | <img src="figures/characters/kaiti/char-斗-kaiti.png" width="100" alt="斗 kaiti"> |
 | <img src="figures/characters/oracle/char-斤-oracle.png" width="100" alt="斤 oracle"> | <img src="figures/characters/bronze/char-斤-bronze.png" width="100" alt="斤 bronze"> | <img src="figures/characters/seal/char-斤-seal.png" width="100" alt="斤 seal"> | <img src="figures/characters/kaiti/char-斤-kaiti.png" width="100" alt="斤 kaiti"> |
 
-#### 2.18.2 Semantic Networks
+#### 2.19.2 Semantic Networks
 
-**Table 2.18.2** Semantic networks of Measurement radicals:
+**Table 2.19.2** Semantic networks of Measurement radicals:
 
 | Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
 |---------|-----------|-----------|---------|----------------------|----------------|
@@ -1916,9 +2021,9 @@ The Sexagenary Cycle (干支 60-part system) represents **East Asian shared cale
 
 
 
-#### 2.18.3 Validation
+#### 2.19.3 Validation
 
-**Table 2.18.3** Validation summary for Section 2.11 measurement radicals:
+**Table 2.19.3** Validation summary for Section 2.12 measurement radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -1930,9 +2035,9 @@ The Sexagenary Cycle (干支 60-part system) represents **East Asian shared cale
 
 
 
-#### 2.18.4 Commentary
+#### 2.19.4 Commentary
 
-##### 2.18.4.1 Material Culture Context
+##### 2.19.4.1 Material Culture Context
 
 Bronze Age states required standardized measurements for: (1) Taxation—collect grain (斗 volume), metal (斤 weight) fairly, (2) Trade—enable exchange between regions with common standards, (3) Construction—build walls, palaces, vessels to specifications (尺 寸 lengths), (4) Military—standardize arrow lengths, chariot dimensions, weapon weights, (5) Social control—prevent merchant fraud through official measurement enforcement.
 
@@ -1940,7 +2045,7 @@ Characters encode the **physical implements** that defined standards (axe weight
 
 Emperor Qin Shi Huang's unification (221 BCE) included **mandating uniform weights and measures** across the empire—one of history's largest standardization projects. Characters facilitated this: because 斤斗尺寸 were universally understood character-concepts, the state could **redefine the physical standards** while keeping the **character-notation stable**. This is linguistic infrastructure enabling political control.
 
-##### 2.18.4.2 Key Insights
+##### 2.19.4.2 Key Insights
 
 - **Physical objects = standards**: Axe weight (斤), dipper volume (斗), body lengths (尺寸) became abstract units—shows standardization grounded in **material reference objects** rather than abstract mathematical concepts
 - **Dual meanings preserved**: 斤 = axe AND weight, 斗 = dipper AND volume—characters encode **tool-to-standard transition** preserving the material basis of measurement
@@ -1950,7 +2055,7 @@ Emperor Qin Shi Huang's unification (221 BCE) included **mandating uniform weigh
 - **Division creates measurement**: 分 (divide = 八 + 刀) encodes the foundational measurement concept—division creates units, showing cognitive prerequisite that continuous quantities must be divided into discrete, comparable units
 - **Body-based universals**: 尺 (foot/ruler) encodes universal human practice of **using body parts as measurement units** before formal standardization
 
-##### 2.18.4.3 Section Synthesis
+##### 2.19.4.3 Section Synthesis
 
 The development of standardized measurement systems marks a crucial transition from subjective estimation to quantifiable precision—enabling trade, construction, taxation, and resource management. Five characters encode measurement foundations (分斤斗尺寸) representing the complete measurement infrastructure: division concept, weight standards, volume standards, length standards, and precision subdivisions.
 
@@ -1958,216 +2063,132 @@ This section reveals **systematic quantification** as state-building tool enabli
 
 The measurement characters demonstrate how **concrete objects became abstract standards**—reverse of modern practice (define meter by light-speed, kilogram by Planck constant). Characters encoded the **category** (weight/volume/length) rather than **exact values**, making the writing system adaptable across different measurement refinements while preserving standardization concepts.
 
-##### 2.18.4.4 Cross-references
-
-Cross-reference to Section 2.17 (Counting): Measurement combines with abstract numbers (一二三) to enable **quantified record-keeping**. Oracle bones record "captured 40 deer" (number) and "offered 10 斤 copper" (quantity + unit). This shows **complete quantification infrastructure**: abstract counting + standardized units + written notation = systematic resource management, demonstrating how numeric and measurement systems worked together to enable complex state administration.
-
-
-
-
-### 2.19 FLOW & HYDRAULICS - Physics Understanding
-
-#### 2.19.1 Character Forms
-
-**Table 2.19.1** Evolution of Flow & Hydraulics radicals (Section 2.12). Shows complete water phase cycle: ice (冰) ⇄ liquid (流川江) ⇄ vapor (气), demonstrating thermodynamic understanding.
-
-| Oracle | Bronze | Seal | Kaiti |
-|--------|--------|------|-------|
-| <img src="figures/characters/oracle/char-水-oracle.png" width="100" alt="水 oracle"> | <img src="figures/characters/bronze/char-水-bronze.png" width="100" alt="水 bronze"> | <img src="figures/characters/seal/char-水-seal.png" width="100" alt="水 seal"> | <img src="figures/characters/kaiti/char-水-kaiti.png" width="100" alt="水 kaiti"> |
-| <img src="figures/characters/oracle/char-川-oracle.png" width="100" alt="川 oracle"> | <img src="figures/characters/bronze/char-川-bronze.png" width="100" alt="川 bronze"> | <img src="figures/characters/seal/char-川-seal.png" width="100" alt="川 seal"> | <img src="figures/characters/kaiti/char-川-kaiti.png" width="100" alt="川 kaiti"> |
-| <img src="figures/characters/oracle/char-永-oracle.png" width="100" alt="永 oracle"> | <img src="figures/characters/bronze/char-永-bronze.png" width="100" alt="永 bronze"> | <img src="figures/characters/seal/char-永-seal.png" width="100" alt="永 seal"> | <img src="figures/characters/kaiti/char-永-kaiti.png" width="100" alt="永 kaiti"> |
-| <img src="figures/characters/oracle/char-气-oracle.png" width="100" alt="气 oracle"> | <img src="figures/characters/bronze/char-气-bronze.png" width="100" alt="气 bronze"> | <img src="figures/characters/seal/char-气-seal.png" width="100" alt="气 seal"> | <img src="figures/characters/kaiti/char-气-kaiti.png" width="100" alt="气 kaiti"> |
-| (unavailable) | <img src="figures/characters/bronze/char-冰-bronze.png" width="100" alt="冰 bronze"> | <img src="figures/characters/seal/char-冰-seal.png" width="100" alt="冰 seal"> | <img src="figures/characters/kaiti/char-冰-kaiti.png" width="100" alt="冰 kaiti"> |
-| (unavailable) | <img src="figures/characters/bronze/char-流-bronze.png" width="100" alt="流 bronze"> | <img src="figures/characters/seal/char-流-seal.png" width="100" alt="流 seal"> | <img src="figures/characters/kaiti/char-流-kaiti.png" width="100" alt="流 kaiti"> |
-| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-㐬-seal.png" width="100" alt="㐬 seal"> | <img src="figures/characters/kaiti/char-㐬-kaiti.png" width="100" alt="㐬 kaiti"> |
-| (unavailable) | <img src="figures/characters/bronze/char-江-bronze.png" width="100" alt="江 bronze"> | <img src="figures/characters/seal/char-江-seal.png" width="100" alt="江 seal"> | <img src="figures/characters/kaiti/char-江-kaiti.png" width="100" alt="江 kaiti"> |
-| (unavailable) | (unavailable) | <img src="figures/characters/seal/char-汞-seal.png" width="100" alt="汞 seal"> | <img src="figures/characters/kaiti/char-汞-kaiti.png" width="100" alt="汞 kaiti"> |
-
-
-#### 2.19.2 Semantic Networks
-
-**Table 2.19.2** Semantic networks of Water & Flow radicals:
-
-| Radical | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
-|---------|-----------|-----------|---------|----------------------|----------------|
-| **㐬 (liú)** | 流 (liú) | 氵+ 㐬 | Flow, stream | Water + flowing = liquid flowing | Flow dynamics |
-| 㐬 | 硫 (liú) | 石 + 㐬 | Sulfur | Stone + flowing = flowing/melting mineral | Material flow |
-| 㐬 | 疏 (shū) | 疋 + 㐬 | Dredge, sparse | Foot + flow = creating flow channels | Flow management |
-| **氵 (shuǐ)** | 江 (jiāng) | 氵+ 工 | River | Water + work = erosive flow | Rivers |
-| 氵 | 河 (hé) | 氵+ 可 | River | Water + permissible flow | Rivers |
-| 氵 | 湖 (hú) | 氵+ 胡 | Lake | Water + contained area = still water | Water bodies |
-| 氵 | 海 (hǎi) | 氵+ 每 | Sea, ocean | Water + mother = source of waters | Water bodies |
-| 氵 | 波 (bō) | 氵+ 皮 | Wave | Water + surface = surface waves | Wave phenomena |
-| 氵 | 浪 (làng) | 氵+ 良 | Wave, billow | Water + surging growth = large waves | Wave phenomena |
-| 氵 | 液 (yè) | 氵+ 夜 | Liquid, fluid | Water + night = flowing substance | Fluid states |
-| 氵 | 洗 (xǐ) | 氵+ 先 | Wash, clean | Water + action = cleaning with water | Water uses |
-| 氵 | 濕 (shī) | 氵+ 顯 | Wet, moist | Water + visible = water presence | Water properties |
-| 氵 | 渦 (wō) | 氵+ 呙 | Whirlpool, eddy | Water + spiral = vortex flow | Complex flow |
-| **冫 (bīng)** | 冰 (bīng) | 冫+ 水 | Ice | Frozen + water = solid water | Phase transition |
-| 冫 | 冷 (lěng) | 冫+ 令 | Cold | Ice + command = cold temperature | Temperature |
-| 冫 | 凍 (dòng) | 冫+ 東 | Freeze | Ice + action = freezing process | Phase transition |
-| 冫 | 凝 (níng) | 冫+ 疑 | Congeal, solidify | Ice + gather = liquid→solid | Solidification |
-
-**Network patterns observed:**
-- **㐬 network** (30+ characters, 85% coherence): Continuous flow (流), streaming movement, transmission, drainage—dynamic fluid behavior
-- **氵 network** (250+ characters, 95% coherence): ALL water phenomena systematically categorized—rivers, lakes, seas, waves, liquids, washing, wetness, ice, etc. Extraordinary semantic coherence!
-- **冫 network** (40+ characters, 90% coherence): Cold, freezing, solidification, ice—temperature-induced phase transitions
-- **江 insight (from 2.7)**: River = 氵+ 工 (water's work) encodes erosion as mechanical process
-
-**Sophisticated observations encoded:**
-- **Wave phenomena**: 波 (surface waves) vs 浪 (large billows)—distinguishing wave types by scale
-- **Vortex flow**: 渦 (whirlpool) = 氵+ 呙 (spiral structure)—recognizing rotational flow patterns
-- **Phase transitions**: 冫characters encode liquid→solid transformation with temperature change
-- **Erosion mechanics**: 江 (river = water's work) shows understanding that flowing water performs mechanical work on landscape
-
-
-#### 2.19.3 Validation
-
-
-**Table 2.19.3** Validation summary for Section 2.12 hydraulic radicals:
-
-| Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
-|---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
-| **氵 (shuǐ)** | 20+ oracle + 25+ bronze forms | **95%+** (250+ chars) | ✓ Water management infrastructure widespread<br>✓ Hydraulic engineering documented | ✓ 氵 in ALL water-related characters<br>✓ Systematic categorization preserved | **STRONG** - Comprehensive water phenomena categorization validated |
-| **㐬 (liú)** | 8 oracle + 12 bronze forms | **85%+** (30+ chars) | ✓ Flow observation critical for irrigation/navigation<br>✓ Current/stream understanding documented | ✓ 流 means "flow/stream"<br>✓ Flow dynamics preserved in network | **STRONG** - Dynamic flow concept validated |
-| **冫 (bīng)** | Scarce oracle + 5 bronze | **90%+** (40+ chars) | ✓ Ice/freeze cycles observed annually<br>✓ Cold storage techniques (ice houses) | ✓ 冫 in ALL cold/ice characters<br>✓ 冰 (ice), 冷 (cold) universal | **STRONG** - Phase transition understanding validated |
-| **江 (jiāng)** | (See Section 2.7) | **95%+** | ✓ River erosion/sedimentation observed<br>✓ Understanding of rivers as transformative agents | ✓ 江 means "river"<br>✓ 氵+ 工 composition transparent | **STRONG** - Water's work (erosion) validated |
-
-
-#### 2.19.4 Commentary
-
-##### 2.19.4.1 Material Culture Context
-
-Hydraulic management was **civilization-critical** in ancient China: (1) Yellow River control—prevent devastating floods while enabling irrigation, (2) Canal construction—Grand Canal (later dynasties) required understanding flow, gradient, locks, (3) Irrigation systems—Dujiangyan (316 BCE) still functional with sophisticated flow division, (4) Drainage—agricultural fields need controlled water removal, (5) Water transport—rivers as highways requiring flow knowledge for navigation.
-
-Archaeological evidence confirms encoded knowledge was **practically applied**: Dujiangyan irrigation system (316 BCE) still functional 2,300+ years later using flow division without dams (sophisticated fluid dynamics), Grand Canal (begun ~500 BCE) required gradient calculation and lock systems over 1,700+ km, Yellow River flood control used massive levees and channel diversions requiring understanding of sediment load and flow dynamics.
-
-Characters encode **observations of fluid behavior**: flow follows terrain (㐬), water transforms materials (氵in erosion characters), state changes with temperature (冫), rivers work on landscape (江 = 氵+ 工). These engineering achievements demonstrate that character-encoded hydraulic principles were **operational knowledge**, not abstract philosophy.
-
-##### 2.19.4.2 Key Insights
-
-- **Water as agent**: 江 composition (water + work) shows early Chinese saw natural processes as **performing actions**, not passive phenomena—sophisticated physics intuition anticipating Newtonian mechanics
-- **Systematic categorization**: 95%+ network coherence for 氵 (250+ characters!) validates that "water phenomena" was **recognized perceptual category** with extraordinary conceptual clarity
-- **Phase transitions**: 冫 characters encode observation that same substance (H₂O) exists in different states—proto-understanding of matter states demonstrating thermodynamic awareness
-- **Practical application**: Hydraulic engineering (Dujiangyan, canals, flood control) required **applied fluid dynamics**—characters encode theoretical knowledge behind practical achievements
-- **Scale distinctions**: Differentiating brooks (溪) vs rivers (江河) vs seas (海洋) shows **hierarchical water system understanding** based on systematic observation
-- **江 = proto-Newtonian mechanics**: Rivers perform **mechanical work** through erosion, sediment transport, valley cutting—recognizing natural agents exert forces producing work (landscape transformation), encoded ~2,900 years before Newton's formal work = force × distance (1687)
-- **Unified mechanical framework**: 工 (work) concept appears in both human labor contexts (工人 worker, 功 achievement) and natural process contexts (江 river)—energy transfer regardless of agent type
-- **Anomalous material recognition**: 汞 (mercury) as "worked water" captures unique dual nature—metallic properties combined with liquid behavior, requiring special conceptual framework bridging liquid and metal domains
-
-##### 2.19.4.3 Section Synthesis
-
-The observation and management of water flow represents sophisticated physics understanding—recognizing fluids as dynamic systems obeying mechanical principles. Seven characters encode hydraulic knowledge, water phase transitions, and anomalous material properties (㐬流川江汞气冰).
-
-This section reveals **sophisticated fluid dynamics understanding** in ancient China—not just using water, but **observing its behavior systematically**: dynamic flow (㐬 encodes continuous water movement following terrain gradients), comprehensive categorization (氵radical in 250+ characters shows water phenomena as unified category), phase transitions (冫 encodes liquid ⇄ solid state changes with temperature), erosion mechanics (江 = 氵+ 工 shows flowing water performs mechanical work on landscape), wave phenomena (distinguishing surface waves vs large billows), and vortex recognition (渊 whirlpool = spiral flow patterns).
-
-The 氵radical's **95%+ coherence across 250+ characters** represents the **highest network coherence in the entire character system**, validating that "water-related phenomena" was extraordinarily clear and well-defined conceptually—comparable to how modern chemistry systematically categorizes elements. This consistency suggests **systematic empirical observation** generating coherent conceptual structure.
-
 ##### 2.19.4.4 Cross-references
 
-Cross-reference to Section 2.13 (Mechanical Work): The 工 (work) concept appears in both human labor and natural process contexts, showing early Chinese applied **unified mechanical framework** to both human and natural agents performing transformative work through applied force. This approaches modern physics notion of work as **energy transfer** regardless of agent type, demonstrating conceptual sophistication connecting human technology with natural processes through shared mechanical principles.
+Cross-reference to Section 2.20 (Counting): Measurement combines with abstract numbers (一二三) to enable **quantified record-keeping**. Oracle bones record "captured 40 deer" (number) and "offered 10 斤 copper" (quantity + unit). This shows **complete quantification infrastructure**: abstract counting + standardized units + written notation = systematic resource management, demonstrating how numeric and measurement systems worked together to enable complex state administration.
 
 
 
-### 2.20 TRANSPORTATION - Mobility Systems (行)
+### 2.20 COUNTING & CALENDAR - Symbolic systems
 
 #### 2.20.1 Character Forms
 
-[Oracle bone evolution diagrams showing:]
-- **行**: Crossroads → movement concept → travel
-- **舟**: Boat hull → water vessel → transportation
-- **车**: Wheel-axle → vehicle → land transport  
-- **道**: Head + movement → guided path → systematic way
+**Table 2.20.1** Evolution of Heavenly Stems (天干) and Earthly Branches (地支) - first examples (Section 2.10a). Shows abstract temporal ordering system.
+
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| <img src="figures/characters/oracle/char-甲-oracle.png" width="100" alt="甲 oracle"> | <img src="figures/characters/bronze/char-甲-bronze.png" width="100" alt="甲 bronze"> | <img src="figures/characters/seal/char-甲-seal.png" width="100" alt="甲 seal"> | <img src="figures/characters/kaiti/char-甲-kaiti.png" width="100" alt="甲 kaiti"> |
+| <img src="figures/characters/oracle/char-乙-oracle.png" width="100" alt="乙 oracle"> | <img src="figures/characters/bronze/char-乙-bronze.png" width="100" alt="乙 bronze"> | <img src="figures/characters/seal/char-乙-seal.png" width="100" alt="乙 seal"> | <img src="figures/characters/kaiti/char-乙-kaiti.png" width="100" alt="乙 kaiti"> |
+| <img src="figures/characters/oracle/char-丙-oracle.png" width="100" alt="丙 oracle"> | <img src="figures/characters/bronze/char-丙-bronze.png" width="100" alt="丙 bronze"> | <img src="figures/characters/seal/char-丙-seal.png" width="100" alt="丙 seal"> | <img src="figures/characters/kaiti/char-丙-kaiti.png" width="100" alt="丙 kaiti"> |
+| <img src="figures/characters/oracle/char-丁-oracle.png" width="100" alt="丁 oracle"> | <img src="figures/characters/bronze/char-丁-bronze.png" width="100" alt="丁 bronze"> | <img src="figures/characters/seal/char-丁-seal.png" width="100" alt="丁 seal"> | <img src="figures/characters/kaiti/char-丁-kaiti.png" width="100" alt="丁 kaiti"> |
+| <img src="figures/characters/oracle/char-子-oracle.png" width="100" alt="子 oracle"> | <img src="figures/characters/bronze/char-子-bronze.png" width="100" alt="子 bronze"> | <img src="figures/characters/seal/char-子-seal.png" width="100" alt="子 seal"> | <img src="figures/characters/kaiti/char-子-kaiti.png" width="100" alt="子 kaiti"> |
+| <img src="figures/characters/oracle/char-丑-oracle.png" width="100" alt="丑 oracle"> | <img src="figures/characters/bronze/char-丑-bronze.png" width="100" alt="丑 bronze"> | <img src="figures/characters/seal/char-丑-seal.png" width="100" alt="丑 seal"> | <img src="figures/characters/kaiti/char-丑-kaiti.png" width="100" alt="丑 kaiti"> |
+
+Evolution of Basic Number characters (Section 2.10b). Shows iconic representation (一二三) transitioning to compositional (四).
+
+| Oracle | Bronze | Seal | Kaiti |
+|--------|--------|------|-------|
+| <img src="figures/characters/oracle/char-一-oracle.png" width="100" alt="一 oracle"> | <img src="figures/characters/bronze/char-一-bronze.png" width="100" alt="一 bronze"> | <img src="figures/characters/seal/char-一-seal.png" width="100" alt="一 seal"> | <img src="figures/characters/kaiti/char-一-kaiti.png" width="100" alt="一 kaiti"> |
+| <img src="figures/characters/oracle/char-二-oracle.png" width="100" alt="二 oracle"> | <img src="figures/characters/bronze/char-二-bronze.png" width="100" alt="二 bronze"> | <img src="figures/characters/seal/char-二-seal.png" width="100" alt="二 seal"> | <img src="figures/characters/kaiti/char-二-kaiti.png" width="100" alt="二 kaiti"> |
+| <img src="figures/characters/oracle/char-三-oracle.png" width="100" alt="三 oracle"> | <img src="figures/characters/bronze/char-三-bronze.png" width="100" alt="三 bronze"> | <img src="figures/characters/seal/char-三-seal.png" width="100" alt="三 seal"> | <img src="figures/characters/kaiti/char-三-kaiti.png" width="100" alt="三 kaiti"> |
+| <img src="figures/characters/oracle/char-四-oracle.png" width="100" alt="四 oracle"> | <img src="figures/characters/bronze/char-四-bronze.png" width="100" alt="四 bronze"> | <img src="figures/characters/seal/char-四-seal.png" width="100" alt="四 seal"> | <img src="figures/characters/kaiti/char-四-kaiti.png" width="100" alt="四 kaiti"> |
 
 
 #### 2.20.2 Semantic Networks
 
-**行 Network (Movement Foundation):**
-- 街 (street): Organized urban pathways
-- 衍 (extend): Movement expansion  
-- 術 (technique): Methodical approach
-- 徵 (summon): Directed movement
-- 循 (follow): Following paths
-**Network coherence: 92%** - validates systematic movement concept
+**Table 2.20.2** Semantic networks of Counting & Time radicals:
 
-**舟 Network (Water Transportation):**
-- 船 (ship): Large watercraft
-- 艘 (vessel classifier): Boat counting unit
-- 航 (navigate): Water travel
-- 般 (type): Boat categories
-**Network coherence: 96%** - validates water transport technology
+| Category | Character | Structure | Meaning | Semantic Contribution | Network Pattern |
+|----------|-----------|-----------|---------|----------------------|----------------|
+| **Heavenly Stems** | 甲 (jiǎ) | [Pictographic] | First stem, shell, armor | Seed shell = beginning = first position | Ordinal system |
+| Heavenly Stems | 乙 (yǐ) | [Pictographic] | Second stem, bent | Plant sprout = growth = second position | Ordinal system |
+| Heavenly Stems | 丙 (bǐng) | [Pictographic] | Third stem, fire/bright | Brightness = maturation = third | Ordinal system |
+| Heavenly Stems | 丁 (dīng) | [Pictographic] | Fourth stem, robust | Strong plant/person = fourth | Ordinal system |
+| **Earthly Branches** | 子 (zǐ) | [Pictographic] | First branch, child, midnight hour | Infant = beginning = first/midnight | Temporal cycle |
+| Earthly Branches | 丑 (chǒu) | [Pictographic] | Second branch, 1-3am | Hand grasping = second period | Temporal cycle |
+| Earthly Branches | 寅 (yín) | [Pictographic] | Third branch, 3-5am | Hands reverencing = pre-dawn | Temporal cycle |
+| Earthly Branches | 卯 (mǎo) | [Pictographic] | Fourth branch, 5-7am | Door opening = dawn | Temporal cycle |
+| **Basic Numbers** | 一 (yī) | [Abstract] | One | Single stroke = unity | Cardinal numbers |
+| Basic Numbers | 二 (èr) | [Abstract] | Two | Two strokes = pairing | Cardinal numbers |
+| Basic Numbers | 三 (sān) | [Abstract] | Three | Three strokes = multiplicity | Cardinal numbers |
+| Basic Numbers | 十 (shí) | [Abstract] | Ten | Complete cycle (fingers) | Decimal system |
+| **Counting Concept** | 数 (shù) | 婁 + 攴 | Number, count | Woman weaving + action = counting process | Mathematical foundation |
 
-**车 Network (Wheeled Transport):**
-- 轮 (wheel): Circular rolling component
-- 轴 (axle): Central rotation shaft  
-- 载 (carry): Vehicle cargo function
-- 轻 (light): Efficient construction
-- 较 (compare): Vehicle evaluation
-**Network coherence: 94%** - validates wheel technology breakthrough
+**Network patterns observed:**
+- **Heavenly Stems** (10 characters): Form cyclical ordering system (甲乙丙丁... = 1st, 2nd, 3rd, 4th...), each with natural imagery (germination → growth → maturation cycle)
+- **Earthly Branches** (12 characters): Form temporal divisions (hours/months), each with time-related imagery (midnight child → dawn opening door)
+- **Basic Numbers** (一二三四五六七八九十): Simple cardinal counting, then compositional (十一 = 11, 二十 = 20, etc.)
+- **Counting Foundation**: 数 (number/count) derives from 婁 (woman weaving) + 攴 (action) = **counting process originated from weaving activities** (see Section 2.8 for full analysis of weaving→mathematics connection)
 
-**道 Network (Systematic Pathways):**
-- 导 (guide): Path leadership
-- 途 (route): Established pathway
-- 遵 (follow): Path adherence  
-- 逸 (deviate): Path departure
-**Network coherence: 91%** - validates guided movement concept
+**干支 (gānzhī) Sexagenary Cycle:**
+Combining 10 Heavenly Stems × 12 Earthly Branches = **60 unique combinations**:
+- 甲子 (jiǎzǐ) - Day 1 / Year 1
+- 乙丑 (yǐchǒu) - Day 2 / Year 2
+- 丙寅 (bǐngyín) - Day 3 / Year 3
+- ... (57 more combinations)
+- 癸亥 (guǐhài) - Day 60 / Year 60, then cycle repeats
+
+This system was used for:
+1. **Day naming** (oracle bone era - every day had 干支 name)
+2. **Year naming** (later dynasties - 60-year cycles)
+3. **Divination** (stems + branches had cosmological significance)
+4. **Birthdates** (八字 bāzì "eight characters" = year/month/day/hour stems+branches = fortune-telling)
+
+
 
 #### 2.20.3 Validation
 
-**Table 2.20.3** Validation summary for Section 2.20 transportation radicals:
+**Table 2.20.3** Validation summary for Section 2.6 temporal systems:
 
-| Element | Oracle Evidence | Archaeological Validation | Network Coherence | Status |
-|---------|----------------|--------------------------|------------------|---------|
-| 行 | Crossroads symbol | Neolithic trade routes | 92% | ✓ Confirmed |
-| 舟 | Boat hull structure | 8000 BCE watercraft | 96% | ✓ Confirmed |
-| 车 | Wheel-axle design | 3500 BCE wheeled vehicles | 94% | ✓ Confirmed |
-| 街 | Urban pathways | Zhou Dynasty city planning | 89% | ✓ Confirmed |
-| 走 | Running figure | Universal human locomotion | 93% | ✓ Confirmed |
-| 道 | Guided movement | Systematic route development | 91% | ✓ Confirmed |
-
-This completes the 衣食住行 framework analysis, demonstrating how transportation (行) enabled the expansion and integration of clothing (衣), food (食), and shelter (住) systems across geographic distances, transforming local survival techniques into civilization-scale technologies.
-
+| System | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
+|--------|------------------------|-------------------|------------------------------|------------------------|-------------------|
+| **Heavenly Stems (天干)** | 100+ oracle attestations | **95%+** (systematic day-naming) | ✓ Every oracle bone dated with stems<br>✓ Consistent 10-day cyclical usage | ✓ Still used in calendar (60-year cycle)<br>✓ 甲乙丙丁 remain ordinal markers | **STRONG** - 10-day cycle systematically validated |
+| **Earthly Branches (地支)** | 80+ oracle attestations | **95%+** (systematic temporal division) | ✓ Oracle bones use for months/times<br>✓ Consistent 12-part division | ✓ Still used in calendar, astrology<br>✓ 子丑寅卯 remain temporal markers | **STRONG** - 12-part temporal cycle validated |
+| **Sexagenary Cycle (干支)** | 100+ oracle combinations | **98%+** (mathematical: 10×12=60) | ✓ 60-day cycle documented on oracle bones<br>✓ Continuous usage 3200+ years | ✓ Still used for years (current cycle started 1984)<br>✓ Birthdates use 八字 (four stems+branches) | **STRONG** - Longest continuously used calendar system |
+| **Basic Numbers (一二三)** | 50+ oracle attestations | **100%** (universal counting) | ✓ Oracle bones record counts (deer captured, oxen sacrificed)<br>✓ Decimal system (十-based) | ✓ Universal number system unchanged<br>✓ 一二三 immediately recognizable | **STRONG** - Abstract number concepts validated |
 
 #### 2.20.4 Commentary
 
 ##### 2.20.4.1 Material Culture Context
 
-Archaeological evidence confirms transportation technology sequence: Foot paths (Neolithic) established trade routes pre-dating vehicles, Water craft (8000 BCE) with dugout canoes in Chinese archaeological sites, Wheeled vehicles (3500 BCE) with spoked wheels in Bronze Age contexts, and Road systems (Zhou Dynasty) as engineered pathways connecting territories.
+Oracle bones (~1200 BCE) used Heavenly Stems to name **every single day**, showing systematic time-keeping. Diviners recorded: "On day 甲子 (jiǎzǐ), we asked ancestors about harvest" or "On day 乙丑 (yǐchǒu), the king hunted deer." This created a **60-day cycle** (10 stems × 12 branches = 60 combinations), later extended to 60-year cycle still used in Chinese astrology/calendar.
 
-The development of systematic movement technologies—from walking paths to wheeled vehicles to watercraft—enabled trade expansion, cultural exchange, and territorial control that transformed early civilization. Transportation infrastructure required significant material investment: road construction with engineered surfaces, bridge building for river crossings, canal systems for waterway transport, and vehicle manufacturing requiring bronze fittings and skilled craftsmanship.
+The ten heavenly stems (甲乙丙丁戊己庚辛壬癸) originated as **day names in a 10-day week** used in Shang Dynasty oracle bone inscriptions—not abstract numbers but **proper names for days**, like our Monday/Tuesday. The twelve earthly branches (子丑寅卯辰巳午未申酉戌亥) represented **months and double-hours** (12 × 2-hour periods = 24-hour day), later associated with zodiac animals but originally temporal markers.
 
-Characters encode the practical understanding that movement systems require both physical infrastructure (roads, boats, vehicles) and conceptual organization (routes, methods, systems) to function effectively at civilizational scale.
+Because every oracle bone records its 干支 day-name, scholars can sequence oracle bones within 60-day cycles, correlate with astronomical events (eclipses, planetary positions), date Shang Dynasty reigns with precision, and reconstruct Shang calendar (lunar months + solar year adjustments). This makes oracle bones **chronologically precise archaeological artifacts**—rare for ~1200 BCE materials.
 
 ##### 2.20.4.2 Key Insights
 
-- **行 as systematic travel**: Oracle bone forms show crossroads representing organized pathways enabling purposeful movement along established routes—infrastructure as civilization enabler
-- **街 as urban engineering**: 行 (movement) + 圭 (earth mounds) encodes organized pathways through settled areas with raised or marked boundaries indicating sophisticated urban planning
-- **舟 as physics understanding**: Oracle bone boat forms demonstrate early understanding of buoyancy, displacement, and flotation—overcoming natural barriers through engineering
-- **车 as mechanical breakthrough**: Oracle bone wheeled vehicle forms preserve wheel-and-axle structure demonstrating sophisticated Bronze Age mechanical engineering
-- **走 as speed advantage**: Human running forms encode recognition that movement velocity affects strategic, commercial, and survival outcomes
-- **道 as guided movement**: 辶 (movement) + 首 (head/leader) shows systematic transportation requires guidance/direction, becoming philosophical foundation where physical pathways → methodological approaches → moral principles
-- **衣食住行 completion**: Transportation represents the final element completing the fundamental framework of human basic needs
+- **Cyclical vs linear time**: Chinese 干支 system is **cyclical** (60-year repeating) unlike Western linear year-counting from fixed event (CE/BCE)—reflecting natural cycles rather than historical progression
+- **Naturalistic ordering**: Heavenly Stems use **natural imagery** (germination → growth → maturation) rather than arbitrary names, grounding abstract temporal ordering in observable natural processes
+- **Mathematical sophistication**: 60-combination system shows understanding of **least common multiple** (LCM of 10 and 12), enabling complex cyclical calculations
+- **Record-keeping infrastructure**: Systematic day-naming enabled **datable archives**—essential for collective memory and historical consciousness
+- **Continuous 3200+ years**: 干支 system **still used** in Chinese calendar/astrology—longest continuously operating calendar system, spreading to Korea, Japan, Vietnam as shared East Asian calendrical infrastructure
+- **Abstract counting transition**: 一二三 number system shows transition from **iconic representation** (three strokes = three things) to **abstract symbols**, with cognitive recognition that simple stroke-counting is inefficient beyond small numbers
+- **Concrete imagery became abstract ordering symbols**: 甲 originally meant "seed shell splitting" (natural observation), then became "first in sequence" (ordinal), then "armor" (extended meaning)—trajectory from observation → abstraction → extension
 
 ##### 2.20.4.3 Section Synthesis
 
-Transportation represents the final element of the fundamental 衣食住行 framework, completing the spectrum of human basic needs. Six characters encode the progression from foot-based mobility through sophisticated vehicle engineering (行街舟车走道).
+The development of abstract counting systems and calendrical time-keeping represents a profound cognitive achievement—moving from concrete enumeration (counting sheep) to abstract number concepts, and from observing day/night cycles to systematic calendar construction. Chinese characters encode both numerical systems and temporal ordering through: **Heavenly Stems** (天干: 甲乙丙丁戊己庚辛壬癸), **Earthly Branches** (地支: 子丑寅卯辰巳午未申酉戌亥), and **Basic Numbers** (一二三...).
 
-The character progression from 走 (individual movement) → 行 (systematic travel) → 街 (urban infrastructure) → 道 (philosophical method) demonstrates transportation evolution enabling civilization complexity. This shows how practical transportation concepts became philosophical foundations: physical movement systems provided metaphorical frameworks for understanding method, approach, and principle in abstract contexts.
+This section reveals **sophisticated abstract thinking** in Shang Dynasty civilization: (1) Abstract counting (一二三 numbers detached from specific objects), (2) Cyclical time conception (干支 60-part system), (3) Naturalistic symbolism (stems = growth cycle, branches = daily rhythms), (4) Mathematical combination (10 × 12 = 60), (5) Systematic record-keeping (every day named, creating datable archives).
 
-Characters preserve understanding that effective transportation requires both material infrastructure and conceptual organization, demonstrating how mobility systems enabled trade expansion, cultural exchange, and territorial control that transformed early civilization from local settlements to interconnected regional systems.
+The Heavenly Stems/Earthly Branches demonstrate how **concrete imagery became abstract ordering symbols** through natural observation transforming into systematic temporal ordering. This cognitive evolution from concrete to abstract representation shows recognition of efficiency thresholds in symbolic systems—practical semiotics enabling complex temporal management.
 
 ##### 2.20.4.4 Cross-references
 
-Transportation connects to military systems from Section 2.15 where 车 (chariots) served dual military and civilian functions. Cross-reference to measurement systems from Section 2.18 where standardized distances and route planning required quantification. The 道 concept's evolution from transportation pathway to philosophical method demonstrates how practical infrastructure concepts became foundational for later Chinese philosophy, connecting material transportation to intellectual "ways" of thinking and moral conduct.
+The Sexagenary Cycle (干支 60-part system) represents **East Asian shared calendrical infrastructure** comparable to Western CE/BCE system's geographic spread, demonstrating how Chinese systematic thinking influenced regional civilization development. Cross-reference to oracle bone dating methodology: the systematic day-naming preserved in ritual characters from Section 2.18 enables precise chronological sequencing of divination records, validating both temporal ordering systems and religious practices.
 
 
----
+
+
+
 
 ### 2.21 ADVANCED CONCEPTS - Philosophical Abstraction
 
 #### 2.21.1 Character Forms
 
-**Table 2.21.1** Evolution of Advanced Concepts radicals (Section 2.13). Shows philosophical abstractions: spatial metaphors (尧烧晓), perceptual boundaries (艮), opposition (屰), and dialectical thinking (鬲).
+**Table 2.21.1** Evolution of Advanced Concepts radicals (Section 2.14). Shows philosophical abstractions: spatial metaphors (尧烧晓), perceptual boundaries (艮), opposition (屰), and dialectical thinking (鬲).
 
 | Oracle | Bronze | Seal | Kaiti |
 |--------|--------|------|-------|
@@ -2231,7 +2252,7 @@ This 95%+ coherence validates 艮 = visibility/sight with **scientific confidenc
 
 #### 2.21.3 Validation
 
-**Table 2.21.3** Validation summary for Section 2.13 advanced concept radicals:
+**Table 2.21.3** Validation summary for Section 2.14 advanced concept radicals:
 
 | Radical | Oracle/Bronze Evidence | Network Coherence | Archaeological Corroboration | Living Usage Continuity | Overall Assessment |
 |---------|------------------------|-------------------|------------------------------|------------------------|-------------------|
@@ -2274,7 +2295,7 @@ The progression demonstrates Chinese characters encode **complete cognitive evol
 
 ##### 2.21.4.4 Cross-references
 
-Cross-reference to entire paper progression: Sections 2.1-2.5 (survival basics), Sections 2.6-2.9 (social organization), Sections 2.10-2.12 (systematic quantification), Section 2.13 (philosophical abstraction). The 95%+ network coherence for 艮 (visibility) represents our **strongest empirical validation** in the entire paper—when 19+ characters containing 艮 ALL transparently relate to sight/visibility boundaries, this is **scientific-grade evidence** comparable to experimental physics achieving 95%+ prediction accuracy, demonstrating semantic network analysis is **rigorous methodology** validating the comprehensive interpretive framework.
+Cross-reference to entire paper progression: Sections 2.1-2.3 (survival basics), Sections 2.10-2.9 (social organization), Sections 2.6-2.17 (systematic quantification), Section 2.14 (philosophical abstraction). The 95%+ network coherence for 艮 (visibility) represents our **strongest empirical validation** in the entire paper—when 19+ characters containing 艮 ALL transparently relate to sight/visibility boundaries, this is **scientific-grade evidence** comparable to experimental physics achieving 95%+ prediction accuracy, demonstrating semantic network analysis is **rigorous methodology** validating the comprehensive interpretive framework.
 
 
 ---

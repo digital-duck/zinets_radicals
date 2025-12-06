@@ -347,8 +347,19 @@ section_2_2a:
 section_2_3:
   id: '2.3'
   title: Stone Age Technology - Primitive Civilization
-  max_per_figure: 7
+  max_per_figure: 8
   characters:
+  - hanzi: 硅
+    pinyin: guī
+    unicode: 7845
+    meaning: Silicon
+    files:
+      oracle:
+      bronze:
+      seal:
+      kaiti: char-硅-kaiti.png
+    status: pending
+    notes: 石 + 圭 = modern chemistry validates ancient stone radical system
   - hanzi: 石
     pinyin: shí
     unicode: 77F3
@@ -638,9 +649,64 @@ section_2_5:
     - 市
 section_2_6:
   id: '2.6'
-  title: Textile & Clothing - Garments (衣)
-  max_per_figure: 4
+  title: Weaving, Textile & Clothing - Garments (衣)
+  max_per_figure: 6
   characters:
+  - hanzi: 婁
+    pinyin: lóu
+    unicode: 5A41
+    meaning: Woman weaving basket
+    files:
+      oracle:
+      bronze:
+      seal: char-婁-seal.png
+      kaiti: char-婁-kaiti.png
+    status: pending
+    notes: 女 + weaving pattern = foundational weaving skill, origin of counting/mathematics
+  - hanzi: 篓
+    pinyin: lǒu
+    unicode: 7BD3
+    meaning: Bamboo basket
+    files:
+      oracle:
+      bronze:
+      seal: char-篓-seal.png
+      kaiti: char-篓-kaiti.png
+    status: pending
+    notes: 竹 + 婁 = woven bamboo container
+  - hanzi: 楼
+    pinyin: lóu
+    unicode: 697C
+    meaning: Building, floors
+    files:
+      oracle:
+      bronze:
+      seal: char-楼-seal.png
+      kaiti: char-楼-kaiti.png
+    status: pending
+    notes: 木 + 婁 = multi-level structure (like basket framework)
+  - hanzi: 屡
+    pinyin: lǚ
+    unicode: 5C61
+    meaning: Repeatedly, frequently
+    files:
+      oracle:
+      bronze:
+      seal: char-屡-seal.png
+      kaiti: char-屡-kaiti.png
+    status: pending
+    notes: 婁 + 尸 = repetitive weaving motion
+  - hanzi: 数
+    pinyin: shù
+    unicode: 6570
+    meaning: Number, count
+    files:
+      oracle:
+      bronze:
+      seal: char-数-seal.png
+      kaiti: char-数-kaiti.png
+    status: pending
+    notes: 婁 + 攴 = counting stitches/patterns in weaving - origin of mathematics
   - hanzi: 初
     pinyin: chū
     unicode: 521D
@@ -696,8 +762,30 @@ section_2_6:
 section_2_7:
   id: '2.7'
   title: Hunting & Domestication - Animal Relationships
-  max_per_figure: 7
+  max_per_figure: 9
   characters:
+  - hanzi: 鸟
+    pinyin: niǎo
+    unicode: 9E1F
+    meaning: Bird
+    files:
+      oracle: char-鸟-oracle.png
+      bronze: char-鸟-bronze.png
+      seal: char-鸟-seal.png
+      kaiti: char-鸟-kaiti.png
+    status: pending
+    notes: Bird as hunting target and domesticated animal
+  - hanzi: 鸡
+    pinyin: jī
+    unicode: 9E21
+    meaning: Chicken, rooster
+    files:
+      oracle: char-鸡-oracle.png
+      bronze: char-鸡-bronze.png
+      seal: char-鸡-seal.png
+      kaiti: char-鸡-kaiti.png
+    status: pending
+    notes: 鸟 + 奚 = domesticated bird
   - hanzi: 犬
     pinyin: quan
     unicode: 72AC
@@ -823,8 +911,19 @@ section_2_8:
 section_2_9:
   id: '2.9'
   title: Cutting & Inscribing - Tool Inventions
-  max_per_figure: 5
+  max_per_figure: 6
   characters:
+  - hanzi: 手
+    pinyin: shǒu
+    unicode: 624B
+    meaning: Hand
+    files:
+      oracle: char-手-oracle.png
+      bronze: char-手-bronze.png
+      seal: char-手-seal.png
+      kaiti: char-手-kaiti.png
+    status: pending
+    notes: Hand as tool-making organ - radiates semantic to all tool/manipulation characters
   - hanzi: 乂
     pinyin: yi
     unicode: 4E42
@@ -1267,6 +1366,72 @@ section_2_14:
       kaiti: char-车-kaiti.png
     status: ok
     notes: Wheeled vehicle - elite military technology representing 行 (transportation) in 衣食住行
+  - hanzi: 行
+    pinyin: xíng
+    unicode: 884C
+    meaning: Walk, go, travel
+    files:
+      oracle: char-行-oracle.png
+      bronze: char-行-bronze.png
+      seal: char-行-seal.png
+      kaiti: char-行-kaiti.png
+    status: pending
+    notes: Crossroads = transportation/movement - fundamental mobility concept
+  - hanzi: 足
+    pinyin: zú
+    unicode: 8DB3
+    meaning: Foot, leg
+    files:
+      oracle: char-足-oracle.png
+      bronze: char-足-bronze.png
+      seal: char-足-seal.png
+      kaiti: char-足-kaiti.png
+    status: pending
+    notes: Foot as fundamental mobility organ - radiates semantic to all movement/walking characters
+  - hanzi: 街
+    pinyin: jiē
+    unicode: 8857
+    meaning: Street
+    files:
+      oracle:
+      bronze:
+      seal: char-街-seal.png
+      kaiti: char-街-kaiti.png
+    status: pending
+    notes: 行 + 彳 = walking path/street
+  - hanzi: 舟
+    pinyin: zhōu
+    unicode: 821F
+    meaning: Boat
+    files:
+      oracle: char-舟-oracle.png
+      bronze: char-舟-bronze.png
+      seal: char-舟-seal.png
+      kaiti: char-舟-kaiti.png
+    status: pending
+    notes: Water transportation
+  - hanzi: 走
+    pinyin: zǒu
+    unicode: 8D70
+    meaning: Walk, run
+    files:
+      oracle: char-走-oracle.png
+      bronze: char-走-bronze.png
+      seal: char-走-seal.png
+      kaiti: char-走-kaiti.png
+    status: pending
+    notes: Walking/running motion
+  - hanzi: 道
+    pinyin: dào
+    unicode: 9053
+    meaning: Road, way, path
+    files:
+      oracle:
+      bronze:
+      seal: char-道-seal.png
+      kaiti: char-道-kaiti.png
+    status: pending
+    notes: 辶 + 首 = road/path system
   figures:
   - id: fig-2.14
     caption: 'Evolution of Military Development radicals (Section 2.14). Shows weapon
