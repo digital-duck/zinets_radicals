@@ -1,0 +1,1 @@
+/home/gongai/projects/digital-duck/zinets/docs/research/fMRI/cultural-material-science-v0.1.md
